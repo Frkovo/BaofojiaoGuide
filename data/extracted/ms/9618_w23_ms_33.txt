@@ -1,0 +1,263 @@
+Cambridge International AS & A Level
+COMPUTER SCIENCE 9618/33
+Paper 3 Advanced Theory October/November 2023
+MARK SCHEME
+Maximum Mark: 75
+Published
+This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the
+examination. It shows the basis on which Examiners were instructed to award marks. It does not indicate the
+(cid:71)(cid:72)(cid:87)(cid:68)(cid:76)(cid:79)(cid:86)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:71)(cid:76)(cid:86)(cid:70)(cid:88)(cid:86)(cid:86)(cid:76)(cid:82)(cid:81)(cid:86)(cid:3)(cid:87)(cid:75)(cid:68)(cid:87)(cid:3)(cid:87)(cid:82)(cid:82)(cid:78)(cid:3)(cid:83)(cid:79)(cid:68)(cid:70)(cid:72)(cid:3)(cid:68)(cid:87)(cid:3)(cid:68)(cid:81)(cid:3)(cid:40)(cid:91)(cid:68)(cid:80)(cid:76)(cid:81)(cid:72)(cid:85)(cid:86)(cid:182)(cid:3)(cid:80)(cid:72)(cid:72)(cid:87)(cid:76)(cid:81)(cid:74)(cid:3)(cid:69)(cid:72)(cid:73)(cid:82)(cid:85)(cid:72)(cid:3)(cid:80)(cid:68)(cid:85)(cid:78)(cid:76)(cid:81)(cid:74)(cid:3)(cid:69)(cid:72)(cid:74)(cid:68)(cid:81)(cid:15)(cid:3)(cid:90)(cid:75)(cid:76)(cid:70)(cid:75)(cid:3)(cid:90)(cid:82)(cid:88)(cid:79)d have
+considered the acceptability of alternative answers.
+Mark schemes should be read in conjunction with the question paper and the Principal Examiner Report for
+Teachers.
+Cambridge International will not enter into discussions about these mark schemes.
+Cambridge International is publishing the mark schemes for the October/November 2023 series for most
+Cambridge IGCSE, Cambridge International A and AS Level components, and some Cambridge O Level
+components.
+This document consists of 9 printed pages.
+© UCLES 2023 [Turn over
+9618/33 Cambridge International AS & A Level (cid:177) Mark Scheme October/November
+PUBLISHED 2023
+Generic Marking Principles
+These general marking principles must be applied by all examiners when marking candidate answers.
+They should be applied alongside the specific content of the mark scheme or generic level descriptors
+for a question. Each question paper and mark scheme will also comply with these marking principles.
+GENERIC MARKING PRINCIPLE 1:
+Marks must be awarded in line with:
+(cid:120) the specific content of the mark scheme or the generic level descriptors for the question
+(cid:120) the specific skills defined in the mark scheme or in the generic level descriptors for the question
+(cid:120) the standard of response required by a candidate as exemplified by the standardisation scripts.
+GENERIC MARKING PRINCIPLE 2:
+Marks awarded are always whole marks (not half marks, or other fractions).
+GENERIC MARKING PRINCIPLE 3:
+Marks must be awarded positively:
+(cid:120) marks are awarded for correct/valid answers, as defined in the mark scheme. However, credit
+is given for valid answers which go beyond the scope of the syllabus and mark scheme,
+referring to your Team Leader as appropriate
+(cid:120) marks are awarded when candidates clearly demonstrate what they know and can do
+(cid:120) marks are not deducted for errors
+(cid:120) marks are not deducted for omissions
+(cid:120) answers should only be judged on the quality of spelling, punctuation and grammar when these
+features are specifically assessed by the question as indicated by the mark scheme. The
+meaning, however, should be unambiguous.
+GENERIC MARKING PRINCIPLE 4:
+Rules must be applied consistently, e.g. in situations where candidates have not followed
+instructions or in the application of generic level descriptors.
+GENERIC MARKING PRINCIPLE 5:
+Marks should be awarded using the full range of marks defined in the mark scheme for the question
+(however; the use of the full mark range may be limited according to the quality of the candidate
+responses seen).
+GENERIC MARKING PRINCIPLE 6:
+Marks awarded are based solely on the requirements as defined in the mark scheme. Marks should
+not be awarded with grade thresholds or grade descriptors in mind.
+© UCLES 2023 Page 2 of 9
+9618/33 Cambridge International AS & A Level (cid:177) Mark Scheme October/November
+PUBLISHED 2023
+Question Answer Marks
+3 One mark per mark point (cid:177) enumerated type (Max 2) 4
+MP1 A user-defined non-composite (data type) (only award once)
+MP2 (cid:171)(cid:90)(cid:76)(cid:87)(cid:75)(cid:3)(cid:68)(cid:3)(cid:79)(cid:76)(cid:86)(cid:87)(cid:3)(cid:82)(cid:73)(cid:3)(cid:68)(cid:79)(cid:79)(cid:3)(cid:83)(cid:82)(cid:86)(cid:86)(cid:76)(cid:69)(cid:79)(cid:72)(cid:3)(cid:89)(cid:68)(cid:79)(cid:88)(cid:72)(cid:86)
+MP3 (cid:171)(cid:87)(cid:75)(cid:68)(cid:87)(cid:3)(cid:76)(cid:86)(cid:3)(cid:82)(cid:85)(cid:71)(cid:72)(cid:85)(cid:72)(cid:71)(cid:17)
+One mark per mark point (cid:177) pointer type (Max 2)
+MP4 A user-defined non-composite (data type) (only award once)
+MP5 (cid:171)(cid:87)(cid:75)(cid:68)(cid:87)(cid:3)(cid:86)(cid:87)(cid:82)(cid:85)(cid:72)(cid:86)(cid:3)(cid:68)(cid:71)(cid:71)(cid:85)(cid:72)(cid:86)(cid:86)(cid:72)(cid:86)(cid:18)(cid:80)(cid:72)(cid:80)(cid:82)(cid:85)(cid:92)(cid:3)(cid:79)(cid:82)(cid:70)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:86)(cid:3)(cid:82)(cid:81)(cid:79)(cid:92)
+MP6 (cid:171)(cid:68)(cid:81)(cid:71)(cid:3)(cid:76)(cid:81)(cid:71)(cid:76)(cid:70)(cid:68)(cid:87)(cid:72)(cid:86)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:87)(cid:92)(cid:83)(cid:72)(cid:3)(cid:82)(cid:73)(cid:3)(cid:71)(cid:68)(cid:87)(cid:68)(cid:3)(cid:86)(cid:87)(cid:82)(cid:85)(cid:72)(cid:71)(cid:3)(cid:76)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:80)(cid:72)(cid:80)(cid:82)(cid:85)(cid:92)(cid:3)(cid:79)(cid:82)(cid:70)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:17)
+Question Answer Marks
+4(a) One mark per mark point (cid:177) sequential (Max 2) 4
+MP1 Records (in the file) are ordered
+MP2 (cid:171)based on the key field
+MP3 A new version (of the file) has to be created to update the file
+One mark per mark point (cid:177) random (Max 2)
+MP4 Records are stored in no particular order within the file // There is no
+sequencing in the placement of the records
+MP5 There is a relationship between the key of the record and its location
+within the file // a hashing algorithm is used to find the location of the
+record
+MP6 Updates to the file can be carried out directly.
+4(b) One mark per mark point (Max 2) 2
+MP1 Start at the beginning of the file
+MP2 (cid:171)(cid:70)(cid:75)(cid:72)(cid:70)(cid:78)(cid:3)(cid:85)(cid:72)(cid:70)(cid:82)(cid:85)(cid:71)(cid:86)(cid:3)(cid:79)(cid:76)(cid:81)(cid:72)(cid:68)(cid:85)(cid:79)(cid:92)(cid:3)
+MP3 (cid:171)(cid:88)(cid:81)(cid:87)(cid:76)(cid:79)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:71)(cid:72)(cid:86)(cid:76)(cid:85)(cid:72)(cid:71)(cid:3)(cid:85)(cid:72)(cid:70)(cid:82)(cid:85)(cid:71)(cid:3)(cid:76)(cid:86)(cid:3)(cid:73)(cid:82)(cid:88)(cid:81)(cid:71)(cid:3)(cid:18)(cid:18)(cid:3)(cid:171)(cid:3)(cid:83)(cid:85)(cid:82)(cid:70)(cid:72)(cid:86)(cid:86)(cid:76)(cid:81)(cid:74)(cid:3)(cid:18)(cid:3)(cid:88)(cid:83)(cid:71)(cid:68)(cid:87)(cid:76)(cid:81)(cid:74)(cid:3)(cid:85)(cid:72)(cid:70)(cid:82)(cid:85)(cid:71)(cid:86)(cid:3)
+(cid:68)(cid:86)(cid:3)(cid:85)(cid:72)(cid:84)(cid:88)(cid:76)(cid:85)(cid:72)(cid:71)(cid:3)(cid:18)(cid:18)(cid:171)(cid:3)(cid:40)(cid:50)(cid:41)(cid:3)found.
+Question Answer Marks
+5 One mark per mark point (cid:177) SISD (Max 2) 4
+MP1 Single Instruction, Single Data (architecture). // Data is taken from a
+single source and a single instruction is performed on the data.
+MP2 Contains one processor, a control unit and a memory unit.
+MP3 (cid:171)(cid:87)(cid:75)(cid:68)(cid:87)(cid:3)(cid:72)(cid:91)(cid:72)(cid:70)(cid:88)(cid:87)(cid:72)(cid:86)(cid:3)(cid:76)(cid:81)(cid:86)(cid:87)(cid:85)(cid:88)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:86)(cid:3)(cid:86)(cid:72)(cid:84)(cid:88)(cid:72)(cid:81)(cid:87)(cid:76)(cid:68)(cid:79)(cid:79)(cid:92)(cid:17)(cid:3)
+One mark per mark point (cid:177) MIMD (Max 2)
+MP4 Multiple Instruction, Multiple Data (architecture). // At any time, any
+processor can execute different instructions on different sets of data.
+MP5 Contains many processors
+MP6 (cid:171)(cid:87)(cid:75)(cid:68)(cid:87)(cid:3)(cid:82)(cid:83)(cid:72)(cid:85)(cid:68)(cid:87)(cid:72)(cid:3)asynchronously / independently.
+© UCLES 2023 Page 4 of 9
+9618/33 Cambridge International AS & A Level (cid:177) Mark Scheme October/November
+PUBLISHED 2023
+Question Answer Marks
+6(a) One mark for every shaded block of rows for column Z correct (Max 3) 3
+A B C D Z
+0 0 0 0 1
+0 0 0 1 0
+0 0 1 0 1
+0 0 1 1 0
+0 1 0 0 1
+0 1 0 1 0
+0 1 1 0 1
+0 1 1 1 0
+1 0 0 0 1
+1 0 0 1 0
+1 0 1 0 1
+1 0 1 1 0
+1 1 0 0 1
+1 1 0 1 0
+1 1 1 0 0
+1 1 1 1 0
+6(b) One mark for correct working from points (Max 2), for example: 3
+(Y =) A.B.C.D + A.B.C.D + A.B.C.D + A.B.C.D
+(Y =) A.D.(B.C + B.C + B.C + B.C)
+(Y =) A.D.(B.(C + C) + B.(C + C))
+(Y =) A.D.(B.(1) + B.(1))
+(Y =) A.D.(B + B)
+(Y =) A.D.(1)
+One mark for correct answer
+(Y =) A.D
+© UCLES 2023 Page 5 of 9
+9618/33 Cambridge International AS & A Level (cid:177) Mark Scheme October/November
+PUBLISHED 2023
+Question Answer Marks
+7(a) One mark for a benefit (Max 1) e.g. 2
+MP1 The user interface hides the complexities of the computer
+hardware/operating system from the user
+MP2 It provides appropriate access systems for users with differing needs
+MP3 Complex commands involving memory locations/buses/computer
+hardware/ are avoided
+One mark for a valid example (Max 1) e.g.
+Clicking on icon rather than writing code
+Using a graphical user interface / icons for navigation
+7(b) Blocked (state) 1
+7(c) One mark per mark point (Max 2) 2
+MP1 When the time slice of the running process expires (round robin).
+MP2 (cid:171)(cid:68)(cid:81)(cid:71)(cid:3)(cid:87)(cid:75)(cid:72)(cid:85)(cid:72)(cid:3)(cid:76)(cid:86)(cid:3)(cid:68)(cid:3)(cid:83)(cid:85)(cid:82)(cid:70)(cid:72)(cid:86)(cid:86)(cid:3)(cid:90)(cid:76)(cid:87)(cid:75)(cid:3)(cid:68)(cid:3)(cid:75)(cid:76)(cid:74)(cid:75)(cid:72)(cid:85)(cid:3)(cid:83)(cid:85)(cid:76)(cid:82)(cid:85)(cid:76)(cid:87)(cid:92)(cid:3)(cid:76)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:85)(cid:72)(cid:68)(cid:71)(cid:92)(cid:3)(cid:84)(cid:88)(cid:72)(cid:88)(cid:72)(cid:15)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)
+running process is pre-empted
+MP3 When an interrupt arrives at the CPU, (the process running on the
+CPU gets pre-empted).
+Question Answer Marks
+8(a) One mark for each correctly completed line (Max 5) 5
+DECLARE Customer : TAccount
+DECLARE Location : INTEGER
+DECLARE AccountFile : STRING
+AccountFile (cid:109) "AccountRecords.dat"
+OPENFILE AccountFile FOR RANDOM
+OUTPUT "Please enter an account number"
+INPUT Customer.AccountNumber
+Location (cid:109) Hash(Customer.AccountNumber)
+SEEK AccountFile, Location
+GETRECORD AccountFile, Customer
+OUTPUT Customer
+CLOSEFILE AccountFile
+8(b) One mark for correct definition 1
+(Exception handling is the process of) responding to an unexpected event
+when the program is running so it does not halt unexpectedly
+8(c) One mark per mark point (Max 2), for example: 2
+(cid:120) Programming errors
+(cid:120) User errors
+(cid:120) Hardware failure
+(cid:120) Runtime errors
+© UCLES 2023 Page 6 of 9
+9618/33 Cambridge International AS & A Level (cid:177) Mark Scheme October/November
+PUBLISHED 2023
+Question Answer Marks
+9(a)(i) One mark per mark point (Max 2) 2
+(cid:120) (5 (cid:177) 2)
+(cid:120) * (5 + 4) / 9
+Final correct expression
+(5 (cid:177) 2) * (5 + 4) / 9
+9(a)(ii) One mark per ring (Max 4) 4
+4
+2 5 5 9 9
+5 5 3 3 3 3 27 27 3
+OR
+5 2 3 5 4 9 27 9 3
+5 3 5 3 27
+3
+9(b) One mark per mark point (Max 3) 3
+MP1 Evaluate the RPN expression from left to right
+MP2 Push each element of the RPN expression onto the stack in order
+until an operator is reached
+MP3 Pop the last two elements from the stack and apply the operator
+MP4 Push the result of the operation onto the stack
+MP5 Repeat the process until the whole expression is evaluated.
+© UCLES 2023 Page 7 of 9
+9618/33 Cambridge International AS & A Level (cid:177) Mark Scheme October/November
+PUBLISHED 2023
+Question Answer Marks
+10(a) One mark per mark point (Max 3) 3
+MP1 Correct constant declaration
+MP2 Two correct variable declarations
+MP3 Correct array declaration
+Example answer:
+CONSTANT Capacity = 25
+DECLARE BasePointer : INTEGER
+DECLARE TopPointer : INTEGER
+DECLARE Stack : ARRAY[1:25] OF REAL
+10(b) One mark for each correctly completed line (Max 5) 5
+// popping an item from the stack
+FUNCTION Pop() RETURNS REAL
+DECLARE Item : REAL
+Item (cid:109) 0
+IF TopPointer >= BasePointer THEN
+Item (cid:109) Stack[TopPointer]
+TopPointer (cid:109) TopPointer (cid:177) 1
+ELSE
+OUTPUT "The stack is empty (cid:177) error"
+ENDIF
+RETURN Item
+ENDFUNCTION
+10(c) One mark per mark point (Max 2) 2
+MP1 A queue is a first in first out / FIFO data structure and a stack is a first
+in last out / FILO / LIFO data structure // Data is removed from a
+queue in the order it is received and removed from a stack in the
+reverse order to which it is received
+MP2 Both ADTs can vary in size / are of indeterminate length
+MP3 Data is popped and pushed (onto/from a stack) at the same end but
+it is enqueued and dequeued (to/from a queue) at different/opposite
+ends // a queue has two accessible ends and a stack has only one
+MP4 A stack has only one moveable pointer whereas a queue has two.
+Question Answer Marks
+11(a) One mark for each correctly completed clause (Max 3) 3
+(22) student(anthony).
+(23) choice1(anthony, history).
+(24) choice2(anthony, geography).
+11(b) X = tomaz, pietre, nico 1
+© UCLES 2023 Page 8 of 9
+9618/33 Cambridge International AS & A Level (cid:177) Mark Scheme October/November
+PUBLISHED 2023
+Question Answer Marks
+11(c) One mark per mark point (Max 4) 4
+(cid:120) student(N)
+(cid:120) subject(S)
+(cid:120) choice1(N, S)
+(cid:120) all logical operators correct with no additional code (see example
+answers)
+Example answers:
+may_choose_subject(N, S)
+IF student(N) AND subject(S) AND NOT choice1(N, S)
+may_choose_subject(N, S)
+IF NOT choice1(N, S), student(N), subject(S)
+Question Answer Marks
+12 One mark per mark point (Max 4) 4
+MP1 An artificial neural network is the component of artificial intelligence
+that is meant to simulate the functioning of a biological brain.
+MP2 Artificial neural networks are a key component of machine learning.
+MP3 They can solve problems that would prove impossible or difficult for
+humans // Artificial neural networks have self-learning capabilities
+that enable them to produce better results as more data becomes
+available
+MP4 Artificial neural networks can be layered (input, hidden and output
+layers) // Artificial neural networks have many interconnected layers,
+some / many of which are hidden
+MP5 Weights are assigned between nodes
+MP6 Weights are adjusted through training to give a more accurate result
+MP7 More complex learning capabilities / more accurate results are
+available with larger numbers of hidden layers
+© UCLES 2023 Page 9 of 9

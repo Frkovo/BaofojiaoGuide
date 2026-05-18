@@ -1,0 +1,424 @@
+©
+Cambridge
+University
+Press
+&
+Assessment
+2025
+[Turn
+over
+This
+document
+consists
+of
+16
+printed
+pages.
+components. Cambridge
+IGCSE,
+Cambridge
+International
+A
+and
+AS
+Level
+components,
+and
+some
+Cambridge
+O
+Level
+Cambridge
+International
+is
+publishing
+the
+mark
+schemes
+for
+the
+October/November
+2025
+series
+for
+most
+Cambridge
+International
+will
+not
+enter
+into
+discussions
+about
+these
+mark
+schemes.
+Teachers. Mark
+schemes
+should
+be
+read
+in
+conjunction
+with
+the
+question
+paper
+and
+the
+Principal
+Examiner
+Report
+for
+considered
+the
+acceptability
+of
+alternative
+answers.
+details
+of
+the
+discussions
+that
+took
+place
+at
+an
+Examiners(cid:182)
+meeting
+before
+marking
+began,
+which
+would
+have
+examination.
+It
+shows
+the
+basis
+on
+which
+Examiners
+were
+instructed
+to
+award
+marks.
+It
+does
+not
+indicate
+the
+This
+mark
+scheme
+is
+published
+as
+an
+aid
+to
+teachers
+and
+candidates,
+to
+indicate
+the
+requirements
+of
+the
+Published
+Maximum
+Mark:
+75
+MARK
+SCHEME
+Paper
+3
+Advanced
+Theory
+October/November
+2025
+COMPUTER
+SCIENCE
+9618/33
+Cambridge
+International
+AS
+&
+A
+Level
+9618/33 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+Generic Marking Principles
+These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the
+specific content of the mark scheme or generic level descriptions for a question. Each question paper and mark scheme will also comply with these
+marking principles.
+GENERIC MARKING PRINCIPLE 1:
+Marks must be awarded in line with:
+(cid:120) the specific content of the mark scheme or the generic level descriptors for the question
+(cid:120) the specific skills defined in the mark scheme or in the generic level descriptors for the question
+(cid:120) the standard of response required by a candidate as exemplified by the standardisation scripts.
+GENERIC MARKING PRINCIPLE 2:
+Marks awarded are always whole marks (not half marks, or other fractions).
+GENERIC MARKING PRINCIPLE 3:
+Marks must be awarded positively:
+(cid:120) marks are awarded for correct/valid answers, as defined in the mark scheme. However, credit is given for valid answers which go beyond
+the scope of the syllabus and mark scheme, referring to your Team Leader as appropriate
+(cid:120) marks are awarded when candidates clearly demonstrate what they know and can do
+(cid:120) marks are not deducted for errors
+(cid:120) marks are not deducted for omissions
+(cid:120) answers should only be judged on the quality of spelling, punctuation and grammar when these features are specifically assessed by the
+question as indicated by the mark scheme. The meaning, however, should be unambiguous.
+GENERIC MARKING PRINCIPLE 4:
+Rules must be applied consistently, e.g. in situations where candidates have not followed instructions or in the application of generic level
+descriptors.
+© Cambridge University Press & Assessment 2025 Page 2 of 16
+9618/33 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+GENERIC MARKING PRINCIPLE 5:
+Marks should be awarded using the full range of marks defined in the mark scheme for the question (however; the use of the full mark range may
+be limited according to the quality of the candidate responses seen).
+GENERIC MARKING PRINCIPLE 6:
+Marks awarded are based solely on the requirements as defined in the mark scheme. Marks should not be awarded with grade thresholds or
+grade descriptors in mind.
+© Cambridge University Press & Assessment 2025 Page 3 of 16
+9618/33 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+Question Answer Marks Guidance
+1(a)(i) One mark per mark point (Max 2) 2
+MP1 TYPE Spectrum =
+MP2 (Red, Orange, Yellow, Green, Blue, Indigo, Violet)
+Example answer
+TYPE Spectrum = (Red, Orange, Yellow, Green, Blue,
+Indigo, Violet)
+1(a)(ii) One mark per mark point (Max 2) 2
+MP1 the list is ordered/ordinal
+MP2 the list contains all possible values
+MP3 no duplicate values in list
+MP4 all values are the same data type
+1(b) One mark for TYPE ColourData and ENDTYPE correct 4
+One mark for correct use of DECLARE in all declarations
+One mark for correct use of Spectrum in declaration
+One mark for remaining four declarations correct (STRING, INTEGER,
+REAL, BOOLEAN)
+Example answer
+TYPE ColourData
+DECLARE ColourCode : STRING
+DECLARE Colour : Spectrum
+DECLARE Wavelength : INTEGER
+DECLARE Frequency : REAL
+DECLARE PrimaryColour : BOOLEAN
+ENDTYPE
+© Cambridge University Press & Assessment 2025 Page 6 of 16
+9618/33 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+Question Answer Marks Guidance
+2(a) One mark per mark point (Max 3) 3
+MP1 the precision of the number stored in the mantissa will be reduced
+MP2 the number of bits available for the exponent will increase to 6
+MP3 (cid:171) this will increase the range of numbers that can be stored.
+2(b) One mark per mark point (Max 3) 3
+MP1 a process involving a calculation / the multiplication of two large
+numbers could take place
+MP2 the result might be outside of the range of values possible to store
+in the given system
+MP3 (cid:171) leading to the most significant bits of the mantissa/exponent
+being lost (which is an overflow).
+Question Answer Marks Guidance
+3 One mark per mark point (Max 4) 4
+MP1 the message is divided into small chunks called packets
+MP2 each packet is given a header with important data including source
+and destination IP addresses
+MP3 each packet is sent independently // packets can be sent through
+different routes
+MP4 packets are sent through the optimum route // packets can be re-
+routed if a route is unavailable
+MP5 packets are reassembled at the destination into the whole message
+© Cambridge University Press & Assessment 2025 Page 7 of 16
+9618/33 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+Question Answer Marks Guidance
+4 One mark for a correct protocol and one mark for a correct corresponding 6
+description (Max 6)
+Three from:
+HTTP/S [1] a protocol/secure protocol used to transfer hypermedia
+documents / web pages / (data) files between networked devices [1]
+FTP [1] a protocol to download, upload and transfer files from one location to
+another on a network [1]
+POP3 [1] a protocol used to retrieve/receive emails from a mail server to a
+computer [1]
+IMAP [1] allows users to access/read their emails from any device without
+removing the message from the mail server // synchronises emails on any
+device [1]
+SMTP [1] a protocol used to send emails between mail servers // a protocol
+used to send emails from a computer to a mail server [1]
+BitTorrent [1] a communication protocol used for peer-to-peer file sharing [1]
+Question Answer Marks Guidance
+5(a) To enable multiple programs/processes to be executed at the same time 1
+5(b) One mark per mark point (Max 3) 3
+MP1 the operating system monitors the state of each task/process
+MP2 using scheduling to ensure hardware resources are used efficiently
+MP3 (cid:171) and making sure that tasks/processes do not clash.
+© Cambridge University Press & Assessment 2025 Page 8 of 16
+9618/33 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+Question Answer Marks Guidance
+6(a)(i) One mark for each correct loop (Max 3) 3
+AB
+CD 00 01 11 10
+00
+0 0 0 0
+01 1 1 1 0
+11 0 1 1 1
+10 0 0 1 1
+6(a)(ii) One mark per mark point (Max 2) 2
+MP1 One correct Boolean term with an OR sign
+MP2 All three correct Boolean terms connected by OR signs and no
+other terms present.
+A.C.D + B.D + A.C
+© Cambridge University Press & Assessment 2025 Page 9 of 16
+9618/33 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+Question Answer Marks Guidance
+6(b) One mark for correct use of De Morgan(cid:182)s laws 3
+One mark for correct use of any other Boolean algebra law
+X = A+B+C + B+C
+(X=) A.B.C + B.C (cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171).(De Morgan(cid:182)s)
+(X=) A.B.C + B.C (cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171).(Double negation)
+(X=) C.(A.B + B) (cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171)..(Distributive)
+One mark for correct answer
+(X=) C.(A + B) (cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171)(cid:171)..(Redundancy)
+Question Answer Marks Guidance
+7(a) One mark per mark point (Max 2) 2
+MP1 To identify and remove redundant code / To simplify expressions /
+To reorder the code
+MP2 (cid:171) so that storage si(cid:93)e/memory use/power consumption/program
+execution time/CPU time is minimized.
+7(b) One mark per mark point (Max 2) 3
+MP1 6 12 +
+MP2 16 10 (cid:177) /
+MP3 18 *
+Final correct expression
+6 12 + 16 10 (cid:177) / 18 *
+© Cambridge University Press & Assessment 2025 Page 10 of 16
+9618/33 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+Question Answer Marks Guidance
+7(c) One mark per ring (Max 3) 4
+One mark for the interim total (360) and the final total (10).
+6 24
+4 12 12 18 12 12 36
+24 24 20 20 20 20 360 360 360 360 10
+© Cambridge University Press & Assessment 2025 Page 11 of 16
+9618/33 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+Question Answer Marks Guidance
+8 One mark per mark point - working (Max 3) 5
+May be seen on diagram or in working section
+MP1 Initialisation (cid:177) setting Start to 0
+MP2 (cid:171) and the rest of the towns to (cid:102)
+MP3 Evidence to show values at nodes being updated
+MP4 Evidence to show (cid:181)visited node(s)(cid:182)
+MP5 Evidence to show a correct calculation of at least one route
+MP6 Evidence to show more than one route has been calculated for at
+least one town
+Correct Answers (Max 2)
+Two marks for all six correct values
+One mark for four or five correct values.
+T V W X Y Z
+6 10 13 18 21 28
+Question Answer Marks Guidance
+9 One mark per mark point (Max 4) 4
+MP1 the company generates a public and private key pair locally using a
+web browser and an RSA key generator tool, which may be part of
+the CA(cid:182)s web page
+MP2 the company requests a digital certificate from a Certificate
+Authority (CA)
+MP3 the CA responds with its public key and digital certificate,
+MP4 (cid:171) signed with its private key
+MP5 the company gathers authentication information e.g. its public key
+MP6 (cid:171) and sends it to the CA signed with the company(cid:182)s private key and
+encrypted with the CA(cid:182)s public key
+MP7 the CA verifies the received information and generates/issues the
+digital certificate.
+© Cambridge University Press & Assessment 2025 Page 12 of 16
+9618/33 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+Question Answer Marks Guidance
+10(a) One mark per mark point (Max 3) 3
+MP1 Correct declaration of constant Maximum
+MP2 Both correctly declared integers
+MP3 Correct array declaration
+Example answer
+CONSTANT Maximum = 100
+DECLARE Base : INTEGER
+DECLARE Top : INTEGER
+DECLARE StackArray : ARRAY[1:100] OF STRING
+10(b) One mark per mark point (Max 3) 3
+MP1 Correct procedure definition structure
+MP2 Base pointer with appropriate value (0 or 1)
+MP3 Top pointer with appropriate value ((cid:177)1, 0, 1)
+Example answer
+PROCEDURE InitialiseStack()
+Base (cid:109) 0
+Top (cid:109) 0
+ENDPROCEDURE
+Question Answer Marks Guidance
+11 One mark per mark point (Max 3) 3
+MP1 Recursion is beneficial for problems that can be broken down into
+smaller, repetitive problems
+MP2 (cid:171) especially for problems that have many possible branches / are
+too complex for an iterative approach
+MP3 An example e.g. solving mathematical series, sorting a pile of
+documents, etc.
+© Cambridge University Press & Assessment 2025 Page 13 of 16
+9618/33 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+Question Answer Marks Guidance
+12(a) One mark per mark point (Max 3) 3
+MP1 An exception is an unplanned / unexpected event that occurs
+when a program is running
+MP2 (cid:171) due to an error in programming/logic that wasn(cid:182)t detected during
+program construction/compilation
+MP3 The effect of an exception can be that the program halts
+unexpectedly.
+12(b) One mark per mark point (Max 2) 2
+MP1 One mark for an example of an exception (see list in guidance)
+MP2 One mark for the reason for the given exception
+Example answer
+Division by zero
+The processor will not be able to evaluate this answer because a number
+divided by zero is infinity, so the program will crash.
+© Cambridge University Press & Assessment 2025 Page 14 of 16
+9618/33 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+Question Answer Marks Guidance
+13 One mark per mark point (Max 7) 7
+MP1 LDM #250 seen
+MP2 Correct use of LDD 563
+MP3 Correct use of ADD with labelled address X
+MP4 Correct use of SUB with address 899
+MP5 At least one correct use of STO
+Opcode Operand
+LDM #250
+STO X
+LDD 563
+STO Y
+ADD X
+SUB 899
+STO Total
+© Cambridge University Press & Assessment 2025 Page 15 of 16
+9618/33 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+Question Answer Marks Guidance
+13 MP6 Correct setting up of at least one labelled address and its value
+MP7 Correct setting up of remaining two labelled addresses and their
+values
+Label Contents
+X: 250
+Y: 125
+Total: 312
+© Cambridge University Press & Assessment 2025 Page 16 of 16

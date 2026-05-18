@@ -1,0 +1,388 @@
+©
+Cambridge
+University
+Press
+&
+Assessment
+2025
+[Turn
+over
+This
+document
+consists
+of
+17
+printed
+pages.
+components. Cambridge
+IGCSE,
+Cambridge
+International
+A
+and
+AS
+Level
+components,
+and
+some
+Cambridge
+O
+Level
+Cambridge
+International
+is
+publishing
+the
+mark
+schemes
+for
+the
+October/November
+2025
+series
+for
+most
+Cambridge
+International
+will
+not
+enter
+into
+discussions
+about
+these
+mark
+schemes.
+Teachers. Mark
+schemes
+should
+be
+read
+in
+conjunction
+with
+the
+question
+paper
+and
+the
+Principal
+Examiner
+Report
+for
+considered
+the
+acceptability
+of
+alternative
+answers.
+details
+of
+the
+discussions
+that
+took
+place
+at
+an
+Examiners(cid:182)
+meeting
+before
+marking
+began,
+which
+would
+have
+examination.
+It
+shows
+the
+basis
+on
+which
+Examiners
+were
+instructed
+to
+award
+marks.
+It
+does
+not
+indicate
+the
+This
+mark
+scheme
+is
+published
+as
+an
+aid
+to
+teachers
+and
+candidates,
+to
+indicate
+the
+requirements
+of
+the
+Published
+Maximum
+Mark:
+75
+MARK
+SCHEME
+Paper
+2
+Further
+Pure
+Mathematics
+2
+October/November
+2025
+FURTHER
+MATHEMATICS
+9231/22
+Cambridge
+International
+AS
+&
+A
+Level
+9231/22 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+Generic Marking Principles
+These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the
+mark scheme or generic level descriptions for a question. Each question paper and mark scheme will also comply with these marking principles.
+GENERIC MARKING PRINCIPLE 1:
+Marks must be awarded in line with:
+(cid:120) the specific content of the mark scheme or the generic level descriptors for the question
+(cid:120) the specific skills defined in the mark scheme or in the generic level descriptors for the question
+(cid:120) the standard of response required by a candidate as exemplified by the standardisation scripts.
+GENERIC MARKING PRINCIPLE 2:
+Marks awarded are always whole marks (not half marks, or other fractions).
+GENERIC MARKING PRINCIPLE 3:
+Marks must be awarded positively:
+(cid:120) marks are awarded for correct/valid answers, as defined in the mark scheme. However, credit is given for valid answers which go beyond the scope of the
+syllabus and mark scheme, referring to your Team Leader as appropriate
+(cid:120) marks are awarded when candidates clearly demonstrate what they know and can do
+(cid:120) marks are not deducted for errors
+(cid:120) marks are not deducted for omissions
+(cid:120) answers should only be judged on the quality of spelling, punctuation and grammar when these features are specifically assessed by the question as
+indicated by the mark scheme. The meaning, however, should be unambiguous.
+GENERIC MARKING PRINCIPLE 4:
+Rules must be applied consistently, e.g. in situations where candidates have not followed instructions or in the application of generic level descriptors.
+GENERIC MARKING PRINCIPLE 5:
+Marks should be awarded using the full range of marks defined in the mark scheme for the question (however; the use of the full mark range may be limited
+according to the quality of the candidate responses seen).
+© Cambridge University Press & Assessment 2025 Page 2 of 17
+9231/22 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+GENERIC MARKING PRINCIPLE 6:
+Marks awarded are based solely on the requirements as defined in the mark scheme. Marks should not be awarded with grade thresholds or grade descriptors in
+mind.
+Mathematics-Specific Marking Principles
+1 Unless a particular method has been specified in the question, full marks may be awarded for any correct method. However, if a calculation is required
+then no marks will be awarded for a scale drawing.
+2 Unless specified in the question, non-integer answers may be given as fractions, decimals or in standard form. Ignore superfluous zeros, provided that the
+degree of accuracy is not affected.
+3 Allow alternative conventions for notation if used consistently throughout the paper, e.g. commas being used as decimal points.
+4 Unless otherwise indicated, marks once gained cannot subsequently be lost, e.g. wrong working following a correct form of answer is ignored (isw).
+5 Where a candidate has misread a number or sign in the question and used that value consistently throughout, provided that number does not alter the
+difficulty or the method required, award all marks earned and deduct just 1 A or B mark for the misread.
+6 Recovery within working is allowed, e.g. a notation error in the working where the following line of working makes the candidate(cid:182)s intent clear.
+© Cambridge University Press & Assessment 2025 Page 3 of 17
+9231/22 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+Mark Scheme Notes
+The following notes are intended to aid interpretation of mark schemes in general, but individual mark schemes may include marks awarded for specific reasons
+outside the scope of these notes.
+Types of mark
+M Method mark, awarded for a valid method applied to the problem. Method marks are not lost for numerical errors, algebraic slips or errors in units.
+However, it is not usually sufficient for a candidate just to indicate an intention of using some method or just to quote a formula; the formula or idea
+must be applied to the specific problem in hand, e.g. by substituting the relevant quantities into the formula. Correct application of a formula
+without the formula being quoted obviously earns the M mark and in some cases an M mark can be implied from a correct answer.
+A Accuracy mark, awarded for a correct answer or intermediate step correctly obtained. Accuracy marks cannot be given unless the associated method
+mark is earned (or implied).
+B Mark for a correct result or statement independent of method marks.
+DM or DB When a part of a question has two or more (cid:181)method(cid:182) steps, the M marks are generally independent unless the scheme specifically says otherwise;
+and similarly, when there are several B marks allocated. The notation DM or DB is used to indicate that a particular M or B mark is dependent on
+an earlier M or B (asterisked) mark in the scheme. When two or more steps are run together by the candidate, the earlier marks are implied and full
+credit is given.
+FT Implies that the A or B mark indicated is allowed for work correctly following on from previously incorrect results. Otherwise, A or B marks are
+given for correct work only.
+(cid:120) A or B marks are given for correct work only (not for results obtained from incorrect working) unless follow through is allowed (see abbreviation FT above).
+(cid:120) For a numerical answer, allow the A or B mark if the answer is correct to 3 significant figures or would be correct to 3 significant figures if rounded (1
+decimal place for angles in degrees).
+(cid:120) The total number of marks available for each question is shown at the bottom of the Marks column.
+(cid:120) Wrong or missing units in an answer should not result in loss of marks unless the guidance indicates otherwise.
+(cid:120) Square brackets [ ] around text or numbers show extra information not needed for the mark to be awarded.
+© Cambridge University Press & Assessment 2025 Page 7 of 17
+9231/22 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+Abbreviations
+AEF/OE Any Equivalent Form (of answer is equally acceptable) / Or Equivalent
+AG Answer Given on the question paper (so extra checking is needed to ensure that the detailed working leading to the result is valid)
+CAO Correct Answer Only (emphasising that no (cid:181)follow through(cid:182) from a previous error is allowed)
+CWO Correct Working Only
+ISW Ignore Subsequent Working
+SOI Seen Or Implied
+SC Special Case (detailing the mark to be given for a specific wrong solution, or a case where some standard marking practice is to be varied in the
+light of a particular circumstance)
+WWW Without Wrong Working
+AWRT Answer Which Rounds To
+© Cambridge University Press & Assessment 2025 Page 8 of 17
+9231/22 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+Question Answer Marks Guidance
+1 s(cid:32)(cid:179) (cid:652) e 8 3 (cid:84)(cid:14)16e 8 3 (cid:84)d(cid:84)(cid:32) 5(cid:179) (cid:652) e3 4(cid:84)d(cid:84) M1 A1 Forms length of C correctly.
+0 9 3 0
+s(cid:32) 5(cid:170)e 4 3 (cid:84)(cid:186) (cid:652) M1 Integrates an expression of the form aeb(cid:84). One
+4(cid:172) (cid:188) error in the a or b.
+0
+(cid:32) 5 (cid:11) e4 3 (cid:652) (cid:16)1 (cid:12) A1 Must be exact. Allow equivalent form but must
+4 have the e0evaluated to be one.
+4
+Question Answer Marks Guidance
+2 z4 (cid:32)8(cid:16)8i 3(cid:32)16e(cid:16)i1 3 (cid:652) B1 Finds the modulus and argument of z4. Does
+not have to be in exponential form.
+z (cid:32)2e(cid:16)i 1 1 2 (cid:652) M1 A1 Finds one root. Allow for the method mark for
+1 (cid:84)
+them to use their r and their .
+4
+z (cid:32)2ei 1 5 2 (cid:652) A1FT Finds another root. Follow through only on the
+2 modulus
+z (cid:32)2e(cid:16)i 1 7 2 (cid:652), z (cid:32)2ei 1 1 2 1(cid:652) A1FT Finds other two roots. Follow through only on
+3 4 the modulus. Withhold 1 answer mark for
+omission of i.
+5
+© Cambridge University Press & Assessment 2025 Page 9 of 17
+9231/22 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+Question Answer Marks Guidance
+3(a) d (cid:11) x2y (cid:12) (cid:32) x2y'(cid:14)2xy B1 Differentiates x2y correctly.
+dx
+d (cid:11) (cid:11)x(cid:14) y(cid:12)3(cid:12) (cid:32)3(cid:11)x(cid:14) y(cid:12)2(cid:11)1(cid:14) y'(cid:12) M1 Differentiates (cid:11)x(cid:14)y(cid:12)3 correctly.
+dx
+y'(cid:16)4(cid:14)3(1(cid:14) y')(cid:32)0(cid:159) y'(cid:32) 1 A1 Some evidence of substituting ((cid:16)1,2), into an
+4
+equation set to zero. AG.
+3
+3(b) x2y''(cid:14)2xy'(cid:14)2xy'(cid:14)2y B1 B1 Differentiates x2y'(cid:14)2xy.
+(cid:14)3(cid:11)x(cid:14)y(cid:12)2 y''(cid:14)6(cid:11)1(cid:14)y'(cid:12)2(cid:11)x(cid:14)y(cid:12)(cid:62)(cid:32)0(cid:64) B1 B1 Differentiates 3(x(cid:14)y)2(cid:11)1(cid:14)y'(cid:12).
+((cid:16)1)2y''(cid:14)4((cid:16)1)(1)(cid:14)2(2)(cid:14)3y''(cid:14)6(cid:11)5(cid:12)2(cid:62)(cid:32)0(cid:64) M1 Substitutes ((cid:16)1,2) and y'(cid:32) 1 into their
+4 4 4
+expression with at least a y''in their expression
+y''(cid:32)(cid:16)99 A1
+32
+6
+© Cambridge University Press & Assessment 2025 Page 10 of 17
+9231/22 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+Question Answer Marks Guidance
+4(a) z(cid:14)z(cid:16)1 (cid:32)2cos(cid:84) B1 SOI
+(cid:11) z(cid:14)z(cid:16)1(cid:12)6
+(cid:32)
+(cid:11) z6(cid:14)z(cid:16)6(cid:12)
+(cid:14)6
+(cid:11) z4(cid:14)z(cid:16)4(cid:12)
+(cid:14)15
+(cid:11) z2(cid:14)z(cid:16)2(cid:12)
+(cid:14)20
+M1 A1 Expands and groups.
+26cos6(cid:84)(cid:32)2cos6(cid:84)(cid:14)12cos4(cid:84)(cid:14)30cos2(cid:84)(cid:14)20 M1 Substitutes zn (cid:14)z(cid:16)n (cid:32)2cosn(cid:84).
+cos6(cid:84)(cid:32) 1 cos6(cid:84)(cid:14) 3 cos4(cid:84)(cid:14)15cos2(cid:84)(cid:14) 5 A1 OE. Fractions do not need to be simplified.
+32 16 32 16
+5
+4(b) (cid:179) 1 2 (cid:652) cos62xdx(cid:32) 1(cid:179) (cid:652)(cid:11) 1 cos6(cid:84)(cid:14) 3 cos4(cid:84)(cid:14)15cos2(cid:84)(cid:14) 5(cid:12)d(cid:84) M1 Applies (a). Must have the 1 and the correct
+0 2 0 32 16 32 16 2
+limits for this mark.
+(cid:652) A1
+(cid:32) 1(cid:170)(cid:172) 1 sin6(cid:84)(cid:14) 3 sin4(cid:84)(cid:14)15sin2(cid:84)(cid:14) 5(cid:84)(cid:186)(cid:188)
+2 192 64 64 16 0
+(cid:32) 5 (cid:652) A1
+32
+3
+© Cambridge University Press & Assessment 2025 Page 11 of 17
+9231/22 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+Question Answer Marks Guidance
+7(a) d (cid:11) 1 x 4(cid:16)x2 (cid:14)2sin(cid:16)1(cid:11)1 x(cid:12) (cid:12) (cid:32)(cid:16)1 x2(cid:11) 4(cid:16)x2(cid:12)(cid:16)1 2 (cid:14)1 (cid:11) 4(cid:16)x2(cid:12)1 2 (cid:14)2 (cid:11) 4(cid:16)x2(cid:12)(cid:16)1 2 M1 A1 Applies product rule and formula from MF19
+dx 2 2 2 2 for the derivative of sin(cid:16)1x.
+(cid:32) 1
+(cid:11) 4(cid:16)x2(cid:12)(cid:11) 4(cid:16)x2(cid:12)(cid:16)1
+2 (cid:14)1
+(cid:11) 4(cid:16)x2(cid:12)1
+2 (cid:32)
+(cid:11) 4(cid:16)x2(cid:12)1
+2
+A1 As a minimum, working of
+2 2
+1
+(cid:11) 4(cid:16)x2(cid:12)(cid:11) 4(cid:16)x2(cid:12)(cid:16)1
+2 (cid:14)1
+(cid:11) 4(cid:16)x2(cid:12)1
+2 must be seen
+2 2
+before the answer. AG.
+3
+7(b) 1(cid:179)(2(cid:14)x)(cid:16)1dx M1 A1 Finds integrating factor. Allow a sign error in
+e2 (cid:32) 2(cid:14)x
+the integrating factor for the method mark.
+d (cid:11) (cid:12) M1 A1 Correct form on LHS and simplifies RHS.
+y 2(cid:14)x (cid:32) 2(cid:14)x 2(cid:16)x (cid:32) 4(cid:16)x2
+dx
+y 2(cid:14)x (cid:32) 1 x 4(cid:16)x2 (cid:14)2sin(cid:16)1(cid:11)1 x(cid:12)(cid:62)(cid:14)C(cid:64) M1 A1 Integrates RHS.
+2 2
+M1 Substitutes initial conditions.
+1 3(cid:32) 1 3(cid:14)1(cid:652)(cid:14)C
+2 2 3
+y 2(cid:14)x (cid:32) 1 x 4(cid:16)x2 (cid:14)2sin(cid:16)1(cid:11)1 x(cid:12)(cid:16)1(cid:652) A1 ISW once a correct answer is seen.
+2 2 3
+8
+© Cambridge University Press & Assessment 2025 Page 15 of 17
+9231/22 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+Question Answer Marks Guidance
+8(a) 1 (cid:16)1 2k M1 Finds determinant equal and forms quadratic
+equation. Condone one error in the determinant
+k 1 2 (cid:32)0(cid:159)2k2(cid:14)3k(cid:14)1(cid:32)0
+calculation.
+2 (cid:16)1 1
+2k2(cid:14)3k(cid:14)1(cid:32)0(cid:159)k (cid:32)(cid:16)1,(cid:16)1 A1 A1 Each value is A1.
+2
+3
+8(b) x(cid:16) y(cid:16) z (cid:32) 1, M1 A1 Derives contradiction clearly.
+1 x(cid:14)z(cid:32)3,
+(cid:16)1 x(cid:14) y(cid:14)2z (cid:32)2,(cid:159) 2
+2 x(cid:14)2z(cid:32)2,
+2x(cid:16) y(cid:14) z (cid:32) 3,
+Triangular prism. B1 Accept diagram.
+3
+8(c) x(cid:16) y(cid:16)2z(cid:32)1, M1 A1 Derives contradiction.
+(cid:16)x(cid:14) y(cid:14)2z(cid:32)2, (cid:159)1(cid:32)(cid:16)2
+2x(cid:16) y(cid:14) z(cid:32) 3,
+Two parallel planes. Other plane not parallel. B1
+Parallel planes not identical. B1 Accept diagram.
+4
+© Cambridge University Press & Assessment 2025 Page 16 of 17
+9231/22 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+Question Answer Marks Guidance
+8(d) (cid:167)1(cid:16)(cid:79) (cid:16)1 (cid:16)2 (cid:183) M1 Finds characteristic equation of A.
+(cid:168) (cid:184)
+det (cid:16)1 1(cid:16)(cid:79) 2 (cid:32)0
+(cid:168) (cid:184)
+(cid:168) (cid:184)
+2 (cid:16)1 1(cid:16)(cid:79)
+(cid:169) (cid:185)
+(cid:16)(cid:79)3(cid:14)3(cid:79)2(cid:16)8(cid:79)(cid:32)0 A1 Must be an equation. Could be implied by
+subsequent working. Must be simplified.
+A3 (cid:32)3A2(cid:16)8A M1 Substitutes matrix and makes A3 the subject.
+A4 (cid:32)3A3(cid:16)8A2 (cid:32)3 (cid:11) 3A2(cid:16)8A (cid:12) (cid:16)8A2 M1 Multiplies by A and substitutes for A3.
+A4 (cid:32)A2(cid:16)24A A1
+5
+© Cambridge University Press & Assessment 2025 Page 17 of 17

@@ -1,0 +1,536 @@
+©
+UCLES
+2023
+[Turn
+over
+This
+document
+consists
+of
+15
+printed
+pages.
+components. Cambridge
+IGCSE,
+Cambridge
+International
+A
+and
+AS
+Level
+components,
+and
+some
+Cambridge
+O
+Level
+Cambridge
+International
+is
+publishing
+the
+mark
+schemes
+for
+the
+October/November
+2023
+series
+for
+most
+Cambridge
+International
+will
+not
+enter
+into
+discussions
+about
+these
+mark
+schemes.
+Teachers. Mark
+schemes
+should
+be
+read
+in
+conjunction
+with
+the
+question
+paper
+and
+the
+Principal
+Examiner
+Report
+for
+has
+not
+been
+used
+by
+examiners.
+question
+6.
+This
+published
+mark
+scheme
+for
+these
+questions
+was
+created
+alongside
+the
+question
+paper
+but
+Due
+to
+a
+series-specific
+issue
+during
+the
+live
+exam
+series,
+all
+candidates
+were
+awarded
+full
+marks
+for
+considered
+the
+acceptability
+of
+alternative
+answers.
+(cid:71)(cid:72)(cid:87)(cid:68)(cid:76)(cid:79)(cid:86)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:71)(cid:76)(cid:86)(cid:70)(cid:88)(cid:86)(cid:86)(cid:76)(cid:82)(cid:81)(cid:86)(cid:3)(cid:87)(cid:75)(cid:68)(cid:87)(cid:3)(cid:87)(cid:82)(cid:82)(cid:78)(cid:3)(cid:83)(cid:79)(cid:68)(cid:70)(cid:72)(cid:3)(cid:68)(cid:87)(cid:3)(cid:68)(cid:81)(cid:3)(cid:40)(cid:91)(cid:68)(cid:80)(cid:76)(cid:81)(cid:72)(cid:85)(cid:86)(cid:182)(cid:3)(cid:80)(cid:72)(cid:72)(cid:87)(cid:76)(cid:81)(cid:74)(cid:3)(cid:69)(cid:72)(cid:73)(cid:82)(cid:85)(cid:72)(cid:3)(cid:80)(cid:68)(cid:85)(cid:78)(cid:76)(cid:81)(cid:74)(cid:3)(cid:69)(cid:72)(cid:74)(cid:68)n,
+which
+would
+have
+examination.
+It
+shows
+the
+basis
+on
+which
+Examiners
+were
+instructed
+to
+award
+marks.
+It
+does
+not
+indicate
+the
+This
+mark
+scheme
+is
+published
+as
+an
+aid
+to
+teachers
+and
+candidates,
+to
+indicate
+the
+requirements
+of
+the
+Published
+Maximum
+Mark:
+75
+MARK
+SCHEME
+Paper
+2
+Further
+Pure
+Mathematics
+2
+October/November
+2023
+FURTHER
+MATHEMATICS
+9231/22
+Cambridge
+International
+AS
+&
+A
+Level
+9231/22 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2023
+PUBLISHED
+Generic Marking Principles
+These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the
+mark scheme or generic level descriptors for a question. Each question paper and mark scheme will also comply with these marking principles.
+GENERIC MARKING PRINCIPLE 1:
+Marks must be awarded in line with:
+(cid:120) the specific content of the mark scheme or the generic level descriptors for the question
+(cid:120) the specific skills defined in the mark scheme or in the generic level descriptors for the question
+(cid:120) the standard of response required by a candidate as exemplified by the standardisation scripts.
+GENERIC MARKING PRINCIPLE 2:
+Marks awarded are always whole marks (not half marks, or other fractions).
+GENERIC MARKING PRINCIPLE 3:
+Marks must be awarded positively:
+(cid:120) marks are awarded for correct/valid answers, as defined in the mark scheme. However, credit is given for valid answers which go beyond the scope of the
+syllabus and mark scheme, referring to your Team Leader as appropriate
+(cid:120) marks are awarded when candidates clearly demonstrate what they know and can do
+(cid:120) marks are not deducted for errors
+(cid:120) marks are not deducted for omissions
+(cid:120) answers should only be judged on the quality of spelling, punctuation and grammar when these features are specifically assessed by the question as
+indicated by the mark scheme. The meaning, however, should be unambiguous.
+GENERIC MARKING PRINCIPLE 4:
+Rules must be applied consistently, e.g. in situations where candidates have not followed instructions or in the application of generic level descriptors.
+GENERIC MARKING PRINCIPLE 5:
+Marks should be awarded using the full range of marks defined in the mark scheme for the question (however; the use of the full mark range may be limited
+according to the quality of the candidate responses seen).
+GENERIC MARKING PRINCIPLE 6:
+Marks awarded are based solely on the requirements as defined in the mark scheme. Marks should not be awarded with grade thresholds or grade descriptors in
+mind.
+© UCLES 2023 Page 2 of 15
+9231/22 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2023
+PUBLISHED
+Mathematics-Specific Marking Principles
+1 Unless a particular method has been specified in the question, full marks may be awarded for any correct method. However, if a calculation is required
+then no marks will be awarded for a scale drawing.
+2 Unless specified in the question, non-integer answers may be given as fractions, decimals or in standard form. Ignore superfluous zeros, provided that the
+degree of accuracy is not affected.
+3 Allow alternative conventions for notation if used consistently throughout the paper, e.g. commas being used as decimal points.
+4 Unless otherwise indicated, marks once gained cannot subsequently be lost, e.g. wrong working following a correct form of answer is ignored (isw).
+5 Where a candidate has misread a number or sign in the question and used that value consistently throughout, provided that number does not alter the
+difficulty or the method required, award all marks earned and deduct just 1 A or B mark for the misread.
+6 Recovery within working is allowed, e.g. a notation error in the working where the following line of working makes the candid(cid:68)(cid:87)(cid:72)(cid:182)(cid:86)(cid:3)(cid:76)(cid:81)(cid:87)(cid:72)(cid:81)(cid:87)(cid:3)(cid:70)(cid:79)(cid:72)(cid:68)(cid:85)(cid:17)
+© UCLES 2023 Page 3 of 15
+9231/22 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2023
+PUBLISHED
+Mark Scheme Notes
+The following notes are intended to aid interpretation of mark schemes in general, but individual mark schemes may include marks awarded for specific reasons
+outside the scope of these notes.
+Types of mark
+M Method mark, awarded for a valid method applied to the problem. Method marks are not lost for numerical errors, algebraic slips or errors in units.
+However, it is not usually sufficient for a candidate just to indicate an intention of using some method or just to quote a formula; the formula or idea
+must be applied to the specific problem in hand, e.g. by substituting the relevant quantities into the formula. Correct application of a formula
+without the formula being quoted obviously earns the M mark and in some cases an M mark can be implied from a correct answer.
+A Accuracy mark, awarded for a correct answer or intermediate step correctly obtained. Accuracy marks cannot be given unless the associated method
+mark is earned (or implied).
+B Mark for a correct result or statement independent of method marks.
+DM or DB (cid:58)(cid:75)(cid:72)(cid:81)(cid:3)(cid:68)(cid:3)(cid:83)(cid:68)(cid:85)(cid:87)(cid:3)(cid:82)(cid:73)(cid:3)(cid:68)(cid:3)(cid:84)(cid:88)(cid:72)(cid:86)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:75)(cid:68)(cid:86)(cid:3)(cid:87)(cid:90)(cid:82)(cid:3)(cid:82)(cid:85)(cid:3)(cid:80)(cid:82)(cid:85)(cid:72)(cid:3)(cid:181)(cid:80)(cid:72)(cid:87)(cid:75)(cid:82)(cid:71)(cid:182)(cid:3)(cid:86)(cid:87)(cid:72)(cid:83)(cid:86)(cid:15)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:48)(cid:3)(cid:80)(cid:68)(cid:85)(cid:78)(cid:86)(cid:3)(cid:68)(cid:85)(cid:72)(cid:3)(cid:74)(cid:72)(cid:81)(cid:72)(cid:85)(cid:68)(cid:79)(cid:79)(cid:92)(cid:3)(cid:76)(cid:81)(cid:71)(cid:72)(cid:83)(cid:72)(cid:81)(cid:71)(cid:72)(cid:81)(cid:87)(cid:3)(cid:88)(cid:81)(cid:79)(cid:72)(cid:86)(cid:86)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:86)(cid:70)(cid:75)(cid:72)(cid:80)(cid:72)(cid:3)(cid:86)(cid:83)(cid:72)(cid:70)(cid:76)(cid:73)(cid:76)(cid:70)(cid:68)(cid:79)(cid:79)y says otherwise;
+and similarly, when there are several B marks allocated. The notation DM or DB is used to indicate that a particular M or B mark is dependent on
+an earlier M or B (asterisked) mark in the scheme. When two or more steps are run together by the candidate, the earlier marks are implied and full
+credit is given.
+FT Implies that the A or B mark indicated is allowed for work correctly following on from previously incorrect results. Otherwise, A or B marks are
+given for correct work only.
+(cid:120) A or B marks are given for correct work only (not for results obtained from incorrect working) unless follow through is allowed (see abbreviation FT above).
+(cid:120) For a numerical answer, allow the A or B mark if the answer is correct to 3 significant figures or would be correct to 3 significant figures if rounded (1
+decimal place for angles in degrees).
+(cid:120) The total number of marks available for each question is shown at the bottom of the Marks column.
+(cid:120) Wrong or missing units in an answer should not result in loss of marks unless the guidance indicates otherwise.
+(cid:120) Square brackets [ ] around text or numbers show extra information not needed for the mark to be awarded.
+© UCLES 2023 Page 4 of 15
+9231/22 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2023
+PUBLISHED
+Abbreviations
+AEF/OE Any Equivalent Form (of answer is equally acceptable) / Or Equivalent
+AG Answer Given on the question paper (so extra checking is needed to ensure that the detailed working leading to the result is valid)
+CAO (cid:38)(cid:82)(cid:85)(cid:85)(cid:72)(cid:70)(cid:87)(cid:3)(cid:36)(cid:81)(cid:86)(cid:90)(cid:72)(cid:85)(cid:3)(cid:50)(cid:81)(cid:79)(cid:92)(cid:3)(cid:11)(cid:72)(cid:80)(cid:83)(cid:75)(cid:68)(cid:86)(cid:76)(cid:86)(cid:76)(cid:81)(cid:74)(cid:3)(cid:87)(cid:75)(cid:68)(cid:87)(cid:3)(cid:81)(cid:82)(cid:3)(cid:181)(cid:73)(cid:82)(cid:79)(cid:79)(cid:82)(cid:90)(cid:3)(cid:87)(cid:75)(cid:85)(cid:82)(cid:88)(cid:74)(cid:75)(cid:182)(cid:3)(cid:73)(cid:85)(cid:82)(cid:80)(cid:3)(cid:68)(cid:3)(cid:83)(cid:85)(cid:72)(cid:89)(cid:76)(cid:82)(cid:88)(cid:86)(cid:3)(cid:72)(cid:85)(cid:85)(cid:82)(cid:85)(cid:3)(cid:76)(cid:86)(cid:3)(cid:68)(cid:79)(cid:79)(cid:82)(cid:90)(cid:72)(cid:71)(cid:12)
+CWO Correct Working Only
+ISW Ignore Subsequent Working
+SOI Seen Or Implied
+SC Special Case (detailing the mark to be given for a specific wrong solution, or a case where some standard marking practice is to be varied in the
+light of a particular circumstance)
+WWW Without Wrong Working
+AWRT Answer Which Rounds To
+© UCLES 2023 Page 5 of 15
+9231/22 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2023
+PUBLISHED
+Question Answer Marks Guidance
+2(a) dy dx B1
+(cid:32)et(cid:11)t(cid:14)1(cid:12), (cid:32)(cid:16)t(cid:16)2
+dt dt
+dy
+(cid:32)
+dy
+(cid:117)
+dt (cid:32)(cid:16)t2et(cid:11)t(cid:14)1(cid:12)(cid:32)(cid:16)et(cid:11) t3(cid:14)t2(cid:12) M1 A1 Uses chain rule, AG.
+dx dt dx
+3
+2(b) d (cid:168) (cid:167)dy (cid:184) (cid:183) (cid:32)(cid:16)et(cid:11) 3t2 (cid:14)2t (cid:12) (cid:16)et(cid:11) t3(cid:14)t2(cid:12) (cid:32)(cid:16)et(cid:11) t3(cid:14)4t2 (cid:14)2t (cid:12) M1 A1 Applies product rule.
+dt(cid:169)dx(cid:185)
+d2y
+(cid:32)t3et(cid:11) t2 (cid:14)4t(cid:14)2 (cid:12)
+M1 A1 Uses chain rule, multiplies by their
+dt
+dx2
+for M1.
+dx
+Alternative method for question 2(b)
+d2y (cid:32)(cid:16)et (cid:167) (cid:168)3t2 dt (cid:14)2t dt (cid:183) (cid:184)(cid:16)et(cid:11) t3(cid:14)t2(cid:12)dt (M1 A1) Differentiates (cid:16)et(cid:11) t3(cid:14)t2(cid:12)
+dx2 (cid:169) dx dx(cid:185) dx implicitly.
+d2y (cid:32)et(cid:11) (cid:16)4t2 (cid:16)2t(cid:16)t3(cid:12)dt (cid:32)t3et(cid:11) t2(cid:14)4t(cid:14)2 (cid:12) (M1 A1) Substitutes dt (cid:32)(cid:16)t2.
+dx2 dx dx
+4
+© UCLES 2023 Page 7 of 15
+9231/22 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2023
+PUBLISHED
+Question Answer Marks Guidance
+3(a) cos5(cid:84)(cid:32)Re(cid:11)cos(cid:84)(cid:14)isin(cid:84)(cid:12)5 (cid:32)cos5(cid:84)(cid:16)10sin2(cid:84)cos3(cid:84)(cid:14)5sin4(cid:84)cos(cid:84) M1 A1 Expands and takes real part. Accept
+1
+RHS to LHS using 2cos(cid:84)(cid:32)z(cid:14) .
+z
+(cid:32)cos5(cid:84)(cid:16)10cos3(cid:84) (cid:11) 1(cid:16)cos2(cid:84) (cid:12) (cid:14)5cos(cid:84) (cid:11) 1(cid:16)2cos2(cid:84)(cid:14)cos4(cid:84) (cid:12) M1 Applies sin2(cid:84)(cid:32)1(cid:16)cos2(cid:84).
+(cid:32)16cos5(cid:84)(cid:16)20cos3(cid:84)(cid:14)5cos(cid:84) A1 AG
+4
+3(b) x(cid:32)cos(cid:84), cos5(cid:84)(cid:32)1 2 M1 Applies identify given in (b).
+2
+5(cid:84)(cid:32)(cid:114)1(cid:83)(cid:14)2k(cid:83) M1 Solves cos5(cid:84)(cid:32)1 2
+4 2
+cos(cid:11) 1 (cid:652)(cid:12) A1 Gives one correct solution. Accept
+20
+q(cid:32) 1 .
+20
+cos(9 (cid:652)(cid:12)(cid:15)cos(17(cid:652)(cid:12)(cid:15)(cid:70)(cid:82)(cid:86)(cid:11)25(cid:652)(cid:12)(cid:15)(cid:70)(cid:82)(cid:86)(cid:11)33(cid:652)(cid:12) A1 Gives other solutions. OE. A0 for
+20 20 20 20
+repeated roots.
+4
+© UCLES 2023 Page 8 of 15
+9231/22 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2023
+PUBLISHED
+Question Answer Marks Guidance
+4 e(cid:179)3dx (cid:32)e3x M1 A1 Finds integrating factor.
+d (cid:11) ye3x(cid:12) (cid:32)e3xsinx M1 Correct form on LHS and attempt
+to integrate RHS.
+dx
+EITHER M1 A1 Integrates by parts once or uses
+(cid:179)e3xsinxdx(cid:32)(cid:16)e3xcosx(cid:14)3(cid:179)e3xcosxdx eix (cid:16)e-ix
+sinx(cid:32) .
+2i
+OR
+(cid:179)e3xsinxdx(cid:32)1e3xsinx(cid:16)1(cid:179)e3xcosxdx
+3 3
+EITHER M1 Integrates by parts again or
+(cid:179)e3xsinxdx(cid:32)(cid:16)e3xcosx(cid:14)3 (cid:11) e3xsinx(cid:16)3(cid:179)e3xsinxdx (cid:12) eix (cid:16)e-ix
+substitutes (cid:32)sinx and
+2i
+OR
+(cid:11) (cid:12)
+eix (cid:14)e-ix
+(cid:179)e3xsinxdx(cid:32)1e3xsinx(cid:16)1 1e3xcosx(cid:14)1(cid:179)e3xsinxdx (cid:32)cosx.
+3 3 3 3 2
+ye3x (cid:32) 1 e3x(cid:11)3sinx(cid:16)cosx(cid:12)(cid:14)C A1 Must not see i.
+10
+1(cid:32)(cid:16) 1 (cid:14)C M1 Finds C. Substitutes into their
+10
+expression (must be integrated).
+y(cid:32) 3sinx(cid:16) 1 cosx(cid:14)11e(cid:16)3x A1 Divides through by coefficient of y.
+10 10 10
+9
+© UCLES 2023 Page 9 of 15
+9231/22 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2023
+PUBLISHED
+Question Answer Marks Guidance
+5(a) dy M1 A1 Differentiating using product rule
+(cid:32)(cid:16)2xsech2xtanhx(cid:14)sech2x
+and chain rule for M1.
+dx
+(cid:170)(cid:32)1(cid:16)tanh2x(cid:16)2xtanhx(cid:14)2xtanh3x(cid:186)
+(cid:172) (cid:188)
+sech2x(cid:122)0(cid:159)2xtanhx(cid:16)1(cid:32)0 A1 AG.
+2(0.7)tanh(0.7)(cid:16)1(cid:32)(cid:16)0.154(cid:31)0 B1 Shows sign change. Must write
+2(0.8)tanh(0.8)(cid:16)1(cid:32)0.062(cid:33)0 down values correct to at least 1dp
+for B1.
+4
+5(b) n n M1 A1 Compares sum with integral.
+(cid:166)rsech2r(cid:31)(cid:179) xsech2xdx
+Consistent limits for M1.
+1
+r(cid:32)2
+(cid:179) n xsech2xdx(cid:32)(cid:62)xtanhx(cid:64)n (cid:16)(cid:179) n tanhxdx M1 A1 Integrates by parts.
+1 1 1
+(cid:32)(cid:62)xtanhx(cid:14)lnsechx(cid:64)n A1
+1
+(cid:32)ntanhn(cid:14)lnsechn(cid:16)(cid:11)tanh1(cid:14)lnsech1(cid:12) A1 AG. Must have gained all previous
+marks.
+6
+Question Answer Marks Guidance
+6(a) 1, 2, (cid:16)1 B1
+1
+© UCLES 2023 Page 10 of 15
+9231/22 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2023
+PUBLISHED
+Question Answer Marks Guidance
+6(b) P3(cid:16)2P2(cid:16)P(cid:14)2I(cid:32)0 B1 States that P satisfies its
+characteristic equation.
+2P(cid:16)1 (cid:32)I(cid:14)2P(cid:16)P2 M1 Multiplies through by P(cid:16)1.
+(cid:167)1 (cid:16)3 (cid:16)1(cid:183) (cid:167)1 1 3 (cid:183) M1 A1
+2 2
+(cid:168) (cid:184) (cid:168) (cid:184)
+P2 (cid:32) 0 4 1 (cid:159)P(cid:16)1 (cid:32) 0 1 1
+(cid:168) (cid:184) (cid:168) 2 2 (cid:184)
+(cid:168) (cid:184) (cid:168) (cid:184)
+0 0 1 0 0 (cid:16)1
+(cid:169) (cid:185) (cid:169) (cid:185)
+4
+6(c) (cid:167)1 0 0(cid:183) B1
+a
+(cid:168) (cid:184)
+D(cid:32) 0 2 0
+(cid:168) (cid:184)
+(cid:168) (cid:184)
+0 0 1
+(cid:169) (cid:185)
+2
+(cid:167)1 0 0(cid:183) M1 Applies A(cid:16)1 (cid:32)PDP(cid:16)1.
+a
+(cid:168) (cid:184)
+A(cid:16)1 (cid:32)P 0 2 0 P(cid:16)1
+(cid:168) (cid:184)
+(cid:168) (cid:184)
+0 0 1
+(cid:169) (cid:185)
+2
+(cid:167)1 (cid:16)2 1 (cid:183)(cid:167)1 1 3 (cid:183) M1 A1 Multiplies two adjacent matrices.
+a 2 2 2
+(cid:168) (cid:184)(cid:168) (cid:184)
+(cid:32)
+(cid:168)
+0 4 1
+2 (cid:184)(cid:168)
+0 1
+2
+1
+2 (cid:184)
+(cid:168) (cid:184)(cid:168) (cid:184)
+0 0 (cid:16)1 0 0 (cid:16)1
+(cid:169) (cid:185)(cid:169) (cid:185)
+2
+(cid:167)1 1(cid:16)2a 3(cid:16)3a(cid:183) A1
+a 2a 2a
+(cid:168) (cid:184)
+(cid:168)
+0 2 3
+2 (cid:184)
+(cid:168) (cid:184)
+0 0 1
+(cid:169) (cid:185)
+2
+5
+© UCLES 2023 Page 11 of 15
+9231/22 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2023
+PUBLISHED
+Question Answer Marks Guidance
+7(a) cosh2A(cid:32)1 (cid:11) e2A(cid:14)e(cid:16)2A(cid:12) sinhA(cid:32)1 (cid:11) eA(cid:16)e(cid:16)A(cid:12) B1
+2 2
+2sinh2 A(cid:32)1 (cid:11) eA(cid:16)e(cid:16)A(cid:12)2 (cid:32)1 (cid:11) e2A(cid:16)2(cid:14)e(cid:16)2A(cid:12) (cid:32)cosh2A(cid:16)1 M1 A1 Expands, AG. A0 for mixing
+2 2 variables e.g. sinhA(cid:32)1 (cid:11) ex (cid:16)e(cid:16)x(cid:12) .
+2
+3
+© UCLES 2023 Page 12 of 15
+9231/22 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2023
+PUBLISHED
+Question Answer Marks Guidance
+7(b) 2 M1 A1 Correct formula with correct limits.
+(cid:180)3 (cid:167)dy(cid:183) 2 2
+S(cid:32) (cid:181) 2(cid:83)y 1(cid:14)(cid:168) (cid:184) dx(cid:32)2(cid:83)(cid:179)3x2 1(cid:14)4x2dx Correct limits for M1. (Limits may
+(cid:182) (cid:169)dx(cid:185) 0 be recovered.)
+0
+sinh(cid:16)14 M1 Applies given substitution to their
+S(cid:32)(cid:652)(cid:179) 31(cid:86)(cid:76)(cid:81)(cid:75)2u (cid:20)(cid:14)(cid:86)(cid:76)(cid:81)(cid:75)2u(cid:70)(cid:82)(cid:86)(cid:75)u(cid:71)u
+4 expression with correct limits.
+0
+(Limits may be recovered.)
+sinh(cid:16)14 A1 Must be simplified.
+(cid:32)1(cid:652)(cid:179) 3(cid:86)(cid:76)(cid:81)(cid:75)2u(cid:70)(cid:82)(cid:86)(cid:75)2u(cid:71)u
+4
+0
+sinh(cid:16)14 M1 Applies sinh2u(cid:32)2sinhucoshu.
+(cid:32) 1 (cid:652)(cid:179) 3(cid:86)(cid:76)(cid:81)(cid:75)22u(cid:71)u
+16 May use double angle formulae for
+0
+cosh and sinh instead.
+sinh(cid:16)14 M1 Applies sinh2A(cid:32)1(cid:11)cosh2A(cid:16)1(cid:12). S
+(cid:32) 1 (cid:652)(cid:179) 3(cid:70)(cid:82)(cid:86)(cid:75)(cid:23)u(cid:16)(cid:20)(cid:71)u 2
+32
+0 must have the form
+a(cid:179)sinh2ucosh2udu.
+sinh(cid:16)14 A1
+(cid:32) 1 (cid:652)(cid:170)1(cid:86)(cid:76)(cid:81)(cid:75)(cid:23)u(cid:16)u(cid:186) 3
+32 (cid:172)4 (cid:188) 0
+sinh(cid:16)14(cid:32)ln3 B1
+3
+S (cid:32) 1 (cid:652) (cid:11) 1 (cid:11) (cid:72)ln81(cid:16)(cid:72)(cid:16)ln81(cid:12) (cid:16)(cid:79)(cid:81)(cid:22) (cid:12) (cid:32) 1 (cid:652) (cid:11) 1(cid:11)(cid:27)(cid:20)(cid:16) 1(cid:12)(cid:16)(cid:79)(cid:81)(cid:22) (cid:12) (cid:32) 1 (cid:652)(cid:11)820(cid:16)(cid:79)(cid:81)(cid:22)(cid:12) A1 AG.
+32 8 32 8 81 32 81
+9
+© UCLES 2023 Page 13 of 15
+9231/22 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2023
+PUBLISHED
+Question Answer Marks Guidance
+8(a) dv dy B1 v(cid:32) y4
+(cid:32)4y3
+dx dx
+d2v d2y (cid:167)dy(cid:183) 2 B1
+(cid:32)4y3 (cid:14)12y2
+(cid:168) (cid:184)
+dx2 dx2 (cid:169)dx(cid:185)
+d2v dv d2y (cid:167)dy(cid:183) 2 dy M1 Uses substitution to find v-x
+(cid:14) (cid:14)4v(cid:32)4y3 (cid:14)12y2 (cid:168) (cid:184) (cid:14)4y3 (cid:14)4y4 equation, AG.
+dx2 dx dx2 (cid:169)dx(cid:185) dx
+(cid:167) d2y (cid:167)dy(cid:183) 2 dy (cid:183) A1 AG.
+(cid:32)4(cid:168)y3 (cid:14)3y2
+(cid:168) (cid:184)
+(cid:14)y3 (cid:14)y4(cid:184)(cid:32)4e(cid:16)2x
+(cid:168) dx2 (cid:169)dx(cid:185) dx (cid:184)
+(cid:169) (cid:185)
+Alternative method for question 8(a)
+dy (cid:32) 1 dv (cid:32) 1 dv (B1) y(cid:32)v 1 4
+dx 4y3 dx 4v 3 4 dx
+d2y 1 d2v 3 (cid:167)dv(cid:183) 2 (B1)
+(cid:32) (cid:16) (cid:168) (cid:184)
+dx2 4v 3 4 dx2 16v 7 4 (cid:169)dx(cid:185)
+v 3 4(cid:168) (cid:167) 1 d2v (cid:16) 3 (cid:168) (cid:167)dv (cid:184) (cid:183) 2 (cid:184) (cid:183) (cid:14)3v 1 2(cid:168) (cid:167) 1 dv (cid:184) (cid:183) 2 (cid:14)v4 3 (cid:168) (cid:167) 1 dv (cid:184) (cid:183) (cid:14)v(cid:32)e(cid:16)2x (M1) U eq s u e a s t i s o u n b , s A tit G ut . i on to find v-x
+(cid:168) (cid:169)4v 3 4 dx2 16v 7 4 (cid:169)dx(cid:185) (cid:184) (cid:185) (cid:169)4v 3 4 dx(cid:185) (cid:169)4v 3 4 dx(cid:185)
+1d2v 3 (cid:167)dv(cid:183) 2 3 (cid:167)dv(cid:183) 2 1dv (A1)
+(cid:16) (cid:168) (cid:184) (cid:14) (cid:168) (cid:184) (cid:14) (cid:14)v(cid:32)e(cid:16)2x
+4dx2 16v(cid:169)dx(cid:185) 16v(cid:169)dx(cid:185) 4dx
+4
+© UCLES 2023 Page 14 of 15
+9231/22 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2023
+PUBLISHED
+Question Answer Marks Guidance
+8(b) m2(cid:14)m(cid:14)4(cid:32)0 M1 Auxiliary equation.
+(cid:62)v(cid:32)(cid:64)e(cid:16)1 2 x(cid:11) Acos 15x(cid:14)Bsin 15x (cid:12) A1 Complimentary function. Allow
+2 2 (cid:181)v =(cid:182) missing.
+v(cid:32)ke(cid:16)2x (cid:159)v'(cid:32)(cid:16)2ke(cid:16)2x (cid:159)v''(cid:32)4ke(cid:16)2x B1 Particular integral and its
+derivatives.
+4ke(cid:16)2x (cid:16)2ke(cid:16)2x (cid:14)4ke(cid:16)2x (cid:32)4e(cid:16)2x M1 Substitutes and equates
+coefficients.
+k (cid:32) 2 A1
+3
+v(cid:32) y4 (cid:32)e(cid:16)1 2 x(cid:11) Acos 15x(cid:14)Bsin 15x (cid:12) (cid:14)2e(cid:16)2x A1 Substitutes for y and find v in terms
+2 2 3 of x. Must not see i.
+v'(cid:32)4y3 dy (cid:32)e(cid:16)1 2 x(cid:11) (cid:16) 15 Asin 15x(cid:14) 15Bcos 15x (cid:12) (cid:16)1e(cid:16)1 2 x(cid:11) Acos 15x(cid:14)Bsin 15x (cid:12) (cid:16)4e(cid:16)2x B1
+dx 2 2 2 2 2 2 2 3
+1(cid:32) A(cid:14)2 (cid:16)3(cid:32) 15B(cid:16)1A(cid:16)4 (cid:159) A(cid:32)1, B(cid:32)0 M1 A1 Substitutes initial conditions and
+3 2 2 2 3 3 forms simultaneous equations.
+Must have used the product rule
+when differentiating their v for M1.
+y(cid:32) (cid:11) 1e(cid:16)1 2 xcos 15x(cid:14)2e(cid:16)2x (cid:12)1 4 A1 Accept
+3 2 3 y(cid:32)(cid:114) (cid:11) 1e(cid:16)1 2 xcos 15x(cid:14)2e(cid:16)2x (cid:12)1 4
+3 2 3
+10
+© UCLES 2023 Page 15 of 15

@@ -1,0 +1,57 @@
+---
+title: Methods
+sidebar_position: 4
+---
+
+# Methods — Differentiation
+
+## Method 1: Differentiating inverse trig and hyperbolic functions
+
+**Key derivatives (memorise these):**
+
+| $f(x)$ | $f'(x)$ |
+|--------|---------|
+| $\sin^{-1} x$ | $\frac{1}{\sqrt{1-x^2}}$ |
+| $\cos^{-1} x$ | $-\frac{1}{\sqrt{1-x^2}}$ |
+| $\tan^{-1} x$ | $\frac{1}{1+x^2}$ |
+| $\sinh^{-1} x$ | $\frac{1}{\sqrt{1+x^2}}$ |
+| $\cosh^{-1} x$ | $\frac{1}{\sqrt{x^2-1}}$ |
+| $\tanh^{-1} x$ | $\frac{1}{1-x^2}$ |
+| $\sinh x$ | $\cosh x$ |
+| $\cosh x$ | $\sinh x$ |
+| $\tanh x$ | $\operatorname{sech}^2 x$ |
+
+**Chain rule:** For $f(g(x))$, derivative = $f'(g(x)) \cdot g'(x)$.
+E.g. $\frac{d}{dx}\sinh^{-1}(2x) = \frac{1}{\sqrt{1+(2x)^2}} \cdot 2 = \frac{2}{\sqrt{1+4x^2}}$
+
+## Method 2: Implicit differentiation
+
+**When to use it:** Equation mixing $x$ and $y$ that can't easily be solved for $y$.
+
+**Steps:**
+1. Differentiate both sides with respect to $x$
+2. Remember: $\frac{d}{dx}(y) = \frac{dy}{dx}$, $\frac{d}{dx}(y^2) = 2y\frac{dy}{dx}$, etc.
+3. Collect $\frac{dy}{dx}$ terms on one side
+4. Solve for $\frac{dy}{dx}$
+5. For $\frac{d^2y}{dx^2}$: differentiate $\frac{dy}{dx}$ implicitly again
+
+**Example (from 9231/w20/qp/22):**
+$y^2 + (xy+1)^2 = 5$, find $\frac{dy}{dx}$ at $(1,1)$:
+$$2y\frac{dy}{dx} + 2(xy+1)(y + x\frac{dy}{dx}) = 0$$
+At $(1,1)$: $2(1)\frac{dy}{dx} + 2(2)(1 + \frac{dy}{dx}) = 0$
+$2\frac{dy}{dx} + 4 + 4\frac{dy}{dx} = 0 \Rightarrow 6\frac{dy}{dx} = -4 \Rightarrow \frac{dy}{dx} = -\frac{2}{3}$
+
+## Method 3: Maclaurin series
+
+**When to use it:** "Find the Maclaurin series for $f(x)$ up to the term in $x^n$."
+
+**Steps:**
+1. Compute $f(0)$, $f'(0)$, $f''(0)$, $f'''(0)$
+2. Apply formula: $f(x) = f(0) + f'(0)x + \frac{f''(0)}{2!}x^2 + \frac{f'''(0)}{3!}x^3 + \cdots$
+
+**Example (from 9231/w20/qp/22):**
+$f(x) = \tan(\frac{\pi}{4} + x)$:
+$f(0) = \tan\frac{\pi}{4} = 1$
+$f'(x) = \sec^2(\frac{\pi}{4} + x)$, $f'(0) = \sec^2\frac{\pi}{4} = 2$
+$f''(x) = 2\sec^2(\frac{\pi}{4} + x)\tan(\frac{\pi}{4} + x)$, $f''(0) = 2(2)(1) = 4$
+$\tan(\frac{\pi}{4} + x) = 1 + 2x + \frac{4}{2!}x^2 + \cdots = 1 + 2x + 2x^2 + \cdots$

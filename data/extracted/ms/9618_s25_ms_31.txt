@@ -1,0 +1,416 @@
+©
+Cambridge
+University
+Press
+&
+Assessment
+2025
+[Turn
+over
+This
+document
+consists
+of
+15
+printed
+pages.
+components. Cambridge
+IGCSE,
+Cambridge
+International
+A
+and
+AS
+Level
+components,
+and
+some
+Cambridge
+O
+Level
+Cambridge
+International
+is
+publishing
+the
+mark
+schemes
+for
+the
+May/June
+2025
+series
+for
+most
+Cambridge
+International
+will
+not
+enter
+into
+discussions
+about
+these
+mark
+schemes.
+Teachers. Mark
+schemes
+should
+be
+read
+in
+conjunction
+with
+the
+question
+paper
+and
+the
+Principal
+Examiner
+Report
+for
+considered
+the
+acceptability
+of
+alternative
+answers.
+details
+of
+the
+discussions
+that
+took
+place
+at
+an
+Examiners(cid:182)
+meeting
+before
+marking
+began,
+which
+would
+have
+examination.
+It
+shows
+the
+basis
+on
+which
+Examiners
+were
+instructed
+to
+award
+marks.
+It
+does
+not
+indicate
+the
+This
+mark
+scheme
+is
+published
+as
+an
+aid
+to
+teachers
+and
+candidates,
+to
+indicate
+the
+requirements
+of
+the
+Published
+Maximum
+Mark:
+75
+MARK
+SCHEME
+Paper
+3
+Advanced
+Theory
+May/June
+2025
+COMPUTER
+SCIENCE
+9618/31
+Cambridge
+International
+AS
+&
+A
+Level
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme May/June 2025
+PUBLISHED
+Generic Marking Principles
+These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the
+specific content of the mark scheme or generic level descriptions for a question. Each question paper and mark scheme will also comply with these
+marking principles.
+GENERIC MARKING PRINCIPLE 1:
+Marks must be awarded in line with:
+(cid:120) the specific content of the mark scheme or the generic level descriptors for the question
+(cid:120) the specific skills defined in the mark scheme or in the generic level descriptors for the question
+(cid:120) the standard of response required by a candidate as exemplified by the standardisation scripts.
+GENERIC MARKING PRINCIPLE 2:
+Marks awarded are always whole marks (not half marks, or other fractions).
+GENERIC MARKING PRINCIPLE 3:
+Marks must be awarded positively:
+(cid:120) marks are awarded for correct/valid answers, as defined in the mark scheme. However, credit is given for valid answers which go beyond
+the scope of the syllabus and mark scheme, referring to your Team Leader as appropriate
+(cid:120) marks are awarded when candidates clearly demonstrate what they know and can do
+(cid:120) marks are not deducted for errors
+(cid:120) marks are not deducted for omissions
+(cid:120) answers should only be judged on the quality of spelling, punctuation and grammar when these features are specifically assessed by the
+question as indicated by the mark scheme. The meaning, however, should be unambiguous.
+GENERIC MARKING PRINCIPLE 4:
+Rules must be applied consistently, e.g. in situations where candidates have not followed instructions or in the application of generic level
+descriptors.
+© Cambridge University Press & Assessment 2025 Page 2 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme May/June 2025
+PUBLISHED
+GENERIC MARKING PRINCIPLE 5:
+Marks should be awarded using the full range of marks defined in the mark scheme for the question (however; the use of the full mark range may
+be limited according to the quality of the candidate responses seen).
+GENERIC MARKING PRINCIPLE 6:
+Marks awarded are based solely on the requirements as defined in the mark scheme. Marks should not be awarded with grade thresholds or
+grade descriptors in mind.
+© Cambridge University Press & Assessment 2025 Page 3 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme May/June 2025
+PUBLISHED
+Question Answer Marks
+1(a) One mark per mark point 2
+MP1 TYPE Vehicle =
+MP2 (M100, M230, T101, T102, T120, T150)
+Example answer:
+TYPE Vehicle = (M100, M230, T101, T102, T120, T150)
+1(b) One mark per mark point 4
+MP1 TYPE Booking and ENDTYPE correct
+MP2 Declare used correctly for every field in the response
+MP3 Any four fields correct
+MP4 Remaining fields correct
+Example answer:
+TYPE Booking
+DECLARE BookingNumber : STRING
+DECLARE Destination : STRING
+DECLARE ClientName : STRING
+DECLARE ClientTelephone : STRING
+DECLARE DateOfDeparture : DATE
+DECLARE PickupAddress : STRING
+DECLARE TaxiUsed : Vehicle
+ENDTYPE
+© Cambridge University Press & Assessment 2025 Page 6 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme May/June 2025
+PUBLISHED
+Question Answer Marks
+2(a) One mark per mark point 2
+MP1 Correct mantissa
+MP2 Correct exponent
+Mantissa Exponent
+0 1 1 0 1 0 1 1 1 0 1 1 1 0 1 0
+2(b) One mark per mark point for working (Max 2) 4
+(cid:120) number converted to binary e.g., positive binary version of 25.3125 = (0)11001.0101
+(cid:120) two(cid:182)s complement version
+bits flipped and 1 added = 100110.1011
+(cid:120) -32 + 4 + 2 + 0.5 + 0.125 + 0.0625 // -32 + 4 + 2 + 1/2 + 1/8 + 1/16
+(cid:120) movement of binary point seen (5 places)
+One mark per mark point
+(cid:120) correct mantissa
+(cid:120) correct exponent
+Mantissa Exponent
+1 0 0 1 1 0 1 0 1 1 0 0 0 1 0 1
+© Cambridge University Press & Assessment 2025 Page 7 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme May/June 2025
+PUBLISHED
+Question Answer Marks
+3(a) One mark per mark point (Max 5) 5
+One mark per mark point for purpose of Application Layer (Max 3)
+MP1 To provide services / interface with the user // access to applications, for example login, file transfer, network file
+access, email, etc
+MP2 To provide mechanisms for securing communication e.g. encryption/authentication
+MP3 To define/provide protocols used to allow the exchange of data/communication // to contain programs that
+exchange data
+MP4 Error detection and recovery mechanisms to handle application specific errors
+One mark per mark point for purpose of Transport Layer (Max 3)
+MP5 To provide logical communication between applications running on different hosts // To ensure that data is
+delivered to the correct application process on the destination machine
+MP6 To ensure error-free, end-to-end delivery of data between a source and a destination, in sequence // to provide
+error recovery techniques such as error detection codes and automatic repeat request
+MP7 To break data into segments when sent and to reconstruct when received // To reassemble segments at
+destination
+MP8 To regulate network connections // to provide flow control mechanisms to prevent data loss.
+3(b) One mark per mark point (Max 4) 4
+MP1 Data are broken into equal sized packets
+MP2 Data packets have headers containing information such as the IP addresses of the sender and receiver
+MP3 Each packet of data is sent independently to the destination // Packets don(cid:182)t necessarily follow the same route
+MP4 Each packet is sent via the most optimum path available
+MP5 Packets don(cid:182)t necessarily arrive in the order they were sent // Packets are reconstructed at the destination in the
+correct order
+MP6 Missing / damaged packets are re-sent
+© Cambridge University Press & Assessment 2025 Page 8 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme May/June 2025
+PUBLISHED
+Question Answer Marks
+4(b) One mark per mark point 2
+MP1 A technique used to solve problems using a function/procedure/subroutine that calls itself (general case)
+MP2 (cid:171) until the terminating condition / base case is achieved, when no further recursive calls are made
+4(c) One mark 1
+(cid:120) Stack
+Question Answer Marks
+5(a) Two marks for all six correct terms 2
+One mark for any three correct terms
+Z = A.B.C.D + A.B.C.D + A.B.C.D + A.B.C.D + A.B.C.D + A.B.C.D
+5(b)(i) Two marks if no errors present 2
+One mark if one error present
+AB
+CD 00 01 11 10
+00 1 0 0 1
+01 0 1 1 0
+11 0 1 1 0
+10 0 0 0 0
+© Cambridge University Press & Assessment 2025 Page 10 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme May/June 2025
+PUBLISHED
+Question Answer Marks
+5(b)(ii) One mark for each correct loop 2
+AB
+CD 00 01 11 10
+00 1 0 0 1
+01 0 1 1 0
+11 0 1 1 0
+10 0 0 0 0
+5(b)(iii) One mark for each mark point 2
+(cid:120) One correct Boolean term
+(cid:120) Boolean terms and operator correct and no other terms present
+Z = B.D + B.C.D // B.C.D + B.D
+Question Answer Marks
+6 One mark for each mark point (Max 4) 4
+MP1 The interpreter translates the source code one line at a time
+MP2 If the line is syntax error free it is executed
+MP3 It is not stored in executable format
+MP4 If an error is found, the program halts with an error message
+MP5 Each line must be translated every time it is run, including lines running multiple times for example in loops
+© Cambridge University Press & Assessment 2025 Page 11 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme May/June 2025
+PUBLISHED
+Question Answer Marks
+7(a) One mark for each correct answer 2
+#Jd7 (cid:177) must begin with a member of the group uppercase // cannot begin with a symbol
+C%6A (cid:177) the fourth character cannot be a member of the group uppercase // the fourth character must be either a symbol,
+digit or lowercase
+7(b) One mark per mark point 4
+<uppercase> ::= A | C | E | G | J
+<passcode> ::= <uppercase><code>
+<code> ::= <lowercase>|<symbol>|<digit>
+|<lowercase><code>|<symbol><code>|<digit><code>
+Question Answer Marks
+8(a) One mark for each mark point 2
+MP1 Running multiple processes concurrently
+MP2 (cid:171) which benefits process management by allowing more tasks to complete than would be the case if they had to
+run one task after another.
+8(b) One mark for each mark point (Max 3) 4
+MP1 The processes are queued as they arrive
+MP2 Processes with the shortest burst time are executed first
+MP3 It is a pre-emptive scheduling function // When a process with a shorter burst time arrives the existing process is
+replaced by the shorter process.
+MP4 The scheduler will continue to choose shorter processes over longer processes if they continue to be added to the
+queue can cause starvation for longer jobs
+One mark for benefit (Max 1) e.g.
+MP5 Processes with a short burst time are processed very quickly
+MP6 Waiting time is minimised
+© Cambridge University Press & Assessment 2025 Page 12 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme May/June 2025
+PUBLISHED
+Question Answer Marks
+9(a) One mark for each mark point (Max 2) 2
+MP1 Ensure security/privacy when using the internet
+MP2 Data encryption
+MP3 Identification / authentication of client and server
+9(b) One mark for each mark point (Max 2) 2
+MP1 When transmitting authentication data e.g. passwords, session cookies
+MP2 When transmitting data that must be protected from modification on its way to or from a server e.g. user input, or
+results from the server
+MP3 When transmitting data classified as non-public.
+Question Answer Marks
+10(a) One mark for each mark point (Max 2) 2
+MP1 A graph is used in AI to record relationships between entities
+MP2 (cid:171) using vertices / nodes and edges
+MP3 for example, to represent places on a map and the distances between them, in order to find the shortest route.
+10(b) One mark for each mark point (Max 4) 4
+MP1 Artificial neural networks are designed to work in the same way as the human brain
+MP2 ANNs provide the architecture and algorithms for learning from the data
+MP3 They have a large number of connected processing units / nodes
+MP4 (cid:171) that are arranged in layers / interconnected and work together to process data
+MP5 Deep learning models learn from data by adjusting the weights/biases of the connections between neurons
+MP6 They use multiple hidden layers to extract complex features and to make predictions
+© Cambridge University Press & Assessment 2025 Page 13 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme May/June 2025
+PUBLISHED
+Question Answer Marks
+11(a) One mark per mark point 5
+MP1 Two correct attributes (PatientID : INTEGER and Doctor : STRING)
+MP2 SetTreatments((cid:171)) and SetMedications((cid:171)) seen
+MP3 (cid:171) and appropriate parameters, with string data types
+MP4 GetPatientID() and GetDoctor() seen
+MP5 SetDateSeen((cid:171)) and GetDateSeen fully correct with appropriate parameter and correct data type in setter.
+Appointment
+DateSeen : DATE
+PatientID : INTEGER
+Doctor : STRING
+Treatments : STRING
+Medications : STRING
+SetDateSeen(NewDate : DATE)
+SetPatientID(PatientNumber : INTEGER)
+SetDoctor(DoctorID : STRING)
+SetTreatments(NewTreatments : STRING)
+SetMedications(NewMedications : STRING)
+GetDateSeen()
+GetPatientID()
+GetDoctor()
+GetTreatments()
+GetMedications()
+11(b)(i) Encapsulation 1
+11(b)(ii) One mark for each mark point (Max 2) 2
+MP1 Inheritance is where a derived class takes properties / behaviours attributes / methods
+MP2 (cid:171) of a parent / super class / base class
+MP3 The attributes / methods / properties taken from the parent / super class / base class can also be extended /
+copied / used / changed / overwritten / overridden in the subclass.
+© Cambridge University Press & Assessment 2025 Page 14 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme May/June 2025
+PUBLISHED
+Question Answer Marks
+12 One mark for each correctly completed line (Max 5) 5
+DECLARE Location : INTEGER
+DECLARE Item : STRING
+DECLARE Continue : BOOLEAN
+DECLARE Answer : CHAR
+Continue (cid:109) TRUE
+OPENFILE "StockList.dat" FOR RANDOM
+WHILE Continue
+OUTPUT "Enter a location between 1 and 500: "
+INPUT Location
+SEEK "StockList.dat", Location
+GETRECORD "StockList.dat", Item
+IF Item = "" THEN
+OUTPUT "This record is missing"
+ELSE
+OUTPUT "The item in stock is ", Item
+ENDIF
+OUTPUT "Another location (Y or N)?"
+INPUT Answer
+IF Answer <> 'Y' THEN
+Continue (cid:109) FALSE
+ENDIF
+ENDWHILE
+CLOSEFILE "StockList.dat"
+OUTPUT "End of program"
+© Cambridge University Press & Assessment 2025 Page 15 of 15

@@ -1,0 +1,541 @@
+©
+UCLES
+2020
+[Turn
+over
+This
+document
+consists
+of
+16
+printed
+pages.
+Cambridge
+O
+Level
+components.
+Cambridge
+IGCSE
+,
+Cambridge
+International
+A and
+AS
+Level
+and
+Cambridge
+Pre-U
+components,
+and
+some
+™
+Cambridge
+International
+is
+publishing
+the
+mark
+schemes
+for
+the
+October/November
+2020
+series
+for
+most
+Cambridge
+International
+will
+not
+enter
+into
+discussions
+about
+these
+mark
+schemes.
+Teachers. Mark
+schemes
+should
+be
+read
+in
+conjunction
+with
+the
+question
+paper
+and
+the
+Principal
+Examiner
+Report
+for
+considered
+the
+acceptability
+of
+alternative
+answers.
+details
+of
+the
+discussions
+that
+took
+place
+at
+an
+Examiners’
+meeting
+before
+marking
+began,
+which
+would
+have
+examination.
+It
+shows
+the
+basis
+on
+which
+Examiners
+were
+instructed
+to
+award
+marks.
+It
+does
+not
+indicate
+the
+This
+mark
+scheme
+is
+published
+as
+an
+aid
+to
+teachers
+and
+candidates,
+to
+indicate
+the
+requirements
+of
+the
+Published
+Maximum
+Mark:
+75
+MARK
+SCHEME
+Paper
+2
+October/November
+2020
+FURTHER
+MATHEMATICS
+9231/22
+Cambridge
+International
+A
+Level
+9231/22 Cambridge International A Level – Mark Scheme October/November 2020
+PUBLISHED
+Generic Marking Principles
+These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the
+mark scheme or generic level descriptors for a question. Each question paper and mark scheme will also comply with these marking principles.
+GENERIC MARKING PRINCIPLE 1:
+Marks must be awarded in line with:
+• the specific content of the mark scheme or the generic level descriptors for the question
+• the specific skills defined in the mark scheme or in the generic level descriptors for the question
+• the standard of response required by a candidate as exemplified by the standardisation scripts.
+GENERIC MARKING PRINCIPLE 2:
+Marks awarded are always whole marks (not half marks, or other fractions).
+GENERIC MARKING PRINCIPLE 3:
+Marks must be awarded positively:
+• marks are awarded for correct/valid answers, as defined in the mark scheme. However, credit is given for valid answers which go beyond the scope of the
+syllabus and mark scheme, referring to your Team Leader as appropriate
+• marks are awarded when candidates clearly demonstrate what they know and can do
+• marks are not deducted for errors
+• marks are not deducted for omissions
+• answers should only be judged on the quality of spelling, punctuation and grammar when these features are specifically assessed by the question as
+indicated by the mark scheme. The meaning, however, should be unambiguous.
+GENERIC MARKING PRINCIPLE 4:
+Rules must be applied consistently, e.g. in situations where candidates have not followed instructions or in the application of generic level descriptors.
+GENERIC MARKING PRINCIPLE 5:
+Marks should be awarded using the full range of marks defined in the mark scheme for the question (however; the use of the full mark range may be limited
+according to the quality of the candidate responses seen).
+GENERIC MARKING PRINCIPLE 6:
+Marks awarded are based solely on the requirements as defined in the mark scheme. Marks should not be awarded with grade thresholds or grade descriptors in
+mind.
+© UCLES 2020 Page 2 of 16
+9231/22 Cambridge International A Level – Mark Scheme October/November 2020
+PUBLISHED
+Mathematics Specific Marking Principles
+1 Unless a particular method has been specified in the question, full marks may be awarded for any correct method. However, if a calculation is required then
+no marks will be awarded for a scale drawing.
+2 Unless specified in the question, answers may be given as fractions, decimals or in standard form. Ignore superfluous zeros, provided that the degree of
+accuracy is not affected.
+3 Allow alternative conventions for notation if used consistently throughout the paper, e.g. commas being used as decimal points.
+4 Unless otherwise indicated, marks once gained cannot subsequently be lost, e.g. wrong working following a correct form of answer is ignored (isw).
+5 Where a candidate has misread a number in the question and used that value consistently throughout, provided that number does not alter the difficulty or
+the method required, award all marks earned and deduct just 1 mark for the misread.
+6 Recovery within working is allowed, e.g. a notation error in the working where the following line of working makes the candidate’s intent clear.
+© UCLES 2020 Page 3 of 16
+9231/22 Cambridge International A Level – Mark Scheme October/November 2020
+PUBLISHED
+Mark Scheme Notes
+The following notes are intended to aid interpretation of mark schemes in general, but individual mark schemes may include marks awarded for specific reasons
+outside the scope of these notes.
+Types of mark
+M Method mark, awarded for a valid method applied to the problem. Method marks are not lost for numerical errors, algebraic slips or errors in units.
+However, it is not usually sufficient for a candidate just to indicate an intention of using some method or just to quote a formula; the formula or idea
+must be applied to the specific problem in hand, e.g. by substituting the relevant quantities into the formula. Correct application of a formula
+without the formula being quoted obviously earns the M mark and in some cases an M mark can be implied from a correct answer.
+A Accuracy mark, awarded for a correct answer or intermediate step correctly obtained. Accuracy marks cannot be given unless the associated method
+mark is earned (or implied).
+B Mark for a correct result or statement independent of method marks.
+DM or DB When a part of a question has two or more ‘method’ steps, the M marks are generally independent unless the scheme specifically says otherwise;
+and similarly, when there are several B marks allocated. The notation DM or DB is used to indicate that a particular M or B mark is dependent on
+an earlier M or B (asterisked) mark in the scheme. When two or more steps are run together by the candidate, the earlier marks are implied and full
+credit is given.
+FT Implies that the A or B mark indicated is allowed for work correctly following on from previously incorrect results. Otherwise, A or B marks are
+given for correct work only.
+• A or B marks are given for correct work only (not for results obtained from incorrect working) unless follow through is allowed (see abbreviation FT
+above).
+• For a numerical answer, allow the A or B mark if the answer is correct to 3 significant figures or would be correct to 3 significant figures if rounded (1
+decimal place for angles in degrees).
+• The total number of marks available for each question is shown at the bottom of the Marks column.
+• Wrong or missing units in an answer should not result in loss of marks unless the guidance indicates otherwise.
+• Square brackets [ ] around text or numbers show extra information not needed for the mark to be awarded.
+© UCLES 2020 Page 4 of 16
+9231/22 Cambridge International A Level – Mark Scheme October/November 2020
+PUBLISHED
+Abbreviations
+AEF/OE Any Equivalent Form (of answer is equally acceptable) / Or Equivalent
+AG Answer Given on the question paper (so extra checking is needed to ensure that the detailed working leading to the result is valid)
+CAO Correct Answer Only (emphasising that no ‘follow through’ from a previous error is allowed)
+CWO Correct Working Only
+ISW Ignore Subsequent Working
+SOI Seen Or Implied
+SC Special Case (detailing the mark to be given for a specific wrong solution, or a case where some standard marking practice is to be varied in the
+light of a particular circumstance)
+WWW Without Wrong Working
+AWRT Answer Which Rounds To
+© UCLES 2020 Page 5 of 16
+9231/22 Cambridge International A Level – Mark Scheme October/November 2020
+PUBLISHED
+Question Answer Marks Guidance
+1 (cid:167) 1 (cid:183) B1 Finds first derivative.
+f '(x)=sec2 (cid:168)x+ (cid:652)(cid:184)
+(cid:169) 4 (cid:185)
+(cid:167) 1 (cid:183) (cid:167) 1 (cid:183) B1 Finds second derivative.
+f ''(x)=2sec2 (cid:168)x+ (cid:652)(cid:184)tan(cid:168)x+ (cid:652)(cid:184)
+(cid:169) 4 (cid:185) (cid:169) 4 (cid:185)
+f(0)=1 f '(0)=2 f ''(0)=4 M1 Evaluates derivatives at zero.
+(cid:167) 1 (cid:183) M1 A1
+tan(cid:168)x+ (cid:652)(cid:184) =1+2x+2x2
+(cid:169) 4 (cid:185)
+5
+© UCLES 2020 Page 6 of 16
+9231/22 Cambridge International A Level – Mark Scheme October/November 2020
+PUBLISHED
+Question Answer Marks Guidance
+2 2 M1 A1 Applies cosh2x=1+sinh2x
+(cid:167)dy(cid:183)
+1+
+(cid:168) (cid:184)
+= 1+sinh2x =coshx
+(cid:169)dx(cid:185)
+1 M1 Correct formula, correct limits.
+2(cid:652)(cid:179)2cosh2xdx
+0
+1 M1 Applies 2cosh2x=cosh2x+1 or expands
+=(cid:652)(cid:179)2cosh2x+1dx
+0 2
+(
+ex +e −x
+)2
+1 A1 Correct integration.
+(cid:170)1 (cid:186)2
+=(cid:652) sinh2x+x
+(cid:171) (cid:187)
+(cid:172)2 (cid:188)
+0
+1 ( ) A1
+= (cid:652) e−e −1+2
+4
+6
+© UCLES 2020 Page 7 of 16
+9231/22 Cambridge International A Level – Mark Scheme October/November 2020
+PUBLISHED
+Question Answer Marks Guidance
+3 2n 2n M1 A1 Uses the 6th roots of unity.
+w+1=cos (cid:652)+isin (cid:652), n=0,(cid:33),5
+6 6
+1 1 3 1 A1 A1 A1 for 3 correct roots.
+w=0,− ± i√3, − ± i√3,−2
+A1 Gives all six roots of the equation in
+2 2 2 2
+exact form.
+4
+4 dy 2 1 B1 Divides through by x.
++ y= ex
+dx x x
+e2(cid:179)x−1dx =x2 M1 A1 Finds integrating factor, must be
+integrating x
+−1.
+d ( ) M1 Correct form on LHS and attempt to
+yx2 =xex
+dx integrate 1 exmultiplied by their
+x
+integrating factor.
+yx2 =(x−1)ex +C A1
+C=3 M1 Finds C.
+(x−1)ex +3 M1 A1 Divides through by coefficient of y.
+y=
+x2
+8
+© UCLES 2020 Page 8 of 16
+9231/22 Cambridge International A Level – Mark Scheme October/November 2020
+PUBLISHED
+Question Answer Marks Guidance
+5(a) d ( y2 ) =2yy' B1 Differentiates y2 correctly.
+dx
+d ( ( xy+1 )2 ) =2(xy+1) ( xy'+ y ) B1 Differentiates ( xy+1 )2 correctly.
+dx
+(1)y'+((1)+1) ( y'+1 )=0(cid:159) y'=− 2 B1 Substitutes (1,1), AG. y'=− xy2 + y
+3 y+x2y+x
+3
+5(b) yy''+(
+y'
+)2 B1 Differentiates yy'.
++(xy+1) ( xy''+ y'+ y' )+( xy'+ y )( xy'+ y )=0 B1 B1 Differentiates (xy+1) ( xy'+ y ) .
+y''+ (cid:167)
+(cid:168) (cid:169)
+− 2
+3
+(cid:183)
+(cid:184) (cid:185)
+2 +2 (cid:167)
+(cid:168) (cid:169)
+y''− 4
+3
+(cid:183)
+(cid:184) (cid:185)
++ (cid:167)
+(cid:168) (cid:169)
+− 2
+3
++1 (cid:183)
+(cid:184) (cid:185)
+(cid:167)
+(cid:168) (cid:169)
+1
+3
+(cid:183)
+(cid:184) (cid:185)
+=0 M1 Substitutes (1,1) and y'=− 2
+3
+19 A1
+y''=
+27
+5
+© UCLES 2020 Page 9 of 16
+9231/22 Cambridge International A Level – Mark Scheme October/November 2020
+PUBLISHED
+Question Answer Marks Guidance
+5(b) Alternative M1 A1 xy2 + y
+y''=−
+(y+x2y+x)(2xyy'+ y2 + y')−(xy2 + y)(y'+2xy+x2y'+1) A1 Differentiate y'=− y+x2y+x using
+(
+y+x2y+x
+)2
+quotient rule.
+A1 for differentiating xy2 correctly.
+A1 for everything correct.
+19 M1 A1 2
+y''= Substitutes (1,1) and y'=− .
+27 3
+5
+© UCLES 2020 Page 10 of 16
+9231/22 Cambridge International A Level – Mark Scheme October/November 2020
+PUBLISHED
+Question Answer Marks Guidance
+6 m2 +8m+15=0(cid:159)m=−3,−5 M1 Auxiliary equation.
+x=Ae −5t +Be −3t A1 Complementary function.
+x= psin3t+qcos3t(cid:159)x(cid:5)=3pcos3t−3qsin3t(cid:159)(cid:5)x(cid:5)=−9psin3t−9qcos3t M1 A1 Particular integral and its derivatives.
+−9p−24q+15p=0(cid:159)6p−24q=0 M1 Substitutes and equates coefficients.
+−9q+24p+15q=102(cid:159)4p+q=17
+p=4, q=1 A1
+x=Ae −5t +Be −3t +4sin3t+cos3t A1
+x(cid:5)=−5Ae −5t −3Be −3t +12cos3t−3sin3t M1 Differentiating the correct form.
+1= A+B+1 M1 A1 Forms simultaneous equations using initial
+0=−5A−3B+12(cid:159) A=6,B=−6 conditions.
+x=6e −5t −6e −3t +4sin3t+cos3t A1
+11
+© UCLES 2020 Page 11 of 16
+9231/22 Cambridge International A Level – Mark Scheme October/November 2020
+PUBLISHED
+Question Answer Marks Guidance
+( )
+7(a) z2 z2n −1 M1 Uses sum of geometric series.
+z2 +z2(z2)+(cid:33)+z2(z2)n−1=
+z2 −1
+( )
+z2 z2n −1
+z
+−1 z2n+1−z A1 Divides numerator and denominator by z.
+× = z2n+2 −z2
+z2 −1 z −1 z−z −1 Must see at least , AG.
+z2 −1
+2
+7(b) z−z −1=2isinθ B1 Simplifies denominator.
+z2n+1−z cos(2n+1)θ+isin(2n+1)θ−cosθ−isinθ M1 A1 Applies de Moivre’s theorem to numerator.
+=
+z−z −1 2isinθ
+(cid:166) n cos ( 2rθ)= sin(2n+1)θ−sinθ = sin(2n+1)θ − 1 M1 Equates real parts.
+2sinθ 2sinθ 2
+r=1
+1+2(cid:166)
+n
+cos ( 2rθ)=
+sin(2n+1)θ A1 AG
+sinθ
+r=1
+5
+© UCLES 2020 Page 12 of 16
+9231/22 Cambridge International A Level – Mark Scheme October/November 2020
+PUBLISHED
+Question Answer Marks Guidance
+8 1 1 1 M1A1 Forms sum of the areas of the rectangles,
+Sum=
+√3
++
+√7
++(cid:33)+
+√ ( n2 +n+1 ) need to see consideration of areas, not just
+the sum given in the question.
+n 1 M1 Compares with integral. Limits have to be
+<(cid:179) 0 √ ( x2 +x+1 ) dx correct.
+2 B1 Completes the square
+(cid:167) 1(cid:183) 3
+x2 +x+1= (cid:168)x+
+(cid:184)
++
+(cid:169) 2(cid:185) 4
+n M1 A1 Uses formula
+(cid:170) (cid:167) 1(cid:183)(cid:186)
+(cid:179) 0 n (cid:167) (cid:168)x+ 1 1(cid:183)
+(cid:184)
+2 + 3 dx= (cid:171)
+(cid:171)(cid:172)
+(cid:171) (cid:171) sinh −1 (cid:168)
+(cid:169)
+(cid:168) (cid:168) x 1
+2
++ √ 2 3(cid:184)
+(cid:185)
+(cid:184) (cid:184) (cid:187)
+(cid:187)(cid:188)
+(cid:187) (cid:187) = (cid:172) (cid:170) (cid:171) sinh −1 (cid:168) (cid:169) (cid:167)2 √ x+ 3 1 (cid:184) (cid:185) (cid:183) (cid:187) (cid:188) (cid:186) 0 n
+(cid:169) 2(cid:185) 4 0
+(cid:170) (cid:167) 2x+1 ( 2x+1 )2 +3 (cid:183)(cid:186) n (cid:170) (cid:167)2x+1+2√ ( x2 +x+1 ) (cid:183)(cid:186) n M1 A1 Uses logarithmic form of sinh −1.
+=(cid:171) ln(cid:168) + (cid:184)(cid:187) =(cid:171)ln(cid:168) (cid:184)(cid:187)
+(cid:171) (cid:168) √3 3 (cid:184)(cid:187) (cid:171) (cid:168) √3 (cid:184)(cid:187)
+(cid:172) (cid:169) (cid:185)(cid:188) (cid:172) (cid:169) (cid:185)(cid:188)
+0 0
+( )
+(cid:167)2n+1+2√ n2 +n+1 (cid:183)
+(cid:167) 3 (cid:183)
+M1 Inserts limits.
+=ln(cid:168) (cid:184)−ln(cid:168)
+(cid:184)
+(cid:168) √3 (cid:184) (cid:169) √3(cid:185)
+(cid:169) (cid:185)
+(cid:167)1 2 2 ( )(cid:183) A1 AG
+=ln(cid:168) + n+ √ n2 +n+1
+(cid:184)
+(cid:169)3 3 3 (cid:185)
+10
+© UCLES 2020 Page 13 of 16
+9231/22 Cambridge International A Level – Mark Scheme October/November 2020
+PUBLISHED
+Question Answer Marks Guidance
+9(a) 11 8 M1 A1 Shows that determinant is non-zero or
+x= +
+solves equations and finds at least two
+a 2a+5 a+1 2 a
+correct values.
+1
+0 −4 0 =4a≠0 or y=−
+2
+0 3 −1
+9
+z=−
+2
+The three planes intersect at a single point. B1
+3
+9(b) a−λ 2a+5 a+1 M1 Equates determinant to zero.
+0 −4−λ 0 =0
+0 3 −1−λ
+( a−λ) (−4−λ)(−1−λ)=0(cid:159)λ=a,−1,−4 A1 AG
+2
+© UCLES 2020 Page 14 of 16
+9231/22 Cambridge International A Level – Mark Scheme October/November 2020
+PUBLISHED
+Question Answer Marks Guidance
+9(c) i j k (cid:167) (−4−a )(−1−a ) (cid:183) (cid:167)1(cid:183) M1 A1 Uses vector product (or equations) to find
+(cid:168) (cid:184) (cid:168) (cid:184) corresponding eigenvectors.
+λ=a: 0 −4−a 0 = (cid:168) 0 (cid:184)(cid:16) (cid:168) 0 (cid:184)
+0 3 −1−a (cid:168) (cid:169) 0 (cid:184) (cid:185) (cid:168) (cid:169)0 (cid:184) (cid:185)
+i j k (cid:167) 3(a+1) (cid:183) (cid:167) 1 (cid:183) A1
+(cid:168) (cid:184) (cid:168) (cid:184)
+λ=−1: a+1 2a+5 a+1 = 0 (cid:16) 0
+(cid:168) (cid:184) (cid:168) (cid:184)
+0 −3 0 (cid:168)−3(a+1) (cid:184) (cid:168)−1 (cid:184)
+(cid:169) (cid:185) (cid:169) (cid:185)
+i j k (cid:167) 3a+12 (cid:183) (cid:167) 1 (cid:183) A1
+(cid:168) (cid:184) (cid:168) (cid:184)
+λ=−4: a+4 2a+5 a+1 = −(3a+12) (cid:16) −1
+(cid:168) (cid:184) (cid:168) (cid:184)
+0 3 3 (cid:168) 3a+12 (cid:184) (cid:168) 1 (cid:184)
+(cid:169) (cid:185) (cid:169) (cid:185)
+(cid:167)1 1 1 (cid:183) A1 OE
+(cid:168) (cid:184)
+P= 0 0 −1
+(cid:168) (cid:184)
+(cid:168) (cid:169)0 −1 1 (cid:184) (cid:185)
+5
+© UCLES 2020 Page 15 of 16
+9231/22 Cambridge International A Level – Mark Scheme October/November 2020
+PUBLISHED
+Question Answer Marks Guidance
+9(d) (λ−a)(λ+1)(λ+4)=λ3+(5−a)λ2+(4−5a)λ−4a=0 B1 Finds characteristic equation.
+4aA−1 =A2+(5−a)A+(4−5a)I M1 A1 Multiplies through by A −1.
+(cid:167)a2 2a2 −17 a2−1(cid:183) B1
+(cid:168) (cid:184)
+A2 = 0 16 0
+(cid:168) (cid:184)
+(cid:168) 0 −15 1 (cid:184)
+(cid:169) (cid:185)
+(cid:167)a2 2a2 −17 a2 −1(cid:183) (cid:167)a 2a+5 a+1(cid:183) (cid:167)1 0 0(cid:183) M1 Substitutes for and A in correct equation.
+4aA−1 = (cid:168) 0 16 0 (cid:184) +(5−a) (cid:168) 0 −4 0 (cid:184) +(4−5a) (cid:168) 0 1 0 (cid:184)
+(cid:168) (cid:184) (cid:168) (cid:184) (cid:168) (cid:184)
+(cid:168) 0 −15 1 (cid:184) (cid:168) 0 3 −1 (cid:184) (cid:168) 0 0 1 (cid:184)
+(cid:169) (cid:185) (cid:169) (cid:185) (cid:169) (cid:185)
+(cid:167)4 5a+8 4a+4(cid:183) A1
+A−1 = 1 (cid:168) 0 −a 0 (cid:184)
+(cid:168) (cid:184)
+4a
+(cid:168) (cid:169)0 −3a −4a (cid:184) (cid:185)
+6
+© UCLES 2020 Page 16 of 16

@@ -1,0 +1,50 @@
+---
+title: Methods
+sidebar_position: 4
+---
+
+# Methods — Hyperbolic Functions
+
+## Method 1: Proving hyperbolic identities
+
+**When to use it:** "Show that" or "Prove that" involving $\sinh$, $\cosh$, $\tanh$.
+
+**Steps:**
+1. Write all hyperbolic functions in exponential form: $\sinh x = \frac{e^x - e^{-x}}{2}$, $\cosh x = \frac{e^x + e^{-x}}{2}$
+2. Simplify the algebra (expand brackets, collect terms)
+3. Alternatively: use known identities ($\cosh^2 x - \sinh^2 x \equiv 1$, $\sinh 2x \equiv 2\sinh x\cosh x$)
+
+**Example structure (proving $\cosh 2x \equiv 2\cosh^2 x - 1$):**
+$$\cosh 2x = \frac{e^{2x} + e^{-2x}}{2} = \frac{(e^x + e^{-x})^2 - 2}{2} = 2\left(\frac{e^x + e^{-x}}{2}\right)^2 - 1 = 2\cosh^2 x - 1$$
+
+**Mistakes to avoid:**
+- Confusing $\cosh^2 x - \sinh^2 x \equiv 1$ with $\cos^2 x + \sin^2 x \equiv 1$
+- Sign errors in $\cosh 2x$ identity (it's $+1$ for $2\cosh^2 x - 1$, not $-1$)
+
+## Method 2: Solving hyperbolic equations
+
+**When to use it:** "Solve $\cosh x - 3\sinh x = 4$" type questions.
+
+**Steps:**
+1. Replace $\cosh x$ and $\sinh x$ with exponential forms
+2. Result: an equation in $e^x$ — multiply through to clear denominators
+3. Solve the resulting quadratic in $e^x$
+4. Take natural logs: $x = \ln(\ldots)$
+5. Check domain: $\cosh x \ge 1$ always, $\sinh x$ can be any real
+
+**Example (from 9231/w22/qp/22):**
+Solve $\cosh x - 3\sinh x = 4$:
+$$\frac{e^x + e^{-x}}{2} - \frac{3(e^x - e^{-x})}{2} = 4$$
+$$e^x + e^{-x} - 3e^x + 3e^{-x} = 8$$
+$$-2e^x + 4e^{-x} = 8 \Rightarrow -2e^{2x} - 8e^x + 4 = 0$$
+$$e^{2x} + 4e^x - 2 = 0 \Rightarrow e^x = -2 \pm \sqrt{6}$$
+Since $e^x > 0$, $e^x = -2 + \sqrt{6}$, so $x = \ln(\sqrt{6} - 2)$
+
+## Method 3: Logarithmic forms of inverse hyperbolic functions
+
+**When to use it:** Express $\sinh^{-1} x$, $\cosh^{-1} x$, $\tanh^{-1} x$ in $\ln$ form.
+
+**Key formulas (memorise):**
+$$\sinh^{-1} x = \ln(x + \sqrt{x^2 + 1})$$
+$$\cosh^{-1} x = \ln(x + \sqrt{x^2 - 1})\quad(x \ge 1)$$
+$$\tanh^{-1} x = \frac{1}{2}\ln\frac{1+x}{1-x}\quad(|x| < 1)$$

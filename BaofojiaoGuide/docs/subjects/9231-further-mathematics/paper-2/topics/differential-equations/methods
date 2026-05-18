@@ -1,0 +1,74 @@
+---
+title: Methods
+sidebar_position: 4
+---
+
+# Methods — Differential Equations
+
+## Method 1: Integrating factor (1st order linear)
+
+**When to use it:** $\frac{dy}{dx} + P(x)y = Q(x)$
+
+**Steps:**
+1. Ensure DE is in standard form: $\frac{dy}{dx} + P(x)y = Q(x)$
+2. Compute integrating factor: $\mu = e^{\int P\,dx}$
+3. Multiply both sides by $\mu$: $\mu\frac{dy}{dx} + \mu Py = \mu Q$
+4. Note LHS = $\frac{d}{dx}(\mu y)$, so $\frac{d}{dx}(\mu y) = \mu Q$
+5. Integrate: $\mu y = \int\mu Q\,dx + C$
+6. Solve for $y$: $y = \frac{1}{\mu}\left(\int\mu Q\,dx + C\right)$
+7. Apply initial condition to find $C$
+
+**Example (from 9231/w20/qp/22):**
+$x\frac{dy}{dx} + 2y = e^x$, $y=3$ when $x=1$
+Divide by $x$: $\frac{dy}{dx} + \frac{2}{x}y = \frac{e^x}{x}$
+$P = \frac{2}{x}$, $\int P\,dx = 2\ln x = \ln(x^2)$, $\mu = e^{\ln(x^2)} = x^2$
+$\frac{d}{dx}(x^2 y) = x^2 \cdot \frac{e^x}{x} = xe^x$
+$x^2 y = \int xe^x\,dx = (x-1)e^x + C$
+$y = \frac{(x-1)e^x + C}{x^2}$
+$y(1)=3$: $3 = \frac{0 + C}{1} \Rightarrow C = 3$, so $y = \frac{(x-1)e^x + 3}{x^2}$
+
+## Method 2: 2nd order linear — CF + PI
+
+**When to use it:** $a\frac{d^2y}{dx^2} + b\frac{dy}{dx} + cy = f(x)$
+
+**Steps:**
+1. Write auxiliary equation: $am^2 + bm + c = 0$
+2. Solve for $m$:
+   - Real distinct $m_1 \neq m_2$: CF $= Ae^{m_1x} + Be^{m_2x}$
+   - Repeated $m$: CF $= (A + Bx)e^{mx}$
+   - Complex $\alpha \pm i\beta$: CF $= e^{\alpha x}(A\cos\beta x + B\sin\beta x)$
+3. Find PI based on $f(x)$:
+   - $f(x) = k$ (constant): try $y = c$
+   - $f(x) = ke^{ax}$: try $y = pe^{ax}$ (unless $a$ is a root of AE)
+   - $f(x) = a\cos\omega x + b\sin\omega x$: try $y = p\cos\omega x + q\sin\omega x$
+   - $f(x) =$ polynomial: try $y$ of same degree
+4. If PI form overlaps with CF, multiply by $x$ (or $x^2$ for double root)
+5. General solution: $y = $ CF $+$ PI
+6. Apply initial conditions to find constants $A, B$
+
+**Example (from 9231/w20/qp/22):**
+$\frac{d^2x}{dt^2} + 8\frac{dx}{dt} + 15x = 102\cos 3t$, $x=1$, $\frac{dx}{dt}=0$ when $t=0$
+
+AE: $m^2 + 8m + 15 = 0 \Rightarrow (m+3)(m+5)=0 \Rightarrow m = -3, -5$
+CF: $x = Ae^{-3t} + Be^{-5t}$
+
+PI: try $x = p\cos 3t + q\sin 3t$
+$\dot{x} = -3p\sin 3t + 3q\cos 3t$
+$\ddot{x} = -9p\cos 3t - 9q\sin 3t$
+Substitute: $(-9p\cos 3t - 9q\sin 3t) + 8(-3p\sin 3t + 3q\cos 3t) + 15(p\cos 3t + q\sin 3t) = 102\cos 3t$
+$\cos 3t$: $-9p + 24q + 15p = 6p + 24q = 102$
+$\sin 3t$: $-9q - 24p + 15q = 6q - 24p = 0$
+Solving: $p = 1$, $q = 4$
+PI: $x = \cos 3t + 4\sin 3t$
+General solution: $x = Ae^{-3t} + Be^{-5t} + \cos 3t + 4\sin 3t$
+From ICs: $A+B+1=1$, $-3A-5B+12=0$ → $A=6$, $B=-6$
+$x = 6e^{-3t} - 6e^{-5t} + \cos 3t + 4\sin 3t$
+
+## Method 3: Substitution to reduce DE
+
+**When to use it:** "Use the substitution $x = e^t$" or similar.
+
+**Key substitutions:**
+- $x = e^t$ converts $x^2y'' + axy' + by = f(\ln x)$ to constant coefficient
+- $y = ux$ converts homogeneous 1st order to separable
+- $z = x + y$ converts certain 1st order to separable

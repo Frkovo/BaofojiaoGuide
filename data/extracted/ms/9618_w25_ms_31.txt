@@ -1,0 +1,425 @@
+©
+Cambridge
+University
+Press
+&
+Assessment
+2025
+[Turn
+over
+This
+document
+consists
+of
+15
+printed
+pages.
+components. Cambridge
+IGCSE,
+Cambridge
+International
+A
+and
+AS
+Level
+components,
+and
+some
+Cambridge
+O
+Level
+Cambridge
+International
+is
+publishing
+the
+mark
+schemes
+for
+the
+October/November
+2025
+series
+for
+most
+Cambridge
+International
+will
+not
+enter
+into
+discussions
+about
+these
+mark
+schemes.
+Teachers. Mark
+schemes
+should
+be
+read
+in
+conjunction
+with
+the
+question
+paper
+and
+the
+Principal
+Examiner
+Report
+for
+considered
+the
+acceptability
+of
+alternative
+answers.
+details
+of
+the
+discussions
+that
+took
+place
+at
+an
+Examiners(cid:182)
+meeting
+before
+marking
+began,
+which
+would
+have
+examination.
+It
+shows
+the
+basis
+on
+which
+Examiners
+were
+instructed
+to
+award
+marks.
+It
+does
+not
+indicate
+the
+This
+mark
+scheme
+is
+published
+as
+an
+aid
+to
+teachers
+and
+candidates,
+to
+indicate
+the
+requirements
+of
+the
+Published
+Maximum
+Mark:
+75
+MARK
+SCHEME
+Paper
+3
+Advanced
+Theory
+October/November
+2025
+COMPUTER
+SCIENCE
+9618/31
+Cambridge
+International
+AS
+&
+A
+Level
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+Generic Marking Principles
+These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the
+specific content of the mark scheme or generic level descriptions for a question. Each question paper and mark scheme will also comply with these
+marking principles.
+GENERIC MARKING PRINCIPLE 1:
+Marks must be awarded in line with:
+(cid:120) the specific content of the mark scheme or the generic level descriptors for the question
+(cid:120) the specific skills defined in the mark scheme or in the generic level descriptors for the question
+(cid:120) the standard of response required by a candidate as exemplified by the standardisation scripts.
+GENERIC MARKING PRINCIPLE 2:
+Marks awarded are always whole marks (not half marks, or other fractions).
+GENERIC MARKING PRINCIPLE 3:
+Marks must be awarded positively:
+(cid:120) marks are awarded for correct/valid answers, as defined in the mark scheme. However, credit is given for valid answers which go beyond
+the scope of the syllabus and mark scheme, referring to your Team Leader as appropriate
+(cid:120) marks are awarded when candidates clearly demonstrate what they know and can do
+(cid:120) marks are not deducted for errors
+(cid:120) marks are not deducted for omissions
+(cid:120) answers should only be judged on the quality of spelling, punctuation and grammar when these features are specifically assessed by the
+question as indicated by the mark scheme. The meaning, however, should be unambiguous.
+GENERIC MARKING PRINCIPLE 4:
+Rules must be applied consistently, e.g. in situations where candidates have not followed instructions or in the application of generic level
+descriptors.
+© Cambridge University Press & Assessment 2025 Page 2 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+GENERIC MARKING PRINCIPLE 5:
+Marks should be awarded using the full range of marks defined in the mark scheme for the question (however; the use of the full mark range may
+be limited according to the quality of the candidate responses seen).
+GENERIC MARKING PRINCIPLE 6:
+Marks awarded are based solely on the requirements as defined in the mark scheme. Marks should not be awarded with grade thresholds or
+grade descriptors in mind.
+© Cambridge University Press & Assessment 2025 Page 3 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+Question Answer Marks Guidance
+1(a)(i) DECLARE Member1 : ClubMember 1
+1(a)(ii) One mark for each correct answer 2
+Example answer
+Member1.Code (cid:109) 984632
+Member1.FeesPaid (cid:109) TRUE
+1(b)(i) One mark per mark point (Max 2) 2
+MP1 TYPE Activity=
+MP2 (Badminton, Football, Golf, Snooker, Swimming, Tennis)
+Example answer
+TYPE Activity = (Badminton, Football, Golf, Snooker, Swimming,
+Tennis)
+1(b)(ii) DECLARE Choice : Activity 1
+Question Answer Marks Guidance
+2(a) One mark per mark point (Max 2) 2
+MP1 Correct mantissa
+MP2 Correct exponent
+Mantissa Exponent
+0 1 1 1 0 1 0 1 1 0 1 0 1 0 0 1
+© Cambridge University Press & Assessment 2025 Page 6 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+Question Answer Marks Guidance
+2(b) One mark per mark point (Max 4) 4
+MP1 correct method to find the binary number
+MP2 additional working towards binary number
+MP3 correct use of exponent
+MP4 correct answer in the space provided
+Two from:
+e.g.
+76.1875 = 64+8+4+0.125+0.0625
+(0)1001100.0011
+(cid:177)76.1875 = (cid:177)128+32+16+2+1+0.5+0.25+0.0625
+10110011.11 01
+One mark
+movement of binary point by 7 places // 1.011001111 01 x 27
+One mark
+Mantissa Exponent
+1 0 1 1 0 0 1 1 1 1 0 1 0 1 1 1
+Question Answer Marks Guidance
+3(a) One mark per mark point (Max 2) 2
+MP1 Protocols set a standard for communication // Protocols establish a standard set
+of rules for communication
+MP2 Protocols enable compatibility between devices from different
+manufacturers/platforms
+MP3 Two devices wouldn(cid:182)t be able to communicate/send messages to each other if
+they were using different protocols
+© Cambridge University Press & Assessment 2025 Page 7 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+Question Answer Marks Guidance
+3(b) One mark for a protocol and one mark for a description (Max 4) 4
+Example answers:
+SMTP [1] a protocol used to send emails between mail servers // a protocol used to
+send emails from a computer to a mail server [1]
+IMAP [1] allows users to access/read their emails from any device without removing
+the message from the mail server // synchronises emails on any device [1]
+3(c) Two marks for each description mark as 2 x 2 (Max 4) 4
+Example answers:
+Packets checked at receiving end / on arrival [1]
+(cid:171) if packets arrive damaged or don(cid:182)t arrive at all, a re-send request is sent [1]
+Packets routed through different paths / sent individually [1]
+(cid:171) if a route is blocked, the packet is sent through a different route to ensure it arrives [1]
+If the packet(cid:182)s hop count is exceeded [1]
+(cid:171) the packet will be retired, which can generate a re-send request [1]
+Question Answer Marks Guidance
+4(a) One mark per scheduling routine (Max 2) from: 2
+(cid:120) Round robin
+(cid:120) Shortest job first
+(cid:120) First come first served
+(cid:120) Shortest remaining time
+© Cambridge University Press & Assessment 2025 Page 8 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+Question Answer Marks Guidance
+4(b) One mark for identification and one mark for a description (Max 4) 4
+Two from:
+Provision of a User Interface // Provision of a Graphical User Interface [1]
+Allows the user to interact with the computer in a more intuitive way // Icons and menus
+are used to control devices by simply (cid:181)pointing and clicking(cid:182) [1]
+Use of device drivers [1]
+Makes it easier to control peripherals such as printers within the operating system of the
+computer rather than on the separate device itself [1]
+Device mapping [1]
+Different devices (physical and virtual) are easy to identify on the network, check their
+status, or use [1]
+The user interacts only with the Application / top layer (of the TCP/IP protocol suite) [1]
+leaving the lower layers and their complexities hidden from the user [1]
+Question Answer Marks Guidance
+5(a) Two from: 2
+(cid:120) Name of certificate holder // Subject
+(cid:120) Serial number
+(cid:120) Version number
+(cid:120) Expiration date // Start date // Validity (not before/not after)
+(cid:120) Certificate holder(cid:182)s public key // Subject public key
+(cid:120) Subject digital signature
+(cid:120) Certificate Issuer // Digital signature of CA
+© Cambridge University Press & Assessment 2025 Page 9 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+Question Answer Marks Guidance
+5(b) One mark per mark point (Max 3) 3
+MP1 A digital certificate provides a public key
+MP2 (cid:171) which validates the private key used to create the digital signature
+MP3 It makes a digital signature virtually impossible to spoof // Provides evidence of
+signer identity that the document was not altered and the signatures are valid
+MP4 Non repudiation.
+Question Answer Marks Guidance
+6(a) One mark for working, (all four columns P, Q, R and S) 3
+One mark for first four rows of column Z
+One mark for second four rows of column Z
+Working space
+A B C P Q R S Z
+0 0 0 1 1 1 1 0
+0 0 1 1 0 1 0 0
+0 1 0 1 1 1 1 1
+0 1 1 1 0 1 1 1
+1 0 0 0 1 1 1 0
+1 0 1 0 0 0 1 0
+1 1 0 0 1 1 1 1
+1 1 1 0 0 1 1 1
+© Cambridge University Press & Assessment 2025 Page 10 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+Question Answer Marks Guidance
+6(b)(i) Two marks if no errors present 2
+One mark if only one error present
+BC
+00 01 11 10
+A
+0 0 0 1 1
+1 0 1 0 1
+6(b)(ii) One mark for each correct loop (Max 2) 2
+BC
+00 01 11 10
+A
+0 0 0 1 1
+1 0 1 0 1
+6(b)(iii) One mark for each mark point (Max 2) 2
+(cid:120) One correct Boolean term with a + / OR sign
+(cid:120) All Boolean terms and operators correct and no other terms present
+A.B + B.C + A.B.C
+Question Answer Marks Guidance
+7(a) One from: 1
+(cid:120) A* algorithm
+(cid:120) Dijkstra(cid:182)s algorithm
+© Cambridge University Press & Assessment 2025 Page 11 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+Question Answer Marks Guidance
+7(b) One mark for each mark point (Max 5) 5
+MP1 Deep learning is a branch of machine learning
+MP2 It makes use of artificial neural networks
+MP3 (cid:171) to work in a similar manner to the human/biological brain // (cid:171) neural
+networks can be trained to process data
+MP4 It is a structure consisting of many interconnected layers
+MP5 (cid:171) input, hidden and output // the input layer feeds the first hidden layer, the last
+hidden layer feeds the output
+MP6 (cid:171) gradually breaking down and analysing the data to find (hidden) patterns
+MP7 Deep leaning(cid:182)s feature extraction/learning involves how to detect
+features/categories from data
+MP8 (cid:171) and can involve different types of supervision
+MP9 It works well with large data sets
+MP10 Deep learning uses back propagation of errors to adjust parameters/weightings
+to refine its results / improve its accuracy.
+Question Answer Marks Guidance
+8(a) One mark per mark point (Max 2) 2
+MP1 To convert the high-level source code / program into a sequence of tokens
+MP2 (cid:171) that can be sent to the parser for syntax analysis
+MP3 To create a symbol table
+MP4 To remove the unnecessary white space and comments from the code
+8(b) One mark 2 6 (cid:177) 2
+One mark 13 7 + * 5 /
+Complete answer
+2 6 (cid:177) 13 7 + * 5 /
+© Cambridge University Press & Assessment 2025 Page 12 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+Question Answer Marks Guidance
+8(c) One mark per ring (Max 4) 4
+12 6
+6 6 18 15 15 9
+5 5 5 5 90 90 90 90 10
+Question Answer Marks Guidance
+9(a)(i) One mark for each correctly completed line (Max 5) 5
+FUNCTION Pop() RETURNS STRING
+DECLARE DataItem : STRING
+DataItem (cid:109) ""
+IF Top > (cid:177)1 // Top >= Base THEN
+DataItem (cid:109) StackArray[Top]
+Top (cid:109) Top (cid:177) 1
+ELSE
+DataItem (cid:109) "You cannot remove data; the stack is empty"
+ENDIF
+RETURN DataItem // StackArray[Top + 1]
+ENDFUNCTION
+© Cambridge University Press & Assessment 2025 Page 13 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+Question Answer Marks Guidance
+9(a)(ii) OUTPUT "The data removed from the stack is ", Pop() 1
+9(b) One mark per mark point (Max 3) 3
+MP1 A recursive algorithm must call itself / have a general case
+MP2 It must have a base case / have a stopping condition
+MP3 It must change its state and move towards the base case
+Question Answer Marks Guidance
+10 One mark per mark point (Max 2) 3
+MP1 Exception handling is a process that responds to unwanted / unexpected
+events when a program runs
+MP2 (cid:171) to prevent the program / computer from stopping unexpectedly
+One mark for example (Max 1)
+MP3 Programming errors
+MP4 User errors
+MP5 Hardware failure // losing connection to a device such as a printer
+© Cambridge University Press & Assessment 2025 Page 14 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2025
+PUBLISHED
+Question Answer Marks Guidance
+11(a) One mark per mark point (Max 6) 6
+MP1 LDM #100 seen
+MP2 Correct use of STO with labelled address (constant or answer)
+MP3 Correct use of LDD 632
+MP4 Correct use of SUB with labelled address (constant)
+Opcode Operand
+LDM #100
+STO Constant
+LDD 632
+SUB Constant
+STO Answer
+MP5 Storing 100 at a labelled address away from the code
+MP6 Labelling both addresses away from the code.
+Label Contents
+Constant: 100
+Answer:
+11(b) (cid:177)55 1
+© Cambridge University Press & Assessment 2025 Page 15 of 15

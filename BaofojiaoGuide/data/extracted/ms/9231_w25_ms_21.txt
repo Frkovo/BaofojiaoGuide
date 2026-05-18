@@ -1,0 +1,2414 @@
+ 
+                                                                    
+  
+ 
+ 
+This document consists of 19 printed pages. 
+ 
+© Cambridge University Press & Assessment 2025 
+ 
+[Turn over
+ 
+Cambridge International AS & A Level 
+ 
+FURTHER MATHEMATICS 
+9231/21 
+Paper 2 Further Pure Mathematics 2 
+October/November 2025 
+MARK SCHEME 
+Maximum Mark: 75 
+ 
+ 
+Published 
+ 
+ 
+This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the 
+examination. It shows the basis on which Examiners were instructed to award marks. It does not indicate the 
+details of the discussions that took place at an Examiners¶ meeting before marking began, which would have 
+considered the acceptability of alternative answers. 
+ 
+Mark schemes should be read in conjunction with the question paper and the Principal Examiner Report for 
+Teachers. 
+ 
+Cambridge International will not enter into discussions about these mark schemes. 
+ 
+Cambridge International is publishing the mark schemes for the October/November 2025 series for most 
+Cambridge IGCSE, Cambridge International A and AS Level components, and some Cambridge O Level 
+components. 
+ 
+ 
+ 
+9231/21 
+Cambridge International AS & A Level ± Mark Scheme 
+PUBLISHED 
+October/November 2025
+ 
+© Cambridge University Press & Assessment 2025 
+Page 2 of 19 
+ 
+Generic Marking Principles 
+ 
+These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the 
+mark scheme or generic level descriptions for a question. Each question paper and mark scheme will also comply with these marking principles. 
+ 
+GENERIC MARKING PRINCIPLE 1: 
+ 
+Marks must be awarded in line with: 
+ 
+x 
+the specific content of the mark scheme or the generic level descriptors for the question 
+x 
+the specific skills defined in the mark scheme or in the generic level descriptors for the question 
+x 
+the standard of response required by a candidate as exemplified by the standardisation scripts. 
+GENERIC MARKING PRINCIPLE 2: 
+ 
+Marks awarded are always whole marks (not half marks, or other fractions). 
+GENERIC MARKING PRINCIPLE 3: 
+ 
+Marks must be awarded positively: 
+ 
+x 
+marks are awarded for correct/valid answers, as defined in the mark scheme. However, credit is given for valid answers which go beyond the scope of the 
+syllabus and mark scheme, referring to your Team Leader as appropriate 
+x 
+marks are awarded when candidates clearly demonstrate what they know and can do 
+x 
+marks are not deducted for errors 
+x 
+marks are not deducted for omissions 
+x 
+answers should only be judged on the quality of spelling, punctuation and grammar when these features are specifically assessed by the question as 
+indicated by the mark scheme. The meaning, however, should be unambiguous. 
+GENERIC MARKING PRINCIPLE 4: 
+ 
+Rules must be applied consistently, e.g. in situations where candidates have not followed instructions or in the application of generic level descriptors. 
+GENERIC MARKING PRINCIPLE 5: 
+ 
+Marks should be awarded using the full range of marks defined in the mark scheme for the question (however; the use of the full mark range may be limited 
+according to the quality of the candidate responses seen). 
+9231/21 
+Cambridge International AS & A Level ± Mark Scheme 
+PUBLISHED 
+October/November 2025
+ 
+© Cambridge University Press & Assessment 2025 
+Page 3 of 19 
+ 
+GENERIC MARKING PRINCIPLE 6: 
+ 
+Marks awarded are based solely on the requirements as defined in the mark scheme. Marks should not be awarded with grade thresholds or grade descriptors in 
+mind. 
+ 
+ 
+Mathematics-Specific Marking Principles 
+1 
+Unless a particular method has been specified in the question, full marks may be awarded for any correct method. However, if a calculation is required 
+then no marks will be awarded for a scale drawing. 
+2 
+Unless specified in the question, non-integer answers may be given as fractions, decimals or in standard form. Ignore superfluous zeros, provided that the 
+degree of accuracy is not affected. 
+3 
+Allow alternative conventions for notation if used consistently throughout the paper, e.g. commas being used as decimal points. 
+4 
+Unless otherwise indicated, marks once gained cannot subsequently be lost, e.g. wrong working following a correct form of answer is ignored (isw). 
+5 
+Where a candidate has misread a number or sign in the question and used that value consistently throughout, provided that number does not alter the 
+difficulty or the method required, award all marks earned and deduct just 1 A or B mark for the misread. 
+6 
+Recovery within working is allowed, e.g. a notation error in the working where the following line of working makes the candidate¶s intent clear. 
+ 
+ 
+ 
+ 
+9231/21 
+Cambridge International AS & A Level ± Mark Scheme 
+PUBLISHED 
+October/November 2025
+ 
+© Cambridge University Press & Assessment 2025 
+Page 7 of 19 
+ 
+Mark Scheme Notes 
+ 
+ 
+The following notes are intended to aid interpretation of mark schemes in general, but individual mark schemes may include marks awarded for specific reasons 
+outside the scope of these notes. 
+ 
+Types of mark 
+ 
+M 
+Method mark, awarded for a valid method applied to the problem. Method marks are not lost for numerical errors, algebraic slips or errors in units. 
+However, it is not usually sufficient for a candidate just to indicate an intention of using some method or just to quote a formula; the formula or idea 
+must be applied to the specific problem in hand, e.g. by substituting the relevant quantities into the formula. Correct application of a formula 
+without the formula being quoted obviously earns the M mark and in some cases an M mark can be implied from a correct answer. 
+ 
+A 
+Accuracy mark, awarded for a correct answer or intermediate step correctly obtained. Accuracy marks cannot be given unless the associated method 
+mark is earned (or implied). 
+ 
+B 
+ 
+Mark for a correct result or statement independent of method marks. 
+ 
+DM or DB  When a part of a question has two or more µmethod¶ steps, the M marks are generally independent unless the scheme specifically says otherwise; 
+and similarly, when there are several B marks allocated. The notation DM or DB is used to indicate that a particular M or B mark is dependent on 
+an earlier M or B (asterisked) mark in the scheme. When two or more steps are run together by the candidate, the earlier marks are implied and full 
+credit is given. 
+ 
+FT   
+Implies that the A or B mark indicated is allowed for work correctly following on from previously incorrect results. Otherwise, A or B marks are 
+given for correct work only.  
+ 
+x 
+A or B marks are given for correct work only (not for results obtained from incorrect working) unless follow through is allowed (see abbreviation FT above).  
+x 
+For a numerical answer, allow the A or B mark if the answer is correct to 3 significant figures or would be correct to 3 significant figures if rounded (1 
+decimal place for angles in degrees).  
+x 
+The total number of marks available for each question is shown at the bottom of the Marks column. 
+x 
+Wrong or missing units in an answer should not result in loss of marks unless the guidance indicates otherwise. 
+x 
+Square brackets [ ] around text or numbers show extra information not needed for the mark to be awarded. 
+ 
+ 
+9231/21 
+Cambridge International AS & A Level ± Mark Scheme 
+PUBLISHED 
+October/November 2025
+ 
+© Cambridge University Press & Assessment 2025 
+Page 8 of 19 
+ 
+Abbreviations 
+ 
+AEF/OE Any Equivalent Form (of answer is equally acceptable) / Or Equivalent 
+ 
+AG  
+Answer Given on the question paper (so extra checking is needed to ensure that the detailed working leading to the result is valid) 
+ 
+CAO  
+Correct Answer Only (emphasising that no µfollow through¶ from a previous error is allowed) 
+ 
+CWO  
+Correct Working Only  
+ 
+ISW 
+Ignore Subsequent Working 
+ 
+SOI  
+Seen Or Implied 
+ 
+SC  
+Special Case (detailing the mark to be given for a specific wrong solution, or a case where some standard marking practice is to be varied in the 
+light of a particular circumstance) 
+ 
+WWW 
+Without Wrong Working 
+ 
+AWRT  
+Answer Which Rounds To 
+ 
+ 
+ 
+9231/21 
+Cambridge International AS & A Level ± Mark Scheme 
+PUBLISHED 
+October/November 2025
+ 
+© Cambridge University Press & Assessment 2025 
+Page 9 of 19 
+ 
+Question 
+Answer 
+Marks 
+Guidance 
+1 
+2
+1
+1
+1
+3
+1
+3
+1
+1
+3
+7
+2
+1
+1
+2
+1
+2
+
+ 
+
+
+ 
+
+k
+k
+k
+k
+k
+k
+k
+ 
+M1 A1 Evaluates determinant.  
+ 
+7
+ r
+k
+  
+A1  
+ 
+ 
+3  
+Question 
+Answer 
+Marks 
+Guidance 
+2(a) 
+d
+d
+d
+1 sinh
+d
+d
+d
+cosh
+
+ 
+ 
+u
+y
+y
+t
+t
+x
+t
+x
+t
+  
+M1 A1 Applies chain rule. 
+ 
+ 
+2  
+2(b) 
+
+ 
+
+2
+2
+cosh
+cosh
+1 sinh
+sinh
+d 1 sinh
+1 sinh
+d
+cosh
+cosh
+cosh
+
+
+
+
+§
+·  
+ 
+¨
+¸
+©
+¹
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t   
+M1 A1 Finds d
+d
+.
+d
+d
+§
+·
+¨
+¸
+©
+¹
+y
+t
+x
+  
+ 
+2
+2
+3
+d
+d
+d
+d
+1 sinh
+d
+d
+d
+d
+cosh
+
+§
+·
+ 
+ 
+¨
+¸
+©
+¹
+u
+y
+y
+t
+t
+t
+x
+x
+x
+t   
+M1 A1 Applies chain rule, AG. 
+ 
+ 
+4  
+2(c) 
+2
+1
+2
+2
+(0)
+'(0)
+''(0)
+1
+2!
+ 
+
+
+ 
+
+x
+y
+y
+xy
+y
+x
+x   
+M1 A1 Finds Maclaurin¶s series. M1 for (0)
+y
+, 
+'(0)
+y
+ and 
+''(0)
+y
+ evaluated. A0 if 2! not simplified to 2.  
+ 
+ 
+2  
+9231/21 
+Cambridge International AS & A Level ± Mark Scheme 
+PUBLISHED 
+October/November 2025
+ 
+© Cambridge University Press & Assessment 2025 
+Page 10 of 19 
+ 
+Question 
+Answer 
+Marks 
+Guidance 
+3(a) 
+
+
+
+
+
+
+
+
+1
+2
+2
+2
+2
+d
+1
+2
+1
+1
+d
+
+
+ 
+
+
+
+n
+n
+n
+x
+x
+nx
+x
+x
+x
+ 
+M1 A1 Uses the product rule to differentiate. 
+ 
+
+
+
+
+
+1
+2
+2
+2
+2
+1
+1 1
+1
+
+ 
+
+
+
+
+
+n
+n
+n
+x
+x
+x
+ 
+*M1 Uses 
+2
+2
+1 1
+ 
+ 
+x
+x
+. 
+ 
+
+
+0
+1
+2
+1
+1
+2
+2
+
+ª
+º
+
+ 
+
+
+«
+»
+¬
+¼
+n
+n
+n
+n
+x
+x
+nI
+nI
+I  
+DM1 Integrates both sides using the limits given.  
+ 
+1
+1
+2
+(2
+1)
+2
+(2
+1)
+2
+2
+
+
+ 
+
+
+
+
+ 
+
+n
+n
+n
+n
+n
+n
+n
+I
+nI
+n
+I
+nI
+ 
+A1 Substitutes limits and rearranges. AG. 
+ 
+ 
+5  
+3(b) 
+1
+1
+1
+1
+4
+0
+tan
+ʌ
+
+
+ª
+º
+ 
+ 
+¬
+¼
+I
+x
+ 
+B1  
+ 
+1
+1
+2
+2
+2
+
+
+
+ 
+
+I
+I
+ 
+M1 A1 Applies reduction formula with 
+1
+ 
+n
+. 
+ 
+2
+1
+2
+2
+1
+1
+1
+4
+4
+8
+ʌ
+
+ʌ
+
+
+ 
+
+
+ 
+
+ I
+I
+ 
+A1  
+ 
+ 
+4  
+9231/21 
+Cambridge International AS & A Level ± Mark Scheme 
+PUBLISHED 
+October/November 2025
+ 
+© Cambridge University Press & Assessment 2025 
+Page 11 of 19 
+ 
+Question 
+Answer 
+Marks 
+Guidance 
+4 
+1
+2
+2
+5
+5
+i
+5
+2
+1 0
+
+  
+  r
+m
+m
+m
+  
+M1 Auxiliary equation. Correct type of roots for M1. 
+ 
+
+
+1
+5
+2
+2
+5
+5
+e
+cos
+sin
+
+ 
+
+x
+y
+A
+x
+B
+x   
+A1 Complementary function. Allow µ
+ 
+y
+¶ missing. 
+ 
+2
+'
+2
+''
+2
+ 
+
+ 
+ 
+
+
+ 
+y
+px
+qx
+r
+y
+px
+q
+y
+p   
+B1 Particular integral and its derivatives.  
+ 
+1
+ 
+p
+ 4
+5
+
+ 
+p
+q
+ 10
+2
+3
+
+
+ 
+p
+q
+r
+ 
+M1 Substitutes and equates coefficients. 
+ 
+1
+ 
+q
+ 
+9
+ 
+r
+  
+A1  
+ 
+
+
+1
+5
+5
+2
+2
+2
+5
+e
+cos
+sin
+9
+
+ 
+
+
+
+
+x
+y
+A
+x
+B
+x
+x
+x
+ 
+A1 FT General solution. FT on CF. Must have µ
+ 
+y
+¶. 
+ 
+
+
+
+
+1
+1
+5
+5
+2
+2
+2
+2
+1
+2
+2
+5
+5
+5
+5
+5
+5
+5
+'
+e
+sin
+cos
+e
+cos
+sin
+2
+1
+
+
+ 
+
+
+
+
+
+
+x
+x
+y
+A
+x
+B
+x
+A
+x
+B
+x
+x
+  
+*M1 Differentiates using the product rule, CF must be of the 
+correct form. 
+ 
+9
+0
+  
+A
+ 2
+1
+5
+5
+1
+0
+
+  
+B
+A
+ 
+9,
+2
+
+ 
+ 
+A
+B
+  
+DM1 A1 Uses initial conditions. 
+ 
+
+
+1
+5
+2
+2
+2
+5
+5
+e
+9cos
+2sin
+9
+
+ 
+
+
+
+
+x
+y
+x
+x
+x
+x
+ 
+A1 Must have µ
+ 
+y
+¶. 
+ 
+ 
+10  
+9231/21 
+Cambridge International AS & A Level ± Mark Scheme 
+PUBLISHED 
+October/November 2025
+ 
+© Cambridge University Press & Assessment 2025 
+Page 13 of 19 
+ 
+Question 
+Answer 
+Marks 
+Guidance 
+6(a) 
+,
+2 ,
+3
+
+a
+a
+a  
+B1  
+ 
+ 
+1  
+6(b)(i) 
+2
+2
+2
+2
+3
+2
+1
+0
+4
+0
+0
+9
+§
+·
+
+
+¨
+¸
+ ¨
+¸
+¨
+¸
+¨
+¸
+©
+¹
+a
+a
+a
+a
+a
+a
+P
+  
+B1  
+ 
+ 
+1  
+6(b)(ii) 
+3
+2
+3
+7
+6
+0
+
+
+ 
+a
+a
+P
+I
+P
+  
+B1 States that P satisfies its characteristic equation.  
+ 
+3
+2
+2
+1
+6
+7
+  
+
+a
+a
+P
+I
+P   
+M1 Multiplies through by 
+1
+
+P
+. 
+ 
+1
+2
+2
+2
+2
+2
+3
+2
+2
+3
+2
+1
+3
+2
+1
+0
+4
+0
+3
+0
+2
+0
+0
+0
+6
+1
+6
+9
+
+
+ 
+¸
+§
+·
+§
+·
+
+
+
+
+¨
+¸
+¨
+¸
+ ¨
+¸
+¨
+¸
+¨
+¸
+¨
+¸
+¨
+¸
+¨
+©
+©
+
+
+¹
+¹
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+P
+P
+  
+A1   
+ 
+ 
+3  
+9231/21 
+Cambridge International AS & A Level ± Mark Scheme 
+PUBLISHED 
+October/November 2025
+ 
+© Cambridge University Press & Assessment 2025 
+Page 14 of 19 
+ 
+Question 
+Answer 
+Marks 
+Guidance 
+6(c) 
+1
+0
+0
+0
+2
+0
+0
+0
+3
+§
+·
+¨
+¸
+ ¨
+¸
+¨
+¸
+©
+¹
+D
+  
+B1  
+ 
+1
+1
+0
+0
+0
+2
+0
+0
+0
+3
+
+§
+·
+¨
+¸
+ 
+¨
+¸
+¨
+¸
+©
+¹
+A
+P
+P
+  
+M1 Applies 
+1.
+
+ 
+A
+PDP
+  
+ 
+2
+2
+3
+2
+3
+2
+1
+0
+0
+3
+6
+0
+0
+2
+3
+0
+9
+0
+3
+1
+4
+6
+2
+§
+·
+
+
+§
+·¨
+¸
+¨
+¸¨
+¸
+¨
+¸¨
+¸
+¨
+¸¨
+¸
+ 
+
+©
+¹
+
+¹
+
+
+©
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+  
+M1 A1 Multiplies two adjacent matrices. For M1, P must 
+correct.  
+ 
+2
+4
+1
+1
+2
+6
+1
+3
+1
+0
+2
+0
+0
+3
+
+§
+·
+
+¨
+¸
+¨
+¸
+¨
+¸
+¨
+¸
+©
+¹
+a
+a
+a
+a
+  
+A1 OE. 
+ 
+ 
+5  
+9231/21 
+Cambridge International AS & A Level ± Mark Scheme 
+PUBLISHED 
+October/November 2025
+ 
+© Cambridge University Press & Assessment 2025 
+Page 15 of 19 
+ 
+Question 
+Answer 
+Marks 
+Guidance 
+7(a) 
+
+
+
+  
+
+
+
+
+1
+2
+1
+2
+1
+1
+1
+1
+d
+1
+tanh
+d
+1
+1
+
+
+
+
+
+
+§
+·
+ ¨
+¸
+
+©
+¹
+
+x
+x
+x
+x
+x
+x
+x
+ 
+M1 A1 Applies 
+1
+1
+2
+1
+tanh
+ln 1
+
+
+§
+·
+ 
+¨
+¸
+
+©
+¹
+x
+x
+x
+ .  
+ 
+
+
+2
+1
+2
+2
+1
+2
+1
+1
+1
+1
+
+§
+·
+ 
+ 
+¨
+¸
+
+
+©
+¹
+
+x
+x
+x
+x
+  
+A1 AG. 
+ 
+Alternative method for question 7(a) 
+  
+ 
+2
+d
+tanh
+sech
+1
+d
+ 
+
+ 
+y
+y
+x
+y x
+  
+M1 A1 Implicit differentiation.  
+ 
+2
+2
+d
+1
+1
+d
+1
+tanh
+1
+ 
+ 
+
+
+y
+x
+y
+x
+  
+A1 AG. 
+ 
+ 
+3  
+9231/21 
+Cambridge International AS & A Level ± Mark Scheme 
+PUBLISHED 
+October/November 2025
+ 
+© Cambridge University Press & Assessment 2025 
+Page 16 of 19 
+ 
+Question 
+Answer 
+Marks 
+Guidance 
+7(b) 
+1
+h
+d
+d
+tan
+
+ 
+
+y
+y
+x
+x
+x
+x
+  
+B1 Divides through by 
+.
+x   
+ 
+1
+1
+ln
+d
+e
+e
+T
+
+
+
+
+ 
+ 
+³x
+x
+x
+  
+M1 A1 Finds integrating factor.  
+ 
+
+
+1
+1
+d
+tanh
+d
+
+
+ 
+x y
+x
+x
+  
+M1 Correct form on LHS and RHS. 
+ 
+1
+1
+2
+tanh
+d
+1
+
+
+ 
+
+
+´µ¶
+x
+x
+x
+x
+x
+y
+x
+  
+*M1 A1 Integrates correct function on RHS. 
+ 
+
+
+1
+1
+1
+2
+2
+tanh
+ln 1
+
+
+
+
+
+ 
+x y
+x
+x
+x
+C   
+A1 µ C ¶ not required.  
+ 
+3
+3
+1
+1
+1
+1
+1
+2
+2
+2
+4
+4
+2
+4
+1
+0
+tanh
+ln
+ln3
+ln
+
+ 
+
+
+
+ 
+
+C
+C
+  
+DM1 Substitutes initial conditions.  
+ 
+
+
+27
+1
+1
+2
+4
+16
+1
+1
+2
+ln 1
+l
+tanh
+n
+
+
+
+
+ 
+
+x
+x y
+x
+x
+  
+ A1 Accept 
+
+
+1
+1
+2
+3
+1
+1
+1
+1
+2
+2
+2
+2
+4
+1
+ln 1
+tanh
+l
+n
+n
+ta h
+.
+
+
+
+
+
+
+ 
+
+x
+x
+x
+y
+x
+  
+Accept 
+
+
+
+
+2
+27
+1
+1
+2
+4
+16
+1
+ln 1
+ln
+.
+tanh
+ 
+
+
+
+x
+x
+x
+y
+x
+ 
+ 
+ 
+9  
+9231/21 
+Cambridge International AS & A Level ± Mark Scheme 
+PUBLISHED 
+October/November 2025
+ 
+© Cambridge University Press & Assessment 2025 
+Page 17 of 19 
+ 
+Question 
+Answer 
+Marks 
+Guidance 
+8(a) 
+1
+1
+ 
+
+nz
+z
+z
+  
+B1  
+ 
+ 
+1  
+8(b) 
+ 
+ 
+
+
+1
+1
+1
+1
+1
+1
+2
+2
+2
+1
+1
+2
+2
+1
+2
+cos
+i
+sin(
+1)
+sin
+1 i
+cos(
+1)
+1
+cos
+sin
+T
+T
+T
+T
+T
+T
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+n
+n
+n
+n
+n
+z
+z
+z
+ 
+B1  
+ 
+ 
+ 
+
+
+1
+1
+1
+1
+1
+1
+2
+2
+2
+2
+1
+1
+1
+1
+2
+2
+1
+1
+2
+2
+2
+2
+cos(
+1)
+cos
+c
+cos
+i
+sin(
+1)
+sin
+1 i sin
+1 i
+s
+sin
+1 i sin
+o
+cos
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+
+
+
+
+
+
+ 
+u
+ 
+ 
+
+n
+n
+n
+n
+ 
+*M1 Multiplies numerator and denominator by complex 
+conjugate of z±1. 
+ 
+ 
+
+ 
+  
+
+
+2
+1
+2
+1
+1
+1
+1
+1
+1
+1
+2
+2
+2
+2
+5
+4
+cos(
+1)
+c
+o
+o
+sin
+c s
+1
+sin(
+1)
+sin
+cos
+s
+T
+T
+T
+T
+T
+T
+T
+
+
+
+
+
+
+
+
+
+
+n
+n
+n
+n
+  
+DM1 A1 Takes imaginary part. 
+ 
+ 
+ 
+ 
+ 
+ 
+2
+2
+1
+1
+1
+1
+1
+2
+2
+2
+2
+5
+4
+2
+1
+1
+1
+2
+2
+4
+1
+2
+5
+cos(
+1)
+cos
+sin(
+1)
+sin
+sin
+sin
+sin(
+1)
+sin
+cos
+si
+o
+(
+n
+c s
+1)
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+ 
+M1 A1 Uses sin(
+)
+sin
+cos
+cos
+sin
+
+ 
+
+A
+B
+A
+B
+A
+B  in 
+numerator, AG. 
+9231/21 
+Cambridge International AS & A Level ± Mark Scheme 
+PUBLISHED 
+October/November 2025
+ 
+© Cambridge University Press & Assessment 2025 
+Page 18 of 19 
+ 
+Question 
+Answer 
+Marks 
+Guidance 
+8(b) 
+Alternative method for question 8(b) 
+  
+ 
+2
+i
+1 e T
+ 
+z
+  
+B1  
+ 
+ 
+
+
+ 
+2
+1
+i
+1
+i
+1
+1
+2
+2
+1
+i
+1
+e
+e
+1
+e
+1
+T
+T
+T
+
+
+
+
+
+ 
+
+
+n
+n
+nz
+z
+z
+ 
+M1 A1  
+ 
+ 
+
+
+ 
+i
+1
+i
+i
+1
+1
+1
+2
+2
+2
+i
+2
+1
+i
+1
+1
+2
+e
+e
+e
+1
+e
+1
+e
+1
+T
+T
+T
+T
+T
+
+
+
+
+
+
+u
+
+
+n
+n
+ 
+M1 Multiplies numerator and denominator by complex 
+conjugate. 
+ 
+ 
+ 
+
+
+i
+1
+i
+i
+1
+1
+1
+1
+2
+1
+5
+2
+2
+2
+4
+4
+c
+e
+e
+I
+os
+e
+m
+T
+T
+T
+T
+
+
+
+§
+·
+
+
+
+¨
+¸
+¨
+¸
+©
+¹
+
+n
+n
+n
+n
+ 
+ 
+ 
+
+
+2
+1
+1
+1
+2
+2
+1
+2
+5
+4
+s
+s
+in
+s n
+in
+c
+i
+os
+1
+T
+T
+T
+T
+
+
+ 
+
+
+
+
+n
+n
+n
+n
+ 
+M1 A1 Takes imaginary part 
+ 
+ 
+6  
+8(c) 
+ 
+ 
+ 
+2
+2
+1
+1
+2
+5
+4
+1
+1
+2
+1
+2
+1
+sin
+sin(
+1
+sin
+d
+d
+co
+)
+cos
+s
+T
+T
+T
+T
+T
+T
+
+
+ 
+¸
+
+§
+·
+
+
+¨
+¸
+ 
+¨
+
+©
+¹
+¦
+n
+n
+m
+n
+m
+n
+n
+m
+m
+ 
+M1 Differentiates the result from (b). 
+ 
+
+  
+ 
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+1
+1
+1
+2
+2
+2
+2
+1
+1
+2
+2
+2
+2
+1
+5
+4
+5
+4
+2
+1
+1
+2
+5
+4
+cos
+(
+1)cos
+1
+cos
+si
+cos
+cos
+sin
+sin(
+1)
+sin
+n
+cos
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+ 
+M1 A1  
+ 
+ 
+3  
+9231/21 
+Cambridge International AS & A Level ± Mark Scheme 
+PUBLISHED 
+October/November 2025
+ 
+© Cambridge University Press & Assessment 2025 
+Page 19 of 19 
+ 
+Question 
+Answer 
+Marks 
+Guidance 
+8(d) 
+ 
+
+
+ 
+
+
+
+1
+2
+1
+5
+2
+2
+1
+4
+2
+5
+4
+1
+cos
+sin
+cos
+cos
+sin
+cos
+T
+T
+T
+T
+T
+T
+ 
+f
+
+ 
+
+
+¦
+m
+m
+m
+m
+  
+M1 
+ 
+1
+2
+0
+o
+n
+n
+ as 
+.
+o f
+n
+  
+ 
+
+
+2
+1
+2
+5
+4
+5
+8 c
+c s
+os
+o
+T
+T
+ 
+
+
+  
+A1  
+ 
+ 
+2  
+ 
+ 
+ 

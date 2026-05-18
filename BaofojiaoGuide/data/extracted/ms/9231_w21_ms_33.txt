@@ -1,0 +1,412 @@
+©
+UCLES
+2021
+[Turn
+over
+This
+document
+consists
+of
+12
+printed
+pages.
+components. Cambridge
+IGCSE™,
+Cambridge
+International
+A and
+AS
+Level
+components
+and
+some
+Cambridge
+O
+Level
+Cambridge
+International
+is
+publishing
+the
+mark
+schemes
+for
+the
+October/November
+2021
+series
+for
+most
+Cambridge
+International
+will
+not
+enter
+into
+discussions
+about
+these
+mark
+schemes.
+Teachers. Mark
+schemes
+should
+be
+read
+in
+conjunction
+with
+the
+question
+paper
+and
+the
+Principal
+Examiner
+Report
+for
+considered
+the
+acceptability
+of
+alternative
+answers.
+details
+of
+the
+discussions
+that
+took
+place
+at
+an
+Examiners’
+meeting
+before
+marking
+began,
+which
+would
+have
+examination.
+It
+shows
+the
+basis
+on
+which
+Examiners
+were
+instructed
+to
+award
+marks.
+It
+does
+not
+indicate
+the
+This
+mark
+scheme
+is
+published
+as
+an
+aid
+to
+teachers
+and
+candidates,
+to
+indicate
+the
+requirements
+of
+the
+Published
+Maximum
+Mark:
+50
+MARK
+SCHEME
+Paper
+3
+Further
+Mechanics
+October/November
+2021
+FURTHER
+MATHEMATICS
+9231/33
+Cambridge
+International
+AS
+&
+A
+Level
+9231/33 Cambridge International AS & A Level – Mark Scheme October/November 2021
+PUBLISHED
+Generic Marking Principles
+These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the
+mark scheme or generic level descriptors for a question. Each question paper and mark scheme will also comply with these marking principles.
+GENERIC MARKING PRINCIPLE 1:
+Marks must be awarded in line with:
+• the specific content of the mark scheme or the generic level descriptors for the question
+• the specific skills defined in the mark scheme or in the generic level descriptors for the question
+• the standard of response required by a candidate as exemplified by the standardisation scripts.
+GENERIC MARKING PRINCIPLE 2:
+Marks awarded are always whole marks (not half marks, or other fractions).
+GENERIC MARKING PRINCIPLE 3:
+Marks must be awarded positively:
+• marks are awarded for correct/valid answers, as defined in the mark scheme. However, credit is given for valid answers which go beyond the scope of the
+syllabus and mark scheme, referring to your Team Leader as appropriate
+• marks are awarded when candidates clearly demonstrate what they know and can do
+• marks are not deducted for errors
+• marks are not deducted for omissions
+• answers should only be judged on the quality of spelling, punctuation and grammar when these features are specifically assessed by the question as
+indicated by the mark scheme. The meaning, however, should be unambiguous.
+GENERIC MARKING PRINCIPLE 4:
+Rules must be applied consistently, e.g. in situations where candidates have not followed instructions or in the application of generic level descriptors.
+GENERIC MARKING PRINCIPLE 5:
+Marks should be awarded using the full range of marks defined in the mark scheme for the question (however; the use of the full mark range may be limited
+according to the quality of the candidate responses seen).
+GENERIC MARKING PRINCIPLE 6:
+Marks awarded are based solely on the requirements as defined in the mark scheme. Marks should not be awarded with grade thresholds or grade descriptors in
+mind.
+© UCLES 2021 Page 2 of 12
+9231/33 Cambridge International AS & A Level – Mark Scheme October/November 2021
+PUBLISHED
+Mathematics Specific Marking Principles
+1 Unless a particular method has been specified in the question, full marks may be awarded for any correct method. However, if a calculation is required
+then no marks will be awarded for a scale drawing.
+2 Unless specified in the question, answers may be given as fractions, decimals or in standard form. Ignore superfluous zeros, provided that the degree of
+accuracy is not affected.
+3 Allow alternative conventions for notation if used consistently throughout the paper, e.g. commas being used as decimal points.
+4 Unless otherwise indicated, marks once gained cannot subsequently be lost, e.g. wrong working following a correct form of answer is ignored (isw).
+5 Where a candidate has misread a number in the question and used that value consistently throughout, provided that number does not alter the difficulty or
+the method required, award all marks earned and deduct just 1 mark for the misread.
+6 Recovery within working is allowed, e.g. a notation error in the working where the following line of working makes the candidate’s intent clear.
+© UCLES 2021 Page 3 of 12
+9231/33 Cambridge International AS & A Level – Mark Scheme October/November 2021
+PUBLISHED
+Mark Scheme Notes
+The following notes are intended to aid interpretation of mark schemes in general, but individual mark schemes may include marks awarded for specific reasons
+outside the scope of these notes.
+Types of mark
+M Method mark, awarded for a valid method applied to the problem. Method marks are not lost for numerical errors, algebraic slips or errors in units.
+However, it is not usually sufficient for a candidate just to indicate an intention of using some method or just to quote a formula; the formula or idea
+must be applied to the specific problem in hand, e.g. by substituting the relevant quantities into the formula. Correct application of a formula
+without the formula being quoted obviously earns the M mark and in some cases an M mark can be implied from a correct answer.
+A Accuracy mark, awarded for a correct answer or intermediate step correctly obtained. Accuracy marks cannot be given unless the associated method
+mark is earned (or implied).
+B Mark for a correct result or statement independent of method marks.
+DM or DB When a part of a question has two or more ‘method’ steps, the M marks are generally independent unless the scheme specifically says otherwise;
+and similarly, when there are several B marks allocated. The notation DM or DB is used to indicate that a particular M or B mark is dependent on
+an earlier M or B (asterisked) mark in the scheme. When two or more steps are run together by the candidate, the earlier marks are implied and full
+credit is given.
+FT Implies that the A or B mark indicated is allowed for work correctly following on from previously incorrect results. Otherwise, A or B marks are
+given for correct work only.
+• A or B marks are given for correct work only (not for results obtained from incorrect working) unless follow through is allowed (see abbreviation FT above).
+• For a numerical answer, allow the A or B mark if the answer is correct to 3 significant figures or would be correct to 3 significant figures if rounded (1
+decimal place for angles in degrees).
+• The total number of marks available for each question is shown at the bottom of the Marks column.
+• Wrong or missing units in an answer should not result in loss of marks unless the guidance indicates otherwise.
+• Square brackets [ ] around text or numbers show extra information not needed for the mark to be awarded.
+© UCLES 2021 Page 4 of 12
+9231/33 Cambridge International AS & A Level – Mark Scheme October/November 2021
+PUBLISHED
+Abbreviations
+AEF/OE Any Equivalent Form (of answer is equally acceptable) / Or Equivalent
+AG Answer Given on the question paper (so extra checking is needed to ensure that the detailed working leading to the result is valid)
+CAO Correct Answer Only (emphasising that no ‘follow through’ from a previous error is allowed)
+CWO Correct Working Only
+ISW Ignore Subsequent Working
+SOI Seen Or Implied
+SC Special Case (detailing the mark to be given for a specific wrong solution, or a case where some standard marking practice is to be varied in the
+light of a particular circumstance)
+WWW Without Wrong Working
+AWRT Answer Which Rounds To
+© UCLES 2021 Page 5 of 12
+9231/33 Cambridge International AS & A Level – Mark Scheme October/November 2021
+PUBLISHED
+Question Answer Marks Guidance
+1 3mgx B1 Their tensions equated to obtain a quadratic equation,
+T =
+CAO.
+a
+4mga B1
+T =
+3 ( a+x )
+9x2+9ax−4a2 =0 leading to ( 3x−a )( 3x+4a )=0 M1
+1 A1
+x= a
+3
+4
+2(a) Separate variables and integrate: M1 A1 Must include logs. Condone missing modulus.
+dv (cid:167)1−2t2 (cid:183)
+= (cid:168) (cid:184)dt so ln v =lnt−t2 +c
+v (cid:169) t (cid:185)
+v = Ate −t2 , −v= Ate −t2 , v=−Ate −t2 A1 CAO.
+3
+© UCLES 2021 Page 6 of 12
+9231/33 Cambridge International AS & A Level – Mark Scheme October/November 2021
+PUBLISHED
+Question Answer Marks Guidance
+( )
+2(b) −Ate −t2 1−2t2
+( )
+M1 Substituting their answer to part (a) into given formula
+a= =−Ae −t2 1−2t2
+t
+t=1, a=5 ( A=5e ) M1 Use initial condition.
+( )
+Force = 5me1−t2 2t2 −1 A1 Use N2L, correct work only.
+Alternative method for question 2(b)
+( )
+v 1−2t2 M1 Use initial condition.
+a= substitute t=1, a=5 so v=−5 Use N2L, correct work only.
+t
+Substituting in their answer to part (a) so ( A=5e ) M1
+( )
+Force = 5me1−t2 2t2 −1 A1
+3
+© UCLES 2021 Page 7 of 12
+9231/33 Cambridge International AS & A Level – Mark Scheme October/November 2021
+PUBLISHED
+Question Answer Marks Guidance
+3
+Loss in EPE =
+1
+×
+12mge2
+−
+1
+×
+12mg
+×
+(cid:167)
+(cid:168)e−
+a(cid:183)
+(cid:184)
+2 (cid:167)
+(cid:168) =
+2mg(
+6e−a
+)(cid:183)
+(cid:184)
+B1 E ither term correct.
+2 a 2 a (cid:169) 3(cid:185) (cid:169) 3 (cid:185)
+1 mga B1
+Gain in KE = mv2 and Gain in GPE =
+2 3
+Gain in KE + Gain in GPE = Loss in EPE M1 KE, GPE and at least one EPE term.
+1 mv2 + mga = 2mg( 6e−a ) A1 All terms correct.
+2 3 3
+Simplify to a linear equation in e. M1
+1 A1
+e= a
+2
+6
+© UCLES 2021 Page 8 of 12
+9231/33 Cambridge International AS & A Level – Mark Scheme October/November 2021
+PUBLISHED
+Question Answer Marks Guidance
+4(a) M1 Attempt at moments with three terms.
+Area Centre of mass from AD
+3
+Square 9a2 a
+2
+3
+CDF ah a
+2
+3 1
+BEC ah 3a− h
+2 3
+Resulting AEFC 9a2−3ah x
+Taking moments about AD: A1 Two terms correct.
+( ) (cid:167) 3 (cid:183) (cid:167)3 (cid:183) (cid:167)3 (cid:167) 1 (cid:183)(cid:183) A1 All correct.
+9a2 −3ah x = (cid:168)9a2× a(cid:184) − (cid:168) ah×a(cid:184) − (cid:168) ah× (cid:168)3a− h(cid:184)(cid:184)
+(cid:169) 2 (cid:185) (cid:169)2 (cid:185) (cid:169)2 (cid:169) 3 (cid:185)(cid:185)
+27a2 −12ah+h2 (cid:167) 9a−h(cid:183) A1 AEF
+x =
+6 ( 3a−h ) (cid:168) (cid:169)
+=
+6 (cid:184) (cid:185)
+y =x B1 By symmetry or equal to their x.
+5
+4(b) For equilibrium, x (cid:4100) 3a – h B1 Accept strict inequality.
+27a2 – 12ah + h2 (cid:4100) 6(3a – h)2
+27a2– 24ah + 5h2 (cid:4101) 0 M1 Homogeneous 3-term quadratic inequality.
+9 A1 CAO.
+h (cid:4100) a
+5
+3
+© UCLES 2021 Page 9 of 12
+9231/33 Cambridge International AS & A Level – Mark Scheme October/November 2021
+PUBLISHED
+Question Answer Marks Guidance
+5 At A: ↑usinθ−8g →ucosθ M1 Both.
+usinθ−8g A1
+tanα=
+ucosθ
+At B: ↑usinθ−32g →ucosθ M1 Both.
+usinθ−32g A1
+tanβ=
+ucosθ
+usinθ−8g usinθ−32g B1 Perpendicular directions, so tanα×tanβ=−1.
+× =−1
+ucosθ ucosθ
+u2 −320u+25600=0 M1 Simplify to a quadratic in u.
+u=160 A1
+7
+© UCLES 2021 Page 10 of 12
+9231/33 Cambridge International AS & A Level – Mark Scheme October/November 2021
+PUBLISHED
+Question Answer Marks Guidance
+6(a) 5ag B1 N2L
+At A T −mgcosθ=m×
+A a
+v2 B1 N2L
+At B T +mgcosθ=m×
+B a
+1 1 M1 Energy equation with correct number of terms.
+m×5ag− mv2 =mga×2cosθ
+2 2
+v2 =5ag−4gacosθ A1 Accept multiplied by m and/or divided by a.
+Use ratio of tensions = 9 : 5 M1 Use ratio and simplify to an expression in cosθ.
+2 A1 CAO
+cosθ=
+5
+6
+6(b) Greatest speed at lowest point M1 Energy equation including lowest point, correct number
+− 1 m×5ag+ 1 mV2 =mga×( 1−cosθ) of terms.
+2 2
+31ag A1 FT Ft their cosθ from part (a).
+V =
+5
+2
+© UCLES 2021 Page 11 of 12
+9231/33 Cambridge International AS & A Level – Mark Scheme October/November 2021
+PUBLISHED
+Question Answer Marks Guidance
+7(a) ucosα=vcosβ M1
+eusinα=vsinβ M1
+Divide: tanβ=etanα A1 AG. Must see divide OE.
+3
+7(b) vsinβ=wcosγ (=eusinα) M1
+evcosβ=wsinγ (=eucosα) M1
+Divide: tanγ=1/tanα: γ=90°−α *A1
+After second rebound, direction of motion is parallel to initial path. DB1
+4
+7(c) Final KE = 1 m ( ( eusinα)2 +( eucosα)2 ) (cid:167) (cid:168) = 1 me2u2 (cid:183) (cid:184) M1 Energy expression in terms of u.
+2 (cid:169) 2 (cid:185)
+1 1 1 1 A1
+So me2u2 = × mu2 giving e=
+2 9 2 3
+Part (a) gives tan
+( 90−α)=etanα
+M1
+So tanα= 3 A1
+4
+© UCLES 2021 Page 12 of 12

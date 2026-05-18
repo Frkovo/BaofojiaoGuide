@@ -1,0 +1,511 @@
+©
+UCLES
+2020
+[Turn
+over
+This
+document
+consists
+of
+14
+printed
+pages.
+components. IGCSE™
+and
+Cambridge
+International
+A
+&
+AS
+Level
+components,
+and
+some
+Cambridge
+O
+Level
+Cambridge
+International
+is
+publishing
+the
+mark
+schemes
+for
+the
+June
+2020
+series
+for
+most
+Cambridge
+Cambridge
+International
+will
+not
+enter
+into
+discussions
+about
+these
+mark
+schemes.
+2020
+series.
+because
+students
+did
+not
+sit
+exam
+papers,
+there
+is
+no
+Principal
+Examiner
+Report
+for
+Teachers
+for
+the
+June
+Mark
+schemes
+should
+usually
+be
+read
+together
+with
+the
+Principal
+Examiner
+Report
+for
+Teachers.
+However,
+student
+responses
+to
+consider.
+June
+series,
+Examiners
+were
+unable
+to
+consider
+the
+acceptability
+of
+alternative
+responses,
+as
+there
+were
+no
+the
+mark
+scheme
+after
+they
+have
+seen
+student
+responses
+and
+update
+the
+mark
+scheme
+if
+appropriate.
+In
+the
+provides
+the
+most
+likely
+acceptable
+alternative
+responses
+expected
+from
+students.
+Examiners
+usually
+review
+proposed
+basis
+on
+which
+Examiners
+would
+award
+marks
+for
+this
+exam.
+Where
+appropriate,
+this
+column
+also
+question
+paper.
+It
+shows
+the
+requirements
+of
+the
+exam.
+The
+answer
+column
+of
+the
+mark
+scheme
+shows
+the
+This
+mark
+scheme
+is
+published
+to
+support
+teachers
+and
+students
+and
+should
+be
+read
+together
+with
+the
+Students
+did
+not
+sit
+exam
+papers
+in
+the
+June
+2020
+series
+due
+to the
+Covid-19
+global
+pandemic.
+Published
+Maximum
+Mark:
+50
+MARK
+SCHEME
+Paper
+3
+Further
+Mechanics
+3
+May/June
+2020
+FURTHER
+MATHEMATICS
+9231/31
+Cambridge
+International
+AS
+&
+A
+Level
+9231/31 Cambridge International AS & A Level – Mark Scheme May/June 2020
+PUBLISHED
+Generic Marking Principles
+These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the
+mark scheme or generic level descriptors for a question. Each question paper and mark scheme will also comply with these marking principles.
+GENERIC MARKING PRINCIPLE 1:
+Marks must be awarded in line with:
+• the specific content of the mark scheme or the generic level descriptors for the question
+• the specific skills defined in the mark scheme or in the generic level descriptors for the question
+• the standard of response required by a candidate as exemplified by the standardisation scripts.
+GENERIC MARKING PRINCIPLE 2:
+Marks awarded are always whole marks (not half marks, or other fractions).
+GENERIC MARKING PRINCIPLE 3:
+Marks must be awarded positively:
+• marks are awarded for correct/valid answers, as defined in the mark scheme. However, credit is given for valid answers which go beyond the scope of the
+syllabus and mark scheme, referring to your Team Leader as appropriate
+• marks are awarded when candidates clearly demonstrate what they know and can do
+• marks are not deducted for errors
+• marks are not deducted for omissions
+• answers should only be judged on the quality of spelling, punctuation and grammar when these features are specifically assessed by the question as
+indicated by the mark scheme. The meaning, however, should be unambiguous.
+GENERIC MARKING PRINCIPLE 4:
+Rules must be applied consistently e.g. in situations where candidates have not followed instructions or in the application of generic level descriptors.
+GENERIC MARKING PRINCIPLE 5:
+Marks should be awarded using the full range of marks defined in the mark scheme for the question (however; the use of the full mark range may be limited
+according to the quality of the candidate responses seen).
+GENERIC MARKING PRINCIPLE 6:
+Marks awarded are based solely on the requirements as defined in the mark scheme. Marks should not be awarded with grade thresholds or grade descriptors in
+mind.
+© UCLES 2020 Page 2 of 14
+9231/31 Cambridge International AS & A Level – Mark Scheme May/June 2020
+PUBLISHED
+Mathematics Specific Marking Principles
+1 Unless a particular method has been specified in the question, full marks may be awarded for any correct method. However, if a calculation is required
+then no marks will be awarded for a scale drawing.
+2 Unless specified in the question, answers may be given as fractions, decimals or in standard form. Ignore superfluous zeros, provided that the degree of
+accuracy is not affected.
+3 Allow alternative conventions for notation if used consistently throughout the paper, e.g. commas being used as decimal points.
+4 Unless otherwise indicated, marks once gained cannot subsequently be lost, e.g. wrong working following a correct form of answer is ignored (isw).
+5 Where a candidate has misread a number in the question and used that value consistently throughout, provided that number does not alter the difficulty or
+the method required, award all marks earned and deduct just 1 mark for the misread.
+6 Recovery within working is allowed, e.g. a notation error in the working where the following line of working makes the candidate’s intent clear.
+© UCLES 2020 Page 3 of 14
+9231/31 Cambridge International AS & A Level – Mark Scheme May/June 2020
+PUBLISHED
+Mark Scheme Notes
+The following notes are intended to aid interpretation of mark schemes in general, but individual mark schemes may include marks awarded for specific reasons
+outside the scope of these notes.
+Types of mark
+M Method mark, awarded for a valid method applied to the problem. Method marks are not lost for numerical errors, algebraic slips or errors in units.
+However, it is not usually sufficient for a candidate just to indicate an intention of using some method or just to quote a formula; the formula or idea
+must be applied to the specific problem in hand, e.g. by substituting the relevant quantities into the formula. Correct application of a formula
+without the formula being quoted obviously earns the M mark and in some cases an M mark can be implied from a correct answer.
+A Accuracy mark, awarded for a correct answer or intermediate step correctly obtained. Accuracy marks cannot be given unless the associated method
+mark is earned (or implied).
+B Mark for a correct result or statement independent of method marks.
+DM or DB When a part of a question has two or more “method” steps, the M marks are generally independent unless the scheme specifically says otherwise;
+and similarly, when there are several B marks allocated. The notation DM or DB is used to indicate that a particular M or B mark is dependent on
+an earlier M or B (asterisked) mark in the scheme. When two or more steps are run together by the candidate, the earlier marks are implied and full
+credit is given.
+FT Implies that the A or B mark indicated is allowed for work correctly following on from previously incorrect results. Otherwise, A or B marks are
+given for correct work only.
+© UCLES 2020 Page 4 of 14
+9231/31 Cambridge International AS & A Level – Mark Scheme May/June 2020
+PUBLISHED
+Abbreviations
+AEF/OE Any Equivalent Form (of answer is equally acceptable) / Or Equivalent
+AG Answer Given on the question paper (so extra checking is needed to ensure that the detailed working leading to the result is valid)
+CAO Correct Answer Only (emphasising that no “follow through” from a previous error is allowed)
+CWO Correct Working Only
+ISW Ignore Subsequent Working
+SOI Seen Or Implied
+SC Special Case (detailing the mark to be given for a specific wrong solution, or a case where some standard marking practice is to be varied in the
+light of a particular circumstance)
+WWW Without Wrong Working
+AWRT Answer Which Rounds To
+© UCLES 2020 Page 5 of 14
+9231/31 Cambridge International AS & A Level – Mark Scheme May/June 2020
+PUBLISHED
+Question Answer Marks
+1 u B1
+For greatest height, T =
+2g
+2T u 2Tg u M1
+At t= , ↑ v = − =
+3 v 2 3 6
+u 3 A1
+→ v =
+h 2
+u2 3u2 M1
+Speed = v 2 +v 2 = +
+v h 36 4
+7 A1
+= u
+3
+5
+© UCLES 2020 Page 6 of 14
+9231/31 Cambridge International AS & A Level – Mark Scheme May/June 2020
+PUBLISHED
+Question Answer Marks
+2 For A: T =3mg M1
+For B: ↑ Tcosθ=mg
+Equate: 3mgcosθ=mg A1
+1
+cosθ=
+3
+→ Tsinθ=mrω2 with r=( a−x ) sinθ M1
+Equate: 3mg =m ( a−x )ω2 A1
+a A1
+x=
+4
+5
+Question Answer Marks
+3(a) T −mg =m.a M1
+1 5 M1
+T =5mg. a/a = mg
+2 2
+3 A1
+a= g (upwards) AG
+2
+3
+© UCLES 2020 Page 7 of 14
+9231/31 Cambridge International AS & A Level – Mark Scheme May/June 2020
+PUBLISHED
+Question Answer Marks
+3(b) 1 1 B1
+Gain in KE = mv2 Gain in GPE = mga
+2 2
+2 B1
+(cid:167)1 (cid:183)
+5mg.(cid:168) a(cid:184)
+1 (cid:169)2 (cid:185)
+Loss in EPE =
+2 a
+2 M1
+(cid:167)1 (cid:183)
+5mg.(cid:168) a(cid:184)
+1 mv2 + 1 mga= 1 (cid:169)2 (cid:185) [ (cid:159) 1 mv2 + 1 mga= 5 mga ]
+2 2 2 a 2 2 8
+1 A1
+v= ga
+2
+4
+© UCLES 2020 Page 8 of 14
+9231/31 Cambridge International AS & A Level – Mark Scheme May/June 2020
+PUBLISHED
+Question Answer Marks
+4(a) Centre of mass Centre of mass M1
+Area
+from BC from DC
+Square 100 5 5
+1 5
+Triangle ½ x. 15/2 x
+3 2
+15
+Shape ABEFD 100− x x y
+4
+Take moments about BC:
+(cid:167) 15 (cid:183) 15 1
+(cid:168)100− x(cid:184) σ. x =500σ− xσ. x
+(cid:169) 4 (cid:185) 4 3
+(M1 for all terms present)
+400−x2 A1
+x = AG
+80−3x
+Take moments about DC: M1
+(cid:167) 15 (cid:183) 15 5
+(cid:168)100− x(cid:184). y = 100×5− x.
+(cid:169) 4 (cid:185) 4 2
+800−15x A1
+y =
+160−6x
+4
+4(b) Use condition: x(cid:46)x B1
+2x2−80x+400(cid:46)0 M1
+x=20−10 2 A1
+3
+© UCLES 2020 Page 9 of 14
+9231/31 Cambridge International AS & A Level – Mark Scheme May/June 2020
+PUBLISHED
+Question Answer Marks
+5(a) dv M1
+=kdt
+3u−v
+−ln ( 3u−v )=kt+d M1
+t=0, v=u: d =−ln2u
+1 A1
+v=2u: t= ln2
+k
+3
+5(b) dv vdv B1
+v =3ku−kv [ (cid:159) =kdx]
+dx 3u−v
+( −( 3u−v )+3u ) dv M1A1
+=kdx so −v−3uln ( 3u−v )=kx+c
+3u−v
+x=0, v=u: c=−u−3uln2u M1
+v=2u: x= u( 3ln2−1 ) A1
+k
+5
+© UCLES 2020 Page 10 of 14
+9231/31 Cambridge International AS & A Level – Mark Scheme May/June 2020
+PUBLISHED
+Question Answer Marks
+6(a) Let components of velocity (parallel to plane and perpendicular) after impact be (x, y)
+y=vcosα=eusinα B1
+x=vsinα=ucosα B1
+1 1 B1
+Divide: tanα= : tan2α = .
+etanα e
+3
+© UCLES 2020 Page 11 of 14
+9231/31 Cambridge International AS & A Level – Mark Scheme May/June 2020
+PUBLISHED
+Question Answer Marks
+6(b) 1 B1
+v2 = u2
+3
+(cid:167)ucosα (cid:183) 2 1 M1
+(cid:168) (cid:169) sinα (cid:184) (cid:185)
+=
+3
+u2
+( tanα )2 =3 M1
+α=60° A1
+1 A1
+e=
+3
+Alternative method for 6(b)
+KE after impact = 1 m ( x2 + y2 ) = 1 m ( ( ucosα)2 +e2 ( usinα)2 ) M1
+2 2
+From (a) sinα=1/ ( 1+e ) and cosα= e/ ( 1+e ) B1
+1 (cid:167) e e2 (cid:183) 1 A1
+KE = mu2 (cid:168) + (cid:184) = mu2e
+2 (cid:169) 1+e 1+e (cid:185) 2
+1 1 1 M1
+This is equal to × mu2 so e=
+3 2 3
+tanα= 3, α =60° A1
+5
+© UCLES 2020 Page 12 of 14
+9231/31 Cambridge International AS & A Level – Mark Scheme May/June 2020
+PUBLISHED
+Question Answer Marks
+7(a)
+( N +) mgcosθ=
+mv2 B1
+a
+1 mv2 − 1 m 7ag =−mg ( a+acosθ) M1A1
+2 2 2
+Loses contact when N = 0, so combine and simplify M1
+1 A1
+cosθ= : θ =60° AG
+2
+5
+© UCLES 2020 Page 13 of 14
+9231/31 Cambridge International AS & A Level – Mark Scheme May/June 2020
+PUBLISHED
+Question Answer Marks
+7(b) asin60 6a M1
+When P is vertically below O, its horizontal displacement is asin60, so time T = = a 3/v =
+vcos60 g
+1 A1
+From (a), v2 = ag
+2
+v 3 1 M1
+Vert: h= T − g.T2
+2 2
+3 3a A1
+a−3a=−
+2 2
+This corresponds to the point A A1
+Alternative method for question 7(b)
+4x2 M1A1
+y=x 3−
+a
+1 3 B1
+Coordinates of A: x= a 3, y=− a
+2 2
+4x2 M1A1
+Substitute coordinates into y=x 3− and show that these satisfy this equation
+a
+5
+© UCLES 2020 Page 14 of 14

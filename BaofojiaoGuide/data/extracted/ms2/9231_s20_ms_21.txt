@@ -1,0 +1,541 @@
+©
+UCLES
+2020
+[Turn
+over
+This
+document
+consists
+of
+13
+printed
+pages.
+components. IGCSE™
+and
+Cambridge
+International
+A
+&
+AS
+Level
+components,
+and
+some
+Cambridge
+O
+Level
+Cambridge
+International
+is
+publishing
+the
+mark
+schemes
+for
+the
+June
+2020
+series
+for
+most
+Cambridge
+Cambridge
+International
+will
+not
+enter
+into
+discussions
+about
+these
+mark
+schemes.
+2020
+series.
+because
+students
+did
+not
+sit
+exam
+papers,
+there
+is
+no
+Principal
+Examiner
+Report
+for
+Teachers
+for
+the
+June
+Mark
+schemes
+should
+usually
+be
+read
+together
+with
+the
+Principal
+Examiner
+Report
+for
+Teachers.
+However,
+student
+responses
+to
+consider.
+June
+series,
+Examiners
+were
+unable
+to
+consider
+the
+acceptability
+of
+alternative
+responses,
+as
+there
+were
+no
+the
+mark
+scheme
+after
+they
+have
+seen
+student
+responses
+and
+update
+the
+mark
+scheme
+if
+appropriate.
+In
+the
+provides
+the
+most
+likely
+acceptable
+alternative
+responses
+expected
+from
+students.
+Examiners
+usually
+review
+proposed
+basis
+on
+which
+Examiners
+would
+award
+marks
+for
+this
+exam.
+Where
+appropriate,
+this
+column
+also
+question
+paper.
+It
+shows
+the
+requirements
+of
+the
+exam.
+The
+answer
+column
+of
+the
+mark
+scheme
+shows
+the
+This
+mark
+scheme
+is
+published
+to
+support
+teachers
+and
+students
+and
+should
+be
+read
+together
+with
+the
+Students
+did
+not
+sit
+exam
+papers
+in the
+June
+2020
+series
+due
+to the
+Covid-19
+global
+pandemic.
+Published
+Maximum
+Mark:
+75
+MARK
+SCHEME
+Paper
+2
+Further
+Pure
+Mathematics
+2
+May/June
+2020
+FURTHER
+MATHEMATICS
+9231/21
+Cambridge
+International
+AS
+&
+A
+Level
+9231/21 Cambridge International AS & A Level – Mark Scheme May/June 2020
+PUBLISHED
+Generic Marking Principles
+These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the
+mark scheme or generic level descriptors for a question. Each question paper and mark scheme will also comply with these marking principles.
+GENERIC MARKING PRINCIPLE 1:
+Marks must be awarded in line with:
+• the specific content of the mark scheme or the generic level descriptors for the question
+• the specific skills defined in the mark scheme or in the generic level descriptors for the question
+• the standard of response required by a candidate as exemplified by the standardisation scripts.
+GENERIC MARKING PRINCIPLE 2:
+Marks awarded are always whole marks (not half marks, or other fractions).
+GENERIC MARKING PRINCIPLE 3:
+Marks must be awarded positively:
+• marks are awarded for correct/valid answers, as defined in the mark scheme. However, credit is given for valid answers which go beyond the scope of the
+syllabus and mark scheme, referring to your Team Leader as appropriate
+• marks are awarded when candidates clearly demonstrate what they know and can do
+• marks are not deducted for errors
+• marks are not deducted for omissions
+• answers should only be judged on the quality of spelling, punctuation and grammar when these features are specifically assessed by the question as
+indicated by the mark scheme. The meaning, however, should be unambiguous.
+GENERIC MARKING PRINCIPLE 4:
+Rules must be applied consistently e.g. in situations where candidates have not followed instructions or in the application of generic level descriptors.
+GENERIC MARKING PRINCIPLE 5:
+Marks should be awarded using the full range of marks defined in the mark scheme for the question (however; the use of the full mark range may be limited
+according to the quality of the candidate responses seen).
+GENERIC MARKING PRINCIPLE 6:
+Marks awarded are based solely on the requirements as defined in the mark scheme. Marks should not be awarded with grade thresholds or grade descriptors in
+mind.
+© UCLES 2020 Page 2 of 13
+9231/21 Cambridge International AS & A Level – Mark Scheme May/June 2020
+PUBLISHED
+Mathematics Specific Marking Principles
+1 Unless a particular method has been specified in the question, full marks may be awarded for any correct method. However, if a calculation is required
+then no marks will be awarded for a scale drawing.
+2 Unless specified in the question, answers may be given as fractions, decimals or in standard form. Ignore superfluous zeros, provided that the degree of
+accuracy is not affected.
+3 Allow alternative conventions for notation if used consistently throughout the paper, e.g. commas being used as decimal points.
+4 Unless otherwise indicated, marks once gained cannot subsequently be lost, e.g. wrong working following a correct form of answer is ignored (isw).
+5 Where a candidate has misread a number in the question and used that value consistently throughout, provided that number does not alter the difficulty or
+the method required, award all marks earned and deduct just 1 mark for the misread.
+6 Recovery within working is allowed, e.g. a notation error in the working where the following line of working makes the candidate’s intent clear.
+© UCLES 2020 Page 3 of 13
+9231/21 Cambridge International AS & A Level – Mark Scheme May/June 2020
+PUBLISHED
+Mark Scheme Notes
+The following notes are intended to aid interpretation of mark schemes in general, but individual mark schemes may include marks awarded for specific reasons
+outside the scope of these notes.
+Types of mark
+M Method mark, awarded for a valid method applied to the problem. Method marks are not lost for numerical errors, algebraic slips or errors in units.
+However, it is not usually sufficient for a candidate just to indicate an intention of using some method or just to quote a formula; the formula or idea
+must be applied to the specific problem in hand, e.g. by substituting the relevant quantities into the formula. Correct application of a formula
+without the formula being quoted obviously earns the M mark and in some cases an M mark can be implied from a correct answer.
+A Accuracy mark, awarded for a correct answer or intermediate step correctly obtained. Accuracy marks cannot be given unless the associated method
+mark is earned (or implied).
+B Mark for a correct result or statement independent of method marks.
+DM or DB When a part of a question has two or more “method” steps, the M marks are generally independent unless the scheme specifically says otherwise;
+and similarly, when there are several B marks allocated. The notation DM or DB is used to indicate that a particular M or B mark is dependent on
+an earlier M or B (asterisked) mark in the scheme. When two or more steps are run together by the candidate, the earlier marks are implied and full
+credit is given.
+FT Implies that the A or B mark indicated is allowed for work correctly following on from previously incorrect results. Otherwise, A or B marks are
+given for correct work only.
+© UCLES 2020 Page 4 of 13
+9231/21 Cambridge International AS & A Level – Mark Scheme May/June 2020
+PUBLISHED
+Abbreviations
+AEF/OE Any Equivalent Form (of answer is equally acceptable) / Or Equivalent
+AG Answer Given on the question paper (so extra checking is needed to ensure that the detailed working leading to the result is valid)
+CAO Correct Answer Only (emphasising that no “follow through” from a previous error is allowed)
+CWO Correct Working Only
+ISW Ignore Subsequent Working
+SOI Seen Or Implied
+SC Special Case (detailing the mark to be given for a specific wrong solution, or a case where some standard marking practice is to be varied in the
+light of a particular circumstance)
+WWW Without Wrong Working
+AWRT Answer Which Rounds To
+© UCLES 2020 Page 5 of 13
+9231/21 Cambridge International AS & A Level – Mark Scheme May/June 2020
+PUBLISHED
+Question Answer Marks
+1 e (cid:179)5dx =e5x M1 A1
+d ( ) M1
+ye5x =e −2x
+dx
+ye5x =−1e −2x +C A1
+2
+0=−1+C M1
+2
+y= 1e −5x −1e −7x A1
+2 2
+6
+Question Answer Marks
+2(a) 1 dy M1 A1
+lny=xln2(cid:159) =ln2
+y dx
+dy A1
+= yln2=2xln2 AG
+dx
+3
+2(b) d2y
+=2x ( ln2 )2
+B1
+dx2
+1
+© UCLES 2020 Page 6 of 13
+9231/21 Cambridge International AS & A Level – Mark Scheme May/June 2020
+PUBLISHED
+Question Answer Marks
+2(c) y(0)=1, y'(0)=ln2, y''(0)=( ln2 )2 B1
+( )2 M1 A1
+2x = y(0)+ y'(0)x+ y''(0) x2 +(cid:33)=1+( ln2 ) x+ ln2 x2 +(cid:33)
+2! 2
+3
+Question Answer Marks
+3(a) z3 =−1−i=2 1 2ei5
+4
+(cid:652) B1
+z =2 1 6ei 1 5 2 (cid:652) M1 A1
+1
+z =2 1 6ei 1 1 2 3π , z =2 1 6ei 1 2 2 1(cid:652) A1 A1
+2 3
+5
+( )
+3(b) z3k +z3k +z3k =3 2 1 2 kei5 4 k(cid:652) M1
+1 2 3
+( )
+R=|w|=3 2 1 2 k A1
+α= 5k(cid:652) A1
+4
+3
+© UCLES 2020 Page 7 of 13
+9231/21 Cambridge International AS & A Level – Mark Scheme May/June 2020
+PUBLISHED
+Question Answer Marks
+4(a)
+(cid:179)
+1
+x2dx<
+(
+1
+)(
+1
+)2
++
+(
+1
+)(
+2
+)2
++(cid:34)+
+(
+1
+)(
+n−1
+)2+ (
+1
+)(
+n
+)2 M1 A1
+n n n n n n n n
+0
+1 n n(n+1)(2n+1) 2n2 +3n+1 M1 A1
+(cid:166)r2 = =
+n3 6n3 6n2
+r=1
+4
+4(b)
+(cid:179)
+1
+x2dx>
+(
+1
+)(
+1
+)2+ (
+1
+)(
+2
+)2
++(cid:34)+
+(
+1
+)(
+n−1
+)2 M1 A1
+n n n n n n
+0
+1 n−1 (n−1)(n)(2n−2+1) 2n2 −3n+1 M1 A1
+= (cid:166)r2 = =
+n3 6n3 6n2
+r=1
+4
+Question Answer Marks
+5(a) cosha=2sinhacosha(cid:159)sinha= 1 M1 A1
+2
+( )
+a=sinh −11 =ln 1+ 1+1 M1
+2 2 4
+( )
+a=ln 1 +1√5 A1
+2 2
+4
+© UCLES 2020 Page 8 of 13
+9231/21 Cambridge International AS & A Level – Mark Scheme May/June 2020
+PUBLISHED
+Question Answer Marks
+5(b) B1
+B1
+(B1 for C correct, B1 for C correct and intersecting C in the first quadrant)
+1 2 1
+2
+5(c) a M1
+(cid:179) 1+sinh2x dx
+0
+a a M1 A1
+(cid:179) cosh2xdx=(cid:179) coshxdx
+0 0
+[ sinhx ]a =sinha M1
+0
+1 A1
+2
+5
+© UCLES 2020 Page 9 of 13
+9231/21 Cambridge International AS & A Level – Mark Scheme May/June 2020
+PUBLISHED
+Question Answer Marks
+6(a) I =(cid:179) 1 2 ( 1−x2 )−1 2dx=(cid:170)sin −1x(cid:186) 1 2 = 1(cid:652) M1 A1
+1 0 (cid:172) (cid:188) 0 6
+2
+6(b) d (cid:167) (cid:168)x ( 1−x2 )−1 2 n(cid:183) (cid:184) =nx2 ( 1−x2 )−1 2 n−1+ ( 1−x2 )−1 2 n M1 A1
+dx(cid:169) (cid:185)
+=n ( 1− ( 1−x2 ))( 1−x2 )−1 2 n−1+ ( 1−x2 )−1 2 n M1
+(cid:170) x ( 1−x2 )−1 2 n(cid:186) 1 2 =nI −nI +I M1
+(cid:171) (cid:172) (cid:187) (cid:188) n+2 n n
+0
+1 2 ( 3 4 )−1 2 n =nI n+2 −(n−1)I n (cid:159)nI n+2 =2n−13 −1 2 n +(n−1)I n A1
+5
+6(c) I =3 −1 2 B1
+3
+3I =223 −3 2 +2I (cid:159)I =10√3 M1 A1
+5 3 5 27
+3
+© UCLES 2020 Page 10 of 13
+9231/21 Cambridge International AS & A Level – Mark Scheme May/June 2020
+PUBLISHED
+Question Answer Marks
+7(a) dx dy B1
+=t3 +3t2y
+dt dt
+d2x d2y dy B1
+=t3 +6t2 +6ty
+dt2 dt2 dt
+d2x dx d2y dy dy M1 A1
++4 +13x=t3 +6t2 +6ty+4t3 +12t2y+13t3y =61e 1
+2
+t
+dt2 dt dt2 dt dt
+4
+7(b) m2 +4m+13=0(cid:159)m=−2±3i M1
+x=e −2t( Acos3t+Bsin3t ) A1
+x=ke 1 2 t (cid:159)x(cid:5)= 1ke 1 2 t (cid:159)(cid:5)x(cid:5)= 1ke 1 2 t B1
+2 4
+1k+2k+13k =61(cid:159)k =4 M1 A1
+4
+t3y=e −2t ( Acos3t+Bsin3t )+4e 1 2 t (cid:159) y=t −3e −2t ( Acos3t+Bsin3t )+4t −3e 1 2 t M1 A1
+7
+© UCLES 2020 Page 11 of 13
+9231/21 Cambridge International AS & A Level – Mark Scheme May/June 2020
+PUBLISHED
+Question Answer Marks
+8(a) 3 1 1 M1
+a 6 −1 =0(cid:159)3 (−12+a )−(−2a )+a2 =0
+0 a −2
+a2 +5a−36=0(cid:159)a=4,−9 M1 A1
+3
+8(b) (λ−3)(λ−6)(λ+2)=λ3−7λ2 +36=0 B1
+36I=7A2 −A3(cid:159)36 ( A −1 )2 =7I−A M1
+(cid:167)4 −1 −1(cid:183) M1 A1
+( A −1 )2 = 1 (cid:168) 0 1 1 (cid:184)
+(cid:168) (cid:184)
+36
+(cid:168) (cid:184)
+(cid:169)0 0 9 (cid:185)
+4
+© UCLES 2020 Page 12 of 13
+9231/21 Cambridge International AS & A Level – Mark Scheme May/June 2020
+PUBLISHED
+Question Answer Marks
+8(c) Eigenvalues of A are 3,6 and −2. B1
+i j k (cid:167) −4(cid:183) (cid:167)1(cid:183) M1 A1
+(cid:168) (cid:184) (cid:168) (cid:184)
+(cid:540)=3: 0 1 1 = 0 (cid:16) 0
+(cid:168) (cid:184) (cid:168) (cid:184)
+0 3 −1 (cid:168) (cid:169)0 (cid:184) (cid:185) (cid:168) (cid:169)0 (cid:184) (cid:185)
+i j k (cid:167) −1(cid:183) i j k (cid:167) −9(cid:183) A1 A1
+(cid:168) (cid:184) (cid:168) (cid:184)
+λ=6: −3 1 1 = −3 λ=−2: 5 1 1 = 5
+(cid:168) (cid:184) (cid:168) (cid:184)
+0 0 −1 (cid:168) (cid:169)0 (cid:184) (cid:185) 0 8 −1 (cid:168) (cid:169)40 (cid:184) (cid:185)
+(cid:167)1 1 −9(cid:183) M1 A1
+(cid:168) (cid:184)
+Thus P= 0 3 5 and
+(cid:168) (cid:184)
+(cid:168) (cid:184)
+(cid:169)0 0 40(cid:185)
+(cid:167)243 0 0 (cid:183) (cid:167)35 0 0 (cid:183)
+(cid:168) (cid:184)
+(cid:168) (cid:184)
+D= 0 7776 0 or D= (cid:168) 0 65 0 (cid:184)
+(cid:168) (cid:184)
+(cid:168) (cid:169) 0 0 −32 (cid:184) (cid:185) (cid:168) (cid:168) 0 0 −25 (cid:184) (cid:184)
+(cid:169) (cid:185)
+7
+© UCLES 2020 Page 13 of 13

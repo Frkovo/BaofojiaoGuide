@@ -1,0 +1,433 @@
+©
+UCLES
+2022
+[Turn
+over
+This
+document
+consists
+of
+16
+printed
+pages.
+components. Cambridge
+IGCSE(cid:140),
+Cambridge
+International
+A and
+AS
+Level
+components
+and
+some
+Cambridge
+O
+Level
+Cambridge
+International
+is
+publishing
+the
+mark
+schemes
+for
+the
+October/November
+2022
+series
+for
+most
+Cambridge
+International
+will
+not
+enter
+into
+discussions
+about
+these
+mark
+schemes.
+Teachers. Mark
+schemes
+should
+be
+read
+in
+conjunction
+with
+the
+question
+paper
+and
+the
+Principal
+Examiner
+Report
+for
+considered
+the
+acceptability
+of
+alternative
+answers.
+(cid:71)(cid:72)(cid:87)(cid:68)(cid:76)(cid:79)(cid:86)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:71)(cid:76)(cid:86)(cid:70)(cid:88)(cid:86)(cid:86)(cid:76)(cid:82)(cid:81)(cid:86)(cid:3)(cid:87)(cid:75)(cid:68)(cid:87)(cid:3)(cid:87)(cid:82)(cid:82)(cid:78)(cid:3)(cid:83)(cid:79)(cid:68)(cid:70)(cid:72)(cid:3)(cid:68)(cid:87)(cid:3)(cid:68)(cid:81)(cid:3)(cid:40)(cid:91)(cid:68)(cid:80)(cid:76)(cid:81)(cid:72)(cid:85)(cid:86)(cid:182)(cid:3)(cid:80)(cid:72)(cid:72)(cid:87)(cid:76)(cid:81)(cid:74)(cid:3)(cid:69)(cid:72)(cid:73)(cid:82)(cid:85)(cid:72)(cid:3)(cid:80)(cid:68)(cid:85)(cid:78)(cid:76)(cid:81)(cid:74)(cid:3)(cid:69)(cid:72)(cid:74)(cid:68)n,
+which
+would
+have
+examination.
+It
+shows
+the
+basis
+on
+which
+Examiners
+were
+instructed
+to
+award
+marks.
+It
+does
+not
+indicate
+the
+This
+mark
+scheme
+is
+published
+as
+an
+aid
+to
+teachers
+and
+candidates,
+to
+indicate
+the
+requirements
+of
+the
+Published
+Maximum
+Mark:
+75
+MARK
+SCHEME
+Paper
+3
+Problem
+Solving
+&
+Programming
+October/November
+2022
+COMPUTER
+SCIENCE
+9618/32
+Cambridge
+International
+AS
+&
+A
+Level
+9618/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2022
+PUBLISHED
+Generic Marking Principles
+These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the
+specific content of the mark scheme or generic level descriptors for a question. Each question paper and mark scheme will also comply with these
+marking principles.
+GENERIC MARKING PRINCIPLE 1:
+Marks must be awarded in line with:
+(cid:120) the specific content of the mark scheme or the generic level descriptors for the question
+(cid:120) the specific skills defined in the mark scheme or in the generic level descriptors for the question
+(cid:120) the standard of response required by a candidate as exemplified by the standardisation scripts.
+GENERIC MARKING PRINCIPLE 2:
+Marks awarded are always whole marks (not half marks, or other fractions).
+GENERIC MARKING PRINCIPLE 3:
+Marks must be awarded positively:
+(cid:120) marks are awarded for correct/valid answers, as defined in the mark scheme. However, credit is given for valid answers which go beyond the
+scope of the syllabus and mark scheme, referring to your Team Leader as appropriate
+(cid:120) marks are awarded when candidates clearly demonstrate what they know and can do
+(cid:120) marks are not deducted for errors
+(cid:120) marks are not deducted for omissions
+(cid:120) answers should only be judged on the quality of spelling, punctuation and grammar when these features are specifically assessed by the
+question as indicated by the mark scheme. The meaning, however, should be unambiguous.
+GENERIC MARKING PRINCIPLE 4:
+Rules must be applied consistently, e.g. in situations where candidates have not followed instructions or in the application of generic level
+descriptors.
+© UCLES 2022 Page 2 of 16
+9618/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2022
+PUBLISHED
+GENERIC MARKING PRINCIPLE 5:
+Marks should be awarded using the full range of marks defined in the mark scheme for the question (however; the use of the full mark range may
+be limited according to the quality of the candidate responses seen).
+GENERIC MARKING PRINCIPLE 6:
+Marks awarded are based solely on the requirements as defined in the mark scheme. Marks should not be awarded with grade thresholds or
+grade descriptors in mind.
+© UCLES 2022 Page 3 of 16
+9618/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2022
+PUBLISHED
+Question Answer Marks
+1(a) Mantissa Exponent 1
+0 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1
+1(b) Two marks for working 3
+(cid:120) correct calculation of exponent seen
+(cid:120) correct application of exponent to mantissa seen
+One mark for correct answer
+Working:
+= 1.0110010011 (cid:117) 29 //exponent = 9
+= 1011001001.1 (moving bp 9 places to right) // (cid:72)(cid:89)(cid:68)(cid:79)(cid:88)(cid:68)(cid:87)(cid:72)(cid:3)(cid:87)(cid:90)(cid:82)(cid:182)(cid:86)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:79)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)
+For example: (cid:177)512 + 128 + 64 + 8 + 1 + 0.5
+Answer:
+(cid:177)310.5 // (cid:177)3101/
+2
+1(c) One mark per point 2
+(cid:120) Following an arithmetic/logical operation
+(cid:120) (cid:171)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:85)(cid:72)(cid:86)(cid:88)(cid:79)(cid:87)(cid:3)(cid:76)(cid:86)(cid:3)(cid:87)(cid:82)(cid:82)(cid:3)(cid:86)(cid:80)(cid:68)(cid:79)(cid:79)(cid:3)(cid:87)(cid:82)(cid:3)(cid:69)(cid:72)(cid:3)(cid:83)(cid:85)(cid:72)(cid:70)(cid:76)(cid:86)(cid:72)(cid:79)(cid:92)(cid:3)(cid:85)(cid:72)(cid:83)(cid:85)(cid:72)(cid:86)(cid:72)(cid:81)(cid:87)(cid:72)(cid:71)(cid:3)(cid:76)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:68)(cid:89)(cid:68)(cid:76)(cid:79)(cid:68)(cid:69)(cid:79)(cid:72)(cid:3)(cid:86)(cid:92)(cid:86)(cid:87)(cid:72)(cid:80)(cid:3)(cid:18)(cid:18)(cid:3)(cid:58)(cid:75)(cid:72)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:81)(cid:88)(cid:80)(cid:69)(cid:72)(cid:85)(cid:3)(cid:82)(cid:73)(cid:3)(cid:69)(cid:76)(cid:87)(cid:86)(cid:3)(cid:76)(cid:86)(cid:3)(cid:81)(cid:82)(cid:87)(cid:3)(cid:72)(cid:81)(cid:82)(cid:88)(cid:74)(cid:75)(cid:3)(cid:18)(cid:3)
+(cid:87)(cid:82)(cid:82)(cid:3)(cid:86)(cid:80)(cid:68)(cid:79)(cid:79)(cid:3)(cid:73)(cid:82)(cid:85)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:88)(cid:87)(cid:72)(cid:85)(cid:182)(cid:86)(cid:3)(cid:68)(cid:79)(cid:79)(cid:82)(cid:70)(cid:68)(cid:87)(cid:72)(cid:71)(cid:3)(cid:90)(cid:82)(cid:85)(cid:71)(cid:3)(cid:86)(cid:76)(cid:93)(cid:72)(cid:3)(cid:18)(cid:3)(cid:87)(cid:82)(cid:3)(cid:85)(cid:72)(cid:83)(cid:85)(cid:72)(cid:86)(cid:72)(cid:81)(cid:87)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:69)(cid:76)(cid:81)(cid:68)(cid:85)(cid:92)(cid:3)(cid:81)(cid:88)(cid:80)(cid:69)(cid:72)(cid:85)
+Question Answer Marks
+2(a) One mark per point 2
+(cid:120) Code generation
+(cid:120) Optimisation
+© UCLES 2022 Page 4 of 16
+9618/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2022
+PUBLISHED
+Question Answer Marks
+2(b) One mark per point (Max 2) 2
+(cid:120) It checks that the code matches the grammar of the language // It checks that the tokens conform with the rules of the
+programming language
+(cid:120) Syntax errors are reported
+(cid:120) A parse tree is produced.
+Question Answer Marks
+3(a) One mark per point (Max 2) 2
+(cid:120) Protocols set a standard for communication
+(cid:120) Protocols enable communication/compatibility between devices from different manufacturers/platforms
+(cid:120) If two devices were sending messages to each other but using different protocols, they would not be able to
+communicate properly
+3(b) One mark for each correct answer 2
+Application (Layer)
+Transport
+Internet/Network (Layer)
+Link
+3(c) One mark per point (Max 2) 2
+(cid:120) used by email clients to retrieve email messages // a pull protocol
+(cid:120) from a mail server (over a TCP/IP connection)
+(cid:120) keeps the server and client in sync (by not deleting the original email). // allows a copy of the email to be downloaded
+from the mail server.
+© UCLES 2022 Page 5 of 16
+9618/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2022
+PUBLISHED
+Question Answer Marks
+4(a) Marks as shown in the square brackets: 2
+TYPE Aircraft = (C300, C350, D242, E757, X380)
+TYPE Aircraft = [1]
+(C300, C350, D242, E757, X380) [1]
+4(b) One mark for each point (Max 4) 4
+(cid:120) TYPE Flight and ENDTYPE correct
+(cid:120) DECLARE FlightNumber and DECLARE Destination as STRING
+(cid:120) DECLARE DepartureDate as DATE
+(cid:120) DECLARE AircraftType as Aircraft (correct data type from part 4(a))
+Example answer:
+TYPE Flight
+DECLARE FlightNumber : STRING
+DECLARE Destination : STRING
+DECLARE DepartureDate : DATE
+DECLARE AircraftType : Aircraft
+ENDTYPE
+4(c)(i) Example answer: 1
+DECLARE Flight1 : Flight
+© UCLES 2022 Page 6 of 16
+9618/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2022
+PUBLISHED
+Question Answer Marks
+4(c)(ii) One mark for each point (Max 3) 3
+(cid:120) Correct assignments of both string data values
+(cid:120) Correct assignments of date data value
+(cid:120) Correct assignments of enumerated data value
+Example answer:
+Flight1.FlightNumber (cid:109) "XA782"
+Flight1.Destination (cid:109) "Cambridge"
+Flight1.DepartureDate (cid:109) 12/12/2022
+Flight1.AircraftType (cid:109) C350
+© UCLES 2022 Page 7 of 16
+9618/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2022
+PUBLISHED
+Question Answer Marks
+5 One mark for each description (Max 2) 6
+(cid:120) The emulation of a computer system / hardware and/or software
+(cid:120) (cid:171)(cid:3)(cid:88)(cid:86)(cid:76)(cid:81)(cid:74)(cid:3)(cid:68)(cid:3)(cid:75)(cid:82)(cid:86)(cid:87)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:88)(cid:87)(cid:72)(cid:85)(cid:3)(cid:86)(cid:92)(cid:86)(cid:87)(cid:72)(cid:80)(cid:17)
+(cid:120) Using guest operating system(s) for emulation.
+One mark for each correct benefit (Max 2)
+(cid:120) Multiple guest operating systems / VMs can be used on the same computer.
+(cid:120) Different instruction set architectures can be emulated on a single computer.
+(cid:120) A virtual machine can crash without affecting the host machine.
+(cid:120) There are security benefits // Trying a piece of suspicious software and if it is / has a virus, it will only infect the virtual
+machine.
+(cid:120) Cost savings due to not needing to purchase extra hardware.
+(cid:120) Can run legacy applications that are currently incompatible.
+One mark for each correct drawback (Max 2)
+(cid:120) A virtual machine is less efficient / has poorer performance than real machines because of extra load on the host
+computer
+(cid:120) Performance of the guest system cannot be adequately measured.
+(cid:120) A virtual machine may be affected by any weaknesses of the host machine.
+(cid:120) Costly and/or complex to maintain / implement / manage.
+(cid:120) Cannot emulate some hardware.
+Question Answer Marks
+6(a) One mark for each point 2
+(cid:120) Symmetric encryption uses a single key and asymmetric encryption uses a pair of keys.
+(cid:120) The symmetric single key is used by all, whereas only one of the keys for asymmetric encryption is available to
+everyone / one of the asymmetric encryption keys needs to be kept secret.
+© UCLES 2022 Page 8 of 16
+9618/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2022
+PUBLISHED
+Question Answer Marks
+6(b) One mark for each point (Max 4) 4
+(cid:120) The organisation requests a certificate from a Certificate Authority (CA)
+(cid:120) The organisation may send their public key to CA
+(cid:120) The organisation gathers all the information required by the CA in order to obtain their certificate, which includes
+information to prove their identity
+(cid:120) (cid:55)(cid:75)(cid:72)(cid:3)(cid:38)(cid:36)(cid:3)(cid:89)(cid:72)(cid:85)(cid:76)(cid:73)(cid:76)(cid:72)(cid:86)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:82)(cid:85)(cid:74)(cid:68)(cid:81)(cid:76)(cid:86)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:182)(cid:86)(cid:3)(cid:76)(cid:71)(cid:72)(cid:81)(cid:87)(cid:76)(cid:87)(cid:92)(cid:3)
+(cid:120) (cid:55)(cid:75)(cid:72)(cid:3)(cid:38)(cid:36)(cid:3)(cid:74)(cid:72)(cid:81)(cid:72)(cid:85)(cid:68)(cid:87)(cid:72)(cid:86)(cid:3)(cid:18)(cid:3)(cid:76)(cid:86)(cid:86)(cid:88)(cid:72)(cid:86)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:70)(cid:72)(cid:85)(cid:87)(cid:76)(cid:73)(cid:76)(cid:70)(cid:68)(cid:87)(cid:72)(cid:3)(cid:76)(cid:81)(cid:70)(cid:79)(cid:88)(cid:71)(cid:76)(cid:81)(cid:74)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:82)(cid:85)(cid:74)(cid:68)(cid:81)(cid:76)(cid:86)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:182)(cid:86)(cid:3)(cid:83)(cid:88)(cid:69)(cid:79)(cid:76)(cid:70)(cid:3)(cid:78)(cid:72)(cid:92)(cid:3)(cid:11)(cid:68)(cid:81)(cid:71)(cid:3)(cid:82)(cid:87)(cid:75)(cid:72)(cid:85)(cid:3)(cid:76)(cid:81)(cid:73)(cid:82)(cid:85)(cid:80)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:12)(cid:17)
+Question Answer Marks
+7 One mark for each point 4
+Supervised learning (Max 3 of 4)
+(cid:120) Supervised learning allows data to be collected, or a data output produced, from the previous experience.
+(cid:120) In supervised learning, known input and associated outputs are given // uses sample data with known outputs (in
+training) // uses labelled input data.
+(cid:120) Able to predict future outcomes based on past data.
+Unsupervised learning (Max 3 of 4)
+(cid:120) Unsupervised machine learning helps all kinds of unknown patterns in data to be found.
+(cid:120) Unsupervised learning only requires input data to be given.
+(cid:120) Uses any data // not trained on the right output // uses unlabelled input data.
+© UCLES 2022 Page 9 of 16
+9618/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2022
+PUBLISHED
+Question Answer Marks
+8(a) One mark for each point (Max 4) 4
+(cid:120) One correct NAND or NOR gate with two separate inputs and one output
+(cid:120) Second correct logic gate of same type as first with two separate inputs and one output
+(cid:120) Correct connections between logic gates
+(cid:120) Correctly labelled inputs
+Example answers:
+S/Set
+R/Reset
+© UCLES 2022 Page 10 of 16
+9618/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2022
+PUBLISHED
+Question Answer Marks
+8(a) Or
+R/Reset
+S/Set
+8(b) To store a binary digit / (single) bit. 1
+© UCLES 2022 Page 11 of 16
+9618/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2022
+PUBLISHED
+Question Answer Marks
+8(c) One mark for each point (Max 3) 3
+(cid:120) (cid:38)(cid:82)(cid:85)(cid:85)(cid:72)(cid:70)(cid:87)(cid:3)(cid:68)(cid:83)(cid:83)(cid:79)(cid:76)(cid:70)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:82)(cid:73)(cid:3)(cid:39)(cid:72)(cid:3)(cid:48)(cid:82)(cid:85)(cid:74)(cid:68)(cid:81)(cid:182)(cid:86)(cid:3)(cid:47)(cid:68)(cid:90)
+(cid:120) Correct application of Double Negation Law or Distributive Law
+(cid:120) Correct answer
+(A.B).(A.C).(B.D)
+(A.B) + (A.C) + (B.D) [1]
+_ _ _
+(A.B) + (A.C) + (B.D) [1]
+_ _
+A. (B + C) + B.D [1]
+Question Answer Marks
+9(a) One mark for each point (Max 3) 3
+(cid:120) Process scheduling allows more than one program/task to appear to be executed at the same time / enables multi-
+tasking / multiprogramming.
+(cid:120) To allow high priority jobs to be completed first.
+(cid:120) To keep the CPU busy all the time
+(cid:120) (cid:171)(cid:3)(cid:87)(cid:82)(cid:3)(cid:72)(cid:81)(cid:86)(cid:88)(cid:85)(cid:72)(cid:3)(cid:87)(cid:75)(cid:68)(cid:87)(cid:3)(cid:68)(cid:79)(cid:79)(cid:3)(cid:83)(cid:85)(cid:82)(cid:70)(cid:72)(cid:86)(cid:86)(cid:72)(cid:86)(cid:3)(cid:72)(cid:91)(cid:72)(cid:70)(cid:88)(cid:87)(cid:72)(cid:3)(cid:72)(cid:73)(cid:73)(cid:76)(cid:70)(cid:76)(cid:72)(cid:81)(cid:87)(cid:79)(cid:92)
+(cid:120) (cid:171)(cid:3)(cid:68)(cid:81)(cid:71)(cid:3)(cid:87)(cid:82)(cid:3)(cid:75)(cid:68)(cid:89)(cid:72)(cid:3)(cid:85)(cid:72)(cid:71)(cid:88)(cid:70)(cid:72)(cid:71) wait times for all processes / to ensure all processes have fair access to the CPU / prevent
+starvation of some processes.
+© UCLES 2022 Page 12 of 16
+9618/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2022
+PUBLISHED
+Question Answer Marks
+9(b) One mark for each point (Max 2) for Shortest job first: 6
+(cid:120) Process are executed in ascending order of the amount of CPU time required // Short processes are executed first and
+followed by longer processes.
+(cid:120) (cid:171)(cid:90)(cid:75)(cid:76)(cid:70)(cid:75)(cid:3)(cid:79)(cid:72)(cid:68)(cid:71)(cid:86)(cid:3)(cid:87)(cid:82)(cid:3)(cid:68)(cid:81)(cid:3)(cid:76)(cid:81)(cid:70)(cid:85)(cid:72)(cid:68)(cid:86)(cid:72)(cid:71)(cid:3)(cid:87)(cid:75)(cid:85)(cid:82)(cid:88)(cid:74)(cid:75)(cid:83)(cid:88)(cid:87)(cid:3)(cid:11)(cid:69)(cid:72)(cid:70)(cid:68)(cid:88)(cid:86)(cid:72)(cid:3)(cid:80)(cid:82)(cid:85)(cid:72)(cid:3)(cid:83)(cid:85)(cid:82)(cid:70)(cid:72)(cid:86)(cid:86)(cid:72)(cid:86)(cid:3)(cid:70)(cid:68)(cid:81)(cid:3)(cid:69)(cid:72)(cid:3)(cid:72)(cid:91)(cid:72)(cid:70)(cid:88)(cid:87)(cid:72)(cid:71)(cid:3)(cid:76)(cid:81)(cid:3)(cid:68)(cid:3)(cid:86)(cid:80)(cid:68)(cid:79)(cid:79)(cid:72)(cid:85)(cid:3)(cid:68)(cid:80)(cid:82)(cid:88)(cid:81)(cid:87)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:76)(cid:80)(cid:72)(cid:12)(cid:17)
+One mark for each point (Max 2) for Round robin:
+(cid:120) Each process is served by the CPU for a fixed time/time slice (so all processes are given the same priority).
+(cid:120) (cid:54)(cid:87)(cid:68)(cid:85)(cid:89)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:71)(cid:82)(cid:72)(cid:86)(cid:81)(cid:182)(cid:87)(cid:3)(cid:82)(cid:70)(cid:70)(cid:88)(cid:85)(cid:3)(cid:11)(cid:69)(cid:72)(cid:70)(cid:68)(cid:88)(cid:86)(cid:72)(cid:3)(cid:73)(cid:82)(cid:85)(cid:3)(cid:72)(cid:68)(cid:70)(cid:75)(cid:3)(cid:85)(cid:82)(cid:88)(cid:81)(cid:71)(cid:3)(cid:85)(cid:82)(cid:69)(cid:76)(cid:81)(cid:3)(cid:70)(cid:92)(cid:70)(cid:79)(cid:72)(cid:15)(cid:3)(cid:72)(cid:89)(cid:72)(cid:85)(cid:92)(cid:3)(cid:83)(cid:85)(cid:82)(cid:70)(cid:72)(cid:86)(cid:86)(cid:3)(cid:76)(cid:86)(cid:3)(cid:74)(cid:76)(cid:89)(cid:72)(cid:81)(cid:3)(cid:68)(cid:3)(cid:73)(cid:76)(cid:91)(cid:72)(cid:71)(cid:3)time/time slice to execute).
+One mark for each point (Max 2) for First come first served:
+(cid:120) No complex logic, each process request is queued as it is received and executed one by one.
+(cid:120) (cid:54)(cid:87)(cid:68)(cid:85)(cid:89)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:71)(cid:82)(cid:72)(cid:86)(cid:81)(cid:182)(cid:87)(cid:3)(cid:82)(cid:70)(cid:70)(cid:88)(cid:85)(cid:3)(cid:11)(cid:69)(cid:72)(cid:70)(cid:68)(cid:88)(cid:86)(cid:72)(cid:3)(cid:72)(cid:89)(cid:72)(cid:85)(cid:92)(cid:3)(cid:83)(cid:85)(cid:82)(cid:70)(cid:72)(cid:86)(cid:86)(cid:3)(cid:90)(cid:76)(cid:79)(cid:79)(cid:3)(cid:72)(cid:89)(cid:72)(cid:81)(cid:87)(cid:88)(cid:68)(cid:79)(cid:79)(cid:92)(cid:3)(cid:74)(cid:72)(cid:87)(cid:3)(cid:68)(cid:3)(cid:70)(cid:75)ance to run) // less processor overhead.
+Question Answer Marks
+10(a) One mark for each correct OOP term definition 3
+(cid:120) Encapsulation (cid:177) putting properties and methods inside a class // ensures sensitive data is hidden from users by hiding
+values of a structured data object inside a class.
+(cid:120) Getter (cid:177) method that is used to return the value of a property.
+(cid:120) Setter (cid:177) method that is used to update the value of a property.
+© UCLES 2022 Page 13 of 16
+9618/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2022
+PUBLISHED
+Question Answer Marks
+10(b) One mark for each point 3
+(cid:120) properties correct
+(cid:120) setters correct
+(cid:120) getters correct
+SubstituteTeacher
+SubName : STRING
+Telephone : STRING
+InSchool : BOOLEAN
+SetSubName(StaffName : STRING)
+SetTelephone(Tel : STRING)
+SetInSchool(Present : BOOLEAN)
+GetSubName()
+GetTelephone()
+GetInSchool()
+© UCLES 2022 Page 14 of 16
+9618/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2022
+PUBLISHED
+Question Answer Marks
+11(a) One mark for each point 3
+(cid:120) Correct HeadPointer
+(cid:120) Any three correct NextPointer
+(cid:120) All six NextPointer correct
+HeadPointer 5
+Index Flower NextPointer
+1 Rose 0
+2 Marigold
+3 Foxglove 4
+4 Iris 9
+5 Daisy 3
+6 Dahlia
+7 Saxifrage
+8 Lupin 1
+9 Lily 8
+10 Hydrangea
+© UCLES 2022 Page 15 of 16
+9618/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2022
+PUBLISHED
+Question Answer Marks
+11(b) One mark for each correct line 5
+Pointer (cid:109) HeadPointer
+Found (cid:109) 0
+OUTPUT "Enter a flower name "
+INPUT FlowerName
+WHILE Pointer <> 0
+IF Flower[Pointer] = FlowerName THEN
+Found (cid:109) Pointer
+Pointer (cid:109) 0
+ELSE
+Pointer (cid:109)(cid:109) NextPointer[Pointer]
+ENDIF
+ENDWHILE
+IF Pointer = 0 THEN // IF Found <> 0 THEN
+OUTPUT Flower[Found], " is found"
+ELSE
+OUTPUT "The flower you wanted is not in the list"
+ENDIF
+11(c) One mark for each point (Max 2) 2
+(cid:120) Include a free list pointer
+(cid:120) (cid:171)(cid:87)(cid:82)(cid:3)(cid:85)(cid:72)(cid:88)(cid:86)(cid:72)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:88)(cid:81)(cid:88)(cid:86)(cid:72)(cid:71)(cid:3)(cid:86)(cid:83)(cid:68)(cid:70)(cid:72)
+(cid:120) (cid:171)(cid:68)(cid:86)(cid:3)(cid:68)(cid:3)(cid:79)(cid:76)(cid:81)(cid:78)(cid:72)(cid:71)(cid:3)(cid:79)(cid:76)(cid:86)(cid:87)(cid:3)(cid:82)(cid:73)(cid:3)(cid:73)(cid:85)(cid:72)(cid:72)(cid:3)(cid:86)(cid:83)(cid:68)(cid:70)(cid:72)(cid:17)
+© UCLES 2022 Page 16 of 16

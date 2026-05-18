@@ -1,0 +1,274 @@
+Cambridge International AS & A Level
+COMPUTER SCIENCE 9618/32
+Paper 3 Advanced Theory May/June 2025
+MARK SCHEME
+Maximum Mark: 75
+Published
+This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the
+examination. It shows the basis on which Examiners were instructed to award marks. It does not indicate the
+details of the discussions that took place at an Examiners(cid:182) meeting before marking began, which would have
+considered the acceptability of alternative answers.
+Mark schemes should be read in conjunction with the question paper and the Principal Examiner Report for
+Teachers.
+Cambridge International will not enter into discussions about these mark schemes.
+Cambridge International is publishing the mark schemes for the May/June 2025 series for most
+Cambridge IGCSE, Cambridge International A and AS Level components, and some Cambridge O Level
+components.
+This document consists of 12 printed pages.
+© Cambridge University Press & Assessment 2025 [Turn over
+9618/32 Cambridge International AS & A Level (cid:177) Mark Scheme May/June 2025
+PUBLISHED
+Generic Marking Principles
+These general marking principles must be applied by all examiners when marking candidate answers.
+They should be applied alongside the specific content of the mark scheme or generic level
+descriptions for a question. Each question paper and mark scheme will also comply with these
+marking principles.
+GENERIC MARKING PRINCIPLE 1:
+Marks must be awarded in line with:
+(cid:120) the specific content of the mark scheme or the generic level descriptors for the question
+(cid:120) the specific skills defined in the mark scheme or in the generic level descriptors for the question
+(cid:120) the standard of response required by a candidate as exemplified by the standardisation scripts.
+GENERIC MARKING PRINCIPLE 2:
+Marks awarded are always whole marks (not half marks, or other fractions).
+GENERIC MARKING PRINCIPLE 3:
+Marks must be awarded positively:
+(cid:120) marks are awarded for correct/valid answers, as defined in the mark scheme. However, credit
+is given for valid answers which go beyond the scope of the syllabus and mark scheme,
+referring to your Team Leader as appropriate
+(cid:120) marks are awarded when candidates clearly demonstrate what they know and can do
+(cid:120) marks are not deducted for errors
+(cid:120) marks are not deducted for omissions
+(cid:120) answers should only be judged on the quality of spelling, punctuation and grammar when these
+features are specifically assessed by the question as indicated by the mark scheme. The
+meaning, however, should be unambiguous.
+GENERIC MARKING PRINCIPLE 4:
+Rules must be applied consistently, e.g. in situations where candidates have not followed
+instructions or in the application of generic level descriptors.
+GENERIC MARKING PRINCIPLE 5:
+Marks should be awarded using the full range of marks defined in the mark scheme for the question
+(however; the use of the full mark range may be limited according to the quality of the candidate
+responses seen).
+GENERIC MARKING PRINCIPLE 6:
+Marks awarded are based solely on the requirements as defined in the mark scheme. Marks should
+not be awarded with grade thresholds or grade descriptors in mind.
+© Cambridge University Press & Assessment 2025 Page 2 of 12
+9618/32 Cambridge International AS & A Level (cid:177) Mark Scheme May/June 2025
+PUBLISHED
+Question Answer Marks
+1(a) One mark for each mark point 3
+MP1 Use of correct Flight1 variable with given field names
+MP2 Correct assignments of four string data values
+MP3 Correct assignment of date data value
+Example answer
+Flight1.FlightNumber (cid:109) "SB2789"
+Flight1.Destination (cid:109) "Dublin"
+Flight1.FlightDate (cid:109) 30/07/2025
+Flight1.Gate (cid:109) "N03"
+Flight1.Airline (cid:109) "Cambridge Airways"
+1(b)(i) One mark per mark point 2
+MP1 TYPE GateID =
+MP2 (N01, N02, N03, W01, W02, W03, W04)
+Example answer
+TYPE GateID = (N01, N02, N03, W01, W02, W03, W04)
+1(b)(ii) DECLARE Gate : GateID 1
+Question Answer Marks
+2(a) Two marks for working 3
+(cid:120) number converted to binary (0)1111100.0111
+(cid:120) use of exponent = 7 // Moving binary point the correct number (7) of
+places
+One mark for correct answer
+Mantissa Exponent
+0 1 1 1 1 1 0 0 0 1 1 1 0 1 1 1
+© Cambridge University Press & Assessment 2025 Page 4 of 12
+9618/32 Cambridge International AS & A Level (cid:177) Mark Scheme May/June 2025
+PUBLISHED
+Question Answer Marks
+2(b) Two marks for working 3
+(cid:120) correct use of exponent seen
+(cid:120) correct conversion method from binary to denary
+One mark for correct answer
+Working:
+1010001.01011 // moving bp 6 places to right
+Evaluation of two(cid:182)s complement (cid:237)64 (cid:14)16 (cid:14) 1 (cid:14) 0.25 (cid:14) 0.0625 (cid:14) 0.03125 //
+(cid:237)64 (cid:14) 16 (cid:14) 1 (cid:14) 1/4 (cid:14) 1/16 (cid:14) 1/32 // Converting two(cid:182)s complement back and
+evaluating positive binary number 32 + 8 + 4 + 2 + 0.5 + 0.125 + 0.03125 // 32
++ 8 + 4 + 2 + 1/2 + 1/8 + 1/32
+Fractions methods - award both working marks for either
+((cid:177) 2048 + 512 + 32 + 8 + 2 + 1) / 2048 x 26 = -1493 / 32
+OR
+(cid:177) 1 + 1/4 + 1/64 + 1/ 256 + 1/1024 + 1/2048 x 26 = -1493 / 32
+Answer:
+(cid:237)46.65625 // (cid:237)4621/
+32
+Question Answer Marks
+3(a) Two from 1
+(cid:120) Application Layer
+(cid:120) Transport Layer
+(cid:120) Internet Layer
+(cid:120) Link Layer
+3(b) One mark per mark point (Max 4) 4
+MP1 The TCP/IP suite can be viewed as layers within a stack
+MP2 Each layer can only accept input from the next higher or the next
+lower layer/adjacent layer
+MP3 The user/sender/computer interfaces with the top layer/application
+layer to send/receive a message
+MP4 The message when sent passes from the top layer/application layer
+to the bottom layer/link layer
+MP5 The message when received passes from bottom layer/link layer to
+the top layer/application layer
+MP6 The link layer interfaces directly with the network and sends/receives
+the message.
+© Cambridge University Press & Assessment 2025 Page 5 of 12
+9618/32 Cambridge International AS & A Level (cid:177) Mark Scheme May/June 2025
+PUBLISHED
+Question Answer Marks
+4 One mark for each benefit (Max 2) 4
+MP1 Suitable for long continuous transmission once the connection is
+made, it is available until the end of the transmission
+MP2 No time lost in resending/rearranging packets as no loss of packets
+or out of order packets
+MP3 Steady/high rate of transmission because the whole of the bandwidth
+is available
+MP4 Data loss unlikely as all data follows the same path
+One mark for each drawback (Max 2)
+MP5 Delays due to dedicated connection required to be set up/established
+before transmission can begin
+MP6 The dedicated connection cannot be used to transmit any other data
+MP7 System resources may be underutilised/inefficient/not very flexible
+because the bandwidth can(cid:182)t be shared/high bandwidth is required //
+Bandwidth may be wasted // May send empty frames // the circuit is always
+there whether or not used
+MP8 There are no alternative routes if there is a failure or fault on the line
+MP9 Reduced security due to use of single path
+MP10 Scalability is difficult
+Question Answer Marks
+5(a) One mark per point 3
+(cid:120) Running state
+(cid:120) Ready state
+(cid:120) Blocked state
+5(b) One mark per mark point (Max 3) 4
+MP1 The processes are queued as they arrive
+MP2 The process with the shortest time to complete/burst time is selected
+first and executed
+MP3 The process will continue until complete or put in a waiting state once
+execution has begun // it is non-pre-emptive
+MP4 The scheduler will continue to choose shorter processes over longer
+processes if they continue to be added to the queue can cause starvation for
+longer jobs
+One mark for a benefit (Max 1)
+MP5 Shorter jobs don(cid:182)t have to wait for longer jobs to complete before
+processing // Significantly reduces the average overall waiting time for
+processes // Ensures starvation doesn(cid:182)t occur for process with shorter burst
+times
+MP6 Higher throughput of processes
+© Cambridge University Press & Assessment 2025 Page 6 of 12
+9618/32 Cambridge International AS & A Level (cid:177) Mark Scheme May/June 2025
+PUBLISHED
+Question Answer Marks
+6(a) One mark per point (Max 2) 2
+MP1 A graph uses vertices/nodes to identify/represent entities such as
+destinations, people, etc
+MP2 Edges are used to connect nodes and can represent possible paths
+between them // a path is the list of nodes connected by edges between two
+given nodes
+MP3 Nodes/edges can be labelled/weighted, and this is a weighting that
+can be applied and used in the context of the application
+MP4 A cycle is a list of nodes that return to the same node.
+6(b) One mark per mark point (Max 4) 4
+MP1 Supervised learning uses labelled data // Unsupervised learning
+makes use of unlabelled data.
+MP2 Labelled data means that known outcomes are applied to specific
+inputs to help the AI predict outcomes.
+MP3 Supervised learning requires initial human input/training //
+Unsupervised learning does not require human input/training.
+MP4 With unlabelled data in unsupervised learning, outcomes are not
+known
+MP5 (cid:171) the AI has to search for hidden patterns/structures/clusters
+MP6 (cid:171) within the data in order to predict outcomes.
+© Cambridge University Press & Assessment 2025 Page 7 of 12
+9618/32 Cambridge International AS & A Level (cid:177) Mark Scheme May/June 2025
+PUBLISHED
+Question Answer Marks
+7(a) One mark for working, (all four columns P, Q, R and S) 3
+One mark for first eight rows of column Z (Shaded)
+One mark for second eight rows of column Z (Unshaded)
+Working space
+A B C D P Q R S Z
+0 0 0 0 1 0 0 1 0
+0 0 0 1 1 0 0 1 0
+0 0 1 0 0 1 0 1 0
+0 0 1 1 0 1 0 1 0
+0 1 0 0 1 0 0 1 0
+0 1 0 1 1 0 0 1 0
+0 1 1 0 0 0 0 0 1
+0 1 1 1 0 0 1 0 0
+1 0 0 0 1 0 0 1 0
+1 0 0 1 1 0 0 1 0
+1 0 1 0 0 0 0 0 1
+1 0 1 1 0 0 0 0 1
+1 1 0 0 1 0 0 1 0
+1 1 0 1 1 0 0 1 0
+1 1 1 0 0 0 0 0 1
+1 1 1 1 0 0 1 0 0
+7(b) One mark for correct answer (terms may be in any order) 1
+Z = A.B.C.D + A.B.C.D + A.B.C.D + A.B.C.D
+© Cambridge University Press & Assessment 2025 Page 8 of 12
+9618/32 Cambridge International AS & A Level (cid:177) Mark Scheme May/June 2025
+PUBLISHED
+Question Answer Marks
+11(b) One mark for feature and one mark for example (Max 2) 2
+(cid:120) Recursion is beneficial for algorithms when a problem naturally breaks
+down into smaller versions of itself.
+(cid:120) (cid:171) such as calculating a factorial / mathematical series / Fibonacci /
+compound interest / tree traversal / evaluation of RPN expressions.
+Question Answer Marks
+12(a) One mark per mark point 5
+MP1 Two correct attributes (DateOfBirth : Date) and priority with a
+sensible name and integer data type
+MP2 SetPatientID((cid:171)) and SetDo(cid:70)torID((cid:171)) seen
+MP3 (cid:171) and appropriate parameters, with string data types
+MP4 GetPatientID() and GetDateOfBirth() seen
+MP5 Priority setter and getter fully correct with name matching Priority
+attribute, with appropriate parameter and correct data type.
+Patient
+PatientID : STRING
+Name : STRING
+DateOfBirth : DATE
+Priority : INTEGER
+DoctorID : STRING
+SetPatientID(PatientNumber : STRING)
+SetName(FullName : STRING)
+SetDateOfBirth(DOB : DATE)
+SetPriority(Urgency : INTEGER)
+SetDoctorID(DocID : STRING)
+GetPatientID()
+GetName()
+GetDateOfBirth()
+GetPriority()
+GetDoctorID()
+12(b)(i) Instance // instantiation 1
+12(b)(ii) One mark for each mark point 2
+MP1 Polymorphism is when methods with the same name are redefined /
+behave differently (cid:171)
+MP2 (cid:171) in derived / inherited classes / subclasses
+© Cambridge University Press & Assessment 2025 Page 11 of 12
+9618/32 Cambridge International AS & A Level (cid:177) Mark Scheme May/June 2025
+PUBLISHED
+Question Answer Marks
+13 One mark for each correctly completed line 5
+DECLARE Grade : StudentResult
+DECLARE Position : INTEGER
+OPENFILE "CurrentResults.dat" FOR RANDOM
+OPENFILE "StoredResults.dat" FOR RANDOM
+FOR Position (cid:109)(cid:109) 1 TO 50
+SEEK "CurrentResults.dat", Position
+GETRECORD "CurrentResults.dat", Grade
+IF Grade.ExamGrade = "" THEN
+Grade.ExamGrade (cid:109)(cid:109) "Missing grade"
+ENDIF
+SEEK "StoredResults.dat", Position
+PUTRECORD "StoredResults.dat", Grade
+NEXT Position
+CLOSEFILE "CurrentResults.dat"
+CLOSEFILE "StoredResults.dat"
+© Cambridge University Press & Assessment 2025 Page 12 of 12

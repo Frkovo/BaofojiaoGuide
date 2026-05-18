@@ -1,0 +1,23 @@
+---
+title: Last-Minute Summary
+sidebar_position: 7
+---
+
+# Last-Minute Summary — Differentiation
+
+## Must-know derivatives
+
+$$\frac{d}{dx}\sin^{-1}x = \frac{1}{\sqrt{1-x^2}},\qquad \frac{d}{dx}\cos^{-1}x = -\frac{1}{\sqrt{1-x^2}}$$
+$$\frac{d}{dx}\sinh^{-1}x = \frac{1}{\sqrt{1+x^2}},\qquad \frac{d}{dx}\cosh^{-1}x = \frac{1}{\sqrt{x^2-1}},\qquad \frac{d}{dx}\tanh^{-1}x = \frac{1}{1-x^2}$$
+
+## Key sign warnings
+
+- $\frac{d}{dx}\cos^{-1}x$ is $-\frac{1}{\sqrt{1-x^2}}$ (negative!), $\frac{d}{dx}\sin^{-1}x$ is positive
+- $\frac{d}{dx}\tanh^{-1}x = \frac{1}{1-x^2}$ NOT $\frac{1}{1+x^2}$ (that's $\sinh^{-1}x$)
+- $\frac{d}{dx}\cosh x = +\sinh x$ NOT $-\sinh x$ (different from $\cos x$)
+
+## Maclaurin quick reference
+
+$$f(x) = f(0) + f'(0)x + \frac{f''(0)}{2!}x^2 + \frac{f'''(0)}{3!}x^3 + \cdots$$
+
+Remember to evaluate derivatives at $x = 0$, not at the original variable.

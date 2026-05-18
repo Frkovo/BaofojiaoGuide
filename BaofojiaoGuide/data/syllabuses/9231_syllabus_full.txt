@@ -1,0 +1,5685 @@
+--- PAGE 1 ---
+Syllabus
+Cambridge International 
+AS & A Level 
+Further Mathematics 9231
+Use this syllabus for exams in 2026 and 2027.
+Exams are available in the June and November series.
+Version 3
+For the purposes of screen readers, any mention in this document of Cambridge IGCSE 
+refers to Cambridge International General Certificate of Secondary Education.
+
+--- PAGE 2 ---
+Why choose Cambridge International?
+Cambridge International prepares school students for life, helping them develop an informed curiosity and a 
+lasting passion for learning. We are part of the University of Cambridge.
+Our Cambridge Pathway gives students a clear path for educational success from age 5 to 19. Schools can 
+shape the curriculum around how they want students to learn – with a wide range of subjects and flexible ways 
+to offer them. It helps students discover new abilities and a wider world, and gives them the skills they need for 
+life, so they can achieve at school, university and work.
+Our programmes and qualifications set the global standard for international education. They are created by 
+subject experts, are rooted in academic rigour and reflect the latest educational research. They provide a 
+strong platform for students to progress from one stage to the next, and are well supported by teaching and 
+learning resources. Learn more about our research at www.cambridgeassessment.org.uk/our-research/
+We review all our syllabuses regularly, so they reflect the latest research evidence and professional teaching 
+practice – and take account of the different national contexts in which they are taught.
+We consult with teachers to help us design each syllabus around the needs of their learners. Consulting with 
+leading universities has helped us make sure our syllabuses encourage students to master the key concepts in 
+the subject and develop the skills necessary for success in higher education.
+We believe education works best when curriculum, teaching, learning and assessment are closely aligned. 
+Our programmes develop deep knowledge, conceptual understanding and higher-order thinking skills, to 
+prepare students for their future. Together with schools, we develop Cambridge learners who are confident, 
+responsible, reflective, innovative and engaged – equipped for success in the modern world.
+Every year, nearly a million Cambridge students from 10 000 schools in 160 countries prepare for their future 
+with the Cambridge Pathway. 
+School feedback: ‘We think the Cambridge curriculum is superb preparation for university.’
+Feedback from: Christoph Guttentag, Dean of Undergraduate Admissions, Duke University, USA
+Quality management
+Cambridge International is committed to providing exceptional quality. In line with this commitment, our 
+quality management system for the provision of international education programmes and qualifications 
+programmes for students aged 5 to 19 is independently certified as meeting the internationally recognised 
+standard, ISO 9001:2015. Learn more at www.cambridgeinternational.org/about-us/our-standards/
+© Cambridge University Press & Assessment September 2023
+Cambridge Assessment International Education is part of Cambridge University Press & Assessment. Cambridge University Press & 
+Assessment is a department of the University of Cambridge.
+Cambridge University Press & Assessment retains the copyright on all its publications. Registered centres are permitted to copy 
+material from this booklet for their own internal use. However, we cannot give permission to centres to photocopy any material that is 
+acknowledged to a third party even for internal use within a centre.
+
+--- PAGE 3 ---
+Important: Changes to this syllabus
+The latest syllabus is version 3, published July 2025. There are no significant changes which affect 
+teaching.
+Any textbooks endorsed to support the syllabus for examination from 2020 are still suitable for use with this 
+syllabus.
+Contents
+Why choose Cambridge International?......................................................................... 2
+1  Why choose this syllabus? ......................................................................................... 4
+2  Syllabus overview ....................................................................................................... 8
+Aims	
+8
+Content overview	
+9
+Structure	
+10
+Assessment overview	
+11
+Assessment objectives	
+14
+3  Subject content ..........................................................................................................15
+Prior knowledge	
+15
+4  Details of the assessment ....................................................................................... 29
+Planning for assessment of AS & A Level Further Mathematics (9231)	
+29
+Examination information	
+29
+Command words	
+31
+5  List of formulae and statistical tables (MF19)......................................................... 32
+6  What else you need to know .................................................................................... 45
+Before you start	
+45
+Making entries	
+46
+Accessibility and equality	
+46
+After the exam	
+47
+How students, teachers and higher education can use the grades	
+48
+Changes to this syllabus for 2026 and 2027	
+49
+
+--- PAGE 4 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.
+4
+www.cambridgeinternational.org/alevel
+Back to contents page
+1  Why choose this syllabus? 
+Key benefits	
+The best motivation for a student is a real passion for the 
+subject they are learning. By offering students a variety of 
+Cambridge International AS & A Levels, you can give them the 
+greatest chance of finding the path of education they most 
+want to follow. With over 50 subjects to choose from, students 
+can select the ones they love and that they are best at, which 
+helps motivate them throughout their studies.
+Following a Cambridge International AS & A Level programme 
+helps students develop abilities which universities value highly, 
+including:
+	•
+a deep understanding of their subjects
+	•
+higher order thinking skills – analysis, critical thinking, 
+problem solving 
+	•
+presenting ordered and coherent arguments
+	•
+independent learning and research.
+Cambridge International AS & A Level Further Mathematics develops a set of transferable skills. 
+These include the skill of working with mathematical information, as well as the ability to think logically and 
+independently, consider accuracy, model situations mathematically, analyse results and reflect on findings. 
+Learners can apply these skills across a wide range of subjects and the skills equip them well for progression 
+to higher education or directly into employment. Learners will find that the additional time spent studying this 
+subject will support their understanding of A Level Mathematics.
+Our approach in Cambridge International AS & A Level Further Mathematics encourages learners to be:
+confident, using and sharing information and ideas, and using mathematical techniques to solve problems. 
+These skills build confidence and support work in other subject areas as well as in mathematics.
+responsible, through learning and applying skills which prepare them for future academic studies, helping 
+them to become numerate members of society.
+reflective, through making connections between different branches of mathematics and considering the 
+outcomes of mathematical problems and modelling.
+innovative, through solving both familiar and unfamiliar problems in different ways, selecting from a range of 
+mathematical and problem-solving techniques.
+engaged, by the beauty and structure of mathematics, its patterns and its many applications to real life 
+situations.
+School feedback: ‘Cambridge students develop a deep understanding of subjects and 
+independent thinking skills.’
+Feedback from: Principal, Rockledge High School, USA
+Cambridge
+learner
+
+--- PAGE 5 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  Why choose this syllabus? 
+5
+www.cambridgeinternational.org/alevel
+Back to contents page
+Key concepts
+Key concepts are essential ideas that help students develop a deep understanding of their subject and make 
+links between different aspects. Key concepts may open up new ways of thinking about, understanding or 
+interpreting the important things to be learned.  
+Good teaching and learning will incorporate and reinforce a subject’s key concepts to help students gain:
+	•
+a greater depth as well as breadth of subject knowledge
+	•
+confidence, especially in applying knowledge and skills in new situations  
+	•
+the vocabulary to discuss their subject conceptually and show how different aspects link together
+	•
+a level of mastery of their subject to help them enter higher education.
+The key concepts identified below, carefully introduced and developed, will help to underpin the course you will 
+teach. You may identify additional key concepts which will also enrich teaching and learning. 
+The key concepts for Cambridge International AS & A Level Further Mathematics are:
+	•
+Problem solving
+Mathematics is fundamentally problem solving and representing systems and models in different ways. 
+These include:  
+	–
+Algebra: this is an essential tool which supports and expresses mathematical reasoning and provides a 
+means to generalise across a number of contexts. 
+	–
+Geometrical techniques: algebraic representations also describe a spatial relationship, which gives us a 
+new way to understand a situation. 
+	–
+Calculus: this is a fundamental element which describes change in dynamic situations and underlines 
+the links between functions and graphs. 
+	–
+Mechanical models: these explain and predict how particles and objects move or remain stable under 
+the influence of forces.  
+	–
+Statistical methods: these are used to quantify and model aspects of the world around us. Probability 
+theory predicts how chance events might proceed, and whether assumptions about chance are 
+justified by evidence.
+	•
+Communication
+Mathematical proof and reasoning is expressed using algebra and notation so that others can follow each 
+line of reasoning and confirm its completeness and accuracy. Mathematical notation is universal. Each 
+solution is structured, but proof and problem solving also invite creative and original thinking. 
+	•
+Mathematical modelling
+Mathematical modelling can be applied to many different situations and problems, leading to predictions 
+and solutions. A variety of mathematical content areas and techniques may be required to create the 
+model. Once the model has been created and applied, the results can be interpreted to give predictions 
+and information about the real world. 
+
+--- PAGE 6 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  Why choose this syllabus? 
+6
+www.cambridgeinternational.org/alevel
+Back to contents page
+International recognition and acceptance
+Our expertise in curriculum, teaching and learning, and assessment is the basis for the recognition of 
+our programmes and qualifications around the world. Every year thousands of students with Cambridge 
+International AS & A Levels gain places at leading universities worldwide. Our programmes and qualifications 
+are valued by top universities around the world including those in the UK, US (including Ivy League universities), 
+Europe, Australia, Canada and New Zealand.
+UK ENIC, the national agency in the UK for the recognition and comparison of international qualifications and 
+skills, has carried out an independent benchmarking study of Cambridge International AS & A Level and found 
+it to be comparable to the standard of AS & A Level in the UK. This means students can be confident that their 
+Cambridge International AS & A Level qualifications are accepted as equivalent, grade for grade, to UK AS & A 
+Levels by leading universities worldwide.
+Cambridge International AS Level Further Mathematics makes up the first half of the Cambridge International 
+A Level course in further mathematics and provides a foundation for the study of further mathematics at 
+Cambridge International A Level. The AS Level can also be delivered as a standalone qualification. Depending 
+on local university entrance requirements, students may be able to use it to progress directly to university 
+courses in mathematics or some other subjects. It is also suitable as part of a course of general education. 
+Cambridge International A Level Mathematics provides a foundation for the study of mathematics or related 
+courses in higher education. Equally it is suitable as part of a course of general education.
+For more information about the relationship between the Cambridge International AS Level and Cambridge 
+International A Level see the ‘Assessment overview’ section of the Syllabus overview.
+We recommend learners check the Cambridge recognition database and university websites to find the most 
+up-to-date entry requirements for courses they wish to study. 
+Learn more at www.cambridgeinternational.org/recognition
+
+--- PAGE 7 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  Why choose this syllabus? 
+7
+www.cambridgeinternational.org/alevel
+Back to contents page
+Supporting teachers
+We believe education is most effective when curriculum, teaching and learning, and assessment are closely 
+aligned. We provide a wide range of resources, detailed guidance, innovative training and targeted professional 
+development so that you can give your students the best possible preparation for Cambridge International 
+AS & A Level. To find out which resources are available for each syllabus go to 
+www.cambridgeinternational.org/support 
+The School Support Hub is our secure online site for Cambridge teachers where you can find the resources 
+you need to deliver our programmes. You can also keep up to date with your subject and the global Cambridge 
+community through our online discussion forums.  
+Find out more at www.cambridgeinternational.org/support
+Support for Cambridge International AS & A Level 
+Planning and 
+preparation
+	•
+Syllabuses
+	•
+Schemes of work
+	•
+Specimen Question 
+Papers and Mark 
+Schemes
+	•
+Teacher guides
+Teaching and 
+assessment
+	•
+Endorsed resources
+	•
+Online forums
+	•
+Resource Plus
+Learning and revision
+	•
+Example candidate 
+responses
+	•
+Past papers and 
+mark schemes
+	•
+Specimen paper 
+answers
+Results
+	•
+Candidate Results 
+Service
+	•
+Principal examiner 
+reports for teachers
+Sign up for email notifications about changes to syllabuses, including new and revised products and services, 
+at www.cambridgeinternational.org/syllabusupdates
+Syllabuses and specimen materials represent the final authority on the content and structure of all of our 
+assessments.
+Professional development
+Find the next step on your professional development journey.
+	•
+Introductory Professional Development – An introduction to Cambridge programmes and qualifications.  
+	•
+Extension Professional Development – Develop your understanding of Cambridge programmes and 
+qualifications to build confidence in your delivery. 
+	•
+Enrichment Professional Development – Transform your approach to teaching with our Enrichment 
+workshops. 
+	•
+Cambridge Professional Development Qualifications (PDQs) – Practice-based programmes that transform 
+professional learning for practising teachers. Available at Certificate and Diploma level. 
+Find out more at: 
+www.cambridgeinternational.org/support-and-training-for-schools/professional-development/
+Supporting exams officers
+We provide comprehensive support and guidance for all Cambridge exams officers. 
+Find out more at: www.cambridgeinternational.org/eoguide
+
+--- PAGE 8 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.
+8
+www.cambridgeinternational.org/alevel
+Back to contents page
+2  Syllabus overview 
+Aims
+The aims describe the purposes of a course based on this syllabus.
+The aims are to enable students to:
+	•
+further develop their mathematical knowledge and skills in a way which encourages confidence and 
+provides satisfaction and enjoyment
+	•
+develop a greater understanding of mathematical principles and a further appreciation of mathematics as a 
+logical and coherent subject
+	•
+acquire a greater range of mathematical skills, particularly those which will enable them to use applications 
+of mathematics in the context of everyday situations and of other subjects they may be studying
+	•
+further develop the ability to analyse problems logically
+	•
+recognise when and how a situation may be represented mathematically, identify and interpret relevant 
+factors and select an appropriate mathematical method to solve the problem
+	•
+use mathematics fluently as a means of communication with emphasis on the use of clear expression
+	•
+acquire the mathematical background necessary for further study in mathematics or related subjects.
+
+Cambridge Assessment International Education is an education organisation and politically 
+neutral. The contents of this syllabus, examination papers and associated materials do not endorse any 
+political view. We endeavour to treat all aspects of the exam process neutrally.
+
+--- PAGE 9 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  Syllabus overview 
+9
+www.cambridgeinternational.org/alevel
+Back to contents page
+Content overview
+Content section
+Assessment 
+component
+Topics included
+1  Further Pure Mathematics 1
+Paper 1
+1.1	 Roots of polynomial equations
+1.2	 Rational functions and graphs
+1.3	 Summation of series
+1.4	 Matrices
+1.5	 Polar coordinates
+1.6	 Vectors
+1.7	 Proof by induction
+2  Further Pure Mathematics 2
+Paper 2
+2.1	 Hyperbolic functions
+2.2	 Matrices
+2.3	 Differentiation
+2.4	 Integration
+2.5	 Complex numbers
+2.6	 Differential equations
+3  Further Mechanics
+Paper 3
+3.1	 Motion of a projectile
+3.2	 Equilibrium of a rigid body
+3.3	 Circular motion
+3.4	 Hooke’s law
+3.5	 Linear motion under a variable force
+3.6	 Momentum
+4  Further Probability & 
+Statistics
+Paper 4
+4.1	 Continuous random variables
+4.2	 Inference using normal and t-distributions
+4.3	
+2
+| -tests
+4.4	 Non-parametric tests
+4.5	 Probability generating functions
+
+School feedback: ‘Cambridge International AS & A Levels prepare students well for university 
+because they’ve learnt to go into a subject in considerable depth. There’s that ability to really 
+understand the depth and richness and the detail of a subject. It’s a wonderful preparation for 
+what they are going to face at university.’
+Feedback from: US Higher Education Advisory Council
+
+--- PAGE 10 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  Syllabus overview 
+10
+www.cambridgeinternational.org/alevel
+Back to contents page
+Structure
+There are four components that can be combined in specific ways (please see below):
+Paper 1: Further Pure Mathematics 1 
+Paper 2: Further Pure Mathematics 2 
+Paper 3: Further Mechanics
+Paper 4: Further Probability & Statistics
+All AS Level candidates take two written papers.
+All A Level candidates take four written papers.
+AS Level Further Mathematics
+The Cambridge International AS Level Further Mathematics qualification offers two different options:
+	•
+Further Pure Mathematics 1 and Further Mechanics  (Paper 1 and Paper 3)
+or
+	•
+Further Pure Mathematics 1 and Further Probability & Statistics (Paper 1 and Paper 4).
+A Level Further Mathematics
+Cambridge International A Level Further Mathematics includes all four components: 
+	•
+Paper 1: Further Pure Mathematics 1 
+	•
+Paper 2: Further Pure Mathematics 2
+	•
+Paper 3: Further Mechanics
+	•
+Paper 4: Further Probability & Statistics.
+See page 10 for a table showing all possible assessment routes.
+Structure of AS Level and A Level Further Mathematics
+AS Level Further Mathematics
+A Level Further Mathematics
+Paper 1 and Paper 3
+Further Pure
+Mathematics 1 and
+Further Mechanics
+Paper 1 and Paper 4
+Further Pure 
+Mathematics 1 and
+Further Probability &
+Statistics
+Paper 1, 2, 3 and 4
+Further Pure 
+Mathematics 1 and 2,
+Further Mechanics and
+Further Probability & 
+Statistics
+Please see the School Support Hub at www.cambridgeinternational.org/support for more information 
+about parallel teaching of this syllabus alongside Cambridge International AS & A Level Mathematics and 
+recommended routes through the Cambridge International AS & A Level Mathematics qualifications 9709 and 
+9231.
+
+--- PAGE 11 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  Syllabus overview 
+11
+www.cambridgeinternational.org/alevel
+Back to contents page
+Assessment overview
+Paper 1
+Paper 3
+Further Pure Mathematics 1	
+2 hours
+75 marks
+6 to 8 structured questions based on the 
+Further Pure Mathematics 1 subject content
+Answer all questions
+Written examination
+Externally assessed
+60% of the AS Level
+30% of the A Level
+Compulsory for AS Level and A Level
+Further Mechanics	
+1 hour 30 minutes
+50 marks
+5 to 7 structured questions based on the 
+Further Mechanics subject content
+Answer all questions
+Written examination
+Externally assessed 
+40% of the AS Level
+20% of the A Level
+Offered as part of AS Level or A Level
+Paper 2
+Paper 4
+Further Pure Mathematics 2	
+2 hours
+75 marks
+7 to 9 structured questions based on the 
+Further Pure Mathematics 2 subject content
+Answer all questions
+Written examination
+Externally assessed
+30% of the A Level
+Compulsory for A Level
+Further Probability &	
+1 hour 30 minutes
+Statistics
+50 marks
+5 to 7 structured questions based on the 
+Further Probability & Statistics subject content
+Answer all questions
+Written examination
+Externally assessed
+40% of the AS Level
+20% of the A Level
+Offered as part of AS Level or A Level
+Information on availability is in the Before you start section. 
+
+--- PAGE 12 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  Syllabus overview 
+12
+www.cambridgeinternational.org/alevel
+Back to contents page
+There are three routes for Cambridge International AS & A Level Mathematics:
+Candidates may combine components as shown below to suit their particular interests.
+Route 1
+AS Level only
+(Candidates take the AS 
+components in the same series)
+Paper 1
+Further Pure 
+Mathematics 1
+Paper 2
+Further Pure 
+Mathematics 2
+Paper 3
+Further 
+Mechanics
+Paper 4
+Further 
+Probability & 
+Statistics
+Either
+yes
+Not 
+available 
+for 
+AS Level
+yes
+no
+Or
+yes
+no
+yes
+Route 2
+A Level (staged over two years)
+Paper 1
+Further Pure 
+Mathematics 
+1
+Paper 2
+Further Pure 
+Mathematics 
+2
+Paper 3
+Further 
+Mechanics
+Paper 4
+Further 
+Probability & 
+Statistics
+Either
+Year 1 AS Level*
+yes
+no
+yes
+no
+Year 2 Complete the A Level
+no
+yes
+no
+yes
+Or
+Year 1 AS Level*
+yes
+no
+no
+yes
+Year 2 Complete the A Level
+no
+yes
+yes
+no
+Route 3
+A Level
+(Candidates take the A Level 
+components in the same series)
+Paper 1
+Further Pure 
+Mathematics 
+1
+Paper 2
+Further Pure 
+Mathematics 
+2
+Paper 3
+Further 
+Mechanics
+Paper 4
+Further 
+Probability & 
+Statistics
+Year 2 full A Level
+yes
+yes
+yes
+yes
+* Candidates carry forward their AS Level result subject to the rules and time limits described in the Cambridge 
+Handbook. See Making entries for more information on carry forward of results [and marks].
+Candidates following an AS Level route are eligible for grades a–e. Candidates following an A Level route are 
+eligible for grades A*–E.
+
+--- PAGE 13 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  Syllabus overview 
+13
+www.cambridgeinternational.org/alevel
+Back to contents page
+AS & A Level Mathematics (9709)
+AS Level Mathematics
+A Level Mathematics
+AS & A Level Further Mathematics (9231)
+AS Level Further Mathematics
+A Level Further Mathematics
+Paper 1: Pure
+Mathematics
+hhh
+Paper 1: Pure
+Mathematics
+Paper 1: Pure
+Mathematics 1
+Paper 2: Pure
+Mathematics 2
+Paper 1: Pure
+Mathematics
+hhh
+Paper 1: Pure
+Mathematics
+Paper 1: Pure
+Mathematics 1
+Paper 5: 
+Probability &
+Statistics 1
+Paper 1: Pure
+Mathematics
+hhh
+Paper 1: Pure
+Mathematics
+Paper 1: Pure
+Mathematics 1
+Paper 4: 
+Mechanics
+Paper 1: Pure
+Mathematics
+hhh
+Paper 1: Pure
+Mathematics
+Paper 1: Pure
+Mathematics 1
+Paper 2: Pure
+Mathematics 2
+Paper 1: Pure
+Mathematics
+hhh
+Paper 1: Pure
+Mathematics
+Paper 1: Pure
+Mathematics 1
+Paper 4: 
+Mechanics
+Paper 1: Pure
+Mathematics
+hhh
+Paper 1: Pure
+Mathematics
+Paper 3: Pure
+Mathematics 3
+Paper 4: 
+Mechanics
+Paper 1: Pure
+Mathematics
+hhh
+Paper 1: Pure
+Mathematics
+Paper 3: Pure
+Mathematics 3
+Paper 4: 
+Mechanics
+Paper 1: Pure
+Mathematics
+hhh
+Paper 1: Pure
+Mathematics
+Paper 3: Pure
+Mathematics 3
+Paper 5: 
+Probability &
+Statistics 1
+Paper 1: Pure
+Mathematics
+hhh
+Paper 1: Pure
+Mathematics
+Paper 1: 
+Further Pure
+Mathematics 1
+Paper 2:
+Further Pure
+Mathematics 2
+Paper 3: 
+Further
+Mechanics
+Paper 4: Further
+Probability &
+Statistics
+Paper 1: Pure
+Mathematics
+hhh
+Paper 1: Pure
+Mathematics
+Paper 1: 
+Further Pure
+Mathematics 1
+Paper 2:
+Further Pure
+Mathematics 2
+Paper 4: Further
+Probability &
+Statistics
+Paper 3:
+Further
+Mechanics
+Paper 1: Pure
+Mathematics
+hhh
+Paper 1: Pure
+Mathematics
+Paper 1: Pure
+Mathematics 1
+Paper 5: 
+Probability &
+Statistics 1
+Paper 1: Pure
+Mathematics
+hhh
+Paper 1: Pure
+Mathematics
+Paper 3: Pure
+Mathematics 3
+Paper 6: 
+Probability &
+Statistics 2
+Paper 1: Pure
+Mathematics
+hhh
+Paper 1: Pure
+Mathematics
+Paper 3: Pure
+Mathematics 3
+Paper 5: 
+Probability &
+Statistics 1
+Paper 1: Pure
+Mathematics
+hhh
+Paper 1: Pure
+Mathematics
+Paper 1: 
+Further Pure
+Mathematics 1
+Paper 3: 
+Further
+Mechanics
+Paper 1: Pure
+Mathematics
+hhh
+Paper 1: Pure
+Mathematics
+Paper 3: Pure
+Mathematics 3
+Paper 6: 
+Probability &
+Statistics 2
+Paper 1: Pure
+Mathematics
+hhh
+Paper 1: Pure
+Mathematics
+Paper 1: 
+Further Pure
+Mathematics 1
+Paper 4: Further
+Probability &
+Statistics
+Routes which require additional teaching
+of topics not covered in the combination
+of components taken in 9709 are in red.
+Routes through AS & A Level Mathematics and AS & A Level Further Mathematics
+
+--- PAGE 14 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  Syllabus overview 
+14
+www.cambridgeinternational.org/alevel
+Back to contents page
+Assessment objectives
+The assessment objectives (AOs) are:
+AO1 Knowledge and understanding
+	•
+Show understanding of relevant mathematical concepts, terminology and notation
+	•
+Recall accurately and use appropriate mathematical manipulative techniques
+AO2 Application and communication
+	•
+Recognise the appropriate mathematical procedure for a given situation
+	•
+Apply appropriate combinations of mathematical skills and techniques in solving problems
+	•
+Present relevant mathematical work, and communicate corresponding conclusions, in a clear and logical 
+way
+Weighting for assessment objectives
+The approximate weightings (± 5%) allocated to each of the assessment objectives (AOs) are summarised 
+below.
+Assessment objectives as a percentage of each qualification
+Assessment objective
+Weighting in AS Level %
+Weighting in A Level %
+AO1 Knowledge and understanding
+45
+45
+AO2 Application and communication
+55
+55
+Total
+100
+100
+Assessment objectives as a percentage of each component
+Assessment objective
+Weighting in components %
+Paper 1
+Paper 2
+Paper 3
+Paper 4
+AO1 Knowledge and understanding
+45
+45
+45
+45
+AO2 Application and communication
+55
+55
+55
+55
+Total
+100
+100
+100
+100
+
+--- PAGE 15 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.
+15
+www.cambridgeinternational.org/alevel
+Back to contents page
+3  Subject content 
+This syllabus gives you the flexibility to design a course that will interest, challenge and engage your learners. 
+Where appropriate you are responsible for selecting resources and examples to support your learners’ 
+study. These should be appropriate for the learners’ age, cultural background and learning context as well as 
+complying with your school policies and local legal requirements.
+The mathematical content for each component is detailed below. You can teach the topics in any order you 
+find appropriate. However, please note the prior knowledge requirements below, and the information about 
+calculator use found in 4 Details of the assessment.
+Notes and examples are included to clarify the syllabus content. Please note that these are examples only and 
+examination questions may differ from the examples given.
+Prior knowledge
+It is expected that learners will have studied the majority of the Cambridge International AS & A Level 
+Mathematics (9709) subject content before studying Cambridge International AS & A Level Further Mathematics 
+(9231). 
+The prior knowledge required for each Further Mathematics component is shown in the following table.
+Component in AS & A Level 
+Further Mathematics (9231)
+Prior knowledge required from 
+AS & A Level Mathematics (9709)
+9231 Paper 1:
+Further Pure Mathematics 1
+9709 Papers 1 and 3
+9231 Paper 2:
+Further Pure Mathematics 2
+9709 Papers 1 and 3
+9231 Paper 3:
+Further Mechanics
+9709 Papers 1, 3 and 4
+9231 Paper 4:
+Further Probability & Statistics
+9709 Papers 1, 3, 5 and 6
+Please see the School Support Hub at www.cambridgeinternational.org/support for more information 
+about parallel teaching of Cambridge International AS & A Level Mathematics (9709) and AS & A Level Further 
+Mathematics (9231).
+The support document Guide to prior learning for Paper 4 Further Probability & Statistics can be found on the 
+Cambridge International website.
+
+--- PAGE 16 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  Subject content 
+16
+www.cambridgeinternational.org/alevel
+Back to contents page
+1	
+Further Pure Mathematics 1 (for Paper 1)
+1.1	 Roots of polynomial equations
+Candidates should be able to: 
+	•
+recall and use the relations between the roots 
+and coefficients of polynomial equations
+Notes and examples
+e.g. to evaluate symmetric functions of the roots or 
+to solve problems involving unknown coefficients in 
+equations; restricted to equations of degree 2, 3 or 
+4 only.
+	•
+use a substitution to obtain an equation whose 
+roots are related in a simple way to those of the 
+original equation
+Substitutions will not be given for the easiest cases, 
+e.g. where the new roots are reciprocals or squares 
+or a simple linear function of the old roots.
+1.2	 Rational functions and graphs
+Candidates should be able to: 
+	•
+sketch graphs of simple rational functions, 
+including the determination of oblique 
+asymptotes, in cases where the degree of the 
+numerator and the denominator are at most 2
+Notes and examples
+Including determination of the set of values taken 
+by the function, e.g. by the use of a discriminant.
+Detailed plotting of curves will not be required, 
+but sketches will generally be expected to show 
+significant features, such as turning points, 
+asymptotes and intersections with the axes. 
+	•
+understand and use relationships between the 
+graphs of y = f(x), y2 = f(x), y
+x
+1
+f
+= ^ h, y
+x
+f
+= ^ h  
+and y
+x
+f
+= ^ h.
+Including use of such sketch graphs in the course 
+of solving equations or inequalities.
+1.3	 Summation of series
+Candidates should be able to: 
+	•
+use the standard results for 
+r
+/ , 
+r2
+/
+, 
+r3
+/
+ to 
+find related sums
+Notes and examples
+	•
+use the method of differences to obtain the 
+sum of a finite series
+Use of partial fractions to express a general term in 
+a suitable form may be required.
+	•
+recognise, by direct consideration of a sum to 
+n terms, when a series is convergent, and find 
+the sum to infinity in such cases
+
+--- PAGE 17 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  Subject content 
+17
+www.cambridgeinternational.org/alevel
+Back to contents page
+1	
+Further Pure Mathematics 1
+1.4	 Matrices
+Candidates should be able to: 
+	•
+carry out operations of matrix addition, 
+subtraction and multiplication, and recognise 
+the terms zero matrix and identity (or unit) 
+matrix
+Notes and examples
+Including non-square matrices. Matrices will have at 
+most 3 rows and columns.
+	•
+recall the meaning of the terms ‘singular’ and 
+‘non-singular’ as applied to square matrices 
+and, for 2
+2
+#
+ and 3
+3
+#  matrices, evaluate 
+determinants and find inverses of non-singular 
+matrices
+The notations det M for the determinant of a matrix 
+M, and I for the identity matrix, will be used.
+	•
+understand and use the result, for non-singular 
+matrices, (AB)–1 = B–1A–1
+Extension to the product of more than two matrices 
+may be required.
+	•
+understand the use of 2
+2
+#
+ matrices to 
+represent certain geometric transformations in 
+the x-y plane, in particular
+	–
+understand the relationship between the 
+transformations represented by A and A–1
+	–
+recognise that the matrix product AB 
+represents the transformation that results 
+from the transformation represented by B 
+followed by the transformation represented 
+by A
+	–
+recall how the area scale factor of a 
+transformation is related to the determinant 
+of the corresponding matrix
+	–
+find the matrix that represents a 
+given transformation or sequence of 
+transformations
+Understanding of the terms ‘rotation’, ‘reflection’, 
+‘enlargement’, ‘stretch’ and ‘shear’ for 2D 
+transformations will be required.
+Other 2D transformations may be included, but no 
+particular knowledge of them is expected.
+	•
+understand the meaning of ‘invariant’ as 
+applied to points and lines in the context of 
+transformations represented by matrices, and 
+solve simple problems involving invariant points 
+and invariant lines.
+e.g. to locate the invariant points of the 
+transformation represented by 6
+2
+5
+3
+e
+o, or to find 
+the invariant lines through the origin for 4
+2
+1
+1
+-
+e
+o, 
+or to show that any line with gradient 1 is invariant 
+for 2
+1
+0
+1
+e
+o.
+
+--- PAGE 18 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  Subject content 
+18
+www.cambridgeinternational.org/alevel
+Back to contents page
+1	
+Further Pure Mathematics 1
+1.5	 Polar coordinates
+Candidates should be able to: 
+	•
+understand the relations between Cartesian 
+and polar coordinates, and convert equations 
+of curves from Cartesian to polar form and vice 
+versa
+Notes and examples
+The convention r
+0
+H
+ will be used.
+	•
+sketch simple polar curves, for 0
+2
+<
+G
+r
+i
+ 
+or 
+1
+G
+−r
+r
+i
+ or a subset of either of these 
+intervals
+Detailed plotting of curves will not be required, 
+but sketches will generally be expected to show 
+significant features, such as symmetry, coordinates 
+of intersections with the initial line, the form of the 
+curve at the pole and least/greatest values of r.
+	•
+recall the formula 
+r d
+2
+1
+2 i
+y
+ for the area of a 
+	
+sector, and use this formula in simple cases.
+1.6	 Vectors
+Candidates should be able to: 
+	•
+use the equation of a plane in any of the forms 
+ax + by + cz = d or r.n = p or r = a + λb + μc  
+and convert equations of planes from one form 
+to another as necessary in solving problems
+Notes and examples
+	•
+recall that the vector product a
+b
+#
+ of two 
+vectors can be expressed either as 
+sin
+a b
+n
+it ,
+where nt  is a unit vector, or in component form 
+as 
+	
+a b
+a b
+a b
+a b
+i
+j
+2
+3
+3
+2
+3 1
+1
+3
+−
+−
++
+`
+`
+j
+j
+a b
+a b k
+1
+2
+2 1
+−
++`
+j
+	•
+use equations of lines and planes, together with 
+scalar and vector products where appropriate, 
+to solve problems concerning distances, angles 
+and intersections, including
+	–
+determining whether a line lies in a plane, is 
+parallel to a plane or intersects a plane, and 
+finding the point of intersection of a line and 
+a plane when it exists
+	–
+finding the foot of the perpendicular from a 
+point to a plane
+	–
+finding the angle between a line and a 
+plane, and the angle between two planes
+	–
+finding an equation for the line of 
+intersection of two planes
+	–
+calculating the shortest distance between 
+two skew lines
+	–
+finding an equation for the common 
+perpendicular to two skew lines.
+
+--- PAGE 19 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  Subject content 
+19
+www.cambridgeinternational.org/alevel
+Back to contents page
+1	
+Further Pure Mathematics 1
+1.7	 Proof by induction
+Candidates should be able to: 
+	•
+use the method of mathematical induction to 
+establish a given result
+Notes and examples
+e.g. 
+r
+n n
+4
+1
+1
+r
+n
+3
+2
+2
+1
+=
++
+=
+^
+h
+/
+,
+u
+2
+1 1
+3
+n
+n
+1
+=
++
+-
+_
+i for the sequence given by
+u
+u
+3
+1
+n
+n
+1
+−
+=
++
+ and u
+1
+1 =
+,
+4
+6
+1
+1
+3
+2
+2
+3
+2
+6
+1
+2
+3
+2
+n
+n
+n
+n
+n
+1
+1
+#
+#
+−
+−
+−
+−
+−
+−
+=
++
++
+f
+f
+p
+p,
+3
+2
+5
+3
+n
+n
+2
+#
+−
++
+ is divisible by 8.
+	•
+recognise situations where conjecture based 
+on a limited trial followed by inductive proof is 
+a useful strategy, and carry this out in simple 
+cases.
+e.g. find the nth derivative of x ex,
+find 
+!
+r
+r
+r
+n
+1
+#
+=
+/
+.
+
+--- PAGE 20 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  Subject content 
+20
+www.cambridgeinternational.org/alevel
+Back to contents page
+2	
+Further Pure Mathematics 2 (for Paper 2)
+Knowledge of Paper 1: Further Pure Mathematics 1 subject content from this syllabus is assumed for this 
+component.
+2.1	 Hyperbolic functions
+Candidates should be able to: 
+	•
+understand the definitions of the hyperbolic 
+functions sinh x, cosh x, tanh x, sech x, cosech x, 
+coth x in terms of the exponential function
+Notes and examples
+	•
+sketch the graphs of hyperbolic functions
+	•
+prove and use identities involving hyperbolic 
+functions
+e.g. cosh2 x – sinh2 x ≡ 1, sinh2x ≡ 2 sinh x cosh x, 
+and similar results corresponding to the standard 
+trigonometric identities.
+	•
+understand and use the definitions of the 
+inverse hyperbolic functions and derive and use 
+the logarithmic forms
+2.2	 Matrices
+Candidates should be able to: 
+	•
+formulate a problem involving the solution of 3 
+linear simultaneous equations in 3 unknowns 
+as a problem involving the solution of a matrix 
+equation, or vice versa
+Notes and examples
+	•
+understand the cases that may arise 
+concerning the consistency or inconsistency 
+of 3 linear simultaneous equations, relate 
+them to the singularity or otherwise of the 
+corresponding matrix, solve consistent 
+systems, and interpret geometrically in terms of 
+lines and planes
+e.g. three planes meeting in a common point, or in 
+a common line, or having no common points.
+	•
+understand the terms ‘characteristic equation’, 
+‘eigenvalue’ and ‘eigenvector’, as applied to 
+square matrices
+Including use of the definition Ae = λe to prove 
+simple properties, e.g. that λn is an eigenvalue of 
+An.
+	•
+find eigenvalues and eigenvectors of 2 × 2 and 
+3 × 3 matrices
+Restricted to cases where the eigenvalues are real 
+and distinct.
+	•
+express a square matrix in the form QDQ–1, 
+where D is a diagonal matrix of eigenvalues and 
+Q is a matrix whose columns are eigenvectors, 
+and use this expression
+e.g. in calculating powers of 2 × 2 or 3 × 3 
+matrices.
+	•
+use the fact that a square matrix satisfies its 
+own characteristic equation.
+e.g. in finding successive powers of a matrix or 
+finding an inverse matrix; restricted to 2 × 2 or 3 × 3 
+matrices only.
+
+--- PAGE 21 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  Subject content 
+21
+www.cambridgeinternational.org/alevel
+Back to contents page
+2	
+Further Pure Mathematics 2
+2.3	 Differentiation
+Candidates should be able to: 
+	•
+differentiate hyperbolic functions and 
+differentiate sin–1x, cos–1x, sinh–1x, cosh–1x and 
+tanh–1x
+Notes and examples
+	•
+obtain an expression for x
+y
+d
+d
+2
+2
+ in cases where 
+	
+the relation between x and y is defined implicitly 
+or parametrically
+	•
+derive and use the first few terms of a 
+Maclaurin’s series for a function.
+Derivation of a general term is not included, but 
+successive ‘implicit’ differentiation steps may 
+be required, e.g. for y = tan x following an initial 
+differentiation rearranged as y′= 1 + y2.
+2.4	 Integration
+Candidates should be able to: 
+	•
+integrate hyperbolic functions and recognise 
+integrals of functions of the form 
+a
+x
+1
+2
+2
+−
+,
+x
+a
+1
+2
+2
++
+ and 
+x
+a
+1
+2
+2
+−
+ , and integrate 
+associated functions using trigonometric or 
+hyperbolic substitutions as appropriate
+Notes and examples
+Including use of completing the square where 
+necessary, e.g. to integrate 
+x
+x
+1
+2 +
+.
+	•
+derive and use reduction formulae for the 
+evaluation of definite integrals
+e.g. 
+sin x x
+d
+n
+0
+2
+1r
+y
+, 
+x
+x
+1
+e
+d
+x
+n
+0
+1
+−
+−^
+h
+y
+.  
+In harder cases hints may be given, e.g. 
+sec x x
+d
+n
+0
+4
+1r
+y
+ by considering 
+tan sec
+x
+x
+x
+d
+d
+n
+^
+h.
+	•
+understand how the area under a curve may be 
+approximated by areas of rectangles, and use 
+rectangles to estimate or set bounds for the 
+area under a curve or to derive inequalities or 
+limits concerning sums
+Questions may involve either rectangles of unit 
+width or rectangles whose width can tend to zero, 
+e.g. 
+l
+n
+r
+n
+1
+1
+1
+ln
+n
+r
+n
+1
+2
+2
++
++
+=
+^
+h
+/
+, 
+1 n
+n
+r
+x
+x
+1 1
+1
+d
+r
+n
+1
+1
+0
+1
+.
++
++
+−
+−
+=
+c
+^
+m
+h
+/
+y
+.	
+continued
+
+--- PAGE 22 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  Subject content 
+22
+www.cambridgeinternational.org/alevel
+Back to contents page
+2	
+Further Pure Mathematics 2
+2.4	 Integration continued
+Candidates should be able to: 
+	•
+use integration to find
+	–
+arc lengths for curves with equations in 
+Cartesian coordinates, including the use of 
+a parameter, or in polar coordinates
+	–
+surface areas of revolution about one 
+of the axes for curves with equations in 
+Cartesian coordinates, including the use of 
+a parameter.
+Notes and examples
+Any questions involving integration may require 
+techniques from Cambridge International A Level 
+Mathematics (9709) applied to more difficult 
+cases, e.g. integration by parts for 
+sinx x
+e
+d
+x
+y
+, or 
+use of the substitution 
+tan
+t
+x
+2
+1
+=
+.
+Surface areas of revolution for curves with 
+equations in polar coordinates will not be required.
+2.5	 Complex numbers
+Candidates should be able to: 
+	•
+understand de Moivre’s theorem, for a positive 
+or negative integer exponent, in terms of the 
+geometrical effect of multiplication and division 
+of complex numbers
+Notes and examples
+	•
+prove de Moivre’s theorem for a positive integer 
+exponent
+e.g. by induction.
+	•
+use de Moivre’s theorem for a positive or 
+negative rational exponent
+	–
+to express trigonometrical ratios of multiple 
+angles in terms of powers of trigonometrical 
+ratios of the fundamental angle
+	–
+to express powers of sini and cos i in 
+terms of multiple angles
+	–
+in the summation of series
+	–
+in finding and using the nth roots of unity.
+e.g. expressing cos5i in terms of cos i or tan5i 
+in terms of tani.
+e.g. expressing sin6i in terms of cos2i, cos4i 
+and cos6i.
+e.g. using the ‘C + iS ’ method to sum series such 
+as 
+1
+sin
+n
+r
+r
+r
+n
+i
+= e o
+/
+.
+2.6	 Differential equations
+Candidates should be able to: 
+	•
+find an integrating factor for a first order linear 
+differential equation, and use an integrating 
+factor to find the general solution
+Notes and examples
+e.g. x
+y
+y
+x
+2
+d
+d
+2
+−
+=
+, x x
+y
+y
+x
+d
+d
+4
+−
+=
+, 
+coth
+cosh
+x
+y
+y
+x
+x
+d
+d +
+=
+.
+	•
+recall the meaning of the terms ‘complementary 
+function’ and ‘particular integral’ in the 
+context of linear differential equations, and 
+recall that the general solution is the sum of 
+the complementary function and a particular 
+integral
+
+continued
+
+--- PAGE 23 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  Subject content 
+23
+www.cambridgeinternational.org/alevel
+Back to contents page
+2	
+Further Pure Mathematics 2
+2.6	 Differential equations continued
+Candidates should be able to: 
+	•
+find the complementary function for a first or 
+second order linear differential equation with 
+constant coefficients
+Notes and examples
+For second order equations, including the cases 
+where the auxiliary equation has distinct real roots, 
+a repeated real root or conjugate complex roots.
+	•
+recall the form of, and find, a particular integral 
+for a first or second order linear differential 
+equation in the cases where a polynomial or 
+a ebx or a cos px + b sin px is a suitable form, 
+and in other simple cases find the appropriate 
+coefficient(s) given a suitable form of particular 
+integral
+e.g. evaluate k given that kx cos 2x is a particular 
+integral of 
+sin
+x
+y
+y
+x
+4
+2
+d
+d
+2
+2
++
+=
+.
+	•
+use a given substitution to reduce a differential 
+equation to a first or second order linear 
+equation with constant coefficients or to a first 
+order equation with separable variables
+e.g. the substitution x = et to reduce to linear form a 
+differential equation with terms of the form 
+ax
+x
+y
+bx x
+y
+cy
+d
+d
+d
+d
+2
+2
+2
++
++
+, or the substitution y = ux to 
+reduce x
+y
+x
+y
+x
+y
+d
+d
+−
+=
++
+ to separable form.
+	•
+use initial conditions to find a particular solution 
+to a differential equation, and interpret a 
+solution in terms of a problem modelled by a 
+differential equation.
+
+--- PAGE 24 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  Subject content 
+24
+www.cambridgeinternational.org/alevel
+Back to contents page
+3	
+Further Mechanics (for Paper 3)
+Knowledge of Cambridge International AS & A Level Mathematics (9709) Paper 4: Mechanics subject 
+content is assumed for this component.
+3.1	 Motion of a projectile
+Candidates should be able to: 
+	•
+model the motion of a projectile as a particle 
+moving with constant acceleration and 
+understand any limitations of the model
+Notes and examples
+Vector methods are not required
+	•
+use horizontal and vertical equations of motion 
+to solve problems on the motion of projectiles, 
+including finding the magnitude and direction 
+of the velocity at a given time or position, the 
+range on a horizontal plane and the greatest 
+height reached
+	•
+derive and use the Cartesian equation of the 
+trajectory of a projectile, including problems 
+in which the initial speed and/or angle of 
+projection may be unknown.
+Knowledge of the 'bounding parabola' for 
+accessible points is not included.
+3.2	 Equilibrium of a rigid body
+Candidates should be able to: 
+	•
+calculate the moment of a force about a point
+Notes and examples
+For questions involving coplanar forces only; 
+understanding of the vector nature of moments is 
+not required.
+	•
+use the result that the effect of gravity on a rigid 
+body is equivalent to a single force acting at 
+the centre of mass of the body, and identify the 
+position of the centre of mass of a uniform body 
+using considerations of symmetry
+	•
+use given information about the position of the 
+centre of mass of a triangular lamina and other 
+simple shapes
+Proofs of results given in the MF19 List of formulae 
+are not required. 
+	•
+determine the position of the centre of mass of 
+a composite body by considering an equivalent 
+system of particles
+Simple cases only, e.g. a uniform L-shaped lamina, 
+or a uniform cone joined at its base to a uniform 
+hemisphere of the same radius.
+	•
+use the principle that if a rigid body is in 
+equilibrium under the action of coplanar forces 
+then the vector sum of the forces is zero and 
+the sum of the moments of the forces about 
+any point is zero, and the converse of this
+	•
+solve problems involving the equilibrium of a 
+single rigid body under the action of coplanar 
+forces, including those involving toppling or 
+sliding.
+
+--- PAGE 25 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  Subject content 
+25
+www.cambridgeinternational.org/alevel
+Back to contents page
+3	
+Further Mechanics
+3.3	 Circular motion
+Candidates should be able to: 
+	•
+understand the concept of angular speed for a 
+particle moving in a circle, and use the relation 
+v
+r~
+=
+ 
+Notes and examples
+	•
+understand that the acceleration of a particle 
+moving in a circle with constant speed is 
+directed towards the centre of the circle, and 
+use the formulae r
+2
+~  and r
+v2
+.
+Proof of the acceleration formulae is not required.
+	•
+solve problems which can be modelled by the 
+motion of a particle moving in a horizontal circle 
+with constant speed
+	•
+solve problems which can be modelled by the 
+motion of a particle in a vertical circle without 
+loss of energy.
+Including finding a normal contact force or the 
+tension in a string, locating points at which these 
+are zero, and conditions for complete circular 
+motion.
+3.4	 Hooke's law
+Candidates should be able to: 
+	•
+use Hooke’s law as a model relating the force 
+in an elastic string or spring to the extension 
+or compression, and understand the term 
+modulus of elasticity
+Notes and examples
+	•
+use the formula for the elastic potential energy 
+stored in a string or spring
+Proof of the formula is not required.
+	•
+solve problems involving forces due to elastic 
+strings or springs, including those where 
+considerations of work and energy are needed.
+e.g. a particle moving horizontally or vertically or 
+on an inclined plane while attached to one or more 
+strings or springs, or a particle attached to an 
+elastic string acting as a 'conical pendulum'.
+3.5	 Linear motion under a variable force
+Candidates should be able to: 
+	•
+solve problems which can be modelled as the 
+linear motion of a particle under the action of 
+a variable force, by setting up and solving an 
+appropriate differential equation.
+Notes and examples
+Including use of v x
+v
+d
+d  for acceleration, where 
+appropriate. 
+Calculus required is restricted to content from Pure 
+Mathematics 3 in Cambridge International A Level 
+Mathematics (9709).
+Only differential equations in which the variables are 
+separable are included.
+
+--- PAGE 26 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  Subject content 
+26
+www.cambridgeinternational.org/alevel
+Back to contents page
+3	
+Further Mechanics
+3.6	 Momentum
+Candidates should be able to: 
+	•
+recall Newton’s experimental law and the 
+definition of the coefficient of restitution, the 
+property 
+e
+0
+1
+G
+G
+, and the meaning of the 
+terms ‘perfectly elastic’ (e = 1) and ‘inelastic’ 
+(e = 0)
+Notes and examples
+	•
+use conservation of linear momentum and/or 
+Newton’s experimental law to solve problems 
+that may be modelled as the direct or oblique 
+impact of two smooth spheres, or the direct or 
+oblique impact of a smooth sphere with a fixed 
+surface.
+
+--- PAGE 27 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  Subject content 
+27
+www.cambridgeinternational.org/alevel
+Back to contents page
+4	
+Further Probability & Statistics (for Paper 4)
+Knowledge of Cambridge International AS & A Level Mathematics (9709) Papers 5 and 6: Probability & 
+Statistics subject content is assumed for this component.
+Please see the support document Guide to prior learning for Paper 4 Further Probability & Statistics on the 
+Cambridge website for recommended prior knowledge for this paper.
+4.1	 Continuous random variables
+Candidates should be able to: 
+	•
+use a probability density function which may be 
+defined piecewise
+Notes and examples
+	•
+use the general result 
+X
+x
+x
+x
+E g
+f
+g
+d
+=
+_ ^
+^
+^
+hi
+h
+h
+y
+ 
+where f(x) is the probability density function of 
+the continuous random variable X and g(X) is a 
+function of X
+	•
+understand and use the relationship between 
+the probability density function (PDF) and the 
+cumulative distribution function (CDF), and use 
+either to evaluate probabilities or percentiles
+	•
+use cumulative distribution functions (CDFs) of 
+related variables in simple cases.
+e.g. given the CDF of a variable X, find the CDF of 
+a related variable Y, and hence its PDF, e.g. where 
+Y = X 3.
+4.2	 Inference using normal and t-distributions
+Candidates should be able to: 
+	•
+formulate hypotheses and apply a hypothesis 
+test concerning the population mean using a 
+small sample drawn from a normal population 
+of unknown variance, using a t-test
+Notes and examples
+	•
+calculate a pooled estimate of a population 
+variance from two samples
+Calculations based on either raw or summarised 
+data may be required.
+	•
+formulate hypotheses concerning the difference 
+of population means, and apply, as appropriate
+	–
+a 2-sample t-test
+	–
+a paired sample t-test
+	–
+a test using a normal distribution
+The ability to select the test appropriate to the 
+circumstances of a problem is expected.
+	•
+determine a confidence interval for a population 
+mean, based on a small sample from a normal 
+population with unknown variance, using a 
+t-distribution
+	•
+determine a confidence interval for a difference 
+of population means, using a t-distribution or a 
+normal distribution, as appropriate.
+
+--- PAGE 28 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  Subject content 
+28
+www.cambridgeinternational.org/alevel
+Back to contents page
+4	
+Further Probability & Statistics
+4.3	
+2
+| -tests
+Candidates should be able to: 
+	•
+fit a theoretical distribution, as prescribed by a 
+given hypothesis, to given data
+Notes and examples
+Questions will not involve lengthy calculations.
+	•
+use a χ2-test, with the appropriate number 
+of degrees of freedom, to carry out the 
+corresponding goodness of fit analysis
+Classes should be combined so that each 
+expected frequency is at least 5.
+	•
+use a χ2-test, with the appropriate number of 
+degrees of freedom, for independence in a 
+contingency table.
+Yates’ correction is not required.
+Where appropriate, either rows or columns should 
+be combined so that the expected frequency in 
+each cell is at least 5.
+4.4	 Non-parametric tests
+Candidates should be able to: 
+	•
+understand the idea of a non-parametric test 
+and appreciate situations in which such a test 
+might be useful
+Notes and examples
+e.g. when sampling from a population which cannot 
+be assumed to be normally distributed.
+	•
+understand the basis of the sign test, the 
+Wilcoxon signed-rank test and the Wilcoxon 
+rank-sum test
+Including knowledge that Wilcoxon tests are valid 
+only for symmetrical distributions.
+	•
+use a single-sample sign test and a single-
+sample Wilcoxon signed-rank test to test a 
+hypothesis concerning a population median
+Including the use of normal approximations where 
+appropriate. 
+Questions will not involve tied ranks or observations 
+equal to the population median value being tested.
+	•
+use a paired-sample sign test, a Wilcoxon 
+matched-pairs signed-rank test and a Wilcoxon 
+rank-sum test, as appropriate, to test for 
+identity of populations.
+Including the use of normal approximations where 
+appropriate. 
+Questions will not involve tied ranks or 
+zero‑difference pairs.
+4.5	 Probability generating functions
+Candidates should be able to: 
+	•
+understand the concept of a probability 
+generating function (PGF) and construct and 
+use the PGF for given distributions
+Notes and examples
+Including the discrete uniform, binomial, geometric 
+and Poisson distributions.
+	•
+use formulae for the mean and variance of a 
+discrete random variable in terms of its PGF, 
+and use these formulae to calculate the mean 
+and variance of a given probability distribution
+	•
+use the result that the PGF of the sum of 
+independent random variables is the product of 
+the PGFs of those random variables.
+
+--- PAGE 29 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.
+29
+www.cambridgeinternational.org/alevel
+Back to contents page
+4  Details of the assessment 
+Planning for assessment of AS & A Level Further Mathematics (9231)
+S & A Level Further Mathematics (9231) can be studied with AS & A Level Mathematics (9709). However, 
+learners may have completed their course in AS & A Level Mathematics before starting the Further Mathematics 
+course. 
+The AS Level syllabuses are not designed for taking AS Mathematics (9709) and AS Further Mathematics (9231) 
+in parallel after only one year of study. This is because AS Further Mathematics (9231) topics may depend on 
+assumed prior knowledge from A Level Mathematics (9709), such as the Paper 3: Pure Mathematics 3 subject 
+content. Therefore you must plan your teaching carefully if you intend to enter candidates for AS Level Further 
+Mathematics after one year. 
+See the introduction to section 3 of this syllabus for a summary of the assumed prior knowledge required for AS & 
+A Level Further Mathematics (9231).
+Examination information
+All components are assessed by written examinations which are externally marked. Sample assessment 
+materials are available on our website at www.cambridgeinternational.org showing the question style and 
+level of the examination papers.
+Application of mathematical techniques
+As well as demonstrating the appropriate techniques, candidates need to apply their knowledge in solving 
+problems. Individual examination questions may involve ideas and methods from more than one section of the 
+syllabus content for that component.
+The main focus of examination questions will be the AS & A Level Further Mathematics syllabus content. 
+However, candidates may need to make use of prior knowledge and mathematical techniques from previous 
+study, as listed in the introduction to section 3 of this syllabus. 
+Structure of the question paper
+All questions in the examination papers are compulsory. An approximate number of questions for each paper 
+is given in the Assessment overview in section 2 of this syllabus. Questions are of varied lengths and often 
+contain several parts, labelled (a), (b), (c), which may have sub-parts (i), (ii), (iii), as needed. Some questions 
+might require candidates to sketch graphs or diagrams, or draw accurate graphs.
+Answer space
+Candidates answer on the question paper. All working should be shown neatly and clearly in the spaces 
+provided for each question. New questions often start on a fresh page, so more answer space may be 
+provided than is needed. If additional space is required, candidates should use the lined page at the end of the 
+question paper, where the question number or numbers must be clearly shown.
+
+--- PAGE 30 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  Details of the assessment 
+30
+www.cambridgeinternational.org/alevel
+Back to contents page
+Degrees of accuracy
+Candidates should give non-exact numerical answers correct to three significant figures (or one decimal place 
+for angles in degrees) unless a different level of accuracy is specified in the question. To earn accuracy marks, 
+candidates should avoid rounding figures until they have their final answer. 
+Additional materials for examinations
+Candidates are expected to have the following equipment in examinations: 
+	•
+a ruler
+	•
+a scientific calculator (see the following section).
+Note: a protractor and a pair of compasses are not required.
+A list of formulae and statistical tables (MF19) is supplied in examinations for the use of candidates. A copy of 
+the list of formulae and tables is given for reference in section 5 of this syllabus. Note that MF19 is a combined 
+formulae list for AS & A Level Mathematics (9709) and AS & A Level Further Mathematics (9231). All formulae in 
+the list may be needed for this syllabus.
+Calculators
+It is expected that candidates will have a calculator with standard ‘scientific’ functions available for use in all the 
+examinations. Computers, graphical calculators and calculators capable of symbolic algebraic manipulation 
+or symbolic differentiation or integration are not permitted. The General Regulations concerning the use of 
+calculators are contained in the Cambridge Handbook at www.cambridgeinternational.org/examsofficers 
+Candidates are expected to show all necessary working; no marks will be given for unsupported answers from 
+a calculator.
+Mathematical notation
+The list of mathematical notation that may be used in examinations for this syllabus is available on our website 
+at www.cambridgeinternational.org/9231
+
+--- PAGE 31 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  Details of the assessment 
+31
+www.cambridgeinternational.org/alevel
+Back to contents page
+Command words
+Command words and their meanings help candidates know what is expected from them in the exams. The 
+table below includes command words used in the assessment for this syllabus. The use of the command word 
+will relate to the subject context.
+Command word
+What it means
+Calculate
+work out from given facts, figures or information
+Deduce
+conclude from available information
+Derive
+obtain something (expression/equation/value) from another by a sequence of logical 
+steps
+Describe
+state the points of a topic / give characteristics and main features
+Determine
+establish with certainty
+Evaluate
+judge or calculate the quality, importance, amount, or value of something
+Explain
+set out purposes or reasons / make the relationships between things clear / say why 
+and/or how and support with relevant evidence
+Identify
+name/select/recognise
+Interpret
+identify meaning or significance in relation to the context
+Justify
+support a case with evidence/argument
+Prove
+confirm the truth of the given statement using a chain of logical mathematical 
+reasoning
+Show (that)
+provide structured evidence that leads to a given resul
+Sketch
+make a simple freehand drawing showing the key features, taking care over 
+proportions
+State
+express in clear terms
+Verify
+Confim a given statement/result is true
+
+--- PAGE 32 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.
+32
+www.cambridgeinternational.org/alevel
+Back to contents page
+5  List of formulae and statistical tables (MF19)
+
+--- PAGE 33 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  List of formulae and statistical tables (MF19) 
+33
+www.cambridgeinternational.org/alevel
+Back to contents page
+Trigonometry 
+sin
+tan
+cos
+θ
+θ
+θ
+≡
+ 
+ 
+ 
+2
+2
+cos
+sin
+1
+θ
+θ
++
+≡, 
+2
+2
+1
+tan
+sec
+θ
+θ
++
+≡
+, 
+2
+2
+cot
+1
+cosec
+θ
+θ
++ ≡
+ 
+sin(
+)
+sin
+cos
+cos
+sin
+A
+B
+A
+B
+A
+B
+±
+≡
+±
+ 
+cos(
+)
+cos
+cos
+sin
+sin
+A
+B
+A
+B
+A
+B
+±
+≡
+m
+ 
+tan
+tan
+tan(
+)
+1
+tan
+tan
+A
+B
+A
+B
+A
+B
+±
+±
+≡m
+ 
+sin 2
+2sin
+cos
+A
+A
+A
+≡
+ 
+2
+2
+2
+2
+cos2
+cos
+sin
+2cos
+1 1
+2sin
+A
+A
+A
+A
+A
+≡
+−
+≡
+−≡−
+ 
+2
+2tan
+tan 2
+1
+tan
+A
+A
+A
+≡
+−
+ 
+ 
+Principal values: 
+ 
+ 
+1
+2
+−π ⩽
+1
+sin
+x
+−
+ ⩽1
+2 π , 
+0 ⩽
+1
+cos
+x
+−
+⩽ π , 
+1
+1
+1
+2
+2
+tan
+x
+−
+−π <
+<
+π  
+ 
+Differentiation 
+ 
+ 
+f( )
+x  
+′f ( )
+x  
+ 
+ 
+n
+x  
+1
+n
+nx − 
+ 
+ 
+ln x  
+1
+x  
+ 
+ 
+ex  
+ex  
+ 
+ 
+sin x  
+cos x  
+ 
+ 
+cos x  
+sin x
+−
+ 
+ 
+ 
+tan x  
+2
+sec x  
+ 
+ 
+sec x  
+sec tan
+x
+x  
+ 
+ 
+cosec x  
+cosec cot
+x
+x
+−
+ 
+ 
+ 
+cot x  
+2
+cosec x
+−
+ 
+ 
+ 
+1
+tan
+x
+−
+ 
+2
+1
+1
+x
++
+ 
+ 
+ 
+uv  
+d
+d
+d
+d
+u
+v
+v
+u
+x
+x
++
+ 
+ 
+ 
+u
+v  
+2
+d
+d
+d
+d
+u
+v
+v
+u
+x
+x
+v
+−
+ 
+ 
+If 
+f( )
+x
+t
+=
+ and 
+g( )
+y
+t
+=
+ then d
+d
+d
+d
+d
+d
+y
+y
+x
+x
+t
+t
+=
+÷
+ 
+
+--- PAGE 34 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  List of formulae and statistical tables (MF19) 
+34
+www.cambridgeinternational.org/alevel
+Back to contents page
+
+--- PAGE 35 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  List of formulae and statistical tables (MF19) 
+35
+www.cambridgeinternational.org/alevel
+Back to contents page
+FURTHER PURE MATHEMATICS 
+ 
+Algebra 
+ 
+Summations: 
+ 
+ 
+1
+2
+1
+(
+1)
+n
+r
+r
+n n
+=
+=
++
+∑
+, 
+2
+1
+6
+1
+(
+1)(2
+1)
+n
+r
+r
+n n
+n
+=
+=
++
++
+∑
+, 
+3
+2
+2
+1
+4
+1
+(
+1)
+n
+r
+r
+n
+n
+=
+=
++
+∑
+ 
+ 
+ 
+Maclaurin’s series: 
+ 
+ 
+2
+( )
+f( )
+f(0)
+f (0)
+f (0)
+f
+(0)
+2!
+!
+r
+r
+x
+x
+x
+x
+r
+′
+′′
+=
++
++
++
++
++
+K
+K 
+ 
+ 
+2
+e
+exp( )
+1
+2!
+!
+r
+x
+x
+x
+x
+x
+r
+=
+= +
++
++
++
++
+K
+K 
+(all x) 
+ 
+ 
+2
+3
+1
+ln(1
+)
+( 1)
+2
+3
+r
+r
+x
+x
+x
+x
+x
+r
++
++
+=
+−
++
+−
++ −
++
+K
+K  
+(–1 < x ⩽ 1) 
+ 
+ 
+3
+5
+2
+1
+sin
+( 1)
+3!
+5!
+(2
+1)!
+r
+r
+x
+x
+x
+x
+x
+r
++
+=
+−
++
+−
++ −
++
++
+K
+K 
+(all x) 
+ 
+ 
+2
+4
+2
+cos
+1
+( 1)
+2!
+4!
+(2 )!
+r
+r
+x
+x
+x
+x
+r
+= −
++
+−
++ −
++
+K
+K  
+(all x) 
+ 
+ 
+3
+5
+2
+1
+1
+tan
+( 1)
+3
+5
+2
+1
+r
+r
+x
+x
+x
+x
+x
+r
++
+−
+=
+−
++
+−
++ −
++
++
+K
+K 
+(–1 ⩽ x ⩽ 1) 
+ 
+ 
+3
+5
+2
+1
+sinh
+3!
+5!
+(2
+1)!
+r
+x
+x
+x
+x
+x
+r
++
+=
++
++
++
++
++
++
+K
+K 
+(all x) 
+ 
+ 
+2
+4
+2
+cosh
+1
+2!
+4!
+(2 )!
+r
+x
+x
+x
+x
+r
+= +
++
++
++
++
+K
+K  
+(all x) 
+ 
+ 
+3
+5
+2
+1
+1
+tanh
+3
+5
+2
+1
+r
+x
+x
+x
+x
+x
+r
++
+−
+=
++
++
++
++
++
++
+K
+K  
+(–1 < x < 1) 
+ 
+Trigonometry 
+ 
+If 
+1
+2
+tan
+t
+x
+=
+ then: 
+ 
+ 
+2
+2
+sin
+1
+t
+x
+t
+=
++
+ 
+and 
+2
+2
+1
+cos
+1
+t
+x
+t
+−
+=
++
+ 
+ 
+Hyperbolic functions 
+ 
+2
+2
+cosh
+sinh
+1
+x
+x
+−
+≡, 
+sinh 2
+2sinh cosh
+x
+x
+x
+≡
+, 
+2
+2
+cosh 2
+cosh
+sinh
+x
+x
+x
+≡
++
+ 
+1
+2
+sinh
+ln
+1
+(
+)
+x
+x
+x
+−
+=
++
++
+ 
+1
+2
+cosh
+ln
+1
+(
+)
+x
+x
+x
+−
+=
++
+−
+  (x ⩾ 1) 
+1
+1
+2
+1
+tanh
+ln
+(|
+|
+1)
+1
+x
+x
+x
+x
+−
++
+
+
+=
+<
+
+
+−
+
+
+ 
+
+--- PAGE 36 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  List of formulae and statistical tables (MF19) 
+36
+www.cambridgeinternational.org/alevel
+Back to contents page
+Differentiation 
+ 
+ 
+f( )
+x  
+′f ( )
+x  
+ 
+ 
+1
+sin
+x
+−
+ 
+2
+1
+1
+x
+−
+ 
+ 
+ 
+1
+cos
+x
+−
+ 
+2
+1
+1
+x
+−
+−
+ 
+ 
+ 
+sinh x  
+cosh x  
+ 
+ 
+cosh x  
+sinh x  
+ 
+ 
+tanh x  
+2
+sech x  
+ 
+ 
+1
+sinh
+x
+−
+ 
+2
+1
+1
+x
++
+ 
+ 
+ 
+1
+cosh
+x
+−
+  
+2
+1
+1
+x −
+ 
+ 
+ 
+1
+tanh
+x
+−
+  
+2
+1
+1
+x
+−
+ 
+ 
+Integration 
+ 
+(Arbitrary constants are omitted; a denotes a positive constant.) 
+ 
+ 
+f( )
+x  
+∫f( ) d
+x
+x  
+ 
+ 
+sec x  
+1
+1
+2
+4
+ln| sec
+tan
+|
+ln| tan(
+)|
+x
+x
+x
++
+=
++
+π
+ 
+(
+)
+  
+ 
+1
+2
+x <
+π  
+ 
+ 
+cosec x  
+1
+2
+ln| cosec
+cot
+|
+ln| tan
+|
+(
+)
+x
+x
+x
+−
++
+=
+ 
+(0
+)
+x
+<
+< π  
+ 
+ 
+sinh x  
+cosh x  
+ 
+ 
+cosh x  
+sinh x  
+ 
+ 
+2
+sech x  
+tanh x  
+ 
+ 
+2
+2
+1
+a
+x
+−
+ 
+1
+sin
+x
+a
+−
+
+
+
+
+
+ 
+(
+)
+  
+ x
+a
+<
+ 
+ 
+ 
+2
+2
+1
+x
+a
+−
+ 
+1
+cosh
+x
+a
+−
+
+
+
+
+
+  
+(
+)
+x
+a
+>
+ 
+ 
+ 
+2
+2
+1
+a
+x
++
+ 
+1
+sinh
+x
+a
+−
+
+
+
+
+
+ 
+
+--- PAGE 37 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  List of formulae and statistical tables (MF19) 
+37
+www.cambridgeinternational.org/alevel
+Back to contents page
+MECHANICS 
+ 
+Uniformly accelerated motion 
+ 
+ 
+v
+u
+at
+=
++
+, 
+1
+2 (
+)
+s
+u
+v t
+=
++
+, 
+2
+1
+2
+s
+ut
+at
+=
++
+, 
+2
+2
+2
+v
+u
+as
+=
++
+ 
+ 
+ 
+FURTHER MECHANICS 
+Motion of a projectile 
+ 
+Equation of trajectory is: 
+2
+2
+2
+tan
+2
+cos
+gx
+y
+x
+V
+θ
+θ
+=
+−
+ 
+ 
+Elastic strings and springs 
+ 
+ 
+x
+T
+l
+λ
+=
+, 
+2
+2
+x
+E
+l
+λ
+=
+ 
+ 
+Motion in a circle 
+ 
+For uniform circular motion, the acceleration is directed towards the centre and has magnitude 
+ 
+ 
+2r
+ω
+ 
+or 
+2
+v
+r  
+ 
+Centres of mass of uniform bodies 
+ 
+Triangular lamina: 2
+3  along median from vertex 
+ 
+Solid hemisphere of radius r: 3
+8 r  from centre 
+ 
+Hemispherical shell of radius r: 1
+2 r  from centre 
+ 
+Circular arc of radius r and angle 2α: sin
+r
+α
+α
+ from centre 
+ 
+Circular sector of radius r and angle 2α: 2 sin
+3
+r
+α
+α
+ from centre 
+ 
+Solid cone or pyramid of height h: 3
+4 h  from vertex 
+
+--- PAGE 38 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  List of formulae and statistical tables (MF19) 
+38
+www.cambridgeinternational.org/alevel
+Back to contents page
+PROBABILITY & STATISTICS 
+ 
+Summary statistics 
+ 
+For ungrouped data: 
+ 
+ 
+x
+x
+n
+Σ
+=
+, 
+standard deviation 
+2
+2
+2
+(
+)
+x
+x
+x
+x
+n
+n
+Σ
+−
+Σ
+=
+=
+−
+ 
+ 
+For grouped data: 
+ 
+ 
+xf
+x
+f
+Σ
+= Σ
+, 
+standard deviation 
+2
+2
+2
+(
+)
+x
+x
+f
+x f
+x
+f
+f
+Σ
+−
+Σ
+=
+=
+−
+Σ
+Σ
+ 
+ 
+Discrete random variables 
+E(
+)
+X
+xp
+= Σ
+, 
+ 
+2
+2
+Var(
+)
+{E(
+)}
+X
+x p
+X
+= Σ
+−
+ 
+ 
+For the binomial distribution B( , )
+n p : 
+ 
+ 
+(1
+)
+r
+n r
+r
+n
+p
+p
+p
+r
+−
+
+=
+−
+
+
+, 
+np
+µ =
+, 
+2
+(1
+)
+np
+p
+σ
+=
+−
+ 
+ 
+For the geometric distribution Geo(p): 
+ 
+ 
+1
+(1
+)r
+rp
+p
+p
+−
+=
+−
+, 
+1
+p
+µ =
+ 
+ 
+For the Poisson distribution Po( )
+λ  
+ 
+ 
+e
+!
+r
+rp
+r
+λ λ
+−
+=
+, 
+µ
+λ
+=
+, 
+2
+σ
+λ
+=
+ 
+ 
+Continuous random variables 
+E(
+)
+f( ) d
+X
+x
+x
+x
+=∫
+, 
+ 
+2
+2
+Var(
+)
+f( ) d
+{E(
+)}
+X
+x
+x
+x
+X
+=
+−
+∫
+ 
+ 
+Sampling and testing 
+ 
+Unbiased estimators: 
+ 
+ 
+x
+x
+n
+Σ
+=
+, 
+2
+2
+2
+2
+(
+)
+1
+(
+)
+1
+1
+x
+x
+x
+s
+x
+n
+n
+n
+
+
+Σ
+−
+Σ
+=
+=
+Σ
+−
+
+
+−
+−
+
+ 
+ 
+Central Limit Theorem: 
+2
+~ N
+,  
+X
+n
+σ
+µ
+
+
+
+
+
+
+ 
+ 
+Approximate distribution of sample proportion: 
+(1
+)
+N
+,  p
+p
+p
+n
+−
+
+
+
+
+
+
+ 
+
+--- PAGE 39 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  List of formulae and statistical tables (MF19) 
+39
+www.cambridgeinternational.org/alevel
+Back to contents page
+FURTHER PROBABILITY & STATISTICS 
+ 
+Sampling and testing 
+ 
+Two-sample estimate of a common variance: 
+ 
+2
+2
+2
+1
+1
+2
+2
+1
+2
+(
+)
+(
+)
+2
+x
+x
+x
+x
+s
+n
+n
+Σ
+−
++ Σ
+−
+=
++
+−
+ 
+ 
+Probability generating functions 
+ 
+G ( )
+E(
+)
+X
+X t
+t
+=
+, 
+E(
+)
+G (1)
+X
+X
+′
+=
+, 
+2
+Var(
+)
+G (1)
+G (1)
+{G (1)}
+X
+X
+X
+X
+′′
+′
+′
+=
++
+−
+ 
+
+--- PAGE 40 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  List of formulae and statistical tables (MF19) 
+40
+www.cambridgeinternational.org/alevel
+Back to contents page
+THE NORMAL DISTRIBUTION FUNCTION 
+ 
+If Z has a normal distribution with mean 0 and 
+variance 1, then, for each value of z, the table gives 
+the value of Φ(z), where 
+ 
+ 
+Φ(z) = P(Z ⩽ z). 
+ 
+For negative values of z, use Φ(–z) = 1 – Φ(z). 
+ 
+z 
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+ADD 
+0.0 
+0.5000 0.5040 0.5080
+0.5120 0.5160 0.5199
+0.5239
+0.5279
+0.5319
+0.5359
+4 
+8 
+12 16 20 24
+28
+32
+36
+0.1 
+0.5398 0.5438 0.5478
+0.5517 0.5557 0.5596
+0.5636
+0.5675
+0.5714
+0.5753
+4 
+8 
+12 16 20 24
+28
+32
+36
+0.2 
+0.5793 0.5832 0.5871
+0.5910 0.5948 0.5987
+0.6026
+0.6064
+0.6103
+0.6141
+4 
+8 
+12 15 19 23
+27
+31
+35
+0.3 
+0.6179 0.6217 0.6255
+0.6293 0.6331 0.6368
+0.6406
+0.6443
+0.6480
+0.6517
+4 
+7 
+11 15 19 22
+26
+30
+34
+0.4 
+0.6554 0.6591 0.6628
+0.6664 0.6700 0.6736
+0.6772
+0.6808
+0.6844
+0.6879
+4 
+7 
+11 14 18 22
+25
+29
+32
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.5 
+0.6915 0.6950 0.6985
+0.7019 0.7054 0.7088
+0.7123
+0.7157
+0.7190
+0.7224
+3 
+7 
+10 14 17 20
+24
+27
+31
+0.6 
+0.7257 0.7291 0.7324
+0.7357 0.7389 0.7422
+0.7454
+0.7486
+0.7517
+0.7549
+3 
+7 
+10 13 16 19
+23
+26
+29
+0.7 
+0.7580 0.7611 0.7642
+0.7673 0.7704 0.7734
+0.7764
+0.7794
+0.7823
+0.7852
+3 
+6 
+9 
+12 15 18
+21
+24
+27
+0.8 
+0.7881 0.7910 0.7939
+0.7967 0.7995 0.8023
+0.8051
+0.8078
+0.8106
+0.8133
+3 
+5 
+8 
+11 14 16
+19
+22
+25
+0.9 
+0.8159 0.8186 0.8212
+0.8238 0.8264 0.8289
+0.8315
+0.8340
+0.8365
+0.8389
+3 
+5 
+8 
+10 13 15
+18
+20
+23
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.0 
+0.8413 0.8438 0.8461
+0.8485 0.8508 0.8531
+0.8554
+0.8577
+0.8599
+0.8621
+2 
+5 
+7 
+9 
+12 14
+16
+19
+21
+1.1 
+0.8643 0.8665 0.8686
+0.8708 0.8729 0.8749
+0.8770
+0.8790
+0.8810
+0.8830
+2 
+4 
+6 
+8 
+10 12
+14
+16
+18
+1.2 
+0.8849 0.8869 0.8888
+0.8907 0.8925 0.8944
+0.8962
+0.8980
+0.8997
+0.9015
+2 
+4 
+6 
+7 
+9 
+11
+13
+15
+17
+1.3 
+0.9032 0.9049 0.9066
+0.9082 0.9099 0.9115
+0.9131
+0.9147
+0.9162
+0.9177
+2 
+3 
+5 
+6 
+8 
+10
+11
+13
+14
+1.4 
+0.9192 0.9207 0.9222
+0.9236 0.9251 0.9265
+0.9279
+0.9292
+0.9306
+0.9319
+1 
+3 
+4 
+6 
+7 
+8 
+10
+11
+13
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.5 
+0.9332 0.9345 0.9357
+0.9370 0.9382 0.9394
+0.9406
+0.9418
+0.9429
+0.9441
+1 
+2 
+4 
+5 
+6 
+7 
+8 
+10
+11
+1.6 
+0.9452 0.9463 0.9474
+0.9484 0.9495 0.9505
+0.9515
+0.9525
+0.9535
+0.9545
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+1.7 
+0.9554 0.9564 0.9573
+0.9582 0.9591 0.9599
+0.9608
+0.9616
+0.9625
+0.9633
+1 
+2 
+3 
+4 
+4 
+5 
+6 
+7 
+8 
+1.8 
+0.9641 0.9649 0.9656
+0.9664 0.9671 0.9678
+0.9686
+0.9693
+0.9699
+0.9706
+1 
+1 
+2 
+3 
+4 
+4 
+5 
+6 
+6 
+1.9 
+0.9713 0.9719 0.9726
+0.9732 0.9738 0.9744
+0.9750
+0.9756
+0.9761
+0.9767
+1 
+1 
+2 
+2 
+3 
+4 
+4 
+5 
+5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.0 
+0.9772 0.9778 0.9783
+0.9788 0.9793 0.9798
+0.9803
+0.9808
+0.9812
+0.9817
+0 
+1 
+1 
+2 
+2 
+3 
+3 
+4 
+4 
+2.1 
+0.9821 0.9826 0.9830
+0.9834 0.9838 0.9842
+0.9846
+0.9850
+0.9854
+0.9857
+0 
+1 
+1 
+2 
+2 
+2 
+3 
+3 
+4 
+2.2 
+0.9861 0.9864 0.9868
+0.9871 0.9875 0.9878
+0.9881
+0.9884
+0.9887
+0.9890
+0 
+1 
+1 
+1 
+2 
+2 
+2 
+3 
+3 
+2.3 
+0.9893 0.9896 0.9898
+0.9901 0.9904 0.9906
+0.9909
+0.9911
+0.9913
+0.9916
+0 
+1 
+1 
+1 
+1 
+2 
+2 
+2 
+2 
+2.4 
+0.9918 0.9920 0.9922
+0.9925 0.9927 0.9929
+0.9931
+0.9932
+0.9934
+0.9936
+0 
+0 
+1 
+1 
+1 
+1 
+1 
+2 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.5 
+0.9938 0.9940 0.9941
+0.9943 0.9945 0.9946
+0.9948
+0.9949
+0.9951
+0.9952
+0 
+0 
+0 
+1 
+1 
+1 
+1 
+1 
+1 
+2.6 
+0.9953 0.9955 0.9956
+0.9957 0.9959 0.9960
+0.9961
+0.9962
+0.9963
+0.9964
+0 
+0 
+0 
+0 
+1 
+1 
+1 
+1 
+1 
+2.7 
+0.9965 0.9966 0.9967
+0.9968 0.9969 0.9970
+0.9971
+0.9972
+0.9973
+0.9974
+0 
+0 
+0 
+0 
+0 
+1 
+1 
+1 
+1 
+2.8 
+0.9974 0.9975 0.9976
+0.9977 0.9977 0.9978
+0.9979
+0.9979
+0.9980
+0.9981
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+1 
+1 
+2.9 
+0.9981 0.9982 0.9982
+0.9983 0.9984 0.9984
+0.9985
+0.9985
+0.9986
+0.9986
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+Critical values for the normal distribution 
+ 
+If Z has a normal distribution with mean 0 and 
+variance 1, then, for each value of p, the table 
+gives the value of z such that 
+ 
+ 
+P(Z ⩽ z) = p. 
+ 
+p 
+0.75 
+0.90 
+0.95 
+0.975
+0.99
+0.995
+0.9975
+0.999 
+0.9995
+z 
+0.674 
+1.282 
+1.645 
+1.960
+2.326
+2.576
+2.807
+3.090 
+3.291
+
+--- PAGE 41 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  List of formulae and statistical tables (MF19) 
+41
+www.cambridgeinternational.org/alevel
+Back to contents page
+CRITICAL VALUES FOR THE t-DISTRIBUTION 
+ 
+If T has a t-distribution with ν degrees of freedom, then, 
+for each pair of values of p and ν, the table gives the value  
+of t such that: 
+ 
+P(T ⩽ t) = p. 
+ 
+p 
+0.75 
+0.90 
+0.95 
+0.975 
+0.99 
+0.995 
+0.9975 
+0.999 
+0.9995 
+ν = 1 
+1.000 
+3.078 
+6.314 
+12.71 
+31.82 
+63.66 
+127.3 
+318.3 
+636.6 
+2 
+0.816 
+1.886 
+2.920 
+4.303 
+6.965 
+9.925 
+14.09 
+22.33 
+31.60 
+3 
+0.765 
+1.638 
+2.353 
+3.182 
+4.541 
+5.841 
+7.453 
+10.21 
+12.92 
+4 
+0.741 
+1.533 
+2.132 
+2.776 
+3.747 
+4.604 
+5.598 
+7.173 
+8.610 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+0.727 
+1.476 
+2.015 
+2.571 
+3.365 
+4.032 
+4.773 
+5.894 
+6.869 
+6 
+0.718 
+1.440 
+1.943 
+2.447 
+3.143 
+3.707 
+4.317 
+5.208 
+5.959 
+7 
+0.711 
+1.415 
+1.895 
+2.365 
+2.998 
+3.499 
+4.029 
+4.785 
+5.408 
+8 
+0.706 
+1.397 
+1.860 
+2.306 
+2.896 
+3.355 
+3.833 
+4.501 
+5.041 
+9 
+0.703 
+1.383 
+1.833 
+2.262 
+2.821 
+3.250 
+3.690 
+4.297 
+4.781 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+0.700 
+1.372 
+1.812 
+2.228 
+2.764 
+3.169 
+3.581 
+4.144 
+4.587 
+11 
+0.697 
+1.363 
+1.796 
+2.201 
+2.718 
+3.106 
+3.497 
+4.025 
+4.437 
+12 
+0.695 
+1.356 
+1.782 
+2.179 
+2.681 
+3.055 
+3.428 
+3.930 
+4.318 
+13 
+0.694 
+1.350 
+1.771 
+2.160 
+2.650 
+3.012 
+3.372 
+3.852 
+4.221 
+14 
+0.692 
+1.345 
+1.761 
+2.145 
+2.624 
+2.977 
+3.326 
+3.787 
+4.140 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15 
+0.691 
+1.341 
+1.753 
+2.131 
+2.602 
+2.947 
+3.286 
+3.733 
+4.073 
+16 
+0.690 
+1.337 
+1.746 
+2.120 
+2.583 
+2.921 
+3.252 
+3.686 
+4.015 
+17 
+0.689 
+1.333 
+1.740 
+2.110 
+2.567 
+2.898 
+3.222 
+3.646 
+3.965 
+18 
+0.688 
+1.330 
+1.734 
+2.101 
+2.552 
+2.878 
+3.197 
+3.610 
+3.922 
+19 
+0.688 
+1.328 
+1.729 
+2.093 
+2.539 
+2.861 
+3.174 
+3.579 
+3.883 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20 
+0.687 
+1.325 
+1.725 
+2.086 
+2.528 
+2.845 
+3.153 
+3.552 
+3.850 
+21 
+0.686 
+1.323 
+1.721 
+2.080 
+2.518 
+2.831 
+3.135 
+3.527 
+3.819 
+22 
+0.686 
+1.321 
+1.717 
+2.074 
+2.508 
+2.819 
+3.119 
+3.505 
+3.792 
+23 
+0.685 
+1.319 
+1.714 
+2.069 
+2.500 
+2.807 
+3.104 
+3.485 
+3.768 
+24 
+0.685 
+1.318 
+1.711 
+2.064 
+2.492 
+2.797 
+3.091 
+3.467 
+3.745 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+25 
+0.684 
+1.316 
+1.708 
+2.060 
+2.485 
+2.787 
+3.078 
+3.450 
+3.725 
+26 
+0.684 
+1.315 
+1.706 
+2.056 
+2.479 
+2.779 
+3.067 
+3.435 
+3.707 
+27 
+0.684 
+1.314 
+1.703 
+2.052 
+2.473 
+2.771 
+3.057 
+3.421 
+3.689 
+28 
+0.683 
+1.313 
+1.701 
+2.048 
+2.467 
+2.763 
+3.047 
+3.408 
+3.674 
+29 
+0.683 
+1.311 
+1.699 
+2.045 
+2.462 
+2.756 
+3.038 
+3.396 
+3.660 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30 
+0.683 
+1.310 
+1.697 
+2.042 
+2.457 
+2.750 
+3.030 
+3.385 
+3.646 
+40 
+0.681 
+1.303 
+1.684 
+2.021 
+2.423 
+2.704 
+2.971 
+3.307 
+3.551 
+60 
+0.679 
+1.296 
+1.671 
+2.000 
+2.390 
+2.660 
+2.915 
+3.232 
+3.460 
+120 
+0.677 
+1.289 
+1.658 
+1.980 
+2.358 
+2.617 
+2.860 
+3.160 
+3.373 
+∞ 
+0.674 
+1.282 
+1.645 
+1.960 
+2.326 
+2.576 
+2.807 
+3.090 
+3.291 
+
+--- PAGE 42 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  List of formulae and statistical tables (MF19) 
+42
+www.cambridgeinternational.org/alevel
+Back to contents page
+CRITICAL VALUES FOR THE 
+2
+χ
+-DISTRIBUTION 
+ 
+If X has a 
+2
+χ -distribution with ν degrees of 
+freedom then, for each pair of values of p and ν, 
+the table gives the value of x such that 
+ 
+P(X ⩽ x) = p. 
+ 
+ 
+ 
+p 
+0.01 
+0.025 
+0.05 
+0.9 
+0.95 
+0.975 
+0.99 
+0.995 
+0.999 
+ν = 1 
+0.031571 
+0.039821 
+0.023932 
+2.706 
+3.841 
+5.024 
+6.635 
+7.879 
+10.83 
+2 
+0.02010 
+0.05064 
+0.1026 
+4.605 
+5.991 
+7.378 
+9.210 
+10.60 
+13.82 
+3 
+0.1148 
+0.2158 
+0.3518 
+6.251 
+7.815 
+9.348 
+11.34 
+12.84 
+16.27 
+4 
+0.2971 
+0.4844 
+0.7107 
+7.779 
+9.488 
+11.14 
+13.28 
+14.86 
+18.47 
+5 
+0.5543 
+0.8312 
+1.145 
+9.236 
+11.07 
+12.83 
+15.09 
+16.75 
+20.51 
+6 
+0.8721 
+1.237 
+1.635 
+10.64 
+12.59 
+14.45 
+16.81 
+18.55 
+22.46 
+7 
+1.239 
+1.690 
+2.167 
+12.02 
+14.07 
+16.01 
+18.48 
+20.28 
+24.32 
+8 
+1.647 
+2.180 
+2.733 
+13.36 
+15.51 
+17.53 
+20.09 
+21.95 
+26.12 
+9 
+2.088 
+2.700 
+3.325 
+14.68 
+16.92 
+19.02 
+21.67 
+23.59 
+27.88 
+10 
+2.558 
+3.247 
+3.940 
+15.99 
+18.31 
+20.48 
+23.21 
+25.19 
+29.59 
+11 
+3.053 
+3.816 
+4.575 
+17.28 
+19.68 
+21.92 
+24.73 
+26.76 
+31.26 
+12 
+3.571 
+4.404 
+5.226 
+18.55 
+21.03 
+23.34 
+26.22 
+28.30 
+32.91 
+13 
+4.107 
+5.009 
+5.892 
+19.81 
+22.36 
+24.74 
+27.69 
+29.82 
+34.53 
+14 
+4.660 
+5.629 
+6.571 
+21.06 
+23.68 
+26.12 
+29.14 
+31.32 
+36.12 
+15 
+5.229 
+6.262 
+7.261 
+22.31 
+25.00 
+27.49 
+30.58 
+32.80 
+37.70 
+16 
+5.812 
+6.908 
+7.962 
+23.54 
+26.30 
+28.85 
+32.00 
+34.27 
+39.25 
+17 
+6.408 
+7.564 
+8.672 
+24.77 
+27.59 
+30.19 
+33.41 
+35.72 
+40.79 
+18 
+7.015 
+8.231 
+9.390 
+25.99 
+28.87 
+31.53 
+34.81 
+37.16 
+42.31 
+19 
+7.633 
+8.907 
+10.12 
+27.20 
+30.14 
+32.85 
+36.19 
+38.58 
+43.82 
+20 
+8.260 
+9.591 
+10.85 
+28.41 
+31.41 
+34.17 
+37.57 
+40.00 
+45.31 
+21 
+8.897 
+10.28 
+11.59 
+29.62 
+32.67 
+35.48 
+38.93 
+41.40 
+46.80 
+22 
+9.542 
+10.98 
+12.34 
+30.81 
+33.92 
+36.78 
+40.29 
+42.80 
+48.27 
+23 
+10.20 
+11.69 
+13.09 
+32.01 
+35.17 
+38.08 
+41.64 
+44.18 
+49.73 
+24 
+10.86 
+12.40 
+13.85 
+33.20 
+36.42 
+39.36 
+42.98 
+45.56 
+51.18 
+25 
+11.52 
+13.12 
+14.61 
+34.38 
+37.65 
+40.65 
+44.31 
+46.93 
+52.62 
+30 
+14.95 
+16.79 
+18.49 
+40.26 
+43.77 
+46.98 
+50.89 
+53.67 
+59.70 
+40 
+22.16 
+24.43 
+26.51 
+51.81 
+55.76 
+59.34 
+63.69 
+66.77 
+73.40 
+50 
+29.71 
+32.36 
+34.76 
+63.17 
+67.50 
+71.42 
+76.15 
+79.49 
+86.66 
+60 
+37.48 
+40.48 
+43.19 
+74.40 
+79.08 
+83.30 
+88.38 
+91.95 
+99.61 
+70 
+45.44 
+48.76 
+51.74 
+85.53 
+90.53 
+95.02 
+100.4 
+104.2 
+112.3 
+80 
+53.54 
+57.15 
+60.39 
+96.58 
+101.9 
+106.6 
+112.3 
+116.3 
+124.8 
+90 
+61.75 
+65.65 
+69.13 
+107.6 
+113.1 
+118.1 
+124.1 
+128.3 
+137.2 
+100 
+70.06 
+74.22 
+77.93 
+118.5 
+124.3 
+129.6 
+135.8 
+140.2 
+149.4 
+
+--- PAGE 43 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  List of formulae and statistical tables (MF19) 
+43
+www.cambridgeinternational.org/alevel
+Back to contents page
+WILCOXON SIGNED-RANK TEST 
+ 
+The sample has size n. 
+ 
+P is the sum of the ranks corresponding to the positive differences. 
+ 
+Q is the sum of the ranks corresponding to the negative differences. 
+ 
+T is the smaller of P and Q. 
+ 
+For each value of n the table gives the largest value of T which will lead to rejection of the null hypothesis at
+the level of significance indicated. 
+ 
+Critical values of T 
+ 
+ 
+Level of significance 
+One-tailed 
+0.05 
+0.025 
+0.01 
+0.005 
+Two-tailed 
+0.1 
+0.05 
+0.02 
+0.01 
+n = 6 
+2 
+0 
+ 
+ 
+7 
+3 
+2 
+0 
+ 
+8 
+5 
+3 
+1 
+0 
+9 
+8 
+5 
+3 
+1 
+10 
+10 
+8 
+5 
+3 
+11 
+13 
+10 
+7 
+5 
+12 
+17 
+13 
+9 
+7 
+13 
+21 
+17 
+12 
+9 
+14 
+25 
+21 
+15 
+12 
+15 
+30 
+25 
+19 
+15 
+16 
+35 
+29 
+23 
+19 
+17 
+41 
+34 
+27 
+23 
+18 
+47 
+40 
+32 
+27 
+19 
+53 
+46 
+37 
+32 
+20 
+60 
+52 
+43 
+37 
+ 
+For larger values of n, each of P and Q can be approximated by the normal distribution with mean 1
+4 (
+1)
+n n +
+ 
+and variance 1
+24 (
+1)(2
+1)
+n n
+n
++
++
+. 
+
+--- PAGE 44 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  List of formulae and statistical tables (MF19) 
+44
+www.cambridgeinternational.org/alevel
+Back to contents page
+WILCOXON RANK-SUM TEST 
+ 
+The two samples have sizes m and n, where m ⩽ n. 
+ 
+Rm is the sum of the ranks of the items in the sample of size m. 
+ 
+W is the smaller of Rm and m(n + m + 1) – Rm. 
+ 
+For each pair of values of m and n, the table gives the largest value of W which will lead to rejection of the 
+null hypothesis at the level of significance indicated. 
+ 
+Critical values of W 
+ 
+ 
+Level of significance 
+One-tailed 
+  0.05   0.025
+0.01 
+  0.05   0.025
+0.01 
+  0.05   0.025
+0.01 
+  0.05   0.025
+0.01 
+Two-tailed 
+0.1 
+0.05 
+0.02 
+0.1 
+0.05 
+0.02 
+0.1 
+0.05 
+0.02 
+0.1 
+0.05 
+0.02 
+n 
+m = 3 
+m = 4 
+m = 5 
+m = 6 
+3 
+6 
+– 
+– 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+6 
+– 
+– 
+11 
+10 
+– 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+7 
+6 
+– 
+12 
+11 
+10 
+19 
+17 
+16 
+ 
+ 
+ 
+6 
+8 
+7 
+– 
+13 
+12 
+11 
+20 
+18 
+17 
+28 
+26 
+24 
+7 
+8 
+7 
+6 
+14 
+13 
+11 
+21 
+20 
+18 
+29 
+27 
+25 
+8 
+9 
+8 
+6 
+15 
+14 
+12 
+23 
+21 
+19 
+31 
+29 
+27 
+9 
+10 
+8 
+7 
+16 
+14 
+13 
+24 
+22 
+20 
+33 
+31 
+28 
+10 
+10 
+9 
+7 
+17 
+15 
+13 
+26 
+23 
+21 
+35 
+32 
+29 
+ 
+ 
+Level of significance 
+One-tailed 
+  0.05   0.025
+0.01 
+  0.05   0.025
+0.01 
+  0.05   0.025
+0.01 
+  0.05   0.025
+0.01 
+Two-tailed 
+0.1 
+0.05 
+0.02 
+0.1 
+0.05 
+0.02 
+0.1 
+0.05 
+0.02 
+0.1 
+0.05 
+0.02 
+n 
+m = 7 
+m = 8 
+m = 9 
+m = 10 
+7 
+39 
+36 
+34 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+41 
+38 
+35 
+51 
+49 
+45 
+ 
+ 
+ 
+ 
+ 
+ 
+9 
+43 
+40 
+37 
+54 
+51 
+47 
+66 
+62 
+59 
+ 
+ 
+ 
+10 
+45 
+42 
+39 
+56 
+53 
+49 
+69 
+65 
+61 
+82 
+78 
+74 
+ 
+For larger values of m and n, the normal distribution with mean 1
+2
+(
+1)
+m m
+n
++
++
+ and variance 1
+12
+(
+1)
+mn m
+n
++
++
+ 
+should be used as an approximation to the distribution of Rm. 
+
+--- PAGE 45 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.
+45
+www.cambridgeinternational.org/alevel
+Back to contents page
+6  What else you need to know 
+This section is an overview of other information you need to know about this syllabus. It will help to share the 
+administrative information with your exams officer so they know when you will need their support. Find more 
+information about our administrative processes at www.cambridgeinternational.org/eoguide
+Before you start
+Previous study
+We strongly recommend that learners starting this course should have studied, or be studying, Cambridge 
+International AS & A Level Mathematics (9709) or the equivalent. See the introduction to section 3 of this 
+syllabus for more details of expected prior knowledge. 
+Guided learning hours
+We design Cambridge International AS & A Level syllabuses to require about 180 guided learning hours for 
+each Cambridge International AS Level and about 360 guided learning hours for a Cambridge International 
+A Level. The number of hours a learner needs to achieve the qualification may vary according to each school 
+and the learners’ previous experience of the subject.
+Availability and timetables 
+All Cambridge schools are allocated to an administrative zone. Each zone has a specific timetable. 
+You can view the timetable for your administrative zone at www.cambridgeinternational.org/timetables
+You can enter candidates in the June and November exam series. 
+Check you are using the syllabus for the year the candidate is taking the exam.
+Private candidates can enter for this syllabus. 
+Combining with other syllabuses
+Candidates can take this syllabus alongside other Cambridge International syllabuses in a single exam series. 
+The only exceptions are:
+	•
+syllabuses with the same title at the same level.
+Note that candidates can take AS & A Level Mathematics (9709) in the same exam series with AS & A Level 
+Further Mathematics (9231).
+Group awards: Cambridge AICE 
+Cambridge AICE (Advanced International Certificate of Education) is a group award for Cambridge International 
+AS & A Level. It encourages schools to offer a broad and balanced curriculum by recognising the achievements 
+of learners who pass exams in a range of different subjects. 
+Learn more about Cambridge AICE at www.cambridgeinternational.org/aice
+
+--- PAGE 46 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  What else you need to know 
+46
+www.cambridgeinternational.org/alevel
+Back to contents page
+Making entries
+Exams officers are responsible for submitting entries to Cambridge International. We encourage them to work 
+closely with you to make sure they enter the right number of candidates for the right combination of syllabus 
+components. Entry option codes and instructions for submitting entries are in the Cambridge Guide to Making 
+Entries. Your exams officer has access to this guide.
+Exam administration
+To keep our exams secure, we produce question papers for different areas of the world, known as 
+administrative zones. We allocate all Cambridge schools to one administrative zone determined by their 
+location. Each zone has a specific timetable. 
+Some of our syllabuses offer candidates different assessment options. An entry option code is used to identify 
+the components the candidate will take relevant to the administrative zone and the available assessment 
+options.
+Support for exams officers
+We know how important exams officers are to the successful running of exams. We provide them with the 
+support they need to make entries on time. Your exams officer will find this support, and guidance for all other 
+phases of the Cambridge Exams Cycle, at www.cambridgeinternational.org/eoguide
+Retakes and carrying forward marks
+Candidates can retake Cambridge International AS Level and Cambridge International A Level as many times 
+as they want to. Information on retake entries is at www.cambridgeinternational.org/retakes 
+Candidates can carry forward the result of their Cambridge International AS Level assessment from one series 
+to complete the Cambridge International A Level in a following series. The rules, time limits and regulations 
+for carry-forward entries for staged assessment and carrying forward component marks can be found in the 
+Cambridge Handbook for the relevant year of assessment at www.cambridgeinternational.org/eoguide
+To confirm what entry options are available for this syllabus, refer to the Cambridge Guide to Making Entries for 
+the relevant series.
+Language
+This syllabus and the related assessment materials are available in English only.
+Accessibility and equality
+Syllabus and assessment design 
+At Cambridge International, we work to avoid direct or indirect discrimination in our syllabuses and assessment 
+materials. We aim to maximise inclusivity for candidates of all national, cultural or social backgrounds and 
+candidates with protected characteristics, which include special educational needs and disability, religion and 
+belief, and characteristics related to gender and identity. We also aim to make our materials as accessible as 
+possible by using accessible language and applying accessible design principles. This gives all candidates the 
+fairest possible opportunity to demonstrate their knowledge, skills and understanding and helps to minimise the 
+requirement to make reasonable adjustments during the assessment process. 
+
+--- PAGE 47 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  What else you need to know 
+47
+www.cambridgeinternational.org/alevel
+Back to contents page
+Access arrangements 
+Access arrangements (including modified papers) are the principal way in which Cambridge International 
+complies with our duty, as guided by the UK Equality Act (2010), to make ‘reasonable adjustments’ for 
+candidates with special educational needs (SEN), disability, illness or injury. Where a candidate would otherwise 
+be at a substantial disadvantage in comparison to a candidate with no SEN, disability, illness or injury, we 
+may be able to agree pre-examination access arrangements. These arrangements help a candidate by 
+minimising accessibility barriers and maximising their opportunity to demonstrate their knowledge, skills and 
+understanding in an assessment. 
+Important: 
+Requested access arrangements should be based on evidence of the candidate’s barrier to assessment 
+and should also reflect their normal way of working at school. This is explained in the Cambridge Handbook 
+www.cambridgeinternational.org/eoguide 
+	•
+For Cambridge International to approve an access arrangement, we will need to agree that it constitutes 
+a reasonable adjustment, involves reasonable cost and timeframe and does not affect the security and 
+integrity of the assessment. 
+	•
+Availability of access arrangements should be checked by centres at the start of the course. Details of our 
+standard access arrangements and modified question papers are available in the Cambridge Handbook 
+www.cambridgeinternational.org/eoguide 
+	•
+Please contact us at the start of the course to find out if we are able to approve an arrangement that is not 
+included in the list of standard access arrangements. 
+	•
+Candidates who cannot access parts of the assessment may be able to receive an award based on the 
+parts they have completed. 
+After the exam
+Grading and reporting
+Grades a, b, c, d or e indicate the standard a candidate achieved at Cambridge International AS Level. ‘a’ is the 
+highest and ‘e’ is the lowest grade. 
+Grades A*, A, B, C, D or E indicate the standard a candidate achieved at Cambridge International A Level. A* is 
+the highest and E is the lowest grade.
+‘Ungraded’ means that the candidate’s performance did not meet the standard required for the lowest grade 
+(E or e). ‘Ungraded’ is reported on the statement of results but not on the certificate. In specific circumstances 
+your candidates may see one of the following letters on their statement of results:
+	•
+Q (PENDING)
+	•
+X (NO RESULT).
+These letters do not appear on the certificate.
+If a candidate takes a Cambridge International A Level and fails to achieve grade E or higher, a Cambridge 
+International AS Level grade will be awarded if both of the following apply:
+	•
+the components taken for the Cambridge International A Level by the candidate in that series included all 
+the components making up a Cambridge International AS Level
+	•
+the candidate’s performance on the AS Level components was sufficient to merit the award of a Cambridge 
+International AS Level grade.
+On the statement of results and certificates, Cambridge International AS & A Levels are shown as General 
+Certificates of Education, GCE Advanced Subsidiary Level (GCE AS Level) and GCE Advanced Level (GCE 
+A Level).
+
+--- PAGE 48 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  What else you need to know 
+48
+www.cambridgeinternational.org/alevel
+Back to contents page
+How students, teachers and higher education can use the grades
+Cambridge International A Level
+Assessment at Cambridge International A Level has two purposes:
+1	
+to measure learning and achievement
+	
+The assessment confirms achievement and performance in relation to the knowledge, understanding and 
+skills specified in the syllabus.
+2	
+to show likely future success
+	
+The outcomes help predict which students are well prepared for a particular course or career and/or which 
+students are more likely to be successful. 
+	
+The outcomes help students choose the most suitable course or career
+Cambridge International AS Level
+Assessment at Cambridge International AS Level has two purposes:
+1	
+to measure learning and achievement
+	
+The assessment confirms achievement and performance in relation to the knowledge, understanding and 
+skills specified in the syllabus.
+2	
+to show likely future success
+	
+The outcomes help predict which students are well prepared for a particular course or career and/or which 
+students are more likely to be successful. 
+	
+The outcomes help students choose the most suitable course or career
+	
+The outcomes help decide whether students part way through a Cambridge International A Level course 
+are making enough progress to continue
+	
+The outcomes guide teaching and learning in the next stages of the Cambridge International A Level 
+course.  
+
+School feedback: ‘Cambridge International A Levels are the ‘gold standard’ qualification. They 
+are based on rigorous, academic syllabuses that are accessible to students from a wide range 
+of abilities yet have the capacity to stretch our most able.’
+Feedback from: Director of Studies, Auckland Grammar School, New Zealand
+
+--- PAGE 49 ---
+Cambridge International AS & A Level Further Mathematics 9231 syllabus for 2026 and 2027.  What else you need to know 
+49
+www.cambridgeinternational.org/alevel
+Back to contents page
+Changes to this syllabus for 2026 and 2027
+The syllabus has been updated. This is version 3, published August 2025. 
+Changes to version 3 of the syllabus, published August 2025
+Changes to syllabus 
+content
+	•
+Typographical error on page 19 has been corrected.
+Changes to version 2 of the syllabus, published February 2025
+Changes to syllabus 
+content
+	•
+Typographical errors on pages 16, 23 and 25 have been corrected.
+You must read the whole syllabus before planning your teaching programme. We review our 
+syllabuses regularly to make sure they continue to meet the needs of our schools. In updating this syllabus, we 
+have made it easier for teachers and students to understand, keeping the familiar features that teachers and 
+schools value.
+Any textbooks endorsed to support the syllabus for examination from 2020 are still suitable for 
+use with this syllabus. 
+
+--- PAGE 50 ---
+School feedback: ‘While studying Cambridge IGCSE and Cambridge International A Levels, students 
+broaden their horizons through a global perspective and develop a lasting passion for learning.’
+Feedback from: Zhai Xiaoning, Deputy Principal, The High School Affiliated to Renmin University of China
+We are committed to making our documents accessible in accordance with the WCAG 2.1 Standard. We are always looking to improve 
+the accessibility of our documents. If you find any problems or you think we are not meeting accessibility requirements, contact us at 
+info@cambridgeinternational.org with the subject heading: Digital accessibility. If you need this document in a different format, contact 
+us and supply your name, email address and requirements and we will respond within 15 working days.
+Cambridge Assessment International Education, The Triangle Building, Shaftesbury Road, Cambridge, CB2 8EA, United Kingdom
+t : +44 (0)1223 553554 	
+email : info@cambridgeinternational.org	
+www.cambridgeinternational.org
+© Cambridge University Press & Assessment September 2023
+

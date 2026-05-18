@@ -1,0 +1,473 @@
+©
+Cambridge
+University
+Press
+&
+Assessment
+2024
+[Turn
+over
+This
+document
+consists
+of
+14
+printed
+pages.
+Cambridge
+O
+Level
+components.
+Cambridge
+IGCSE,
+Cambridge
+International
+A
+and
+AS
+Level
+and
+Cambridge
+Pre-U
+components,
+and
+some
+Cambridge
+International
+is
+publishing
+the
+mark
+schemes
+for
+the
+May/June
+2024
+series
+for
+most
+Cambridge
+International
+will
+not
+enter
+into
+discussions
+about
+these
+mark
+schemes.
+Teachers. Mark
+schemes
+should
+be
+read
+in
+conjunction
+with
+the
+question
+paper
+and
+the
+Principal
+Examiner
+Report
+for
+considered
+the
+acceptability
+of
+alternative
+answers.
+details
+of
+the
+discussions
+that
+took
+place
+at
+an
+Examiners’
+meeting
+before
+marking
+began,
+which
+would
+have
+examination.
+It
+shows
+the
+basis
+on
+which
+Examiners
+were
+instructed
+to
+award
+marks.
+It
+does
+not
+indicate
+the
+This
+mark
+scheme
+is
+published
+as
+an
+aid
+to
+teachers
+and
+candidates,
+to
+indicate
+the
+requirements
+of
+the
+Published
+Maximum
+Mark:
+75
+MARK
+SCHEME
+Paper
+2
+Further
+Pure
+Mathematics
+May/June
+2024
+FURTHER
+MATHEMATICS
+9231/22
+Cambridge
+International
+AS
+&
+A
+Level
+9231/22 Cambridge International AS & A Level – Mark Scheme May/June 2024
+PUBLISHED
+Generic Marking Principles
+These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the
+mark scheme or generic level descriptions for a question. Each question paper and mark scheme will also comply with these marking principles.
+GENERIC MARKING PRINCIPLE 1:
+Marks must be awarded in line with:
+(cid:120) the specific content of the mark scheme or the generic level descriptors for the question
+(cid:120) the specific skills defined in the mark scheme or in the generic level descriptors for the question
+(cid:120) the standard of response required by a candidate as exemplified by the standardisation scripts.
+GENERIC MARKING PRINCIPLE 2:
+Marks awarded are always whole marks (not half marks, or other fractions).
+GENERIC MARKING PRINCIPLE 3:
+Marks must be awarded positively:
+(cid:120) marks are awarded for correct/valid answers, as defined in the mark scheme. However, credit is given for valid answers which go beyond the scope of the
+syllabus and mark scheme, referring to your Team Leader as appropriate
+(cid:120) marks are awarded when candidates clearly demonstrate what they know and can do
+(cid:120) marks are not deducted for errors
+(cid:120) marks are not deducted for omissions
+(cid:120) answers should only be judged on the quality of spelling, punctuation and grammar when these features are specifically assessed by the question as
+indicated by the mark scheme. The meaning, however, should be unambiguous.
+GENERIC MARKING PRINCIPLE 4:
+Rules must be applied consistently, e.g. in situations where candidates have not followed instructions or in the application of generic level descriptors.
+GENERIC MARKING PRINCIPLE 5:
+Marks should be awarded using the full range of marks defined in the mark scheme for the question (however; the use of the full mark range may be limited
+according to the quality of the candidate responses seen).
+GENERIC MARKING PRINCIPLE 6:
+Marks awarded are based solely on the requirements as defined in the mark scheme. Marks should not be awarded with grade thresholds or grade descriptors in
+mind.
+© Cambridge University Press & Assessment 2024 Page 2 of 14
+9231/22 Cambridge International AS & A Level – Mark Scheme May/June 2024
+PUBLISHED
+Mathematics Specific Marking Principles
+1 Unless a particular method has been specified in the question, full marks may be awarded for any correct method. However, if a calculation is required
+then no marks will be awarded for a scale drawing.
+2 Unless specified in the question, non-integer answers may be given as fractions, decimals or in standard form. Ignore superfluous zeros, provided that the
+degree of accuracy is not affected.
+3 Allow alternative conventions for notation if used consistently throughout the paper, e.g. commas being used as decimal points.
+4 Unless otherwise indicated, marks once gained cannot subsequently be lost, e.g. wrong working following a correct form of answer is ignored (isw).
+5 Where a candidate has misread a number or sign in the question and used that value consistently throughout, provided that number does not alter the
+difficulty or the method required, award all marks earned and deduct just 1 A or B mark for the misread.
+6 Recovery within working is allowed, e.g. a notation error in the working where the following line of working makes the candidate’s intent clear.
+© Cambridge University Press & Assessment 2024 Page 3 of 14
+9231/22 Cambridge International AS & A Level – Mark Scheme May/June 2024
+PUBLISHED
+Mark Scheme Notes
+The following notes are intended to aid interpretation of mark schemes in general, but individual mark schemes may include marks awarded for specific reasons
+outside the scope of these notes.
+Types of mark
+M Method mark, awarded for a valid method applied to the problem. Method marks are not lost for numerical errors, algebraic slips or errors in units.
+However, it is not usually sufficient for a candidate just to indicate an intention of using some method or just to quote a formula; the formula or idea
+must be applied to the specific problem in hand, e.g. by substituting the relevant quantities into the formula. Correct application of a formula
+without the formula being quoted obviously earns the M mark and in some cases an M mark can be implied from a correct answer.
+A Accuracy mark, awarded for a correct answer or intermediate step correctly obtained. Accuracy marks cannot be given unless the associated method
+mark is earned (or implied).
+B Mark for a correct result or statement independent of method marks.
+DM or DB When a part of a question has two or more ‘method’ steps, the M marks are generally independent unless the scheme specifically says otherwise;
+and similarly, when there are several B marks allocated. The notation DM or DB is used to indicate that a particular M or B mark is dependent on
+an earlier M or B (asterisked) mark in the scheme. When two or more steps are run together by the candidate, the earlier marks are implied and full
+credit is given.
+FT Implies that the A or B mark indicated is allowed for work correctly following on from previously incorrect results. Otherwise, A or B marks are
+given for correct work only.
+(cid:120) A or B marks are given for correct work only (not for results obtained from incorrect working) unless follow through is allowed (see abbreviation FT above).
+(cid:120) For a numerical answer, allow the A or B mark if the answer is correct to 3 significant figures or would be correct to 3 significant figures if rounded (1
+decimal place for angles in degrees).
+(cid:120) The total number of marks available for each question is shown at the bottom of the Marks column.
+(cid:120) Wrong or missing units in an answer should not result in loss of marks unless the guidance indicates otherwise.
+(cid:120) Square brackets [ ] around text or numbers show extra information not needed for the mark to be awarded.
+© Cambridge University Press & Assessment 2024 Page 4 of 14
+9231/22 Cambridge International AS & A Level – Mark Scheme May/June 2024
+PUBLISHED
+Abbreviations
+AEF/OE Any Equivalent Form (of answer is equally acceptable) / Or Equivalent
+AG Answer Given on the question paper (so extra checking is needed to ensure that the detailed working leading to the result is valid)
+CAO Correct Answer Only (emphasising that no ‘follow through’ from a previous error is allowed)
+CWO Correct Working Only
+ISW Ignore Subsequent Working
+SOI Seen Or Implied
+SC Special Case (detailing the mark to be given for a specific wrong solution, or a case where some standard marking practice is to be varied in the
+light of a particular circumstance)
+WWW Without Wrong Working
+AWRT Answer Which Rounds To
+© Cambridge University Press & Assessment 2024 Page 5 of 14
+9231/22 Cambridge International AS & A Level – Mark Scheme May/June 2024
+PUBLISHED
+Question Answer Marks Guidance
+1 z3 (cid:32)216cos5(cid:652) (cid:14)i216sin5(cid:652) B1 Finds modulus and argument of (cid:16)108 3(cid:14)108i
+6 6
+z (cid:32)6cos5(cid:652)(cid:14)i6sin5(cid:652) M1 A1FT Finds one root. FT on their modulus. For M1
+1 18 18
+must have divided their argument of
+(cid:16)108 3(cid:14)108i by 3.
+z (cid:32)6cos17(cid:652)(cid:14)i6sin17(cid:652),z (cid:32)6cos29(cid:652) (cid:14)i6sin29(cid:652) M1 A1 Finds other two roots.
+2 18 18 3 18 18
+5
+© Cambridge University Press & Assessment 2024 Page 6 of 14
+9231/22 Cambridge International AS & A Level – Mark Scheme May/June 2024
+PUBLISHED
+Question Answer Marks Guidance
+2 e1(cid:14)x2 (cid:32)e (cid:11) ex2(cid:12) (cid:32)e (cid:11) 1(cid:14)x2 (cid:14)(cid:125) (cid:12) B1 Changes e1(cid:14)x2 or e1(cid:16)x so that the formula given
+in the list of formulae (MF19) can be applied.
+e1(cid:16)x (cid:32)e (cid:11) 1(cid:16)x(cid:14)1x2 (cid:14)(cid:125) (cid:12) B1
+2
+e (cid:11) 1(cid:14)x2 (cid:14)(cid:125) (cid:12) (cid:14)e (cid:11) 1(cid:16)x(cid:14)1x2 (cid:14)(cid:125) (cid:12) M1 Sums power series.
+2
+e1(cid:14)x2 (cid:14)e1(cid:16)x (cid:32)2e(cid:16)ex(cid:14)3ex2 (cid:14)(cid:125) A1
+2
+Alternative method for question 2
+f'(x)(cid:32)2xe1(cid:14)x2 (cid:16)e1(cid:16)x B1 Finds first derivative.
+f''(x)(cid:32)4x2e1(cid:14)x2 (cid:14)2e1(cid:14)x2 (cid:14)e1(cid:16)x B1 Finds second derivative.
+f(0)(cid:32)2e f'(0)(cid:32)(cid:16)e f''(0)(cid:32)3e M1 Evaluates their derivatives at zero.
+e1(cid:14)x2 (cid:14)e1(cid:16)x (cid:32)2e(cid:16)ex(cid:14)3ex2 (cid:14)(cid:125) A1
+2
+4
+© Cambridge University Press & Assessment 2024 Page 7 of 14
+9231/22 Cambridge International AS & A Level – Mark Scheme May/June 2024
+PUBLISHED
+Question Answer Marks Guidance
+3(a) dy t dx 1 B1
+(cid:32)cos(cid:16)1t(cid:16) , (cid:32)
+dt 1(cid:16)t2 dt 1(cid:16)t2
+dy dy dt M1 A1 Uses chain rule, AG.
+(cid:32) (cid:117) (cid:32)(cid:16)t(cid:14) 1(cid:16)t2cos(cid:16)1t
+dx dt dx
+3
+3(b) d (cid:167)dy(cid:183) 1(cid:16)t2 tcos(cid:16)1t tcos(cid:16)1t M1 A1 Applies product rule.
+(cid:168) (cid:184)(cid:32)(cid:16)1(cid:16) (cid:16) (cid:32)(cid:16)2(cid:16)
+dt(cid:169)dx(cid:185) 1(cid:16)t2 1(cid:16)t2 1(cid:16)t2
+d2y M1 A1 Uses chain rule.
+(cid:32)(cid:16)2 1(cid:16)t2 (cid:16)tcos(cid:16)1t
+dx2
+4
+Question Answer Marks Guidance
+4(a) ln3 B1 Separates into correct structure.
+I (cid:32)(cid:179) sechn(cid:16)2xsech2xdx
+n
+0
+ln3 ln3 ln3 *M1 Uses integration by parts correctly.
+I (cid:32)(cid:179) sechn(cid:16)2xsech2xdx(cid:32)(cid:170)sechn(cid:16)2xtanhx(cid:186) (cid:14)(n(cid:16)2)(cid:179) sechn(cid:16)2xtanh2xdx
+n (cid:172) (cid:188)
+0 0 0
+(cid:11)3(cid:12)n(cid:16)2(cid:11)4(cid:12)(cid:14)(n(cid:16)2)(cid:11)I (cid:16)I (cid:12) DM1 A1 Uses 1(cid:16)sech2x(cid:32)tanh2x.
+5 5 n(cid:16)2 n
+(cid:11)1(cid:14)n(cid:16)2(cid:12)I (cid:32)(cid:11)3(cid:12)n(cid:16)2(cid:11)4(cid:12)(cid:14)(n(cid:16)2)I (cid:159)(n(cid:16)1)I (cid:32)(cid:11)3(cid:12)n(cid:16)2(cid:11)4(cid:12)(cid:14)(n(cid:16)2)I A1 AG
+n 5 5 n(cid:16)2 n 5 5 n(cid:16)2
+5
+© Cambridge University Press & Assessment 2024 Page 8 of 14
+9231/22 Cambridge International AS & A Level – Mark Scheme May/June 2024
+PUBLISHED
+Question Answer Marks Guidance
+4(b) I (cid:32) 4 B1
+2 5
+3I
+(cid:32)(cid:11)3(cid:12)2(cid:11)4(cid:12)(cid:14)2I
+(cid:159)I (cid:32)
+236
+(cid:32)0.629
+M1 A1 Applies reduction formula with n(cid:32)4.
+4 5 5 2 4 375
+3
+Question Answer Marks Guidance
+5(a) (cid:170) (cid:179) 1 2x(cid:16)x2dx(cid:31) (cid:186)(cid:11)1(cid:12) (cid:11) 2(cid:11)1(cid:12)(cid:16)(cid:11)1(cid:12)2(cid:12) (cid:14)(cid:11)1(cid:12) (cid:11) 2(cid:11)2(cid:12)(cid:16)(cid:11)2(cid:12)2(cid:12) (cid:14)(cid:34)(cid:14)(cid:11)1(cid:12) (cid:11) 2(cid:11)n(cid:12)(cid:16)(cid:11)n(cid:12)2(cid:12) M1 A1 Forms the sum of the areas of the rectangles,
+(cid:171) (cid:172) 0 (cid:187) (cid:188) n n n n n n n n n may be in summation form. M1 is for correct
+number of rectangles.
+n n M1 A1 Applies formulae from MF19. Summations must
+(cid:32) 2 (cid:166)r(cid:16) 1 (cid:166)r2 (cid:32) 1 n(n(cid:14)1)(cid:16) 1 n(n(cid:14)1)(2n(cid:14)1) have (correct) limits for A1. Substituted in
+n2 n3 n2 6n3
+r(cid:32)1 r(cid:32)1 correctly once for M1.
+(cid:32)1(cid:14) 1(cid:16)1(cid:11)1(cid:14)1(cid:12)(cid:11)2(cid:14)1(cid:12)(cid:32)(cid:11)1(cid:14)1(cid:12)(cid:11)2(cid:16) 1 (cid:12)(cid:32) 2(cid:14) 1 (cid:16) 1 A1 AG. This A1 requires the previous A1.
+n 6 n n n 3 6n 3 2n 6n2
+5
+5(b) (cid:179) 1 2x(cid:16)x2dx(cid:33)(cid:11)1(cid:12) (cid:11) 2(cid:11)1(cid:12)(cid:16)(cid:11)1(cid:12)2(cid:12) (cid:14)(cid:11)1(cid:12) (cid:11) 2(cid:11)2(cid:12)(cid:16)(cid:11)2(cid:12)2(cid:12) (cid:14)(cid:34)(cid:14)(cid:11)1(cid:12) (cid:11) 2(cid:11)n(cid:16)1(cid:12)(cid:16)(cid:11)n(cid:16)1(cid:12)2(cid:12) M1 A1 Forms the sum of the areas of appropriate
+0 n n n n n n n n n rectangles. M1 is for seeing correct height of last
+rectangle.
+n(cid:16)1 n(cid:16)1 M1 Applies formulae from MF19, substitutes correct
+2 (cid:166)r(cid:16) 1 (cid:166)r2 (cid:32) 1 (n(cid:16)1)(n)(cid:16) 1 (n(cid:16)1)(n)(2n(cid:16)1) limit. Substituted in correctly once for M1.
+n2 n3 n2 6n3
+r(cid:32)1 r(cid:32)1
+(cid:11)1(cid:16)1(cid:12)(cid:11)2(cid:14) 1 (cid:12)(cid:32) 2(cid:16) 1 (cid:16) 1 A1 (cid:11)1(cid:14)1(cid:12)(cid:11)2(cid:16) 1 (cid:12)(cid:16)1 or fully expanded or fully
+n 3 6n 3 2n 6n2 n 3 6n n
+factorised.
+4
+© Cambridge University Press & Assessment 2024 Page 9 of 14
+9231/22 Cambridge International AS & A Level – Mark Scheme May/June 2024
+PUBLISHED
+Question Answer Marks Guidance
+5(c) U (cid:16)L (cid:32)(cid:11)1(cid:14)1(cid:12)(cid:11)2(cid:16) 1 (cid:12)(cid:16)(cid:11)1(cid:16)1(cid:12)(cid:11)2(cid:14) 1 (cid:12) ((cid:32) 1) M1 Expresses their U (cid:16)L in terms of 1.
+n n n 3 6n n 3 6n n n n n
+For, M1 they must taking the limit of an
+expression that tends to a constant.
+(Must be fully expanded if they do not take the
+limit at any stage.)
+2 2 A1 AG, CWO.
+1 (cid:111)0 as n(cid:111)(cid:102) or (cid:16) (cid:32)0
+n 3 3 Their L n must be correct.
+2
+Question Answer Marks Guidance
+6(a) (cid:11)coshx(cid:14)sinhx(cid:12)1 2 (cid:32) (cid:11) 1 (cid:11) ex (cid:14)e(cid:16)x(cid:12) (cid:14)1 (cid:11) ex (cid:16)e(cid:16)x(cid:12)(cid:12)1 2 (cid:3) M1 Substitutes sinh and cosh in terms of
+2 2 exponentials. (cid:3)
+(cid:11) ex(cid:12)1 2 (cid:32)e 1 2 x A1 AG
+2
+© Cambridge University Press & Assessment 2024 Page 10 of 14
+9231/22 Cambridge International AS & A Level – Mark Scheme May/June 2024
+PUBLISHED
+Question Answer Marks Guidance
+6(b) m2 (cid:14)m(cid:14)3(cid:32)0(cid:159)m(cid:32)(cid:16)1 (cid:114)1i 11 M1 Auxiliary equation.
+2 2
+y(cid:32)e(cid:16)1 2 x(cid:11) Acos 11x(cid:14)Bsin 11x (cid:12) A1 Complimentary function.
+2 2 Allow ‘y(cid:32)’ missing.
+y(cid:32)ke 1 2 x (cid:159) y'(cid:32)1ke 1 2 x (cid:159) y''(cid:32)1ke 1 2 x B1 Particular integral and its derivatives.
+2 4
+1ke 1 2 x (cid:14)1ke 1 2 x (cid:14)3ke 1 2 x (cid:32)5e 1 2 x (cid:159)1k(cid:14)1k(cid:14)3k (cid:32)5 M1 Substitutes and equates coefficients.
+4 2 4 2 PI must be correct form (aebx).
+k (cid:32) 4 A1
+3
+y(cid:32)e(cid:16)1 2 x(cid:11) Acos 11x(cid:14)Bsin 11x (cid:12) (cid:14) 4e 1 2 x A1 FT Must have ‘y(cid:32)’. FT on their CF.
+2 2 3
+dy (cid:32)e(cid:16)1 2 x(cid:11) (cid:16) 11Asin 11x(cid:14) 11Bcos 11x (cid:12) (cid:16)1e(cid:16)1 2 x(cid:11) Acos 11x(cid:14)Bsin 11x (cid:12) (cid:14)2e 1 2 x B1
+dx 2 2 2 2 2 2 2 3
+1(cid:32) A(cid:14) 4 4 (cid:32) 11B(cid:16)1A(cid:14) 2 (cid:159) A(cid:32)(cid:16)1,B(cid:32) 1 M1 A1 Substitutes initial conditions and forms
+3 3 2 2 3 3 11 simultaneous equations. For M1, CF must be
+correct form
+y(cid:32)e(cid:16)1 2 x(cid:11) (cid:16)1cos 11x(cid:14) 1 sin 11x (cid:12) (cid:14)4e 1 2 x A1 Must have ‘y(cid:32)’.
+3 2 11 2 3
+10
+© Cambridge University Press & Assessment 2024 Page 11 of 14
+9231/22 Cambridge International AS & A Level – Mark Scheme May/June 2024
+PUBLISHED
+Question Answer Marks Guidance
+7(a) (cid:180) x (cid:180) 1 M1 A1 Applies substitution.
+(cid:181) dx(cid:32) 1(cid:181) du(cid:32) u (cid:62)(cid:14)C(cid:64)(cid:32) 1(cid:14)x2 (cid:62)(cid:14)C(cid:64)
+(cid:182) 1(cid:14)x2 2(cid:182) u
+2
+7(b) dy y B1 Divides through by x.
+(cid:16) (cid:32)xsinh(cid:16)1x
+dx x
+e
+(cid:16)(cid:179)x(cid:16)1dx
+(cid:32)e(cid:16)lnx (cid:32)x(cid:16)1
+M1 A1 Finds integrating factor.
+d (cid:11) x(cid:16)1y (cid:12) (cid:32)sinh(cid:16)1x M1 Correct form on LHS. d (cid:11)Iy(cid:12) for their
+dx dx
+integrating factor I.
+(cid:180) x M1 A1 Integrates RHS. RHS must be of the form
+x(cid:16)1y(cid:32)xsinh(cid:16)1x(cid:16)(cid:181) dx
+(cid:182) 1(cid:14)x2
+csinh(cid:16)1x.
+x(cid:16)1y(cid:32)xsinh(cid:16)1x(cid:16) 1(cid:14)x2 (cid:14)C A1 sinh(cid:16)1x(cid:32)ln (cid:11) x(cid:14) x2 (cid:14)1 (cid:12)
+(cid:11) (cid:12) *M1 Substitutes initial conditions.
+1(cid:32)ln 1(cid:14) 2 (cid:16) 2(cid:14)C
+y(cid:32)x2sinh(cid:16)1x(cid:16)x 1(cid:14)x2 (cid:16)xln (cid:11) 1(cid:14) 2 (cid:12) (cid:14)x (cid:11) 1(cid:14) 2 (cid:12) DM1 A1 Divides through by their integrating factor.
+Accept
+y(cid:32)x2sinh(cid:16)1x(cid:16)x 1(cid:14)x2 (cid:16)xsinh(cid:16)11(cid:14)x (cid:11) 1(cid:14) 2 (cid:12) .
+10
+© Cambridge University Press & Assessment 2024 Page 12 of 14
+9231/22 Cambridge International AS & A Level – Mark Scheme May/June 2024
+PUBLISHED
+Question Answer Marks Guidance
+8(a) 6 a 0 M1 Finds determinant or solves equations.
+2 (cid:16)1 0 (cid:32)(cid:16)8a(cid:16)24
+1 5 4
+a(cid:122)(cid:16)3 A1
+2
+8(b) If a(cid:122)(cid:16)3 then system has unique solution (so consistent). B1 FT
+6x(cid:16) 3y (cid:32) 3, M1 Eliminates variable using all 3 equations. Or
+states there are two distinct equations and three
+If a(cid:32)(cid:16)3 then 2x(cid:16) y (cid:32) 1,(cid:159)11x(cid:14)4z(cid:32)7
+unknowns. Or gives accurate geometrical
+x(cid:14) 5y(cid:14) 4z(cid:32) 2,
+description with a(cid:32)(cid:16)3.
+So the system has infinitely many solutions (so consistent). A1
+Alternative method for question 8(b)
+Setsy(cid:32)0. B1
+(cid:11)1,0,3(cid:12) is a solution so system is consistent for all values of a. M1 A1 Finds a solution with y(cid:32)0 and states
+2 8
+conclusion.
+3
+© Cambridge University Press & Assessment 2024 Page 13 of 14
+9231/22 Cambridge International AS & A Level – Mark Scheme May/June 2024
+PUBLISHED
+Question Answer Marks Guidance
+8(c) Eigenvalues of A are 6, (cid:16)1 and 4. B1 Lower diagonal matrix or characteristic
+equation.
+i j k (cid:167)14(cid:183) M1 A1 Uses vector product (or equations) to find
+(cid:168) (cid:184) corresponding eigenvectors.
+(cid:79)(cid:32)6: 2 (cid:16)7 0 (cid:32) 4
+(cid:168) (cid:184)
+(cid:168) (cid:184)
+1 5 (cid:16)2 (cid:169)17(cid:185)
+i j k (cid:167) 0 (cid:183) (cid:167) 0 (cid:183) A1
+(cid:168) (cid:184) (cid:168) (cid:184)
+(cid:79)(cid:32)(cid:16)1: 2 0 0 (cid:32) (cid:16)10 (cid:16) (cid:16)1
+(cid:168) (cid:184) (cid:168) (cid:184)
+(cid:168) (cid:184) (cid:168) (cid:184)
+1 5 5 (cid:169) 10 (cid:185) (cid:169) 1 (cid:185)
+i j k (cid:167) 0 (cid:183) (cid:167)0(cid:183) A1
+(cid:168) (cid:184) (cid:168) (cid:184)
+(cid:79)(cid:32)4: 2 (cid:16)5 0 (cid:32) 0 (cid:16) 0
+(cid:168) (cid:184) (cid:168) (cid:184)
+(cid:168) (cid:184) (cid:168) (cid:184)
+1 5 0 (cid:169)15(cid:185) (cid:169)1(cid:185)
+(cid:167)14 0 0(cid:183) (cid:167)11664 0 0 (cid:183) M1 A1 Or correctly matched permutations of columns.
+(cid:168) (cid:184) (cid:168) (cid:184) Column of zeros in P gets M0.
+Thus P(cid:32) 4 (cid:16)1 0 and D(cid:32) 0 100 0
+(cid:168) (cid:184) (cid:168) (cid:184)
+(cid:168) (cid:184) (cid:168) (cid:184)
+(cid:169)17 1 1(cid:185) (cid:169) 0 0 6400(cid:185)
+7
+8(d) (cid:11)(cid:79)(cid:16)6(cid:12)(cid:11)(cid:79)(cid:14)1(cid:12)(cid:11)(cid:79)(cid:16)4(cid:12)(cid:32)(cid:79)3(cid:16)9(cid:79)2 (cid:14)14(cid:79)(cid:14)24(cid:32)0 B1 Characteristic equation.
+14A(cid:14)24I(cid:32)(cid:16)A3(cid:14)9A2 M1 Substitutes for A and makes 14A(cid:14)24I the
+subject.
+(cid:11)14A(cid:14)24I(cid:12)2
+(cid:32)
+(cid:11) (cid:16)A3(cid:14)9A2(cid:12)2 (cid:32)A4(cid:11)A(cid:16)9I(cid:12)2 M1 A1 Squares and factorises. CWO.
+4
+© Cambridge University Press & Assessment 2024 Page 14 of 14

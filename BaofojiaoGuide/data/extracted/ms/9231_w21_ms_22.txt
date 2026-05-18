@@ -1,0 +1,2368 @@
+ 
+                                                              
+ 
+ 
+This document consists of 14 printed pages. 
+ 
+© UCLES 2021 
+ 
+[Turn over
+ 
+Cambridge International AS & A Level 
+ 
+FURTHER MATHEMATICS 
+9231/22 
+Paper 2 Further Pure Mathematics 2 
+October/November 2021 
+MARK SCHEME 
+Maximum Mark: 75 
+ 
+ 
+Published 
+ 
+ 
+This mark scheme is published as an aid to teachers and candidates, to indicate the requirements of the 
+examination. It shows the basis on which Examiners were instructed to award marks. It does not indicate the 
+details of the discussions that took place at an Examiners’ meeting before marking began, which would have 
+considered the acceptability of alternative answers. 
+ 
+Mark schemes should be read in conjunction with the question paper and the Principal Examiner Report for 
+Teachers. 
+ 
+Cambridge International will not enter into discussions about these mark schemes. 
+ 
+Cambridge International is publishing the mark schemes for the October/November 2021 series for most 
+Cambridge IGCSE™, Cambridge International A and AS Level components and some Cambridge O Level 
+components. 
+ 
+ 
+ 
+9231/22 
+Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+October/November 2021 
+ 
+© UCLES 2021 
+Page 2 of 14 
+ 
+ 
+Generic Marking Principles 
+ 
+These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the 
+mark scheme or generic level descriptors for a question. Each question paper and mark scheme will also comply with these marking principles. 
+ 
+GENERIC MARKING PRINCIPLE 1: 
+Marks must be awarded in line with: 
+• 
+the specific content of the mark scheme or the generic level descriptors for the question 
+• 
+the specific skills defined in the mark scheme or in the generic level descriptors for the question 
+• 
+the standard of response required by a candidate as exemplified by the standardisation scripts. 
+GENERIC MARKING PRINCIPLE 2: 
+Marks awarded are always whole marks (not half marks, or other fractions). 
+GENERIC MARKING PRINCIPLE 3: 
+Marks must be awarded positively: 
+• 
+marks are awarded for correct/valid answers, as defined in the mark scheme. However, credit is given for valid answers which go beyond the scope of the 
+syllabus and mark scheme, referring to your Team Leader as appropriate 
+• 
+marks are awarded when candidates clearly demonstrate what they know and can do 
+• 
+marks are not deducted for errors 
+• 
+marks are not deducted for omissions 
+• 
+answers should only be judged on the quality of spelling, punctuation and grammar when these features are specifically assessed by the question as 
+indicated by the mark scheme. The meaning, however, should be unambiguous. 
+GENERIC MARKING PRINCIPLE 4: 
+Rules must be applied consistently, e.g. in situations where candidates have not followed instructions or in the application of generic level descriptors. 
+GENERIC MARKING PRINCIPLE 5: 
+Marks should be awarded using the full range of marks defined in the mark scheme for the question (however; the use of the full mark range may be limited 
+according to the quality of the candidate responses seen). 
+GENERIC MARKING PRINCIPLE 6: 
+Marks awarded are based solely on the requirements as defined in the mark scheme. Marks should not be awarded with grade thresholds or grade descriptors in 
+mind. 
+ 
+ 
+ 
+9231/22 
+Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+October/November 2021 
+ 
+© UCLES 2021 
+Page 3 of 14 
+ 
+ 
+ 
+ 
+Mathematics Specific Marking Principles 
+1 
+Unless a particular method has been specified in the question, full marks may be awarded for any correct method. However, if a calculation is required 
+then no marks will be awarded for a scale drawing. 
+2 
+Unless specified in the question, answers may be given as fractions, decimals or in standard form. Ignore superfluous zeros, provided that the degree of 
+accuracy is not affected. 
+3 
+Allow alternative conventions for notation if used consistently throughout the paper, e.g. commas being used as decimal points. 
+4 
+Unless otherwise indicated, marks once gained cannot subsequently be lost, e.g. wrong working following a correct form of answer is ignored (isw). 
+5 
+Where a candidate has misread a number in the question and used that value consistently throughout, provided that number does not alter the difficulty or 
+the method required, award all marks earned and deduct just 1 mark for the misread. 
+6 
+Recovery within working is allowed, e.g. a notation error in the working where the following line of working makes the candidate’s intent clear. 
+ 
+ 
+ 
+ 
+ 
+ 
+9231/22 
+Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+October/November 2021 
+ 
+© UCLES 2021 
+Page 4 of 14 
+ 
+ 
+Mark Scheme Notes 
+ 
+ 
+The following notes are intended to aid interpretation of mark schemes in general, but individual mark schemes may include marks awarded for specific reasons 
+outside the scope of these notes. 
+ 
+Types of mark 
+ 
+M 
+Method mark, awarded for a valid method applied to the problem. Method marks are not lost for numerical errors, algebraic slips or errors in units. 
+However, it is not usually sufficient for a candidate just to indicate an intention of using some method or just to quote a formula; the formula or idea 
+must be applied to the specific problem in hand, e.g. by substituting the relevant quantities into the formula. Correct application of a formula 
+without the formula being quoted obviously earns the M mark and in some cases an M mark can be implied from a correct answer. 
+ 
+A 
+Accuracy mark, awarded for a correct answer or intermediate step correctly obtained. Accuracy marks cannot be given unless the associated method 
+mark is earned (or implied). 
+ 
+B 
+ 
+Mark for a correct result or statement independent of method marks. 
+ 
+DM or DB  
+When a part of a question has two or more ‘method’ steps, the M marks are generally independent unless the scheme specifically says otherwise; 
+and similarly, when there are several B marks allocated. The notation DM or DB is used to indicate that a particular M or B mark is dependent on 
+an earlier M or B (asterisked) mark in the scheme. When two or more steps are run together by the candidate, the earlier marks are implied and full 
+credit is given. 
+ 
+FT   
+Implies that the A or B mark indicated is allowed for work correctly following on from previously incorrect results. Otherwise, A or B marks are 
+given for correct work only.  
+ 
+• 
+A or B marks are given for correct work only (not for results obtained from incorrect working) unless follow through is allowed (see abbreviation FT above).  
+• 
+For a numerical answer, allow the A or B mark if the answer is correct to 3 significant figures or would be correct to 3 significant figures if rounded (1 
+decimal place for angles in degrees).  
+• 
+The total number of marks available for each question is shown at the bottom of the Marks column. 
+• 
+Wrong or missing units in an answer should not result in loss of marks unless the guidance indicates otherwise. 
+• 
+Square brackets [ ] around text or numbers show extra information not needed for the mark to be awarded. 
+ 
+ 
+9231/22 
+Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+October/November 2021 
+ 
+© UCLES 2021 
+Page 5 of 14 
+ 
+ 
+Abbreviations 
+ 
+AEF/OE Any Equivalent Form (of answer is equally acceptable) / Or Equivalent 
+ 
+AG  
+Answer Given on the question paper (so extra checking is needed to ensure that the detailed working leading to the result is valid) 
+ 
+CAO  
+Correct Answer Only (emphasising that no ‘follow through’ from a previous error is allowed) 
+ 
+CWO  
+Correct Working Only  
+ 
+ISW 
+Ignore Subsequent Working 
+ 
+SOI  
+Seen Or Implied 
+ 
+SC  
+Special Case (detailing the mark to be given for a specific wrong solution, or a case where some standard marking practice is to be varied in the 
+light of a particular circumstance) 
+ 
+WWW 
+Without Wrong Working 
+ 
+AWRT  
+Answer Which Rounds To 
+ 
+ 
+9231/22 
+Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+October/November 2021 
+ 
+© UCLES 2021 
+Page 6 of 14 
+ 
+ 
+Question 
+Answer 
+Marks 
+Guidance 
+1(a) 
+(
+)
+(
+)
+2
+2
+sinh
+cosh
++
+x
+x
+ 
+M1 Combines using correct power series. Or sensible 
+attempt at all four derivatives of y.   
+ 
+4
+1
+2
+2
+1+
++
+x
+x   
+A1  
+ 
+ 
+2  
+1(b) 
+1
+2
+4! 12
+×
+=
+  
+B1  
+ 
+ 
+1  
+1(c) 
+1
+2
+1
+2
+0
+2
+4
+1
+d
++
++
+³
+x
+x
+x   
+M1 Substitutes their power series, must be at least 
+2.
++
+a
+bx
+   
+ 
+1
+2
+523
+1
+1
+3
+10
+960
+0
+3
+5
+ª
+º
+=
++
++
+=
+¬
+¼
+x
+x
+x
+  
+A1  
+ 
+ 
+2  
+9231/22 
+Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+October/November 2021 
+ 
+© UCLES 2021 
+Page 7 of 14 
+ 
+ 
+Question 
+Answer 
+Marks 
+Guidance 
+2 
+(
+)
+4
+ln
+5
+4
+e
+5
++
+=
++
+x
+x
+  
+M1 A1 Finds integrating factor.  
+ 
+(
+)
+(
+)
+4
+5
+d
+5
+6
+30
+d
++
+=
++
+y x
+x
+x
+x
+  
+M1 Writes in correct form. 
+ 
+4
+6
+2
+(
+5)
+15
++
+=
++
++
+y x
+x
+x
+C   
+A1  
+ 
+6
+16
+=
++ C   
+M1 Substitutes initial conditions.  
+ 
+6
+2
+4
+15
+10
+5
++
+−
+=
++
+x
+x
+y
+x
+  
+M1 A1 Division through by coefficient of y.  
+ 
+ 
+7  
+Question 
+Answer 
+Marks 
+Guidance 
+3(a) 
+(
+)
+(
+)
+2
+2
+2
+1
+(
+1)
+2
+1
+1
+1
+1
+01
+d
+1
+1
+−
+−
+<
++
+−
++
++
+−
+³
+!
+n
+n
+n
+n
+n
+n
+x
+x
+  
+M1 A1 Forms the sum of the areas of the rectangles. Three 
+terms, including last for A1. Allow use of sigma.  
+ 
+1
+2
+3
+3
+1
+1
+(
+1) (2
+1)
+1
+1
+6
+n
+r
+n
+n
+n
+r
+n
+n
+−
+=
+−
+−
+−
+= −
+¦
+  
+M1 
+Applies 
+1
+2
+1
+6
+1
+(
+1) (2
+1).
+−
+=
+=
+−
+−
+¦
+n
+r
+r
+n
+n
+n
+  
+ 
+2
+2
+2
+2
+6
+(
+1)(2
+1)
+4
+3
+1
+6
+6
+n
+n
+n
+n
+n
+n
+n
+−
+−
+−
++
+−
+=
+  
+A1 AG. [Can get this A1 without previous A1.] 
+ 
+ 
+4  
+9231/22 
+Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+October/November 2021 
+ 
+© UCLES 2021 
+Page 8 of 14 
+ 
+ 
+Question 
+Answer 
+Marks 
+Guidance 
+3(b) 
+(
+)
+(
+)
+(
+)
+(
+)
+2
+2
+2
+2
+2
+1
+1
+1
+0
+2
+1
+1
+1
+2
+1
+1
+1
+d
+1
+−
+−
+−
+>
+−
++
+−
++
++
+³
+"
+n
+n
+n
+n
+n
+n
+n
+x
+x
+  
+M1 A1 Forms the sum of the areas of appropriate rectangles. 
+Three terms, including last for A1. Allow 
+(
+)
+2
+2
+1
+1
+1
+.
+=
+−
+¦
+n
+r
+n
+n
+r
+  
+ 
+1
+2
+3
+3
+1
+1
+1
+1
+(
+1) (2
+1)
+6
+n
+r
+n
+n
+n
+n
+n
+r
+n
+n
+n
+n
+−
+=
+−
+−
+−
+−
+−
+=
+−
+¦
+  
+M1 
+Applies 
+1
+2
+1
+6
+1
+(
+1) (2
+1).
+−
+=
+=
+−
+−
+¦
+n
+r
+r
+n
+n
+n
+ 
+ 
+2
+2
+2
+6 (
+1)
+(
+1)(2
+1)
+4
+3
+1
+6
+6
+n n
+n
+n
+n
+n
+n
+n
+−
+−
+−
+−
+−
+−
+=
+  
+A1 
+SC: 
+2
+2
+4
+3
+1
+1
+6
++
+−−
+n
+n
+n
+n
+ scores 2/4. 
+ 
+ 
+4  
+Question 
+Answer 
+Marks 
+Guidance 
+4(a) 
+2
+5 ʌ
+ie
+,
+0,1,2,3,4
+=
+k
+k
+  
+B2 OE. B1 for 1 correct fifth root of unity.  
+B2 for exactly 5 distinct, correct roots.   
+ 
+ 
+2  
+4(b) 
+(
+)
+4
+4
+3
+2
+2
+3
+4
+i
+4
+(i )
+6
+(i )
+4 (i )
+(i )
++
+=
++
++
++
++
+c
+s
+c
+c
+s
+c
+s
+c s
+s
+  
+M1 A1 Uses binomial expansion. Can also go RHS to LHS 
+using 
+1
+2cos
+.
+θ
+−
+=
++
+z
+z
+  
+ 
+4
+2 2
+4
+4
+2
+2
+2 2
+cos4
+6
+6
+(1
+)
+(1
+)
+θ
+−
++
+=
+−
++
+−
+=
+−
+c
+c s
+s
+c
+c
+c
+c
+  
+M1 Applies 
+2
+2
+1
+= −
+s
+c  or 
+1
+2cos
+.
+θ
+−
+=
++
+z
+z
+ 
+ 
+4
+2
+8cos
+1
+8cos θ
+θ
+−
++   
+A1 AG. Can get final A1 without first.  
+SC: Using double angle formulae scores 1/4. 
+ 
+ 
+4  
+9231/22 
+Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+October/November 2021 
+ 
+© UCLES 2021 
+Page 9 of 14 
+ 
+ 
+Question 
+Answer 
+Marks 
+Guidance 
+4(c) 
+9
+7
+5
+4
+2
+5
+4
+2
+8
+8
+8
+8
+1
+(
+1)(8
+8
+1)
+−
++
+−
++
+−=
+−
+−
++
+x
+x
+x
+x
+x
+x
+x
+x
+  
+B1  
+ 
+cos4
+0
+θ =
+ leading to
+1
+2
+4
+(2
+1)ʌ
+k
+θ =
++
+ 
+M1 A1 Solves cos4
+0.
+θ =
+ A1 for 
+3
+5
+7
+1
+2
+2
+2
+2
+ʌ, ʌ, ʌ, ʌ
+4θ =
+ OE. 
+ 
+3
+5
+7
+8
+8
+1
+8
+8 ʌ, cos ʌ, cos ʌ, cos ʌ
+cos0, cos
+  
+A1 Gives exactly 5 distinct, real roots.  
+ Accept 
+3
+1
+8
+8
+cos ʌ,
+cos ʌ.
+1, ±
+±
+  
+ 
+ 
+4  
+Question 
+Answer 
+Marks 
+Guidance 
+5(a) 
+ 
+2
+2
+3
+2
+2
+−
+=
+−
++
+x
+t
+t            
+2
+2
+3
+3
+2
+2
+4
+−
+=
++
+−
+y
+t
+t   
+B1 Differentiates x and y with respect to t. 
+ 
+4
+4
+2
+2
+4
+2
+2
+4
+4
+12
+23
+9
+12
+9
+4
+12
+1
+12
+2
+4
+4
++
++
+−
++ +
++
++
++
+−
+t
+t
+t
+t
+t
+t
+t
+t
+  
+M1 Expands 
+2
+2.
++
+
+
+x
+y
+ Accept 
+(
+)
+2
+25
+2
+2
+4
+25
+.
+−
++
+−
+t
+t
+  
+ 
+(
+)
+2
+25
+25
+25
+25
+4
+2
+4
+4
+2
+2
+4
+4
+t
+t
+t
+t
+−
+−
++
++
+=
++
+  
+M1 A1 Factorises 
+2
+2.
++
+
+
+x
+y
+ AG. 
+ 
+2
+2
+3
+1
+5
+5
+85
+1
+2
+2
+3
+2
+12
+1
+1
+2 d
+−
+−
+ª
+º
++
+=
+−
+=
+¬
+¼
+³ t
+t
+t
+t
+t
+  
+M1 A1 Applies correct formula for arc length.  
+ 
+ 
+6  
+9231/22 
+Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+October/November 2021 
+ 
+© UCLES 2021 
+Page 10 of 14 
+ 
+ 
+Question 
+Answer 
+Marks 
+Guidance 
+5(b) 
+2
+3
+2
+2
+4
+d
+d
+3
+2
+−
+−
++
+=
+=
+−
+
+
+t
+y
+y
+x
+x
+t
+  
+B1 Finds d .
+d
+y
+x   
+ 
+(
+)(
+) (
+)(
+)
+(
+)
+2
+2
+3
+2
+3
+2
+2
+2
+3
+3
+2
+2
+3
+2
+3
+4
+4
+4
+d
+d
+3
+2
+3
+2
+−
+−
+−
+−
+−
+−
+−
+−
+−
+−
++
+§
+·
++
+=
+¨
+¸
+¨
+¸
+−
+−
+©
+¹
+t
+t
+t
+t
+t
+t
+t
+t
+  
+B1 Differentiates d
+d
+y
+x  with respect to t.    
+ 
+(
+)
+2
+2
+3
+2
+3
+2
+2
+3
+2
+4
+d
+5
+5
+d
+d
+d
+3
+2
+d
+3
+2
+d
+2
+2
+−
+−
+−
+−
+§
+·
++
+=
+¨
+¸
+¨
+¸
+−
+×
+−
+©
+¹
+−
+=
+= −
+t
+t
+y
+t
+t
+t
+x
+t
+x
+  when 
+1.
+=
+t
+  
+M1 A1 Applies chain rule. 
+ 
+ 
+4  
+Question 
+Answer 
+Marks 
+Guidance 
+6(a) 
+(
+)
+3
+1
+2)(
+3)
+6[ 0]
+(
+7
+λ
+λ
+λ
+λ
+λ
+−
+−
+−
++
+=
++
+=
+  
+M1 A1 Finds characteristic equation.  
+ 
+2
+1
+7
+6
+0
+−
+−
++
+=
+P
+I
+P
+  
+M1 Substitutes P and multiplies through by 
+1.
+−
+P
+ 
+ 
+2
+1
+18
+24
+0
+4
+6
+0
+0
+9
+§
+·
+¨
+¸
+=
+−
+¨
+¸
+¨
+¸
+©
+¹
+P
+ leading to
+1
+1
+2
+1
+3
+1
+3
+4
+0
+1
+0
+0
+−
+§
+·
+−
+−
+¨
+¸
+= ¨
+¸
+¨
+¸
+−
+©
+¹
+P
+ 
+M1 A1  
+ 
+ 
+5  
+9231/22 
+Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+October/November 2021 
+ 
+© UCLES 2021 
+Page 11 of 14 
+ 
+ 
+Question 
+Answer 
+Marks 
+Guidance 
+6(b) 
+1
+4
+0
+0
+0
+5
+0
+0
+0
+6
+−
+§
+·
+¨
+¸
+=
+¨
+¸
+¨
+¸
+©
+¹
+A
+P
+P
+ 
+M1 Applies 
+1.
+−
+=
+A
+PDP
+ 
+ 
+1
+3
+1
+2
+4
+30
+36
+1
+3
+4
+0
+10
+36
+0
+1
+0
+0
+18
+0
+0
+§
+·
+−
+−
+§
+·
+¨
+¸
+¨
+¸
+¨
+¸
+¨
+¸
+¨
+¸¨
+¸
+−
+−
+©
+¹©
+¹
+ or 
+5
+2
+1
+1
+0
+6
+2
+6
+4
+2
+16
+6
+0
+5
+0
+0
+3
+0
+0
+2
+−
+−
+§
+·§
+·
+¨
+¸¨
+¸
+¨
+¸¨
+¸
+¨
+¸¨
+¸
+−
+−
+©
+¹©
+¹
+  
+M1 A1 Multiplies two adjacent matrices. 
+ 
+ 
+ 
+4
+3
+2
+0
+5
+2
+0
+0
+6
+§
+·
+¨
+¸
+−
+¨
+¸
+¨
+¸
+©
+¹
+  
+A1 A1 linked to first M1. 
+ 
+ 
+4  
+6(c) 
+Eigenvectors: 
+1
+6
+6
+0 , 2 ,
+6
+0
+0
+3
+§ · § · §
+·
+¨ ¸ ¨ ¸ ¨
+¸
+¨ ¸ ¨ ¸ ¨
+¸
+¨ ¸ ¨ ¸ ¨
+¸
+−
+© ¹ © ¹ ©
+¹
+  
+B1 Accept any non-zero multiples of these. 
+ 
+Eigenvalues: 64, 125, 216 
+B1  
+ 
+ 
+2  
+9231/22 
+Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+October/November 2021 
+ 
+© UCLES 2021 
+Page 12 of 14 
+ 
+ 
+Question 
+Answer 
+Marks 
+Guidance 
+7(a) 
+2
+d
+d
+2
+d
+d
+=
++
+y
+w
+x
+xw
+x
+x
+  
+B1 
+2
+3
+d
+1 d
+2
+d
+d
+=
+−
+w
+y
+y
+x
+x
+x
+x
+  
+ 
+2
+2
+2
+2
+2
+d
+d
+d
+4
+2
+d
+d
+d
+=
++
++
+y
+w
+w
+x
+x
+w
+x
+x
+x
+  
+B1 
+2
+2
+2
+3
+4
+2
+2
+d
+1 d
+4 d
+6
+d
+d
+d
+=
+−
++
+w
+y
+y
+y
+x
+x
+x
+x
+x
+x
+  
+ 
+2
+2
+2
+2
+2
+2
+2
+d
+d
+d
+d
+d
+4
+5
+4
+2
+4
+8
+5
+d
+d
+d
+d
+d
++
++
+=
++
++
++
++
++
+y
+y
+w
+w
+w
+y
+x
+x
+w
+x
+xw
+x w
+x
+x
+x
+x
+x
+  
+M1 Uses substitution to find w-x equation, AG. 
+ 
+(
+)
+(
+)
+2
+2
+2
+2
+2
+2
+d
+d
+5
+4
+4
+5
+8
+2
+5
+4
+2
+d
+d
+w
+w
+x
+x
+x
+x
+x
+w
+x
+x
+x
+x
++
++
++
++
++
+=
++
++
+  
+A1 AG 
+ 
+ 
+4  
+7(b) 
+2
+4
+5
+0
+m
+m
++
++
+=
+ leading to
+2
+m
+i
+= −±  
+M1 Auxiliary equation.  
+ 
+(
+)
+2
+e
+cos
+sin
+−
+=
++
+x
+y
+A
+x
+B
+x   
+A1 Complimentary function. Allow “
+=
+y
+” missing. Don’t 
+allow e.g. 
+(
+)
+2
+e
+cos
+isin
+.
+−
++
+x A
+x
+B
+x   
+ 
+2
+y
+px
+qx
+r
+=
++
++
+ , 
+'
+2
+y
+px
+q
+=
++
+, 
+''
+2
+y
+p
+=
+ 
+B1 Particular integral and its derivatives.  
+ 
+2
+2
+2
+8
+4
+5
+5
+5
+5
+(8
+5 )
+(2
+4
+5 )
+5
+5
+8
+5
+4
+2
+4
+5
+2
++
++
++
++
++
+=
++
++
++
++
++
+=
++
+=
++
++
+=
+p
+px
+q
+px
+qx
+r
+px
+p
+q x
+p
+q
+r
+p
+p
+q
+p
+q
+r
+  
+M1 Substitutes and equates coefficients.  
+ 
+1
+=
+p
+       
+4
+5
+= −
+q
+        
+16
+25
+=
+r
+  
+A1  
+ 
+(
+)
+2
+2
+2
+16
+4
+5
+25
+e
+cos
+sin
+−
+=
++
++
+−
++
+x
+x w
+A
+x
+B
+x
+x
+x
+  
+M1 Substitutes for y and find w in terms of x. 
+ 
+(
+) (
+)
+(
+)
+2
+1
+2
+5
+5
+4
+4
+cos
+sin
+1 (
+)
+−
+−
+−
+=
++
++ −
++
+x
+w
+xe
+A
+x
+B
+x
+x
+x
+  
+A1  
+ 
+ 
+7  
+9231/22 
+Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+October/November 2021 
+ 
+© UCLES 2021 
+Page 13 of 14 
+ 
+ 
+Question 
+Answer 
+Marks 
+Guidance 
+8(a) 
+e
+e
+2
+tanh
+sech
+e
+e
+e
+e
+−
+−
+−
+−
+=
+=
++
++
+x
+x
+x
+x
+x
+x
+x
+x
+ 
+B1 Writes in exponential form.  
+ 
+(
+)
+(
+)
+(
+)
+(
+)
+2
+2
+2
+2
+2
+e
+e
+e
+e
+e
+e
+4
+1
+e
+e
+e
+e
+e
+e
+−
+−
+−
+−
+−
+−
++
+−
+−
+§
+·
+−
+−
+=
+=
+¨
+¸
++
+©
+¹
++
++
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+ 
+M1 Writes over common denominator. 
+ 
+2
+sech x  
+A1 AG 
+ 
+ 
+3  
+8(b) 
+3
+1
+3
+2 d
+tanh
+=
++
+³u
+u
+x
+C   
+M1 A1 Uses substitution correctly. Allow by inspection.  
+ 
+ 
+2  
+8(c) 
+l
+2
+2
+n
+0
+2
+3
+sech
+sech
+tanh
+d
+−
+=³
+n
+nI
+x
+x
+x x  
+B1  Separates into correct structure.   
+ 
+ln3
+ln3
+1
+1
+3
+3
+0
+2
+3
+2
+4
+0
+sech
+tanh
+(
+2)
+sech
+tanh
+d
+n
+n
+x
+x
+n
+x
+x x
+−
+−
+ª
+º
++
+−
+¬
+¼
+³
+  
+M1 Uses integration by parts correctly. 
+ 
+( )
+( )
+(
+)
+3
+1
+4
+1
+3
+5
+5
+3
+2
+3
+2
+(
+2)
+n
+n
+n
+n
+I
+I
+−
+−
++
+−
+−
+  
+M1 A1 Uses 
+2
+2 .
+1 sech
+tanh
+−
+=
+x
+x  
+ 
+(
+)
+( )
+( )
+2
+3
+4
+5
+3
+5
+2
+3
+2
+(
+2)
+n
+n
+n
+n
+I
+n
+I
+−
+−
++
+−
+=
++
+−
+ leading to 
+( )
+( )
+2
+3
+4
+5
+3
+5
+2
+(
+1)
+(
+2)
+n
+n
+n
+n
+I
+n
+I
+−
+−
++
+=
++
+−
+  
+A1 AG 
+ 
+ 
+5  
+9231/22 
+Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+October/November 2021 
+ 
+© UCLES 2021 
+Page 14 of 14 
+ 
+ 
+Question 
+Answer 
+Marks 
+Guidance 
+8(d) 
+( )
+5
+3
+7
+2
+64
+1
+4
+3
+5
+3
+=
+=
+I
+  
+B1  
+ 
+( ) ( )
+2
+3
+4
+4
+2
+5
+5
+3
+(4
+1)
+2
+I
+I
++
+=
++
+leading to 
+4
+4928
+0.105
+46875
+I
+=
+=
+     
+M1 A1 Applies reduction formula with 
+4.
+=
+n
+  
+ 
+ 
+3  
+ 

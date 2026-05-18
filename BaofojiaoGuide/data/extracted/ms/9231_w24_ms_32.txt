@@ -1,0 +1,648 @@
+©
+Cambridge
+University
+Press
+&
+Assessment
+2024
+[Turn
+over
+This
+document
+consists
+of
+19
+printed
+pages.
+components. Cambridge
+IGCSE,
+Cambridge
+International
+A
+and
+AS
+Level
+components,
+and
+some
+Cambridge
+O
+Level
+Cambridge
+International
+is
+publishing
+the
+mark
+schemes
+for
+the
+October/November
+2024
+series
+for
+most
+Cambridge
+International
+will
+not
+enter
+into
+discussions
+about
+these
+mark
+schemes.
+Teachers. Mark
+schemes
+should
+be
+read
+in
+conjunction
+with
+the
+question
+paper
+and
+the
+Principal
+Examiner
+Report
+for
+considered
+the
+acceptability
+of
+alternative
+answers.
+(cid:71)(cid:72)(cid:87)(cid:68)(cid:76)(cid:79)(cid:86)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:71)(cid:76)(cid:86)(cid:70)(cid:88)(cid:86)(cid:86)(cid:76)(cid:82)(cid:81)(cid:86)(cid:3)(cid:87)(cid:75)(cid:68)(cid:87)(cid:3)(cid:87)(cid:82)(cid:82)(cid:78)(cid:3)(cid:83)(cid:79)(cid:68)(cid:70)(cid:72)(cid:3)(cid:68)(cid:87)(cid:3)(cid:68)(cid:81)(cid:3)(cid:40)(cid:91)(cid:68)(cid:80)(cid:76)(cid:81)(cid:72)(cid:85)(cid:86)(cid:182)(cid:3)(cid:80)(cid:72)(cid:72)(cid:87)(cid:76)(cid:81)(cid:74)(cid:3)(cid:69)(cid:72)(cid:73)(cid:82)(cid:85)(cid:72)(cid:3)(cid:80)(cid:68)(cid:85)(cid:78)(cid:76)(cid:81)(cid:74)(cid:3)(cid:69)(cid:72)(cid:74)(cid:68)(cid:81)(cid:15)(cid:3)(cid:90)(cid:75)(cid:76)(cid:70)(cid:75)(cid:3)(cid:90)(cid:82)(cid:88)(cid:79)d
+have
+examination.
+It
+shows
+the
+basis
+on
+which
+Examiners
+were
+instructed
+to
+award
+marks.
+It
+does
+not
+indicate
+the
+This
+mark
+scheme
+is
+published
+as
+an
+aid
+to
+teachers
+and
+candidates,
+to
+indicate
+the
+requirements
+of
+the
+Published
+Maximum
+Mark:
+50
+MARK
+SCHEME
+Paper
+3
+Further
+Mechanics
+October/November
+2024
+FURTHER
+MATHEMATICS
+9231/32
+Cambridge
+International
+AS
+&
+A
+Level
+9231/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2024
+PUBLISHED
+Generic Marking Principles
+These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the
+mark scheme or generic level descriptions for a question. Each question paper and mark scheme will also comply with these marking principles.
+GENERIC MARKING PRINCIPLE 1:
+Marks must be awarded in line with:
+(cid:120) the specific content of the mark scheme or the generic level descriptors for the question
+(cid:120) the specific skills defined in the mark scheme or in the generic level descriptors for the question
+(cid:120) the standard of response required by a candidate as exemplified by the standardisation scripts.
+GENERIC MARKING PRINCIPLE 2:
+Marks awarded are always whole marks (not half marks, or other fractions).
+GENERIC MARKING PRINCIPLE 3:
+Marks must be awarded positively:
+(cid:120) marks are awarded for correct/valid answers, as defined in the mark scheme. However, credit is given for valid answers which go beyond the scope of the
+syllabus and mark scheme, referring to your Team Leader as appropriate
+(cid:120) marks are awarded when candidates clearly demonstrate what they know and can do
+(cid:120) marks are not deducted for errors
+(cid:120) marks are not deducted for omissions
+(cid:120) answers should only be judged on the quality of spelling, punctuation and grammar when these features are specifically assessed by the question as
+indicated by the mark scheme. The meaning, however, should be unambiguous.
+GENERIC MARKING PRINCIPLE 4:
+Rules must be applied consistently, e.g. in situations where candidates have not followed instructions or in the application of generic level descriptors.
+GENERIC MARKING PRINCIPLE 5:
+Marks should be awarded using the full range of marks defined in the mark scheme for the question (however; the use of the full mark range may be limited
+according to the quality of the candidate responses seen).
+GENERIC MARKING PRINCIPLE 6:
+Marks awarded are based solely on the requirements as defined in the mark scheme. Marks should not be awarded with grade thresholds or grade descriptors in
+mind.
+© Cambridge University Press & Assessment 2024 Page 2 of 19
+9231/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2024
+PUBLISHED
+Mathematics Specific Marking Principles
+1 Unless a particular method has been specified in the question, full marks may be awarded for any correct method. However, if a calculation is required
+then no marks will be awarded for a scale drawing.
+2 Unless specified in the question, non-integer answers may be given as fractions, decimals or in standard form. Ignore superfluous zeros, provided that the
+degree of accuracy is not affected.
+3 Allow alternative conventions for notation if used consistently throughout the paper, e.g. commas being used as decimal points.
+4 Unless otherwise indicated, marks once gained cannot subsequently be lost, e.g. wrong working following a correct form of answer is ignored (isw).
+5 Where a candidate has misread a number or sign in the question and used that value consistently throughout, provided that number does not alter the
+difficulty or the method required, award all marks earned and deduct just 1 A or B mark for the misread.
+6 Recovery within working is allowed, e.g. a notation error in the working where the following line of working makes the candid(cid:68)(cid:87)(cid:72)(cid:182)(cid:86)(cid:3)(cid:76)(cid:81)(cid:87)(cid:72)(cid:81)(cid:87)(cid:3)(cid:70)(cid:79)(cid:72)(cid:68)(cid:85)(cid:17)
+© Cambridge University Press & Assessment 2024 Page 3 of 19
+9231/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2024
+PUBLISHED
+Mark Scheme Notes
+The following notes are intended to aid interpretation of mark schemes in general, but individual mark schemes may include marks awarded for specific reasons
+outside the scope of these notes.
+Types of mark
+M Method mark, awarded for a valid method applied to the problem. Method marks are not lost for numerical errors, algebraic slips or errors in units.
+However, it is not usually sufficient for a candidate just to indicate an intention of using some method or just to quote a formula; the formula or idea
+must be applied to the specific problem in hand, e.g. by substituting the relevant quantities into the formula. Correct application of a formula
+without the formula being quoted obviously earns the M mark and in some cases an M mark can be implied from a correct answer.
+A Accuracy mark, awarded for a correct answer or intermediate step correctly obtained. Accuracy marks cannot be given unless the associated method
+mark is earned (or implied).
+B Mark for a correct result or statement independent of method marks.
+DM or DB (cid:58)(cid:75)(cid:72)(cid:81)(cid:3)(cid:68)(cid:3)(cid:83)(cid:68)(cid:85)(cid:87)(cid:3)(cid:82)(cid:73)(cid:3)(cid:68)(cid:3)(cid:84)(cid:88)(cid:72)(cid:86)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:75)(cid:68)(cid:86)(cid:3)(cid:87)(cid:90)(cid:82)(cid:3)(cid:82)(cid:85)(cid:3)(cid:80)(cid:82)(cid:85)(cid:72)(cid:3)(cid:181)(cid:80)(cid:72)(cid:87)(cid:75)(cid:82)(cid:71)(cid:182)(cid:3)(cid:86)(cid:87)(cid:72)(cid:83)(cid:86)(cid:15)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:48)(cid:3)(cid:80)(cid:68)(cid:85)(cid:78)(cid:86)(cid:3)(cid:68)(cid:85)(cid:72)(cid:3)(cid:74)(cid:72)(cid:81)(cid:72)(cid:85)(cid:68)(cid:79)(cid:79)(cid:92)(cid:3)(cid:76)(cid:81)(cid:71)(cid:72)(cid:83)(cid:72)(cid:81)(cid:71)(cid:72)(cid:81)(cid:87)(cid:3)(cid:88)(cid:81)(cid:79)(cid:72)(cid:86)(cid:86)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:86)(cid:70)(cid:75)(cid:72)(cid:80)(cid:72)(cid:3)(cid:86)(cid:83)(cid:72)(cid:70)(cid:76)(cid:73)(cid:76)(cid:70)(cid:68)(cid:79)(cid:79)y says otherwise;
+and similarly, when there are several B marks allocated. The notation DM or DB is used to indicate that a particular M or B mark is dependent on
+an earlier M or B (asterisked) mark in the scheme. When two or more steps are run together by the candidate, the earlier marks are implied and full
+credit is given.
+FT Implies that the A or B mark indicated is allowed for work correctly following on from previously incorrect results. Otherwise, A or B marks are
+given for correct work only.
+(cid:120) A or B marks are given for correct work only (not for results obtained from incorrect working) unless follow through is allowed (see abbreviation FT above).
+(cid:120) For a numerical answer, allow the A or B mark if the answer is correct to 3 significant figures or would be correct to 3 significant figures if rounded (1
+decimal place for angles in degrees).
+(cid:120) The total number of marks available for each question is shown at the bottom of the Marks column.
+(cid:120) Wrong or missing units in an answer should not result in loss of marks unless the guidance indicates otherwise.
+(cid:120) Square brackets [ ] around text or numbers show extra information not needed for the mark to be awarded.
+© Cambridge University Press & Assessment 2024 Page 4 of 19
+9231/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2024
+PUBLISHED
+Abbreviations
+AEF/OE Any Equivalent Form (of answer is equally acceptable) / Or Equivalent
+AG Answer Given on the question paper (so extra checking is needed to ensure that the detailed working leading to the result is valid)
+CAO (cid:38)(cid:82)(cid:85)(cid:85)(cid:72)(cid:70)(cid:87)(cid:3)(cid:36)(cid:81)(cid:86)(cid:90)(cid:72)(cid:85)(cid:3)(cid:50)(cid:81)(cid:79)(cid:92)(cid:3)(cid:11)(cid:72)(cid:80)(cid:83)(cid:75)(cid:68)(cid:86)(cid:76)(cid:86)(cid:76)(cid:81)(cid:74)(cid:3)(cid:87)(cid:75)(cid:68)(cid:87)(cid:3)(cid:81)(cid:82)(cid:3)(cid:181)(cid:73)(cid:82)(cid:79)(cid:79)(cid:82)(cid:90)(cid:3)(cid:87)(cid:75)(cid:85)(cid:82)(cid:88)(cid:74)(cid:75)(cid:182)(cid:3)(cid:73)(cid:85)(cid:82)(cid:80)(cid:3)(cid:68)(cid:3)(cid:83)(cid:85)(cid:72)(cid:89)(cid:76)(cid:82)(cid:88)(cid:86)(cid:3)(cid:72)(cid:85)(cid:85)(cid:82)(cid:85)(cid:3)(cid:76)(cid:86)(cid:3)(cid:68)(cid:79)(cid:79)(cid:82)(cid:90)(cid:72)(cid:71)(cid:12)
+CWO Correct Working Only
+ISW Ignore Subsequent Working
+SOI Seen Or Implied
+SC Special Case (detailing the mark to be given for a specific wrong solution, or a case where some standard marking practice is to be varied in the
+light of a particular circumstance)
+WWW Without Wrong Working
+AWRT Answer Which Rounds To
+© Cambridge University Press & Assessment 2024 Page 5 of 19
+9231/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2024
+PUBLISHED
+Question Answer Marks Guidance
+1 100 B1 100
+(cid:43)(cid:82)(cid:82)(cid:78)(cid:72)(cid:182)(cid:86)(cid:3)(cid:79)(cid:68)(cid:90)(cid:29)(cid:3)T (cid:32) x T (cid:32) (cid:11)r(cid:16)0.8(cid:12)
+0.8 0.8
+N2L: T (cid:32)2(cid:117)(cid:11)0.8(cid:14)x(cid:12)(cid:117)52 B1 T (cid:32)2(cid:117)r(cid:117)52
+Equate and solve: 50(cid:11)0.8(cid:14)x(cid:12)(cid:32)125x, x(cid:32)0.533 B1 8
+15
+3
+© Cambridge University Press & Assessment 2024 Page 6 of 19
+9231/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2024
+PUBLISHED
+Question Answer Marks Guidance
+2 1 5mg (cid:167) (cid:167)a(cid:183) 2 (cid:183) B1 Both terms seen.
+Extension when P comes to rest is x, EPE loss = (cid:117) (cid:117)(cid:168)(cid:168) (cid:184) (cid:16)x2(cid:184)
+2 a (cid:168) (cid:169)2(cid:185) (cid:184)
+(cid:169) (cid:185)
+1 5mg (cid:167) (cid:167)a(cid:183) 2 (cid:183) (cid:167)a (cid:183) M1 At least one EPE term and a GPE term,
+Energy: (cid:117) (cid:117)(cid:168)(cid:168) (cid:184) (cid:16)x2(cid:184)(cid:32)mg(cid:168) (cid:16)x(cid:184) dimensionally correct.
+2 a (cid:168) (cid:169)2(cid:185) (cid:184) (cid:169)2 (cid:185)
+(cid:169) (cid:185)
+Solve: 20x2(cid:16)8ax(cid:16)a2 (cid:32)0 M1 Obtain homogeneous quadratic equation in x and a
+Must come from an energy equation involving two
+EPE terms.
+Note that the correct case simplifies to a linear
+5mg(cid:167)a (cid:183)
+equation (cid:168) (cid:14)x(cid:184)(cid:32)mg and this scores M1.
+2a (cid:169)2 (cid:185)
+a 9 A1
+x(cid:32)(cid:16) , so distance of P below O is a
+10 10
+© Cambridge University Press & Assessment 2024 Page 7 of 19
+9231/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2024
+PUBLISHED
+Question Answer Marks Guidance
+2 Alternative method for question 2
+Distance of P below O when it comes to rest comes to rest is h B1
+EPE loss = =
+1
+(cid:117)
+5mg
+(cid:117)(cid:168)
+(cid:167)
+(cid:168)
+(cid:167)a
+(cid:184)
+(cid:183) 2 (cid:16)(cid:11)h(cid:16)a(cid:12)2
+(cid:184)
+(cid:183)
+2 a (cid:168) (cid:169)2(cid:185) (cid:184)
+(cid:169) (cid:185)
+Energy:
+1
+(cid:117)
+5mg
+(cid:117)
+(cid:167)
+(cid:168)
+(cid:167)
+(cid:168)
+a(cid:183)
+(cid:184)
+2 (cid:16)(cid:11)h(cid:16)a(cid:12)2 (cid:183)
+(cid:184)(cid:32)mg
+(cid:167)
+(cid:168)
+3
+a(cid:16)h
+(cid:183)
+(cid:184)
+M1 A
+di
+t
+m
+le
+e
+a
+n
+s
+s
+t
+i o
+o
+n
+n
+a
+e
+l l
+E
+y
+P
+c
+E
+o r
+t
+r
+e
+e
+r
+c
+m
+t.
+and a GPE term,
+2 a (cid:168) (cid:169)2(cid:185) (cid:184) (cid:169)2 (cid:185)
+(cid:169) (cid:185)
+20h2(cid:16)48ah(cid:14)27a2 (cid:32)0 M1 Obtain homogeneous quadratic/linear equation in
+h and a. Must come from an energy equation
+involving two EPE terms.
+9 A1
+(cid:11)10h(cid:16)9a(cid:12)(cid:11) 2h(cid:16)3a(cid:12)(cid:32)0, h(cid:32) a
+10
+4
+© Cambridge University Press & Assessment 2024 Page 8 of 19
+9231/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2024
+PUBLISHED
+Question Answer Marks Guidance
+3(a) PCLM along line of centres: (cid:16)mv(cid:32)m2ucos(cid:84)(cid:16)m3usin(cid:84) B1 Must include m, must have minus sign on RHS,
+accept positive or negative v.
+If velocity of B after collision is included, it must
+be equated to zero before this mark is awarded.
+NEL: v(cid:32)eu(cid:11)3sin(cid:84)(cid:14)2cos(cid:84)(cid:12) M1 Must have plus sign on RHS,
+accept positive or negative v (sign of v does not
+need to be consistent with PCLM equation)
+If velocity of B after collision is included, it must
+be equated to zero before this mark is awarded.
+4 A1 Correct work only, except possibly missing m.
+Eliminate v: 6sin(cid:84)(cid:32)8cos(cid:84), tan(cid:84)(cid:32)
+3
+3
+© Cambridge University Press & Assessment 2024 Page 9 of 19
+9231/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2024
+PUBLISHED
+Question Answer Marks Guidance
+3(b) Only change in KE is along line of centres M1
+Loss = 1 m (cid:11) (cid:11)2ucos(cid:84)(cid:12)2 (cid:14)(cid:11)3usin(cid:84)(cid:12)2(cid:12) (cid:16) 1 mv2
+2 2
+1 (cid:167)36 144 (cid:167)12 6(cid:183) 2(cid:183) 72 A1 (Note that tan(cid:84)(cid:32) 2 leads to final answer 36mu2)
+mu2(cid:168) (cid:14) (cid:16)(cid:168) (cid:16) (cid:184) (cid:184)(cid:32) mu2 3 13
+2 (cid:168)25 25 (cid:169) 5 5(cid:185) (cid:184) 25
+(cid:169) (cid:185)
+2
+Alternative method for question 3(b)
+Alternative method, using total KE M1
+1 1
+Loss in KE = [
+m(cid:11)2u(cid:12)2
+(cid:14)
+m(cid:11)3u(cid:12)2
+]
+2 2
+Or equivalent, with all necessary terms present
+(cid:16) (cid:170) (cid:171) 1 mv2 (cid:14) 1 m(cid:11)2usin(cid:84)(cid:12)2 (cid:14) 1 m(cid:11)3ucos(cid:84)(cid:12)2(cid:186) (cid:187)
+(cid:172)2 2 2 (cid:188)
+13 181 72 A1
+mu2(cid:16) mu2 (cid:32) mu2
+2 50 25
+2
+3(c) 6 8 M1
+[Components of velocity of A after collision are (cid:109) u (cid:112) u so] angle between
+5 5
+line of centres and A(cid:182)(cid:86)(cid:3)(cid:71)(cid:76)(cid:85)(cid:72)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:76)(cid:86)(cid:3)(cid:84).
+Angle of deflection = 180(cid:113) (cid:177) 2tan-1 4/3 = 73.7(cid:113) A1FT FT their answer to part (a)
+2
+© Cambridge University Press & Assessment 2024 Page 10 of 19
+9231/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2024
+PUBLISHED
+Question Answer Marks Guidance
+4(a) In this question, allow equivalent marks for resolutions in different directions and B1
+moments about other points. Apply the guidance given in the main scheme.
+(cid:110)Tcos(cid:84)(cid:14)F (cid:32)2W
+(cid:111)Tsin(cid:84)(cid:32)R B1
+Moments about A: M1 All relevant terms included, dimensionally correct,
+Tcos(cid:84)(cid:117)3asin(cid:84)(cid:14)Tsin(cid:84)(cid:117)3acos(cid:84)(cid:32)W(cid:117)3asin(cid:84)(cid:14)W(cid:117)kasin(cid:84) forces must be resolved if appropriate.
+Allow sin/cos mix, allow sign errors.
+LHS: any equivalent expression, for example
+3Tasin2(cid:84), 3Tasin(cid:11)180(cid:16)2(cid:84)(cid:12).
+OR
+All relevant terms included, dimensionally correct,
+Moments about C:
+forces must be resolved if appropriate.
+R(cid:117)3acos(cid:84)(cid:32)F(cid:117)3asin(cid:84)(cid:14)W(cid:117)(cid:11)ka(cid:16)3a(cid:12)sin(cid:84)
+Allow sin/cos mix, allow sign errors.
+T M1 1
+[6aTcos(cid:84)(cid:32)(cid:11)3(cid:14)k(cid:12)aW and (3cos(cid:84)(cid:14)sin(cid:84))(cid:32)2W give] (cid:62) and giveand give(cid:64) Use F (cid:32) R and eliminate T and W to obtain an
+3 3
+1 expression in k and (cid:84), dependent on a
+12cos(cid:84)(cid:32)(cid:11)3(cid:14)k(cid:12)(cos(cid:84)(cid:14) sin(cid:84))
+3 dimensionally correct moments equation.
+k(cid:32)5 A1
+5
+© Cambridge University Press & Assessment 2024 Page 11 of 19
+9231/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2024
+PUBLISHED
+Question Answer Marks Guidance
+4(b) A complete method to find F in terms of W M1 Any complete method to find F.
+For example, substitute into moments equation to
+2
+obtain T [T (cid:32) 13 W, R(cid:32)2W] .
+3
+2 A1 Correct.
+F (cid:32) W
+3
+2
+Question Answer Marks Guidance
+5(a)
+Use correct equation of trajectory:
+4
+a(cid:32)3a(cid:117)
+1
+(cid:16)
+g (cid:117)(cid:11)3a(cid:12)2
+(cid:117)
+(cid:167)
+(cid:168)1(cid:14)
+1(cid:183)
+(cid:184)
+M1 No (implied) sight of trajectory equation M0.
+5 3 2u2 (cid:169) 9(cid:185)
+4 5ga2 5ga 1 A1 At least one step of intermediate working must be
+a(cid:32)a(cid:16) , (cid:32) , u2 (cid:32)25ga seen.
+5 u2 u2 5
+AG
+2
+© Cambridge University Press & Assessment 2024 Page 12 of 19
+9231/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2024
+PUBLISHED
+Question Answer Marks Guidance
+5(b) For P, time of flight T and range R B1
+For Q, time of flight ½ T and range R
+(cid:170) 2usin(cid:84) (cid:186) 10a Time of flight for P or Q.
+(cid:171)
+T (cid:32) (cid:32)
+(cid:187)
+(cid:172) g (cid:188) g
+2 3 B1 Range for P.
+[From motion of P, R(cid:32) (cid:117)25ag(cid:117) (cid:32)] 1 5a
+g 10
+1 2R M1 Obtain an expression for vcos(cid:68). May involve u
+For Q: (cid:111)R(cid:32)vcos(cid:68)(cid:117) T, vcos(cid:68)(cid:32)
+2 T
+and (cid:84).
+2 M1 Obtain an expression for vsin(cid:68). May involve u
+1 1 (cid:167)1 (cid:183) 1
+(cid:110) 0(cid:32)vsin(cid:68)(cid:117) T(cid:16) g(cid:168) T(cid:184) , vsin(cid:68)(cid:32) gT and (cid:84).
+2 2 (cid:169)2 (cid:185) 4
+2 2 M1
+(cid:167)2R(cid:183) (cid:167)1 (cid:183) (cid:170) 5 (cid:186)
+Square and add: v2 (cid:32)(cid:168) (cid:184) (cid:14)(cid:168) gT(cid:184) (cid:171) (cid:32)90ag(cid:14) ag (cid:187)
+(cid:169) T (cid:185) (cid:169)4 (cid:185) (cid:172) 8 (cid:188)
+725 A1 1
+v2 (cid:32) ag gT
+8 tan(cid:68)(cid:32) 4 (cid:32) 1
+2R 12
+T
+© Cambridge University Press & Assessment 2024 Page 13 of 19
+9231/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2024
+PUBLISHED
+Question Answer Marks Guidance
+5(b) Alternative method for question 5(b)
+For P, time of flight T and range R M1
+For Q, time of flight ½ T and range R
+Horizontal motion for P and Q
+T
+R(cid:32)ucos(cid:84)T and R(cid:32)(vcos(cid:68))
+2 Both.
+Vertical motion for P and Q M1
+gT gT 1
+usin(cid:84)(cid:32) and vsin(cid:68)(cid:32) Both, may come from using s(cid:32)ut(cid:14) at2.
+2 4 2
+Equate two expressions for R: A1 6
+vcos(cid:68)(cid:32) u
+vcos(cid:68)(cid:32)2ucos(cid:84)
+10
+Equate two expressions for vertical motion: A1
+1 1
+vsin(cid:68)(cid:32) usin(cid:84) vsin(cid:68)(cid:32) u
+2 2 10
+(cid:167) 1 (cid:183) (cid:170) 29 (cid:186) M1
+Square and add: v2 (cid:32)u2 (cid:168)4cos2(cid:84)(cid:14) sin2(cid:84)(cid:184)
+(cid:171)
+(cid:32) u2
+(cid:187)
+(cid:169) 4 (cid:185) (cid:172) 8 (cid:188)
+29 725 A1
+(cid:117)25ag(cid:32) ag
+8 8
+6
+© Cambridge University Press & Assessment 2024 Page 14 of 19
+9231/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2024
+PUBLISHED
+Question Answer Marks Guidance
+6(a) For P to lowest point L: M1*
+1 1 Dimensionally correct, all terms present, allow
+Energy: mv2 (cid:32) mu2(cid:14)mga(cid:11)1(cid:16)cos(cid:84)(cid:12)
+sign errors, allow cos/sin error.
+2 2
+28
+[v2 (cid:32) ag(cid:16)2agcos(cid:84)]
+9
+From L to string goes slack: M1*
+4a
+1 1 4a
+Energy: mv2 (cid:32) mw2(cid:14) mg(cid:11)1(cid:14)cos(cid:84)(cid:12) Dimensionally correct, all terms present, with ,
+9
+2 2 9
+allow sign errors, allow cos/sin error.
+(cid:170) 20 26 (cid:186)
+w2 (cid:32) ag(cid:16) agcos(cid:84)
+(cid:171) (cid:187)
+(cid:172) 9 9 (cid:188)
+Both equations correct, allow unsimplified. A1
+mw2 B1
+4a
+When string goes slack: mgcos(cid:84)(cid:32)
+9
+Equate expressions for w2 to find a value for cos(cid:84) DM1
+2 A1
+cos(cid:84)(cid:32)
+3
+6
+© Cambridge University Press & Assessment 2024 Page 15 of 19
+9231/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2024
+PUBLISHED
+Question Answer Marks Guidance
+Alternative method for question 6(a)
+For P from start to string goes slack: M2 4
+Dimensionally correct, all terms present, with a
+9
+1 1 (cid:170) 4 (cid:186)
+Energy: mw2 (cid:32) mu2(cid:14)mga (cid:11)1(cid:16)cos(cid:84)(cid:12)(cid:16) (1(cid:14)cos(cid:84)) Allow sign errors, allow cos/sin error
+(cid:171) (cid:187)
+2 2 (cid:172) 9 (cid:188) 5 (cid:167) 4(cid:183)
+RHS may appear with a(cid:16) (cid:168) 1(cid:14) (cid:184) acos(cid:84)
+9 (cid:169) 9(cid:185)
+4
+Allow M1 if is missing or if an attempt at both
+9
+heights, but all other conditions are met.
+(cid:170) 10 (cid:167)5 13 (cid:183) 20 26 (cid:186) A1 Correct, allow unsimplified.
+(cid:171)
+w2 (cid:32) ag(cid:14)2ag(cid:168) (cid:16) cos(cid:84)(cid:184)(cid:32) ag(cid:16) agcos(cid:84)
+(cid:187)
+(cid:172) 9 (cid:169)9 9 (cid:185) 9 9 (cid:188)
+mw2 B1
+4a
+When string goes slack: mgcos(cid:84)(cid:32)
+9
+Equate expressions for w2 to find a value for cos(cid:84) DM1
+2 A1
+cos(cid:84)(cid:32)
+3
+6
+© Cambridge University Press & Assessment 2024 Page 16 of 19
+9231/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2024
+PUBLISHED
+Question Answer Marks Guidance
+6(b) mv2 M1 EITHER equation, dimensionally correct, allow
+Tension before: T (cid:16)mg(cid:32) sign error only
+1 a
+mv2
+Tension after: T (cid:16)mg(cid:32)
+2 4
+a
+9
+(cid:170) 16 (cid:186) 25 A1 EITHER tension correct
+v2 (cid:32) ag, T (cid:32) mg T (cid:32)5mg
+(cid:171) (cid:172) 9 (cid:187) (cid:188) 1 9 2
+Find the other tension (from a valid equation) and find ratio of tensions M1 mv2
+Equation must be of the form T (cid:16)mg (cid:32)
+r
+Ratio is 5 : 9 A1 5
+Any equivalent ratio, allow
+9
+4
+© Cambridge University Press & Assessment 2024 Page 17 of 19
+9231/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2024
+PUBLISHED
+Question Answer Marks Guidance
+7(a) dv B1 Use of suvat means 0 marks in this part
+m (cid:32)mg(cid:16)0.1mv2
+Note that no mg term means 0 marks in this part.
+dt
+dv
+Must see m, may be cancelled before a = used
+dt
+dv (cid:32)10(cid:16)0.1v2 (cid:32) 1 (cid:11) 100(cid:16)v2(cid:12) M1*
+dt 10
+dv 1
+(cid:32) dt
+100(cid:16)v2 10
+Separate variables and integrate. May see partial
+fractions, but integral is on Formula sheet,
+(cid:167)v(cid:14)10(cid:183) allow missing (cid:14)A for M1 only
+ln(cid:168) (cid:184) (cid:32)2t(cid:14)A
+(cid:169)10(cid:16)v(cid:185)
+A1 Must see modulus sign
+Use t(cid:32)0, v(cid:32)0, A(cid:32)0 DM1
+Remove logs to obtain v in terms of t M1
+10 (cid:11) e2t (cid:16)1 (cid:12) A1 10 (cid:11) 1(cid:16)e(cid:16)2t(cid:12)
+v(cid:32) aef v(cid:32)
+e2t (cid:14)1 1(cid:14)e(cid:16)2t
+6
+© Cambridge University Press & Assessment 2024 Page 18 of 19
+9231/32 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2024
+PUBLISHED
+Question Answer Marks Guidance
+7(b)
+v
+dv
+(cid:32)
+1 (cid:11) 100(cid:16)v2(cid:12) M1* Use of suvat means 0 marks in this part
+dx 10
+Separate variables and integrate, allow missing
+(cid:14)A for M1 only.
+1 (cid:11) (cid:12) 1
+(cid:16) ln 100(cid:16)v2 (cid:32) x(cid:14)B
+2 10
+A1 For A1, allow missing modulus sign
+1 DM1
+Use x(cid:32)0, v(cid:32)0, B(cid:32)(cid:16) ln100
+2
+Remove logs to obtain v2 in terms of x M1
+x A1 AEF
+(cid:16)
+v2 (cid:32)100(1(cid:16)e 5) Allow 10g instead of 100.
+5
+© Cambridge University Press & Assessment 2024 Page 19 of 19

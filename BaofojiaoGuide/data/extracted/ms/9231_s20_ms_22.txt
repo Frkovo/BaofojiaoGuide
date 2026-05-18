@@ -1,0 +1,1666 @@
+ 
+                                                              
+ 
+ 
+This document consists of 13 printed pages. 
+ 
+© UCLES 2020 
+ 
+[Turn over
+ 
+Cambridge International AS & A Level 
+ 
+FURTHER MATHEMATICS 
+9231/22 
+Paper 2 Further Pure Mathematics 2 
+May/June 2020 
+MARK SCHEME 
+Maximum Mark: 75 
+ 
+ 
+Published 
+ 
+ 
+Students did not sit exam papers in the June 2020 series due to the Covid-19 global pandemic. 
+ 
+This mark scheme is published to support teachers and students and should be read together with the 
+question paper. It shows the requirements of the exam. The answer column of the mark scheme shows the 
+proposed basis on which Examiners would award marks for this exam. Where appropriate, this column also 
+provides the most likely acceptable alternative responses expected from students. Examiners usually review 
+the mark scheme after they have seen student responses and update the mark scheme if appropriate. In the 
+June series, Examiners were unable to consider the acceptability of alternative responses, as there were no 
+student responses to consider. 
+ 
+Mark schemes should usually be read together with the Principal Examiner Report for Teachers. However, 
+because students did not sit exam papers, there is no Principal Examiner Report for Teachers for the June 
+2020 series.  
+ 
+Cambridge International will not enter into discussions about these mark schemes. 
+ 
+Cambridge International is publishing the mark schemes for the June 2020 series for most Cambridge 
+IGCSE™ and Cambridge International A & AS Level components, and some Cambridge O Level 
+components. 
+ 
+ 
+ 
+9231/22 
+Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2020 
+ 
+© UCLES 2020 
+Page 2 of 13 
+ 
+ 
+Generic Marking Principles 
+ 
+These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the 
+mark scheme or generic level descriptors for a question. Each question paper and mark scheme will also comply with these marking principles. 
+ 
+GENERIC MARKING PRINCIPLE 1: 
+Marks must be awarded in line with: 
+ 
+• 
+the specific content of the mark scheme or the generic level descriptors for the question 
+• 
+the specific skills defined in the mark scheme or in the generic level descriptors for the question 
+• 
+the standard of response required by a candidate as exemplified by the standardisation scripts. 
+GENERIC MARKING PRINCIPLE 2: 
+Marks awarded are always whole marks (not half marks, or other fractions). 
+GENERIC MARKING PRINCIPLE 3: 
+Marks must be awarded positively: 
+• 
+marks are awarded for correct/valid answers, as defined in the mark scheme. However, credit is given for valid answers which go beyond the scope of the 
+syllabus and mark scheme, referring to your Team Leader as appropriate 
+• 
+marks are awarded when candidates clearly demonstrate what they know and can do 
+• 
+marks are not deducted for errors 
+• 
+marks are not deducted for omissions 
+• 
+answers should only be judged on the quality of spelling, punctuation and grammar when these features are specifically assessed by the question as 
+indicated by the mark scheme. The meaning, however, should be unambiguous. 
+GENERIC MARKING PRINCIPLE 4: 
+Rules must be applied consistently e.g. in situations where candidates have not followed instructions or in the application of generic level descriptors. 
+GENERIC MARKING PRINCIPLE 5: 
+Marks should be awarded using the full range of marks defined in the mark scheme for the question (however; the use of the full mark range may be limited 
+according to the quality of the candidate responses seen). 
+GENERIC MARKING PRINCIPLE 6: 
+Marks awarded are based solely on the requirements as defined in the mark scheme. Marks should not be awarded with grade thresholds or grade descriptors in 
+mind. 
+ 
+ 
+9231/22 
+Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2020 
+ 
+© UCLES 2020 
+Page 3 of 13 
+ 
+ 
+Mathematics Specific Marking Principles 
+1 
+Unless a particular method has been specified in the question, full marks may be awarded for any correct method. However, if a calculation is required 
+then no marks will be awarded for a scale drawing. 
+2 
+Unless specified in the question, answers may be given as fractions, decimals or in standard form. Ignore superfluous zeros, provided that the degree of 
+accuracy is not affected. 
+3 
+Allow alternative conventions for notation if used consistently throughout the paper, e.g. commas being used as decimal points. 
+4 
+Unless otherwise indicated, marks once gained cannot subsequently be lost, e.g. wrong working following a correct form of answer is ignored (isw). 
+5 
+Where a candidate has misread a number in the question and used that value consistently throughout, provided that number does not alter the difficulty or 
+the method required, award all marks earned and deduct just 1 mark for the misread. 
+6 
+Recovery within working is allowed, e.g. a notation error in the working where the following line of working makes the candidate’s intent clear. 
+ 
+ 
+ 
+ 
+ 
+9231/22 
+Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2020 
+ 
+© UCLES 2020 
+Page 4 of 13 
+ 
+ 
+Mark Scheme Notes 
+ 
+ 
+The following notes are intended to aid interpretation of mark schemes in general, but individual mark schemes may include marks awarded for specific reasons 
+outside the scope of these notes. 
+ 
+Types of mark 
+ 
+M 
+Method mark, awarded for a valid method applied to the problem. Method marks are not lost for numerical errors, algebraic slips or errors in units. 
+However, it is not usually sufficient for a candidate just to indicate an intention of using some method or just to quote a formula; the formula or idea 
+must be applied to the specific problem in hand, e.g. by substituting the relevant quantities into the formula. Correct application of a formula 
+without the formula being quoted obviously earns the M mark and in some cases an M mark can be implied from a correct answer. 
+ 
+A 
+Accuracy mark, awarded for a correct answer or intermediate step correctly obtained. Accuracy marks cannot be given unless the associated method 
+mark is earned (or implied). 
+ 
+B 
+ 
+Mark for a correct result or statement independent of method marks. 
+ 
+DM or DB  
+When a part of a question has two or more “method” steps, the M marks are generally independent unless the scheme specifically says otherwise; 
+and similarly, when there are several B marks allocated. The notation DM or DB is used to indicate that a particular M or B mark is dependent on 
+an earlier M or B (asterisked) mark in the scheme. When two or more steps are run together by the candidate, the earlier marks are implied and full 
+credit is given. 
+ 
+FT   
+Implies that the A or B mark indicated is allowed for work correctly following on from previously incorrect results. Otherwise, A or B marks are 
+given for correct work only.  
+ 
+ 
+ 
+9231/22 
+Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2020 
+ 
+© UCLES 2020 
+Page 5 of 13 
+ 
+ 
+Abbreviations 
+ 
+AEF/OE Any Equivalent Form (of answer is equally acceptable) / Or Equivalent 
+ 
+AG  
+Answer Given on the question paper (so extra checking is needed to ensure that the detailed working leading to the result is valid) 
+ 
+CAO  
+Correct Answer Only (emphasising that no “follow through” from a previous error is allowed) 
+ 
+CWO  
+Correct Working Only  
+ 
+ISW 
+Ignore Subsequent Working 
+ 
+SOI  
+Seen Or Implied 
+ 
+SC  
+Special Case (detailing the mark to be given for a specific wrong solution, or a case where some standard marking practice is to be varied in the 
+light of a particular circumstance) 
+ 
+WWW 
+Without Wrong Working 
+ 
+AWRT  
+Answer Which Rounds To 
+ 
+ 
+9231/22 
+Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2020 
+ 
+© UCLES 2020 
+Page 6 of 13 
+ 
+ 
+Question 
+Answer 
+Marks 
+1 
+5d
+5
+e
+e
+=
+³
+x
+x  
+M1 A1 
+ 
+(
+)
+5
+2
+d
+e
+e
+d
+−
+=
+x
+x
+y
+x
+ 
+M1 
+ 
+5
+2
+1
+2
+e
+e−
+= −
++
+x
+x
+y
+C  
+A1 
+ 
+1
+2
+0 = −+ C  
+M1 
+ 
+5
+7
+1
+1
+2
+2
+e
+e
+−
+−
+=
+−
+x
+x
+y
+ 
+A1 
+ 
+ 
+6 
+Question 
+Answer 
+Marks 
+2(a) 
+1 d
+ln
+ln 2
+ln 2
+d
+=
+
+=
+y
+y
+x
+y x
+ 
+M1 A1 
+ 
+d
+ln2
+2 ln2
+d =
+=
+x
+y
+y
+x
+ AG 
+A1 
+ 
+ 
+3 
+2(b) 
+(
+)
+2
+2
+2
+d
+2
+ln2
+d
+=
+x
+y
+x
+ 
+B1 
+ 
+1 
+9231/22 
+Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2020 
+ 
+© UCLES 2020 
+Page 7 of 13 
+ 
+ 
+Question 
+Answer 
+Marks 
+2(c) 
+(
+)
+2
+(0)
+1,
+'(0)
+ln2,
+''(0)
+ln 2
+=
+=
+=
+y
+y
+y
+ 
+B1 
+ 
+(
+)
+(
+)
+2
+2
+2
+ln 2
+''(0)
+2
+(0)
+'(0)
+1
+ln 2
+2!
+2
+=
++
++
++
+= +
++
++
+!
+!
+x
+y
+y
+y
+x
+x
+x
+x
+ 
+M1 A1 
+ 
+ 
+3 
+Question 
+Answer 
+Marks 
+3(a) 
+5
+1
+2
+4i ʌ
+3
+1 i
+2 e
+z = −−=
+ 
+B1 
+ 
+1
+5
+6
+12
+i
+ʌ
+1
+2 e
+z =
+ 
+M1 A1 
+ 
+1
+13
+6
+12
+i
+2
+2 e
+π
+=
+z
+, 
+1
+21
+6
+12
+i
+ʌ
+3
+2 e
+z =
+ 
+A1 A1 
+ 
+ 
+5 
+3(b) 
+(
+)
+5
+1
+2
+4i
+ʌ
+3
+3
+3
+1
+2
+3
+3 2
+e
+k
+k
+k
+k
+k
+z
+z
+z
++
++
+=
+ 
+M1 
+ 
+(
+)
+1
+2
+|
+| 3 2
+=
+=
+k
+R
+w
+ 
+A1 
+ 
+5
+4 ʌ
+k
+α =
+ 
+A1 
+ 
+ 
+3 
+9231/22 
+Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2020 
+ 
+© UCLES 2020 
+Page 8 of 13 
+ 
+ 
+Question 
+Answer 
+Marks 
+4(a) 
+( )( )
+( )( )
+( )(
+)
+( )( )
+1
+2
+2
+2
+2
+2
+1
+1
+1
+1
+2
+1
+1
+0
+d
+−
+<
++
++
++
++
+³
+"
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+x
+x
+  
+M1 A1 
+ 
+2
+2
+3
+3
+2
+1
+1
+(
+1)(2
+1)
+2
+3
+1
+6
+6
+n
+r
+n n
+n
+n
+n
+r
+n
+n
+n
+=
++
++
++
++
+=
+=
+¦
+ 
+M1 A1 
+ 
+ 
+4 
+4(b) 
+( )( )
+( )( )
+( )(
+)
+1
+2
+2
+2
+2
+1
+1
+1
+1
+2
+1
+0
+d
+−
+>
++
++
++
+³
+"
+n
+n
+n
+n
+n
+n
+n
+x
+x
+ 
+M1 A1 
+ 
+1
+2
+2
+3
+3
+2
+1
+1
+(
+1)( )(2
+2
+1)
+2
+3
+1
+6
+6
+−
+=
+−
+−
++
+−
++
+=
+=
+=
+¦
+n
+r
+n
+n
+n
+n
+n
+r
+n
+n
+n
+ 
+M1 A1 
+ 
+ 
+4 
+Question 
+Answer 
+Marks 
+5(a) 
+1
+2
+cosh
+2sinh cosh
+sinh
+=
+
+=
+a
+a
+a
+a
+ 
+M1 A1 
+ 
+(
+)
+1
+1
+1
+2
+2
+1
+4
+sinh
+ln
+1
+−
+=
+=
++
++
+a
+ 
+M1 
+ 
+(
+)
+1
+1
+2
+2
+ln
+5
+=
++
+√
+a
+ 
+A1 
+ 
+ 
+4 
+9231/22 
+Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2020 
+ 
+© UCLES 2020 
+Page 9 of 13 
+ 
+ 
+Question 
+Answer 
+Marks 
+5(b) 
+ 
+ 
+(B1 for C1 correct, B1 for C2 correct and intersecting C1 in the first quadrant) 
+B1 
+B1 
+ 
+ 
+2 
+5(c) 
+2
+0 1
+sinh
+d
++
+³
+a
+x x  
+M1 
+ 
+2
+0
+0
+cosh
+d
+cosh
+d
+=
+³
+³
+a
+a
+x x
+x x  
+M1 A1 
+ 
+[
+]0
+sinh
+sinh
+a
+x
+a
+=
+ 
+M1 
+ 
+1
+2  
+A1 
+ 
+ 
+5 
+9231/22 
+Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2020 
+ 
+© UCLES 2020 
+Page 10 of 13 
+ 
+ 
+Question 
+Answer 
+Marks 
+6(a) 
+(
+)
+1
+1
+2
+2
+1
+2
+2
+1
+1
+0
+6
+0
+1
+1
+d
+sin
+ʌ
+I
+x
+x
+x
+−
+−
+ª
+º
+=
+−
+=
+=
+¬
+¼
+³
+ 
+M1 A1 
+ 
+2 
+6(b) 
+(
+)
+(
+)
+(
+)
+1
+1
+1
+2
+2
+2
+2
+2
+2
+2
+1
+d
+1
+1
+1
+d
+−
+−
+−
+−
+§
+·
+−
+=
+−
++
+−
+¨
+¸
+©
+¹
+n
+n
+n
+x
+x
+nx
+x
+x
+x
+ 
+M1 A1 
+ 
+(
+)
+(
+)(
+)
+(
+)
+1
+1
+2
+2
+1
+2
+2
+2
+1
+1
+1
+1
+−
+−
+−
+=
+−
+−
+−
++
+−
+n
+n
+n
+x
+x
+x
+ 
+M1 
+ 
+(
+)
+1
+1
+2
+2
+2
+2
+0
+1
++
+−
+ª
+º
+−
+=
+−
++
+«
+»
+¬
+¼
+n
+n
+n
+n
+x
+x
+nI
+nI
+I  
+M1 
+ 
+( )
+1
+2
+1
+2
+3
+1
+2
+2
+4
+1
+2
+(
+1)
+2
+3
+(
+1)
+−
++
+−
+−
++
+=
+−
+−
+
+=
++
+−
+n
+n
+n
+n
+n
+n
+n
+nI
+n
+I
+nI
+n
+I
+ 
+A1 
+ 
+ 
+5 
+6(c) 
+1
+2
+3
+3
+−
+=
+I
+ 
+B1 
+ 
+3
+2
+5
+10
+7
+2
+3
+2
+5
+3
+2 3
+2
+3
+−
+=
++
+
+=
+√
+I
+I
+I
+ 
+M1 A1 
+ 
+ 
+3 
+9231/22 
+Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2020 
+ 
+© UCLES 2020 
+Page 11 of 13 
+ 
+ 
+Question 
+Answer 
+Marks 
+7(a) 
+3
+2
+d
+d
+3
+d
+d
+=
++
+x
+y
+t
+t y
+t
+t
+ 
+B1 
+ 
+2
+2
+3
+2
+2
+2
+d
+d
+d
+6
+6
+d
+d
+d
+=
++
++
+x
+y
+y
+t
+t
+ty
+t
+t
+t
+ 
+B1 
+ 
+2
+2
+3
+2
+3
+2
+3
+2
+2
+d
+d
+d
+d
+d
+4
+13
+6
+6
+4
+12
+13
+d
+d
+d
+d
+d
++
++
+=
++
++
++
++
++
+x
+x
+y
+y
+y
+x
+t
+t
+ty
+t
+t y
+t y
+t
+t
+t
+t
+t
+1
+2
+61e
+=
+t  
+M1 A1 
+ 
+ 
+4 
+7(b) 
+2
+4
+13
+0
+2
+3
++
++
+=
+
+= −±
+m
+m
+m
+i  
+M1 
+ 
+(
+)
+2
+e
+cos3
+sin3
+−
+=
++
+t
+x
+A
+t
+B
+t  
+A1 
+ 
+1
+1
+1
+2
+2
+2
+1
+1
+2
+4
+e
+e
+e
+=
+
+=
+
+=
+
+
+t
+t
+t
+x
+k
+x
+k
+x
+k
+ 
+B1 
+ 
+1
+4
+2
+13
+61
+4
++
++
+=
+
+=
+k
+k
+k
+k
+ 
+M1 A1 
+ 
+(
+)
+(
+)
+1
+1
+2
+2
+3
+2
+3
+2
+3
+e
+cos3
+sin3
+4e
+e
+cos3
+sin3
+4
+e
+−
+−
+−
+−
+=
++
++
+
+=
++
++
+t
+t
+t
+t
+t y
+A
+t
+B
+t
+y
+t
+A
+t
+B
+t
+t
+ 
+M1 A1 
+ 
+ 
+7 
+9231/22 
+Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2020 
+ 
+© UCLES 2020 
+Page 12 of 13 
+ 
+ 
+Question 
+Answer 
+Marks 
+8(a) 
+(
+) (
+)
+2
+3
+1
+1
+6
+1
+0
+3
+12
+2
+0
+0
+2
+−
+=
+
+−
++
+−−
++
+=
+−
+a
+a
+a
+a
+a
+ 
+M1 
+ 
+2
+5
+36
+0
+4, 9
++
+−
+=
+
+=
+−
+a
+a
+a
+ 
+M1 A1 
+ 
+ 
+3 
+8(b) 
+3
+2
+3)(
+6)(
+2
+0
+(
+7
+36
+)
+λ
+λ
+λ
+λ
+λ
+−
+−
++
++
+=
+=
+−
+ 
+B1 
+ 
+(
+)
+2
+2
+3
+1
+36
+7
+36
+7
+−
+=
+−
+
+=
+−
+I
+A
+A
+A
+I
+A  
+M1 
+ 
+(
+)
+2
+1
+4
+1
+1
+1
+0
+1
+1
+36 0
+0
+9
+−
+−
+−
+§
+·
+¨
+¸
+=
+¨
+¸
+¨
+¸
+©
+¹
+A
+ 
+M1 A1 
+ 
+ 
+4 
+9231/22 
+Cambridge International AS & A Level – Mark Scheme 
+PUBLISHED 
+May/June 2020 
+ 
+© UCLES 2020 
+Page 13 of 13 
+ 
+ 
+Question 
+Answer 
+Marks 
+8(c) 
+Eigenvalues of A are 3, 6  and 2
+−. 
+B1 
+ 
+4
+1
+Ȝ
+3:
+0
+1
+1
+0
+0
+0
+3
+1
+0
+0
+−
+§
+·
+§ ·
+¨
+¸
+¨ ¸
+=
+= ¨
+¸
+¨ ¸
+¨
+¸
+¨ ¸
+−
+©
+¹
+© ¹
+i
+j
+k
+
+ 
+M1 A1 
+ 
+1
+6:
+3
+1
+1
+3
+0
+0
+1
+0
+λ
+−
+§
+·
+¨
+¸
+=
+−
+= −
+¨
+¸
+¨
+¸
+−
+©
+¹
+i
+j
+k
+     
+9
+2:
+5
+1
+1
+5
+0
+8
+1
+40
+λ
+−
+§
+·
+¨
+¸
+= −
+= ¨
+¸
+¨
+¸
+−
+©
+¹
+i
+j
+k
+ 
+A1 A1 
+ 
+Thus 
+1
+1
+9
+0
+3
+5
+0
+0
+40
+−
+§
+·
+¨
+¸
+= ¨
+¸
+¨
+¸
+©
+¹
+P
+ and 
+243
+0
+0
+0
+7776
+0
+0
+0
+32
+§
+·
+¨
+¸
+= ¨
+¸
+¨
+¸
+−
+©
+¹
+D
+ or 
+5
+5
+5
+3
+0
+0
+0
+6
+0
+0
+0
+2
+§
+·
+¨
+¸
+= ¨
+¸
+¨
+¸
+¨
+¸
+−
+©
+¹
+D
+ 
+M1 A1 
+ 
+ 
+7 
+ 
+ 

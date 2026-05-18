@@ -1,0 +1,29 @@
+@import 'katex/dist/katex.min.css';
+
+:root {
+  --ifm-color-primary: #c0392b;
+  --ifm-color-primary-dark: #ad3326;
+  --ifm-color-primary-darker: #a33024;
+  --ifm-color-primary-darkest: #86281d;
+  --ifm-color-primary-light: #d34030;
+  --ifm-color-primary-lighter: #d54a3b;
+  --ifm-color-primary-lightest: #db6457;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #e74c3c;
+  --ifm-color-primary-dark: #d9362a;
+  --ifm-color-primary-darker: #ce3327;
+  --ifm-color-primary-darkest: #aa2a20;
+  --ifm-color-primary-light: #eb6456;
+  --ifm-color-primary-lighter: #ed7063;
+  --ifm-color-primary-lightest: #f1948a;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+.hero--primary {
+  --ifm-hero-background-color: var(--ifm-color-primary);
+  --ifm-hero-text-color: #ffffff;
+}

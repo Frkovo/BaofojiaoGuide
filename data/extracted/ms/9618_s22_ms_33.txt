@@ -1,0 +1,398 @@
+©
+UCLES
+2022
+[Turn
+over
+This
+document
+consists
+of
+11
+printed
+pages.
+Cambridge
+O
+Level
+components.
+Cambridge
+IGCSE,
+Cambridge
+International
+A
+and
+AS
+Level
+and
+Cambridge
+Pre-U
+components,
+and
+some
+Cambridge
+International
+is
+publishing
+the
+mark
+schemes
+for
+the
+May/June
+2022
+series
+for
+most
+Cambridge
+International
+will
+not
+enter
+into
+discussions
+about
+these
+mark
+schemes.
+Teachers. Mark
+schemes
+should
+be
+read
+in
+conjunction
+with
+the
+question
+paper
+and
+the
+Principal
+Examiner
+Report
+for
+considered
+the
+acceptability
+of
+alternative
+answers.
+details
+of
+the
+discussions
+that
+took
+place
+at
+an
+Examiners’
+meeting
+before
+marking
+began,
+which
+would
+have
+examination.
+It
+shows
+the
+basis
+on
+which
+Examiners
+were
+instructed
+to
+award
+marks.
+It
+does
+not
+indicate
+the
+This
+mark
+scheme
+is
+published
+as
+an
+aid
+to
+teachers
+and
+candidates,
+to
+indicate
+the
+requirements
+of
+the
+Published
+Maximum
+Mark:
+75
+MARK
+SCHEME
+Paper
+33
+Advanced
+Theory
+May/June
+2022
+COMPUTER
+SCIENCE
+9618/33
+Cambridge
+International
+AS
+&
+A
+Level
+9618/33 Cambridge International AS & A Level – Mark Scheme May/June 2022
+PUBLISHED
+Generic Marking Principles
+These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the
+specific content of the mark scheme or generic level descriptors for a question. Each question paper and mark scheme will also comply with these
+marking principles.
+GENERIC MARKING PRINCIPLE 1:
+Marks must be awarded in line with:
+(cid:120) the specific content of the mark scheme or the generic level descriptors for the question
+(cid:120) the specific skills defined in the mark scheme or in the generic level descriptors for the question
+(cid:120) the standard of response required by a candidate as exemplified by the standardisation scripts.
+GENERIC MARKING PRINCIPLE 2:
+Marks awarded are always whole marks (not half marks, or other fractions).
+GENERIC MARKING PRINCIPLE 3:
+Marks must be awarded positively:
+(cid:120) marks are awarded for correct/valid answers, as defined in the mark scheme. However, credit is given for valid answers which go beyond the
+scope of the syllabus and mark scheme, referring to your Team Leader as appropriate
+(cid:120) marks are awarded when candidates clearly demonstrate what they know and can do
+(cid:120) marks are not deducted for errors
+(cid:120) marks are not deducted for omissions
+(cid:120) answers should only be judged on the quality of spelling, punctuation and grammar when these features are specifically assessed by the
+question as indicated by the mark scheme. The meaning, however, should be unambiguous.
+GENERIC MARKING PRINCIPLE 4:
+Rules must be applied consistently, e.g. in situations where candidates have not followed instructions or in the application of generic level
+descriptors.
+© UCLES 2022 Page 2 of 11
+9618/33 Cambridge International AS & A Level – Mark Scheme May/June 2022
+PUBLISHED
+GENERIC MARKING PRINCIPLE 5:
+Marks should be awarded using the full range of marks defined in the mark scheme for the question (however; the use of the full mark range may
+be limited according to the quality of the candidate responses seen).
+GENERIC MARKING PRINCIPLE 6:
+Marks awarded are based solely on the requirements as defined in the mark scheme. Marks should not be awarded with grade thresholds or
+grade descriptors in mind.
+© UCLES 2022 Page 3 of 11
+9618/33 Cambridge International AS & A Level – Mark Scheme May/June 2022
+PUBLISHED
+Question Answer Marks
+1(a) LibraryBook.Title (cid:109) "A Level Computer Science" 2
+LibraryBook.Fiction (cid:109) FALSE
+1(b)(i) DECLARE NumberOfCopies : 1 .. 10 1
+1(b)(ii) DECLARE AccessionNumber : ARRAY[1:NumberOfCopies] OF INTEGER 2
+1(c) Any two from 3
+(cid:120) A data type constructed by a programmer // not a primitive data type
+(cid:120) A data type that references at least one other data type…
+(cid:120) … the data types can be primitive, or user defined
+One mark for an example
+(cid:120) Class / object / set
+Question Answer Marks
+2(a) type(caracal, wild). 2
+hair(caracal, short).
+2(b) persian 1
+2(c)(i) type(Pet, domestic). 1
+2(c)(ii) spots(WildSpotty, yes) 2
+,type(WildSpotty, wild).
+© UCLES 2022 Page 4 of 11
+9618/33 Cambridge International AS & A Level – Mark Scheme May/June 2022
+PUBLISHED
+Question Answer Marks
+3 Circuit switching max four marks 8
+Any two from
+(cid:120) a dedicated circuit
+(cid:120) circuit is established before transmission starts //
+circuit is released after transmission ends
+(cid:120) data is transferred using the whole bandwidth
+(cid:120) all data is transferred over the same route
+Two from
+(cid:120) Advantage – data /frames arrive in order and do not need to be reassembled
+(cid:120) Disadvantage – nobody else can use the same circuit even if it is idle //less secure as only one route used
+Packet switching max four marks
+Any two from
+(cid:120) data is split into packets
+(cid:120) each packet is given its own route
+(cid:120) the routing for a packet depends on the congestion
+(cid:120) packets may not arrive in the order sent
+Two from
+(cid:120) Advantage – packets can be rerouted if there are problems// more secure as harder to intercept messages
+(cid:120) Disadvantage – time taken to reassemble packets at the destination
+© UCLES 2022 Page 5 of 11
+9618/33 Cambridge International AS & A Level – Mark Scheme May/June 2022
+PUBLISHED
+Question Answer Marks
+4(a) RISC max 2 any two from: 4
+(cid:120) Uses simple instructions
+(cid:120) Uses fixed length instructions
+(cid:120) Instructions only require one clock cycle
+(cid:120) Uses many registers
+(cid:120) Makes use of pipelining
+(cid:120) Hardwired CU
+CISC max 2 any two from:
+(cid:120) Uses many instruction formats
+(cid:120) Uses variable length instructions
+(cid:120) Makes use of different addressing modes
+(cid:120) Uses few registers
+(cid:120) Has a large instruction set
+(cid:120) Requires complex circuits
+(cid:120) Frequently uses cache
+(cid:120) Instructions (converted to sub-instructions that) may require many clock cycles
+(cid:120) Programmable CU
+4(b) One mark for each difference max 2 from: 2
+(cid:120) RISC has fewer instructions // CISC has more instructions
+(cid:120) RISC has many registers // CISC has few registers
+(cid:120) RISC’s instructions are simpler // CISC’s instructions are more complex
+(cid:120) RISC has a few instruction formats / CISC has many instruction formats
+(cid:120) RISC usually uses single-cycle instructions// CISC uses multi-cycle instructions
+(cid:120) RISC uses fixed-length instructions // CISC uses variable-length instructions
+(cid:120) RISC has better pipelineability // CISC has poorer pipelineability
+(cid:120) RISC requires less complex circuits// CISC requires more complex circuits
+(cid:120) RISC has fewer addressing modes // CISC has more addressing modes
+(cid:120) RISC makes more use of RAM// CISC makes more use of cache/less use of RAM
+(cid:120) RISC has a hard-wired control unit // CISC has a programmable control unit
+(cid:120) RISC only uses load and store instructions to address memory // CISC has many types of instructions to address
+memory
+© UCLES 2022 Page 6 of 11
+9618/33 Cambridge International AS & A Level – Mark Scheme May/June 2022
+PUBLISHED
+Question Answer Marks
+5(a) One mark for each in order jk+jk-/ 2
+jk+
+jk-/
+5(b)(i) 1 mark per ring 4
+Do not allow operators in stacks
+2
+3 3 6
+10 10 10 10 4
+10 10 10 10 10 10 40
+5(b)(ii) Any four from Max 4 4
+Max 3 generic answer only
+(cid:120) Working from left to right in the expression
+(cid:120) PUSH 10/m onto the stack
+(cid:120) PUSH the following numbers (10/m, 3/j, 2/k) onto the stack
+(cid:120) When the first operator ,*, is reached
+(cid:120) … POP the top two numbers, 2/k and 3/j
+(cid:120) … apply the operation
+(cid:120) PUSH result back onto stack
+(cid:120) Continue to the end of the expression
+5(c) Any two from 2
+(cid:120) recursion
+(cid:120) implementation of ADTs e.g. linked lists
+(cid:120) procedure calls
+(cid:120) interrupt handling (storing contents of registers etc)
+© UCLES 2022 Page 7 of 11
+9618/33 Cambridge International AS & A Level – Mark Scheme May/June 2022
+PUBLISHED
+Question Answer Marks
+6 Two marks each benefit description max 4 6
+New system can be tried on different virtual hardware (1)
+without need to purchase the hardware (1)
+Easier to recover if software emulating the new computer causes system crash (1) as VM provides protection to other
+software (1)
+Emulate programs for the new computer system that are not compatible with the host computer / operating system (1) by
+using the guest operating system on the old computer (1)
+More than one new computer system can be emulated (1) this allows multiple operating systems to coexist on a single
+computer(1)
+Two marks each limitation description max 2 from:
+Virtual machines may not be able to emulate the new hardware (1) because this hardware may have been developed since
+the virtual machine was developed (1)
+Using virtual machine means execution of extra code // A virtual machine might not be as efficient // resources e.g. memory
+or processor time are shared (1) processing time increased // performance degrades (1)
+Use of a virtual machine increases the maintenance overheads (1) because both host system and the virtual machine must
+be maintained (1)
+© UCLES 2022 Page 8 of 11
+9618/33 Cambridge International AS & A Level – Mark Scheme May/June 2022
+PUBLISHED
+Question Answer Marks
+7(a) 1 mark per point 5
+Acrylic has attribute Soft of type BOOLEAN
+Wool has attribute WoolType with suitable data type
+Acrylic and Wool have method YarnInfo()
+Acrylic, Wool and Mix at least one inherit (one arrow correct) from Yarn …
+… Acrylic, Wool and Mix all inherit (all arrows correct) from Yarn
+Yarn
+Name: STRING
+Colour: STRING
+BatchCode: STRING
+Weight: INTEGER
+NumberBalls: INTEGER
+Type: STRING
+Constructor()
+EditNumberBalls()
+YarnInfo()
+Acrylic Wool Mix
+WoolType: STRING Percentage: INTEGER
+Soft: BOOLEAN
+Constructor() Constructor()
+Constructor() YarnInfo() YarnInfo()
+YarnInfo()
+© UCLES 2022 Page 9 of 11
+9618/33 Cambridge International AS & A Level – Mark Scheme May/June 2022
+PUBLISHED
+Question Answer Marks
+7(b) Properties max 2: 6
+(cid:120) the data items / attributes
+(cid:120) the data types // characteristics
+(cid:120) defined in a class
+Methods max 2:
+(cid:120) the procedures/ functions / programmed instructions in a
+class / super class / base class
+(cid:120) … implementing the behaviours
+(cid:120) … that act on the properties / attributes
+Inheritance max 2:
+(cid:120) Methods and properties / attributes contained in one class/ super class / base class
+(cid:120) Are made available to / reused by another class/ derived class
+Question Answer Marks
+8(a)(i) Any two from 2
+(cid:120) To ensure the message is authentic // came from a trusted source
+(cid:120) To ensure that only the intended receiver is able to understand the message
+(cid:120) To ensure the message has not been altered during transmission
+(cid:120) Non-repudiation, neither the sender or receiver can deny the transmission occurred
+8(a)(ii) Symmetric 2
+Asymmetric
+8(b)(i) Any two from 2
+(cid:120) Any eavesdropping can be identified (as the state will be changed)
+(cid:120) Integrity of the key once transferred can be guaranteed (cannot be copied and decrypted at a later date)
+(cid:120) Longer/more secure keys can be exchanged
+8(b)(ii) Any two from 2
+(cid:120) Limited range
+(cid:120) requires dedicated fibre (optic) line and specialist hardware
+(cid:120) cost of dedicated fibre (optic) line and specialist hardware is expensive
+(cid:120) polarisation of light may be altered whilst travelling down fibre optic cables
+© UCLES 2022 Page 10 of 11
+9618/33 Cambridge International AS & A Level – Mark Scheme May/June 2022
+PUBLISHED
+Question Answer Marks
+9(a) LDM #500: Immediate 500 3
+LDD 500: Direct 100
+LDI 500: Indirect 20
+9(b) 7
+Instruction
+Label Opcode Operand
+LDM #20
+STO Twenty
+LDI Y
+ADD Twenty
+STO Z
+Twenty: #20
+Y:
+Z:
+One mark for LDM #20 seen
+One mark for storing 20 at any address
+One mark for labelling that address e.g. Twenty away from the program code
+One mark for labelling addresses away from the program code as Y and Z
+One mark for correct use of LDI Y
+One mark for correct use of STO Z
+One mark for correct use of ADD with labelled address
+© UCLES 2022 Page 11 of 11

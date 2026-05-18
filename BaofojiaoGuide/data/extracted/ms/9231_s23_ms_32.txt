@@ -1,0 +1,538 @@
+©
+UCLES
+2023
+[Turn
+over
+This
+document
+consists
+of
+15
+printed
+pages.
+Cambridge
+O
+Level
+components.
+Cambridge
+IGCSE,
+Cambridge
+International
+A
+and
+AS
+Level
+and
+Cambridge
+Pre-U
+components,
+and
+some
+Cambridge
+International
+is
+publishing
+the
+mark
+schemes
+for
+the
+May/June
+2023
+series
+for
+most
+Cambridge
+International
+will
+not
+enter
+into
+discussions
+about
+these
+mark
+schemes.
+Teachers. Mark
+schemes
+should
+be
+read
+in
+conjunction
+with
+the
+question
+paper
+and
+the
+Principal
+Examiner
+Report
+for
+considered
+the
+acceptability
+of
+alternative
+answers.
+details
+of
+the
+discussions
+that
+took
+place
+at
+an
+Examiners’
+meeting
+before
+marking
+began,
+which
+would
+have
+examination.
+It
+shows
+the
+basis
+on
+which
+Examiners
+were
+instructed
+to
+award
+marks.
+It
+does
+not
+indicate
+the
+This
+mark
+scheme
+is
+published
+as
+an
+aid
+to
+teachers
+and
+candidates,
+to
+indicate
+the
+requirements
+of
+the
+Published
+Maximum
+Mark:
+50
+MARK
+SCHEME
+Paper
+3
+Further
+Mechanics
+32
+May/June
+2023
+FURTHER
+MATHEMATICS
+9231/32
+Cambridge
+International
+AS
+&
+A
+Level
+9231/32 Cambridge International AS & A Level – Mark Scheme May/June 2023
+PUBLISHED
+Generic Marking Principles
+These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the specific content of the
+mark scheme or generic level descriptors for a question. Each question paper and mark scheme will also comply with these marking principles.
+GENERIC MARKING PRINCIPLE 1:
+Marks must be awarded in line with:
+(cid:120) the specific content of the mark scheme or the generic level descriptors for the question
+(cid:120) the specific skills defined in the mark scheme or in the generic level descriptors for the question
+(cid:120) the standard of response required by a candidate as exemplified by the standardisation scripts.
+GENERIC MARKING PRINCIPLE 2:
+Marks awarded are always whole marks (not half marks, or other fractions).
+GENERIC MARKING PRINCIPLE 3:
+Marks must be awarded positively:
+(cid:120) marks are awarded for correct/valid answers, as defined in the mark scheme. However, credit is given for valid answers which go beyond the scope of the
+syllabus and mark scheme, referring to your Team Leader as appropriate
+(cid:120) marks are awarded when candidates clearly demonstrate what they know and can do
+(cid:120) marks are not deducted for errors
+(cid:120) marks are not deducted for omissions
+(cid:120) answers should only be judged on the quality of spelling, punctuation and grammar when these features are specifically assessed by the question as
+indicated by the mark scheme. The meaning, however, should be unambiguous.
+GENERIC MARKING PRINCIPLE 4:
+Rules must be applied consistently, e.g. in situations where candidates have not followed instructions or in the application of generic level descriptors.
+GENERIC MARKING PRINCIPLE 5:
+Marks should be awarded using the full range of marks defined in the mark scheme for the question (however; the use of the full mark range may be limited
+according to the quality of the candidate responses seen).
+GENERIC MARKING PRINCIPLE 6:
+Marks awarded are based solely on the requirements as defined in the mark scheme. Marks should not be awarded with grade thresholds or grade descriptors in
+mind.
+© UCLES 2023 Page 2 of 15
+9231/32 Cambridge International AS & A Level – Mark Scheme May/June 2023
+PUBLISHED
+Mathematics Specific Marking Principles
+1 Unless a particular method has been specified in the question, full marks may be awarded for any correct method. However, if a calculation is required
+then no marks will be awarded for a scale drawing.
+2 Unless specified in the question, answers may be given as fractions, decimals or in standard form. Ignore superfluous zeros, provided that the degree of
+accuracy is not affected.
+3 Allow alternative conventions for notation if used consistently throughout the paper, e.g. commas being used as decimal points.
+4 Unless otherwise indicated, marks once gained cannot subsequently be lost, e.g. wrong working following a correct form of answer is ignored (isw).
+5 Where a candidate has misread a number in the question and used that value consistently throughout, provided that number does not alter the difficulty or
+the method required, award all marks earned and deduct just 1 mark for the misread.
+6 Recovery within working is allowed, e.g. a notation error in the working where the following line of working makes the candidate’s intent clear.
+© UCLES 2023 Page 3 of 15
+9231/32 Cambridge International AS & A Level – Mark Scheme May/June 2023
+PUBLISHED
+Mark Scheme Notes
+The following notes are intended to aid interpretation of mark schemes in general, but individual mark schemes may include marks awarded for specific reasons
+outside the scope of these notes.
+Types of mark
+M Method mark, awarded for a valid method applied to the problem. Method marks are not lost for numerical errors, algebraic slips or errors in units.
+However, it is not usually sufficient for a candidate just to indicate an intention of using some method or just to quote a formula; the formula or idea
+must be applied to the specific problem in hand, e.g. by substituting the relevant quantities into the formula. Correct application of a formula
+without the formula being quoted obviously earns the M mark and in some cases an M mark can be implied from a correct answer.
+A Accuracy mark, awarded for a correct answer or intermediate step correctly obtained. Accuracy marks cannot be given unless the associated method
+mark is earned (or implied).
+B Mark for a correct result or statement independent of method marks.
+DM or DB When a part of a question has two or more ‘method’ steps, the M marks are generally independent unless the scheme specifically says otherwise;
+and similarly, when there are several B marks allocated. The notation DM or DB is used to indicate that a particular M or B mark is dependent on
+an earlier M or B (asterisked) mark in the scheme. When two or more steps are run together by the candidate, the earlier marks are implied and full
+credit is given.
+FT Implies that the A or B mark indicated is allowed for work correctly following on from previously incorrect results. Otherwise, A or B marks are
+given for correct work only.
+(cid:120) A or B marks are given for correct work only (not for results obtained from incorrect working) unless follow through is allowed (see abbreviation FT above).
+(cid:120) For a numerical answer, allow the A or B mark if the answer is correct to 3 significant figures or would be correct to 3 significant figures if rounded (1
+decimal place for angles in degrees).
+(cid:120) The total number of marks available for each question is shown at the bottom of the Marks column.
+(cid:120) Wrong or missing units in an answer should not result in loss of marks unless the guidance indicates otherwise.
+(cid:120) Square brackets [ ] around text or numbers show extra information not needed for the mark to be awarded.
+© UCLES 2023 Page 4 of 15
+9231/32 Cambridge International AS & A Level – Mark Scheme May/June 2023
+PUBLISHED
+Abbreviations
+AEF/OE Any Equivalent Form (of answer is equally acceptable) / Or Equivalent
+AG Answer Given on the question paper (so extra checking is needed to ensure that the detailed working leading to the result is valid)
+CAO Correct Answer Only (emphasising that no ‘follow through’ from a previous error is allowed)
+CWO Correct Working Only
+ISW Ignore Subsequent Working
+SOI Seen Or Implied
+SC Special Case (detailing the mark to be given for a specific wrong solution, or a case where some standard marking practice is to be varied in the
+light of a particular circumstance)
+WWW Without Wrong Working
+AWRT Answer Which Rounds To
+© UCLES 2023 Page 5 of 15
+9231/32 Cambridge International AS & A Level – Mark Scheme May/June 2023
+PUBLISHED
+Question Answer Marks Guidance
+1(a) 3mg B1 Correct EPE term seen
+(cid:11)2a(cid:12)2
+2a
+1 mv2 (cid:14)mg(cid:117) (cid:167) (cid:168)3a(cid:16) 3 a (cid:183) (cid:184)(cid:32) 3mg (cid:11)2a(cid:12)2 M1 D
+on
+i
+e
+m
+K
+en
+E
+s
+,
+i o
+o
+n
+n
+a
+e
+l l
+E
+y
+P
+c
+E
+o r
+t
+r
+e
+e
+r
+c
+m
+t e
+a
+n
+n
+e
+d
+r g
+a
+y
+t l
+e
+e
+q
+a
+u
+st
+a t
+o
+i
+n
+o
+e
+n .
+G
+M
+P
+u
+E
+s
+.
+t have
+2 (cid:169) 4 (cid:185) 2a
+Allow sign errors.
+15 A1 AEF
+v(cid:32) ag (cid:170)2.74 ag(cid:186)
+(cid:172) (cid:188)
+2
+3
+1(b) 3mg M1 N2L and Hooke’s law
+T (cid:16)mg(cid:32)mA and T (cid:32) (cid:117)2a
+a
+Acceleration = 5g [upwards] A1 Allow (cid:114)50 or (cid:114)5g
+2
+© UCLES 2023 Page 6 of 15
+9231/32 Cambridge International AS & A Level – Mark Scheme May/June 2023
+PUBLISHED
+Question Answer Marks Guidance
+2 Parallel to wall vcos(cid:84)(cid:32)ucos(cid:68) M1 Both
+Perpendicular to wall vsin(cid:84)(cid:32)eusin(cid:68)
+1 A1 AEF
+Dividing, e(cid:32)
+2tan(cid:68)
+KE reduced by 20%, so 1mu2(cid:11) cos2(cid:68)(cid:14)e2sin2(cid:68) (cid:12) (cid:32) 4(cid:117)1mu2 M1 Dimensionally correct equation in u or v, but not
+2 5 2 both. Must have either (cid:68) or (cid:84), but not both.
+Must see 4 on the correct side of the equation.
+5
+4 A1
+Eliminate e: cos(cid:68)(cid:32)
+5
+2 A1
+e(cid:32)
+3
+© UCLES 2023 Page 7 of 15
+9231/32 Cambridge International AS & A Level – Mark Scheme May/June 2023
+PUBLISHED
+Question Answer Marks Guidance
+2 Alternative method for question 2
+Parallel to wall vcos(cid:84)(cid:32)ucos(cid:68) M1 Both
+Perpendicular to wall vsin(cid:84)(cid:32)eusin(cid:68)
+(cid:170) 5 2 5(cid:186) 5v 2 5v A1
+(cid:171)sin(cid:11)(cid:84)(cid:12)(cid:32) , cos(cid:11)(cid:84)(cid:12)(cid:32) (cid:187) usin(cid:11)(cid:68)(cid:12)(cid:32) , ucos(cid:11)(cid:68)(cid:12)(cid:32)
+5 5 5e 5
+(cid:172) (cid:188)
+4v2 v2 A1 v2(cid:167) 1 (cid:183)
+u2 (cid:32)(cid:170) (cid:172) u2cos2(cid:11)(cid:68)(cid:12)(cid:14)u2sin2(cid:11)(cid:68)(cid:12)(cid:186) (cid:188) (cid:32) 5 (cid:14) 5e2 AEF, e.g. 5 (cid:168) (cid:169) 4(cid:14) e2 (cid:184) (cid:185)
+1 (cid:170)4 1 (cid:186)2 v2(cid:167) 1 (cid:183) M1 Dimensionally correct equation in v.
+2 mv2 (cid:32) (cid:171) (cid:172)5 (cid:117) 2 mu2 (cid:32) (cid:187) (cid:188)5 m 5 (cid:168) (cid:169) 4(cid:14) e2 (cid:184) (cid:185) Must have either (cid:68) or (cid:84), but not both.
+4 2
+Must see or on the correct side of the
+5 5
+equation.
+2 A1
+e(cid:32)
+3
+5
+© UCLES 2023 Page 8 of 15
+9231/32 Cambridge International AS & A Level – Mark Scheme May/June 2023
+PUBLISHED
+Question Answer Marks Guidance
+3(a) m4ag M1 Allow cos instead of sin for M1. Do not award
+At B, mgsin(cid:84)(cid:32)
+until tension (cid:32)0 used. Mass must be seen. No sign
+5a
+error.
+4 A1
+sin(cid:84)(cid:32)
+5
+2
+3(b) mu2 B1
+At A, T (cid:16)mgcos(cid:84)(cid:32)
+a
+1 1 4ag M1 A1 Energy equation with 4 terms, dimensionally
+Energy mu2 (cid:16) m(cid:117) (cid:32)mga(cid:11)cos(cid:84)(cid:14)sin(cid:84)(cid:12)
+correct. Mass must be present, allow sign errors.
+2 2 5
+1
+Must see in the KE terms.
+2
+Solve to find T M1 Complete method leading to an expression in mg
+for T .
+21 A1 CWO
+T (cid:32) mg
+5
+5
+© UCLES 2023 Page 9 of 15
+9231/32 Cambridge International AS & A Level – Mark Scheme May/June 2023
+PUBLISHED
+Question Answer Marks Guidance
+4(a) [Mass is proportional to volume] M1 A1
+Distance of Distance of
+Volume centre of mass centre of mass
+from vertical axis from OC
+2 3
+Hemisphere
+(cid:83)(cid:11)2a(cid:12)3
+2a (cid:16) (cid:117)2a
+3 8
+1
+Cylinder (cid:83)a2d a d
+2
+Object
+2
+(cid:83)(cid:11)2a(cid:12)3 (cid:14)(cid:83)a2d x y
+3
+(cid:167) (cid:168) 2 (cid:83)(cid:11)2a(cid:12)3 (cid:14)(cid:83)a2d (cid:183) (cid:184)x (cid:32) 16 (cid:83)a3(cid:117)2a(cid:14)(cid:83) a2d(cid:117)a Moments equation, dimensionally correct, correct
+(cid:169)3 (cid:185) 3 number of terms. Allow sign errors.
+32a2 (cid:14)3ad A1 AG. At least one line of intermediate working.
+Simplify to x (cid:32)
+16a(cid:14)3d
+(cid:167) (cid:168) 2 (cid:83)(cid:11)2a(cid:12)3 (cid:14)(cid:652)a2d (cid:183) (cid:184)y (cid:32) 16 (cid:652)a3(cid:117) (cid:167) (cid:168)(cid:16) 3 (cid:117)2a (cid:183) (cid:184)(cid:14) (cid:652)a2d(cid:117) 1 d M1 M nu o m m b e e n r t o s f e t q e u rm ati s o . n A , l d lo im w e s n i s g i n o n e a rr ll o y r s c . o rrect, correct
+(cid:169)3 (cid:185) 3 (cid:169) 8 (cid:185) 2
+3 (cid:11) d2 (cid:16)8a2(cid:12) A1 AEF
+y (cid:32)
+2(cid:11)16a(cid:14)3d(cid:12)
+5
+© UCLES 2023 Page 10 of 15
+9231/32 Cambridge International AS & A Level – Mark Scheme May/June 2023
+PUBLISHED
+Question Answer Marks Guidance
+4(b) 2a(cid:16)x B1
+sin(cid:84)(cid:32)
+2a
+1 32a2 (cid:14)3ad M1 Remove fractions
+2a(cid:117) (cid:32)2a(cid:16)
+6 16a(cid:14)3d
+5
+(cid:11)16a(cid:14)3d(cid:12)(cid:32)(cid:11)32a(cid:14)3d(cid:12)
+3
+8 A1
+d (cid:32) a
+3
+3
+© UCLES 2023 Page 11 of 15
+9231/32 Cambridge International AS & A Level – Mark Scheme May/June 2023
+PUBLISHED
+Question Answer Marks Guidance
+5(a) (cid:79)mg (cid:79)mg(cid:167)3 (cid:183) B1
+Hooke’s law, T 1 (cid:32) a (cid:11)x(cid:16)a(cid:12) or T 2 (cid:32) a (cid:168) (cid:169)4 x(cid:16)a(cid:184) (cid:185)
+mv2 mv2 (cid:79)mg M1 (cid:79)gx(cid:11)x(cid:16)a(cid:12)
+Also, T = and equate (cid:32) (cid:11)x(cid:16)a(cid:12) v2 (cid:32)
+1 x x a a
+Dimensionally correct terms.
+(cid:79)mg (cid:167) (cid:168) 3x (cid:16)a (cid:183) (cid:184) 2m (cid:167) (cid:168) 1 v (cid:183) (cid:184) 2 M1 v2 (cid:32) 3(cid:79)gx(cid:167) (cid:168) 3 x(cid:16)a (cid:183) (cid:184)
+(cid:169) 4 (cid:185) (cid:169)2 (cid:185) 2a (cid:169)4 (cid:185)
+Similarly: (cid:32)
+a 3 1 3x
+x Must have v and on the RHS.
+4 2 4
+Their dimensionally correct T .
+2
+Equate expressions for v2 and solve for x in terms of a. M1
+x(cid:32)4a A1 WWW
+5 SC B3 for answer of 4a using (cid:79) instead of (cid:79)mg .
+5(b) a 2a M1 FT their expression for x.
+(cid:79)(cid:32) v2 or (cid:79)(cid:32) v2 and substitute x(cid:32)4a, v(cid:32) 12ag
+xg(cid:11)x(cid:16)a(cid:12) (cid:167)3 (cid:183)
+3xg(cid:168) x(cid:16)a(cid:184)
+(cid:169)4 (cid:185)
+1 A1 CAO
+2
+© UCLES 2023 Page 12 of 15
+9231/32 Cambridge International AS & A Level – Mark Scheme May/June 2023
+PUBLISHED
+Question Answer Marks Guidance
+6(a) dv M1
+v (cid:32)6v v(cid:14)9 and attempt to separate variables and integrate
+dx
+2 v(cid:14)9(cid:32)6x(cid:14)A A1
+x(cid:32)2, v(cid:32)72 A(cid:32)6 M1 Use initial condition to find constant.
+v(cid:32)9(cid:11)x(cid:14)1(cid:12)2
+(cid:16)9
+A1 Correct, AEF.
+4
+6(b) (cid:170) (cid:171) (cid:171)(cid:172) d d x t (cid:32)9 (cid:11) x2 (cid:14)2x (cid:12) , x(cid:11)x dx (cid:14)2(cid:12) (cid:32)9dt (cid:186) (cid:187) (cid:187)(cid:188) 1 2 (cid:167) (cid:168) (cid:169) 1 x (cid:16) x(cid:14) 1 2 (cid:183) (cid:184) (cid:185) dx(cid:32)9dt M1 S (cid:167) (cid:168) e a pa (cid:16) rate b va (cid:183) (cid:184) r d ia x b (cid:32) le d s t a n d write in the form
+(cid:169)x x(cid:14)c(cid:185)
+1 (cid:167) x (cid:183) A1 Integrate, any correct form.
+ln(cid:168) (cid:184)(cid:32)9t(cid:14)B
+2 (cid:169)x(cid:14)2(cid:185)
+1 1 M1 Use initial condition to find constant.
+t(cid:32)0, x(cid:32)2 B(cid:32) ln
+2 2
+(cid:167) 2x (cid:183) 2x M1 Take logarithms
+18t(cid:32)ln(cid:168) (cid:184) e18t (cid:32)
+(cid:169)x(cid:14)2(cid:185) x(cid:14)2
+2e18t 2 A1 Any correct form
+x(cid:32) or x(cid:32)
+2(cid:16)e18t 2e(cid:16)18t (cid:16)1
+5
+© UCLES 2023 Page 13 of 15
+9231/32 Cambridge International AS & A Level – Mark Scheme May/June 2023
+PUBLISHED
+Question Answer Marks Guidance
+7(a) 800sin2(cid:84) B1
+H (cid:32)80sin2(cid:84) or
+g
+40sin(cid:84) B1
+T (cid:32)4sin(cid:84) or
+g
+2
+7(b) 1 1 M1 A1 No extra terms.
+Between t(cid:32)T and t(cid:32)3 (cid:110) H (cid:32)
+(cid:117)10(cid:117)(cid:11)3(cid:16)T(cid:12)2
+4 2
+1 M1 Substitute their expressions for H and T from
+Use results from part (a)
+80sin2(cid:84)(cid:32)5(cid:11)3(cid:16)4sin(cid:84)(cid:12)2
+part (a) and obtain a quadratic equation in sin(cid:84)
+4
+with no more than three terms.
+4sin2(cid:84)(cid:16)8sin(cid:84)(cid:14)3(cid:32)0
+1 A1 Single answer. NFWW.
+sin(cid:84)(cid:32) , (cid:84)(cid:32)30(cid:113)
+2
+Alternative method for question 7 part (b)
+3 1 M1 A1 120 sin(cid:84)(cid:16)45
+H (cid:32) y(cid:11)3(cid:12)(cid:32)40(cid:117)3 sin(cid:84)(cid:16) (cid:117)10(cid:117)32
+4 2
+3 M1 Substitute their expressions for H and T from
+Use results from (a): 80sin2(cid:84)(cid:32)120 sin(cid:84)(cid:16)45
+part (a) and obtain a quadratic equation in sin(cid:84)
+4
+with no more than three terms.
+4sin2(cid:84)(cid:16)8sin(cid:84)(cid:14)3(cid:32)0
+1 A1 Single answer. NFWW.
+sin(cid:84)(cid:32) , (cid:84)(cid:32)30(cid:113)
+2
+4
+© UCLES 2023 Page 14 of 15
+9231/32 Cambridge International AS & A Level – Mark Scheme May/June 2023
+PUBLISHED
+Question Answer Marks Guidance
+7(c) When t(cid:32)3 speeds (cid:111)40cos(cid:84) and (cid:110)40sin(cid:84)(cid:16)10(cid:117)3 B1
+Square and add to find square of speed: v2 (cid:32) (cid:11) 20 3 (cid:12)2 (cid:14)(cid:11)(cid:16)10(cid:12)2 M1 Must be numerical.
+v2 (cid:32)1300, v(cid:32)10 13 [= 36.1] A1
+3
+© UCLES 2023 Page 15 of 15

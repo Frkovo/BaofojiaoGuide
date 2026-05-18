@@ -1,0 +1,423 @@
+©
+UCLES
+2022
+[Turn
+over
+This
+document
+consists
+of
+15
+printed
+pages.
+components. Cambridge
+IGCSE(cid:140),
+Cambridge
+International
+A and
+AS
+Level
+components
+and
+some
+Cambridge
+O
+Level
+Cambridge
+International
+is
+publishing
+the
+mark
+schemes
+for
+the
+October/November
+2022
+series
+for
+most
+Cambridge
+International
+will
+not
+enter
+into
+discussions
+about
+these
+mark
+schemes.
+Teachers. Mark
+schemes
+should
+be
+read
+in
+conjunction
+with
+the
+question
+paper
+and
+the
+Principal
+Examiner
+Report
+for
+considered
+the
+acceptability
+of
+alternative
+answers.
+(cid:71)(cid:72)(cid:87)(cid:68)(cid:76)(cid:79)(cid:86)(cid:3)(cid:82)(cid:73)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:71)(cid:76)(cid:86)(cid:70)(cid:88)(cid:86)(cid:86)(cid:76)(cid:82)(cid:81)(cid:86)(cid:3)(cid:87)(cid:75)(cid:68)(cid:87)(cid:3)(cid:87)(cid:82)(cid:82)(cid:78)(cid:3)(cid:83)(cid:79)(cid:68)(cid:70)(cid:72)(cid:3)(cid:68)(cid:87)(cid:3)(cid:68)(cid:81)(cid:3)(cid:40)(cid:91)(cid:68)(cid:80)(cid:76)(cid:81)(cid:72)(cid:85)(cid:86)(cid:182)(cid:3)(cid:80)(cid:72)(cid:72)(cid:87)(cid:76)(cid:81)(cid:74)(cid:3)(cid:69)(cid:72)(cid:73)(cid:82)(cid:85)(cid:72)(cid:3)(cid:80)(cid:68)(cid:85)(cid:78)(cid:76)(cid:81)(cid:74)(cid:3)(cid:69)(cid:72)(cid:74)(cid:68)n,
+which
+would
+have
+examination.
+It
+shows
+the
+basis
+on
+which
+Examiners
+were
+instructed
+to
+award
+marks.
+It
+does
+not
+indicate
+the
+This
+mark
+scheme
+is
+published
+as
+an
+aid
+to
+teachers
+and
+candidates,
+to
+indicate
+the
+requirements
+of
+the
+Published
+Maximum
+Mark:
+75
+MARK
+SCHEME
+Paper
+3
+Problem
+Solving
+&
+Programming
+October/November
+2022
+COMPUTER
+SCIENCE
+9618/31
+Cambridge
+International
+AS
+&
+A
+Level
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2022
+PUBLISHED
+Generic Marking Principles
+These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the
+specific content of the mark scheme or generic level descriptors for a question. Each question paper and mark scheme will also comply with these
+marking principles.
+GENERIC MARKING PRINCIPLE 1:
+Marks must be awarded in line with:
+(cid:120) the specific content of the mark scheme or the generic level descriptors for the question
+(cid:120) the specific skills defined in the mark scheme or in the generic level descriptors for the question
+(cid:120) the standard of response required by a candidate as exemplified by the standardisation scripts.
+GENERIC MARKING PRINCIPLE 2:
+Marks awarded are always whole marks (not half marks, or other fractions).
+GENERIC MARKING PRINCIPLE 3:
+Marks must be awarded positively:
+(cid:120) marks are awarded for correct/valid answers, as defined in the mark scheme. However, credit is given for valid answers which go beyond the
+scope of the syllabus and mark scheme, referring to your Team Leader as appropriate
+(cid:120) marks are awarded when candidates clearly demonstrate what they know and can do
+(cid:120) marks are not deducted for errors
+(cid:120) marks are not deducted for omissions
+(cid:120) answers should only be judged on the quality of spelling, punctuation and grammar when these features are specifically assessed by the
+question as indicated by the mark scheme. The meaning, however, should be unambiguous.
+GENERIC MARKING PRINCIPLE 4:
+Rules must be applied consistently, e.g. in situations where candidates have not followed instructions or in the application of generic level
+descriptors.
+© UCLES 2022 Page 2 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2022
+PUBLISHED
+GENERIC MARKING PRINCIPLE 5:
+Marks should be awarded using the full range of marks defined in the mark scheme for the question (however; the use of the full mark range may
+be limited according to the quality of the candidate responses seen).
+GENERIC MARKING PRINCIPLE 6:
+Marks awarded are based solely on the requirements as defined in the mark scheme. Marks should not be awarded with grade thresholds or
+grade descriptors in mind.
+© UCLES 2022 Page 3 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2022
+PUBLISHED
+Question Answer Marks
+1(a) Two marks for working 3
+One mark for correct answer
+Working:
+Conversion to binary + 202 = 11001010 // repeated division by 2 // 128 + 64 + 8 + 2
+Appropriate shifting of binary point for + 202 = 0.1100101 (cid:117) 28 // exponent = 8
+Answer:
+= 01100101 00001000 (stored as mantissa and exponent)
+1(b) Two marks for working 3
+One mark for correct answer
+Working:
+(cid:120) Appropriate method of conversion e.g.
+= (cid:20)(cid:19)(cid:19)(cid:20)(cid:20)(cid:19)(cid:20)(cid:19)(cid:3)(cid:11)(cid:82)(cid:81)(cid:72)(cid:182)(cid:86)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:79)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:82)(cid:73)(cid:3)(cid:27)-bit mantissa)
+= (cid:20)(cid:19)(cid:19)(cid:20)(cid:20)(cid:19)(cid:20)(cid:20)(cid:3)(cid:11)(cid:87)(cid:90)(cid:82)(cid:182)(cid:86)(cid:3)(cid:70)(cid:82)(cid:80)(cid:83)(cid:79)(cid:72)(cid:80)(cid:72)(cid:81)(cid:87)(cid:3)(cid:82)(cid:73)(cid:3)(cid:27)-bit mantissa)
+(cid:177)256 + 32 + 16 + 4 +2
+(cid:120) (cid:53)(cid:72)(cid:68)(cid:79)(cid:76)(cid:86)(cid:68)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:87)(cid:75)(cid:68)(cid:87)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:72)(cid:91)(cid:83)(cid:82)(cid:81)(cid:72)(cid:81)(cid:87)(cid:3)(cid:71)(cid:82)(cid:72)(cid:86)(cid:81)(cid:182)(cid:87)(cid:3)(cid:70)(cid:75)(cid:68)(cid:81)(cid:74)(cid:72)(cid:3)(cid:18)(cid:18)(cid:3)(cid:89)(cid:68)(cid:79)(cid:88)(cid:72)(cid:3)(cid:82)(cid:73)(cid:3)(cid:72)(cid:91)(cid:83)(cid:82)(cid:81)(cid:72)(cid:81)(cid:87)(cid:3)(cid:32)(cid:3)(cid:27)(cid:3)(cid:18)(cid:18)(cid:3)(cid:68)(cid:83)(cid:83)(cid:85)(cid:82)(cid:83)(cid:85)(cid:76)(cid:68)(cid:87)(cid:72)(cid:3)(cid:86)(cid:75)(cid:76)(cid:73)(cid:87)(cid:76)(cid:81)(cid:74)(cid:3)(cid:82)(cid:73) binary point
+Answer:
+= 10011011 00001000 (stored as mantissa and exponent)
+1(c)(i) The mantissa does not begin with 01/10 (as its most significant bits) 1
+// the mantissa begins with 00 // first two digits are the same.
+1(c)(ii) One mark for each point: 2
+(cid:120) Correct mantissa
+(cid:120) Correct exponent
+Mantissa Exponent
+0 1 1 1 1 0 0 0 0 0 0 1 0 1 1 0
+© UCLES 2022 Page 4 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2022
+PUBLISHED
+Question Answer Marks
+2 One mark for each point (Max 3) 5
+MP1 The Transport Layer breaks data into manageable packets / performs segmentation
+MP2 It sequences the packets // adds data to the packet header // adds a packet header
+MP3 It sends the packets to the Internet / Network Layer // It receives data from the Application Layer
+MP4 It controls the flow of packets
+MP5 It handles packet loss/corruption // Acknowledges receipt of complete error free packets
+One mark for each point (Max 3)
+MP6 The Internet Layer identifies the intended network and host
+MP7 It transmits packets to the (Data) Link / Physical Layer
+MP8 It routes the packets independently through the optimum route
+MP9 It addresses packets with their source and destination IP addresses
+MP10 It then uses an IP address and port number to form a socket.
+Question Answer Marks
+3(a) A (user-defined non-composite) data type with an ordered list of possible values. 1
+3(b) A user-defined non-composite data type used to reference a memory location. 1
+3(c) Marks as shown in the square brackets: 2
+TYPE Quarter1 = (January, February, March)
+TYPE Quarter1 = [1]
+(January, February, March) [1]
+3(d)(i) DECLARE Pet1 : Pet 1
+© UCLES 2022 Page 5 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2022
+PUBLISHED
+Question Answer Marks
+3(d)(ii) One mark for each point: 3
+(cid:120) Correct assignment of all string data values
+(cid:120) Correct assignment of char data value
+(cid:120) Correct assignment of integer data value
+Example answer:
+Pet1.PetName (cid:109) "Tibbles"
+Pet1.AnimalType (cid:109) "Cat"
+Pet1.PetAge (cid:109) 8
+Pet1.PetGender (cid:109) 'M'
+Pet1.OwnerName (cid:109) "Jasmine Smith"
+© UCLES 2022 Page 6 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2022
+PUBLISHED
+Question Answer Marks
+4 One mark for each correct line connecting one stage of compilation to a description 4
+Question Answer Marks
+5(a) a b * b + d - 15 + 1
+5(b)(i) (a - b) * (c + d) / a 1
+5(b)(ii) (cid:177)39 1
+© UCLES 2022 Page 7 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2022
+PUBLISHED
+Question Answer Marks
+6(a) One mark for each correct point (Max 2) 2
+(cid:120) A private key is the unpublished/secret key/never transmitted anywhere.
+(cid:120) It has a matching public key
+(cid:120) It is used to decrypt data that was encrypted with its matching public key.
+6(b) One mark for each correct point (Max 2) 2
+(cid:120) The message to be sent is encrypted using the (cid:85)(cid:72)(cid:70)(cid:76)(cid:83)(cid:76)(cid:72)(cid:81)(cid:87)(cid:182)(cid:86)(cid:3)(cid:83)(cid:88)(cid:69)(cid:79)(cid:76)(cid:70) key. // The message to be sent is encrypted using
+the (cid:86)(cid:72)(cid:81)(cid:71)(cid:72)(cid:85)(cid:182)(cid:86)(cid:3)(cid:83)(cid:85)(cid:76)(cid:89)(cid:68)(cid:87)(cid:72) key.
+(cid:120) The message is decrypted using the (cid:85)(cid:72)(cid:70)(cid:76)(cid:83)(cid:76)(cid:72)(cid:81)(cid:87)(cid:182)(cid:86)(cid:3)(cid:83)(cid:85)(cid:76)(cid:89)(cid:68)(cid:87)(cid:72) key. // The message is decrypted using the (cid:86)(cid:72)(cid:81)(cid:71)(cid:72)(cid:85)(cid:182)(cid:86)(cid:3)(cid:83)(cid:88)(cid:69)(cid:79)(cid:76)(cid:70)
+key.
+6(c) One mark for each correct point (Max 4) 4
+(cid:120) The message together with the digital signature is decrypted using the (cid:85)(cid:72)(cid:70)(cid:72)(cid:76)(cid:89)(cid:72)(cid:85)(cid:182)(cid:86)(cid:3)(cid:83)(cid:85)(cid:76)(cid:89)(cid:68)(cid:87)(cid:72) key
+(cid:120) The digital signature received is decrypted with the (cid:86)(cid:72)(cid:81)(cid:71)(cid:72)(cid:85)(cid:182)(cid:86)(cid:3)(cid:83)(cid:88)(cid:69)(cid:79)(cid:76)(cid:70)(cid:3)key to recover the message digest sent
+(cid:120) The decrypted message received is hashed with the agreed hashing algorithm to reproduce the message digest of the
+message received
+(cid:120) The two message digests are compared
+(cid:120) (cid:171)(cid:3)(cid:76)(cid:73)(cid:3)both digests are the same the message has not been altered // if they are different the message has been
+altered.
+© UCLES 2022 Page 8 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2022
+PUBLISHED
+Question Answer Marks
+7(a) Two marks if no errors present 2
+One mark if one error present
+AB
+00 01 11 10
+CD
+00 0 1 1 1
+01 0 1 1 1
+11 0 0 0 0
+10 0 0 0 0
+7(b) One mark for correct loop (Max 2) 2
+© UCLES 2022 Page 9 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2022
+PUBLISHED
+Question Answer Marks
+7(c) One mark for each point 3
+(cid:120) Any correct Boolean term
+(cid:120) Boolean terms and operator correct and no other terms present
+(cid:3031)_ _
+(Z =) BC + AC
+One mark for simplest form
+_
+(Z =) C (A + B)
+Question Answer Marks
+8(a) One mark for each correct point (Max 3) 3
+(cid:120) Disk / secondary storage is used to extend the RAM / memory available
+(cid:120) (cid:171)(cid:3)(cid:86)(cid:82)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:38)(cid:51)(cid:56)(cid:3)(cid:68)(cid:83)(cid:83)(cid:72)(cid:68)(cid:85)(cid:86)(cid:3)(cid:87)(cid:82)(cid:3)(cid:69)(cid:72)(cid:3)(cid:68)(cid:69)(cid:79)(cid:72)(cid:3)(cid:87)(cid:82)(cid:3)(cid:68)(cid:70)(cid:70)(cid:72)(cid:86)(cid:86)(cid:3)(cid:80)(cid:82)(cid:85)(cid:72)(cid:3)(cid:80)(cid:72)(cid:80)(cid:82)(cid:85)(cid:92)(cid:3)(cid:86)(cid:83)(cid:68)(cid:70)(cid:72)(cid:3)(cid:87)(cid:75)(cid:68)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:68)(cid:89)(cid:68)(cid:76)(cid:79)(cid:68)(cid:69)(cid:79)(cid:72)(cid:3)(cid:53)(cid:36)(cid:48)(cid:3)
+(cid:120) Only the data in use needs to be in main memory so data can be swapped between RAM and virtual memory as
+necessary
+(cid:120) Virtual memory is created temporarily.
+8(b) One mark for a correct statement about the difference between paging and segmentation e.g. 1
+(cid:120) Paging allows the memory to be divided into fixed size blocks and
+Segmentation divides the memory into variable sized blocks.
+(cid:120) The operating system divides the memory into pages, the compiler is responsible for calculating the segment size.
+(cid:120) Access times for paging is faster than for segmentation.
+© UCLES 2022 Page 10 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2022
+PUBLISHED
+Question Answer Marks
+9(a) One mark for each correct point (Max 2) 2
+(cid:120) Uses artificial neural network(s)
+(cid:120) (cid:171)(cid:3)(cid:87)(cid:75)(cid:68)(cid:87)(cid:3)(cid:70)(cid:82)(cid:81)(cid:87)(cid:68)(cid:76)(cid:81)(cid:11)(cid:86)(cid:12)(cid:3)(cid:68)(cid:3)(cid:75)(cid:76)(cid:74)(cid:75)(cid:3)(cid:81)(cid:88)(cid:80)(cid:69)(cid:72)(cid:85)(cid:3)(cid:82)(cid:73)(cid:3)hidden layers
+(cid:120) (cid:171)(cid:3)(cid:80)(cid:82)(cid:71)(cid:72)(cid:79)(cid:79)(cid:72)(cid:71)(cid:3)(cid:82)(cid:81)(cid:3)(cid:87)(cid:75)(cid:72)(cid:3)(cid:75)(cid:88)(cid:80)(cid:68)(cid:81)(cid:3)(cid:69)(cid:85)(cid:68)(cid:76)(cid:81)(cid:17)
+(cid:120) Deep learning uses many layers to progressively extract higher level features from the (raw) input.
+(cid:120) Deep learning is a specialised form of machine learning.
+9(b) One mark for each correct point (Max 2) 2
+(cid:120) Deep learning makes good use of unstructured data.
+(cid:120) Deep learning outperforms other methods if the data size is large.
+(cid:120) Deep learning systems enable machines to process data with a nonlinear approach.
+(cid:120) Deep learning is effective at identifying (hidden) patterns / patterns that humans might not be able to see / patterns that
+are too complex / time consuming for humans to carry out.
+(cid:120) It can provide a more accurate outcome with higher numbers of hidden layers.
+Question Answer Marks
+10(a) Two marks for all five rows correct 2
+One mark for four rows correct
+Statement RISC CISC
+uses a smaller instruction set (cid:57)
+uses single-cycle instructions and limited addressing modes (cid:57)
+uses fewer general-purpose registers (cid:57)
+uses both hardwired and micro coded control unit (cid:57)
+uses a system where cache is split between data and
+(cid:57)
+instructions
+© UCLES 2022 Page 11 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2022
+PUBLISHED
+Question Answer Marks
+10(b) One mark for each correct point (Max 4) 4
+(cid:120) Instructions are divided into subtasks / 5 stages
+(cid:120) (cid:171)(cid:3)(cid:44)(cid:81)(cid:86)(cid:87)(cid:85)(cid:88)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:73)(cid:72)(cid:87)(cid:70)(cid:75)(cid:3)(cid:18)(cid:3)(cid:44)(cid:41)(cid:15)(cid:3)(cid:44)(cid:81)(cid:86)(cid:87)(cid:85)(cid:88)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:71)(cid:72)(cid:70)(cid:82)(cid:71)(cid:72)(cid:3)(cid:18)(cid:3)(cid:44)(cid:39)(cid:15)(cid:3)(cid:82)(cid:83)(cid:72)(cid:85)(cid:68)(cid:81)(cid:71)(cid:3)(cid:73)(cid:72)(cid:87)(cid:70)(cid:75)(cid:3)(cid:18)(cid:3)(cid:50)(cid:41)(cid:15)(cid:3)(cid:82)(cid:83)(cid:70)(cid:82)(cid:71)(cid:72)(cid:18)(cid:76)(cid:81)(cid:86)(cid:87)(cid:85)(cid:88)(cid:70)(cid:87)(cid:76)(cid:82)(cid:81)(cid:3)(cid:72)(cid:91)(cid:72)(cid:70)(cid:88)(cid:87)(cid:72)(cid:3)(cid:44)(cid:40)(cid:15)(cid:3)(cid:85)(cid:72)(cid:86)(cid:88)(cid:79)(cid:87)(cid:3)(cid:86)(cid:87)(cid:82)(cid:85)(cid:72)(cid:3)(cid:18)(cid:3)(cid:90)(cid:85)(cid:76)(cid:87)(cid:72)(cid:3)
+back result / WB
+(cid:120) Each subtask is completed during one clock cycle
+(cid:120) No two instructions can execute their same stage at the same clock cycle
+(cid:120) The second instruction begins in the second clock cycle, while the first instruction has moved on to its second subtask.
+(cid:120) The third instruction begins in the third clock cycle while the first and second instructions move on to their second and
+third subtasks, respectively, etc.
+Question Answer Marks
+11(a) One mark for each correct OOP term definition: 3
+(cid:120) Instance (cid:177) an occurrence of an object // a specific object based on the class // an instantiation of a class.
+(cid:120) Inheritance (cid:177) the capability of defining a new class of objects that has all the attributes and methods from a parent
+class.
+(cid:120) Polymorphism (cid:177) allows the same method to take on different behaviours depending on which class is instantiated //
+methods can be redefined for derived classes.
+© UCLES 2022 Page 12 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2022
+PUBLISHED
+Question Answer Marks
+11(b) One mark for each point: 5
+(cid:120) Car and ENDCLASS
+(cid:120) Four declarations (cid:177) must use the identifiers used in the assignments
+(cid:120) Constructor header (cid:177) must use CarBodyType
+(cid:120) Two assignments (cid:177) must use CarMake
+(cid:120) Constructor identifier for the car model and the identifier in the Model assignment statement match
+CLASS Car
+PRIVATE Make : STRING
+PRIVATE Model : STRING
+PRIVATE BodyType : STRING
+PRIVATE Fuel : STRING
+PRIVATE NumberBuilt : INTEGER
+PUBLIC PROCEDURE NEW (CarMake : STRING,
+CarModel : STRING, CarBodyType : STRING)
+Make (cid:109) CarMake
+Model (cid:109) CarModel
+BodyType (cid:109) CarBodyType
+Fuel (cid:109) ""
+NumberBuilt (cid:109) 0
+ENDPROCEDURE
+getFuel()
+getNumberBuilt()
+ENDCLASS
+© UCLES 2022 Page 13 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2022
+PUBLISHED
+Question Answer Marks
+12(a) One mark for each point (Max 6) 6
+(cid:120) Initialisation of upper bound
+(cid:120) Test if upper bound is less than lower bound
+(cid:120) Re-setting of mid value if current value is lower than the target
+(cid:120) Re-setting of mid value if current value is higher than the target
+(cid:120) Finding the value
+(cid:120) Correct termination of loop
+Lower (cid:109) 0
+Upper (cid:109)(cid:109) 99
+Mid (cid:109) 0
+Exit (cid:109) FALSE
+OUTPUT "Enter the name to be found "
+INPUT Target
+REPEAT
+IF Upper < Lower THEN
+OUTPUT Target, " does not exist"
+Exit (cid:109) TRUE
+ENDIF
+Mid (cid:109) Lower + (Upper (cid:177) Lower + 1) DIV 2
+IF Names[Mid] < Target THEN
+Lower (cid:109) Mid + 1
+ENDIF
+IF Names[Mid] > Target THEN
+Upper (cid:109)(cid:109) Mid - 1
+ENDIF
+IF Names[Mid] = Target THEN
+OUTPUT Target, " was found at location ", Mid
+Exit (cid:109) TRUE
+ENDIF
+UNTIL Exit // UNTIL Exit = TRUE
+12(b)(i) O(n) 1
+© UCLES 2022 Page 14 of 15
+9618/31 Cambridge International AS & A Level (cid:177) Mark Scheme October/November 2022
+PUBLISHED
+Question Answer Marks
+12(b)(ii) One mark for each point (Max 2) 2
+(cid:120) O(log n) is a time complexity that uses logarithmic time.
+(cid:120) The time taken goes up linearly as the number of items rises exponentially
+(cid:120) O(log n) is the worst case scenario (time complexity for a binary search).
+© UCLES 2022 Page 15 of 15

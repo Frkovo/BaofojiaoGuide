@@ -1,0 +1,29 @@
+---
+title: Last-Minute Summary
+sidebar_position: 7
+---
+
+# Last-Minute Summary — Hyperbolic Functions
+
+## Must-know formulas
+
+$$\sinh x = \frac{e^x - e^{-x}}{2},\quad \cosh x = \frac{e^x + e^{-x}}{2}$$
+
+$$\cosh^2 x - \sinh^2 x \equiv 1$$
+
+$$\sinh^{-1} x = \ln(x + \sqrt{x^2+1}),\quad \cosh^{-1} x = \ln(x + \sqrt{x^2-1}),\quad \tanh^{-1} x = \frac12\ln\frac{1+x}{1-x}$$
+
+## Common question patterns
+
+| Pattern | First step |
+|---------|------------|
+| Prove identity involving $\sinh,\cosh$ | Write in exponential form |
+| Solve $a\cosh x + b\sinh x = c$ | Convert to exponentials, solve quadratic in $e^x$ |
+| Find $\sinh^{-1}(\ldots)$ in log form | Apply formula directly |
+| Integrate $1/\sqrt{x^2+a^2}$ | Result is $\sinh^{-1}(x/a) + C$ |
+
+## Red flags
+
+- $\cosh^{-1} x$ domain: $x \ge 1$
+- $\tanh^{-1} x$ domain: $|x| < 1$
+- $\frac{d}{dx}\cosh x = +\sinh x$ (NOT $-\sinh x$ like $\cos x$)

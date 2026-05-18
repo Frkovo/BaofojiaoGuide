@@ -1,0 +1,452 @@
+©
+Cambridge
+University
+Press
+&
+Assessment
+2024
+[Turn
+over
+This
+document
+consists
+of
+13
+printed
+pages.
+Cambridge
+O
+Level
+components.
+Cambridge
+IGCSE,
+Cambridge
+International
+A
+and
+AS
+Level
+and
+Cambridge
+Pre-U
+components,
+and
+some
+Cambridge
+International
+is
+publishing
+the
+mark
+schemes
+for
+the
+May/June
+2024
+series
+for
+most
+Cambridge
+International
+will
+not
+enter
+into
+discussions
+about
+these
+mark
+schemes.
+Teachers. Mark
+schemes
+should
+be
+read
+in
+conjunction
+with
+the
+question
+paper
+and
+the
+Principal
+Examiner
+Report
+for
+considered
+the
+acceptability
+of
+alternative
+answers.
+details
+of
+the
+discussions
+that
+took
+place
+at
+an
+Examiners’
+meeting
+before
+marking
+began,
+which
+would
+have
+examination.
+It
+shows
+the
+basis
+on
+which
+Examiners
+were
+instructed
+to
+award
+marks.
+It
+does
+not
+indicate
+the
+This
+mark
+scheme
+is
+published
+as
+an
+aid
+to
+teachers
+and
+candidates,
+to
+indicate
+the
+requirements
+of
+the
+Published
+Maximum
+Mark:
+50
+MARK
+SCHEME
+Paper
+3
+Further
+Mechanics
+May/June
+2024
+FURTHER
+MATHEMATICS
+9231/31
+Cambridge
+International
+AS
+&
+A
+Level
+9231/31 Cambridge International AS & A Level – Mark Scheme May/June 2024
+PUBLISHED
+Generic Marking Principles
+These general marking principles must be applied by all examiners when marking candidate answers. They should be applied alongside the
+specific content of the mark scheme or generic level descriptions for a question. Each question paper and mark scheme will also comply with these
+marking principles.
+GENERIC MARKING PRINCIPLE 1:
+Marks must be awarded in line with:
+(cid:120) the specific content of the mark scheme or the generic level descriptors for the question
+(cid:120) the specific skills defined in the mark scheme or in the generic level descriptors for the question
+(cid:120) the standard of response required by a candidate as exemplified by the standardisation scripts.
+GENERIC MARKING PRINCIPLE 2:
+Marks awarded are always whole marks (not half marks, or other fractions).
+GENERIC MARKING PRINCIPLE 3:
+Marks must be awarded positively:
+(cid:120) marks are awarded for correct/valid answers, as defined in the mark scheme. However, credit is given for valid answers which go beyond
+the scope of the syllabus and mark scheme, referring to your Team Leader as appropriate
+(cid:120) marks are awarded when candidates clearly demonstrate what they know and can do
+(cid:120) marks are not deducted for errors
+(cid:120) marks are not deducted for omissions
+(cid:120) answers should only be judged on the quality of spelling, punctuation and grammar when these features are specifically assessed by the
+question as indicated by the mark scheme. The meaning, however, should be unambiguous.
+GENERIC MARKING PRINCIPLE 4:
+Rules must be applied consistently, e.g. in situations where candidates have not followed instructions or in the application of generic level
+descriptors.
+GENERIC MARKING PRINCIPLE 5:
+Marks should be awarded using the full range of marks defined in the mark scheme for the question (however; the use of the full mark range may
+be limited according to the quality of the candidate responses seen).
+GENERIC MARKING PRINCIPLE 6:
+Marks awarded are based solely on the requirements as defined in the mark scheme. Marks should not be awarded with grade thresholds or
+grade descriptors in mind.
+© Cambridge University Press & Assessment 2024 Page 2 of 13
+9231/31 Cambridge International AS & A Level – Mark Scheme May/June 2024
+PUBLISHED
+Mathematics Specific Marking Principles
+1 Unless a particular method has been specified in the question, full marks may be awarded for any correct method. However, if a calculation is required
+then no marks will be awarded for a scale drawing.
+2 Unless specified in the question, non-integer answers may be given as fractions, decimals or in standard form. Ignore superfluous zeros, provided that the
+degree of accuracy is not affected.
+3 Allow alternative conventions for notation if used consistently throughout the paper, e.g. commas being used as decimal points.
+4 Unless otherwise indicated, marks once gained cannot subsequently be lost, e.g. wrong working following a correct form of answer is ignored (isw).
+5 Where a candidate has misread a number or sign in the question and used that value consistently throughout, provided that number does not alter the
+difficulty or the method required, award all marks earned and deduct just 1 A or B mark for the misread.
+6 Recovery within working is allowed, e.g. a notation error in the working where the following line of working makes the candidate’s intent clear.
+© Cambridge University Press & Assessment 2024 Page 3 of 13
+9231/31 Cambridge International AS & A Level – Mark Scheme May/June 2024
+PUBLISHED
+Mark Scheme Notes
+The following notes are intended to aid interpretation of mark schemes in general, but individual mark schemes may include marks awarded for specific reasons
+outside the scope of these notes.
+Types of mark
+M Method mark, awarded for a valid method applied to the problem. Method marks are not lost for numerical errors, algebraic slips or errors in units.
+However, it is not usually sufficient for a candidate just to indicate an intention of using some method or just to quote a formula; the formula or idea
+must be applied to the specific problem in hand, e.g. by substituting the relevant quantities into the formula. Correct application of a formula
+without the formula being quoted obviously earns the M mark and in some cases an M mark can be implied from a correct answer.
+A Accuracy mark, awarded for a correct answer or intermediate step correctly obtained. Accuracy marks cannot be given unless the associated method
+mark is earned (or implied).
+B Mark for a correct result or statement independent of method marks.
+DM or DB When a part of a question has two or more ‘method’ steps, the M marks are generally independent unless the scheme specifically says otherwise;
+and similarly, when there are several B marks allocated. The notation DM or DB is used to indicate that a particular M or B mark is dependent on
+an earlier M or B (asterisked) mark in the scheme. When two or more steps are run together by the candidate, the earlier marks are implied and full
+credit is given.
+FT Implies that the A or B mark indicated is allowed for work correctly following on from previously incorrect results. Otherwise, A or B marks are
+given for correct work only.
+(cid:120) A or B marks are given for correct work only (not for results obtained from incorrect working) unless follow through is allowed (see abbreviation FT above).
+(cid:120) For a numerical answer, allow the A or B mark if the answer is correct to 3 significant figures or would be correct to 3 significant figures if rounded (1
+decimal place for angles in degrees).
+(cid:120) The total number of marks available for each question is shown at the bottom of the Marks column.
+(cid:120) Wrong or missing units in an answer should not result in loss of marks unless the guidance indicates otherwise.
+(cid:120) Square brackets [ ] around text or numbers show extra information not needed for the mark to be awarded.
+© Cambridge University Press & Assessment 2024 Page 4 of 13
+9231/31 Cambridge International AS & A Level – Mark Scheme May/June 2024
+PUBLISHED
+Abbreviations
+AEF/OE Any Equivalent Form (of answer is equally acceptable) / Or Equivalent
+AG Answer Given on the question paper (so extra checking is needed to ensure that the detailed working leading to the result is valid)
+CAO Correct Answer Only (emphasising that no ‘follow through’ from a previous error is allowed)
+CWO Correct Working Only
+ISW Ignore Subsequent Working
+SOI Seen Or Implied
+SC Special Case (detailing the mark to be given for a specific wrong solution, or a case where some standard marking practice is to be varied in the
+light of a particular circumstance)
+WWW Without Wrong Working
+AWRT Answer Which Rounds To
+© Cambridge University Press & Assessment 2024 Page 5 of 13
+9231/31 Cambridge International AS & A Level – Mark Scheme May/June 2024
+PUBLISHED
+Question Answer Marks Guidance
+1 Along line of centres, PCLM: 5mv (cid:14)mv (cid:32)mucos(cid:84) M1 Must include correct masses.
+B A
+NEL: v
+B
+(cid:16)v
+A
+(cid:32)1
+2
+ucos(cid:84) M1 Signs consistent with PCLM equation.
+u u A1
+v (cid:32) cos(cid:84), v (cid:32)(cid:16) cos(cid:84)
+B 4 A 4
+Perpendicular to line of centres: speed of A is usin(cid:84) B1
+1
+m(cid:168)
+(cid:167)
+(cid:168)
+(cid:167)
+(cid:16)
+u
+cos(cid:84)(cid:184)
+(cid:183) 2 (cid:14)(cid:11)usin(cid:84)(cid:12)2
+(cid:184)
+(cid:183)
+(cid:32)
+1
+5m(cid:168)
+(cid:167)u
+cos(cid:84)(cid:184)
+(cid:183) 2 M1 E
+m
+q
+a
+u
+ss
+a
+e
+te
+s .
+f inal kinetic energies, 3 terms, correct
+2 (cid:168) (cid:169) 4 (cid:185) (cid:184) 2 (cid:169)4 (cid:185)
+(cid:169) (cid:185)
+(cid:11)cos(cid:84)(cid:12)2 (cid:32) 4 , cos(cid:84)(cid:32) 2 , tan(cid:84)(cid:32) 1 A1
+5 5 2
+6
+© Cambridge University Press & Assessment 2024 Page 6 of 13
+9231/31 Cambridge International AS & A Level – Mark Scheme May/June 2024
+PUBLISHED
+Question Answer Marks Guidance
+2(a) In equilibrium: 2Tcos(cid:84)(cid:32)mg M1
+(cid:79) (cid:167)5a (cid:183) (cid:79) B1
+Hooke’s law: T (cid:32) (cid:117)(cid:168) (cid:16)2a(cid:184)(cid:32)
+2a (cid:169) 2 (cid:185) 4
+Equate and use cos(cid:84)(cid:32) 3: (cid:79)(cid:32)10mg A1
+5 3
+3
+2(b) 1 (cid:79)(cid:167)20 (cid:183) 2 B1 80
+EPE loss = 24a (cid:168) (cid:169) 3 a(cid:16)4a(cid:184) (cid:185) 27 mga
+1 8a 80 M1 A1 All 3 terms required, dimensionally correct, their
+Energy equation: mv2(cid:14)mg (cid:32)' mga'
+(cid:79).
+2 3 27
+4 ga A1 Any equivalent form.
+v(cid:32)
+3 3
+4
+© Cambridge University Press & Assessment 2024 Page 7 of 13
+9231/31 Cambridge International AS & A Level – Mark Scheme May/June 2024
+PUBLISHED
+Question Answer Marks Guidance
+3 usin60(cid:113)(cid:16)5g, and ucos60(cid:113) , or usin60(cid:113)(cid:16)15g, and ucos60(cid:113) B1
+usin60(cid:113)(cid:16)5g M1* Accept equivalent for t(cid:32)15.
+If (cid:84) is direction of velocity at t(cid:32)5, (cid:62)tan(cid:84)(cid:32)(cid:64)
+ucos60(cid:113)
+usin60(cid:113)(cid:16)5g usin60(cid:113)(cid:16)15g M1dep Multiply two expressions involving relevant
+For perpendicular directions, (cid:117) (cid:32) (cid:16)1
+velocities and equate to – 1.
+ucos60(cid:113) ucos60(cid:113)
+Simplify: 3u2(cid:14)75g2(cid:16)10 3ug(cid:14)1u2 (cid:32)0, u2 (cid:16)100 3u(cid:14)7500(cid:32)0 M1 Simplify to quadratic in u (may see g ).
+4 4
+u(cid:32)5 3g A1 OE. Accept 50 3 or 86.6.
+5
+© Cambridge University Press & Assessment 2024 Page 8 of 13
+9231/31 Cambridge International AS & A Level – Mark Scheme May/June 2024
+PUBLISHED
+Question Answer Marks Guidance
+4(a) Frictional force F and normal reaction R at point of contact of ring with plane. M1 Only allow cos/sin errors for T and W
+Resolve parallel to plane: F(cid:14)Tcos(cid:68)(cid:32)Wsin(cid:68) components, sign errors.
+Accept equations for vertical and horizontal (both
+needed).
+Moments about O: Fa(cid:32)Tasin(cid:68) B1
+Combine and substitute for (cid:68): M1 Expression for T in terms of W .
+T (cid:32)1W A1 CAO
+3
+Alternative solution for question 4(a)
+Moments about point where ring touches plane: Tasin(cid:68)(cid:14)Tacos(cid:68)(cid:32)Wasin(cid:68) M1 A1 Only allow cos/sin errors, sign errors.
+Must be dimensionally correct.
+Rearrange and substitute for (cid:68): M1 Expression for T in terms of W .
+T (cid:32)1W A1 CAO
+3
+4
+4(b) Resolve perpendicular to plane: R(cid:32)Tsin(cid:68)(cid:14)Wcos(cid:68) M1 Only allow cos/sin errors for T and W
+components, sign errors.
+Use F (cid:32)(cid:80)R and combine to reach an equation in (cid:80) only. M1 From part (a), F (cid:14)Tcos(cid:68)(cid:32)Wsin(cid:68) or
+F (cid:32)Tsin(cid:68).
+(cid:80)(cid:32) 1 A1
+7
+3
+© Cambridge University Press & Assessment 2024 Page 9 of 13
+9231/31 Cambridge International AS & A Level – Mark Scheme May/June 2024
+PUBLISHED
+Question Answer Marks Guidance
+5(a) For A: F (cid:16)T (cid:32)m(cid:117)a(cid:90)2 M1 Only allow sign errors.
+A
+F (cid:32)(cid:80)mg(cid:32)1mg B1 Accept with g replaced by 10.
+A 5
+Combine: T (cid:32)1mg(cid:16) 4 mg M1 To reach an equation in T and mg only.
+5 25
+Accept with g replaced by 10.
+T (cid:32) 1 mg A1 CAO
+25
+4
+5(b) For B: F (cid:14)T (cid:32)km(cid:117)2a(cid:90)2 M1 Only allow sign errors.
+B
+F (cid:32)(cid:80)kmg(cid:32)1kmg and combine to find k M1 To reach an equation in k only.
+B 5
+k (cid:32)1 A1
+3
+3
+© Cambridge University Press & Assessment 2024 Page 10 of 13
+9231/31 Cambridge International AS & A Level – Mark Scheme May/June 2024
+PUBLISHED
+Question Answer Marks Guidance
+6(a) dv 1 dv 1 *M1 Separate variables and attempt to integrate both
+2 (cid:32)(cid:16) (cid:11)2v(cid:16)1(cid:12)2 e(cid:16)t so (cid:32)(cid:16) e(cid:16)tdt
+dt 10 (cid:11)2v(cid:16)1(cid:12)2 20 sides.
+Where p and q are constants.
+p
+(cid:32)qe(cid:16)t (cid:14)A
+(cid:11)2v(cid:16)1(cid:12)
+1 1 A1 AEF
+(cid:16) (cid:32)(cid:14) e(cid:16)t (cid:14)A
+2(cid:11)2v(cid:16)1(cid:12) 20
+(cid:170) 3 (cid:186) DM1 Substituting the boundary condition and obtain a
+t(cid:32)0, v(cid:32)3, A
+(cid:171)
+(cid:32)(cid:16)
+(cid:187) value.
+(cid:172) 20(cid:188)
+1 5et *M1 A1 Find v in terms of t . AEF.
+v(cid:32) (cid:14)
+2 3et (cid:16)1
+5
+6(b) Integrate: x(cid:32) pt(cid:14)qln(re(cid:114)t (cid:16)s) (cid:62)(cid:14)B(cid:64) *M1
+1 5 A1 AEF
+x(cid:32) t(cid:14) ln(3et (cid:16)1) (cid:62)(cid:14)B(cid:64)
+2 3
+5 DM1 Substituting the boundary condition and obtain a
+t(cid:32)0, x(cid:32)1, B(cid:32)1(cid:16) ln2
+value.
+3
+1 5 (3et (cid:16)1) A1 AEF
+x(cid:32)1(cid:14) t(cid:14) ln
+2 3 2
+4
+© Cambridge University Press & Assessment 2024 Page 11 of 13
+9231/31 Cambridge International AS & A Level – Mark Scheme May/June 2024
+PUBLISHED
+Question Answer Marks Guidance
+7(a) Energy: 1mu2 (cid:32)1mv2 (cid:16)mga(cid:11)1(cid:16)cos(cid:84)(cid:12) *M1 m must be present, dimensionally correct, no
+2 2 missing terms.
+Allow sin instead of cos.
+Allow sign errors.
+mv2 B1 No reaction when P loses contact.
+N2L: mgcos(cid:84)(cid:32)
+a
+Eliminate v2 DM1
+u2 (cid:14)2ag A1 AG
+cos(cid:84)(cid:32)
+3ag
+4
+7(b) Vertical component of velocity of P when it leaves the sphere: vsin(cid:84) *B1 Must not come from u.
+(cid:167) 55ag (cid:183)
+(cid:168)(cid:32) (cid:184)
+(cid:168) (cid:184)
+216
+(cid:169) (cid:185)
+V2 (cid:32)(cid:11)vsin(cid:84)(cid:12)2 (cid:14)2g(cid:117)a(cid:11)1(cid:14)cos(cid:84)(cid:12) DM1 Use of 'v2 (cid:32)u2 (cid:14)2as(cid:99).
+Allow sin(cid:84) for cos(cid:84).
+Allow sign errors.
+847ag A1 AEF
+V (cid:32)
+216
+3
+© Cambridge University Press & Assessment 2024 Page 12 of 13
+9231/31 Cambridge International AS & A Level – Mark Scheme May/June 2024
+PUBLISHED
+Question Answer Marks Guidance
+7(c) 1(cid:167) 847ag 55ag (cid:183) M1
+t(cid:32) (cid:168) (cid:16) (cid:184)
+(cid:168) (cid:184)
+g 216 216
+(cid:169) (cid:185)
+1(cid:11) (cid:12) a a A1
+847(cid:16) 55 (cid:32)1.48
+6 6g g
+2
+© Cambridge University Press & Assessment 2024 Page 13 of 13
