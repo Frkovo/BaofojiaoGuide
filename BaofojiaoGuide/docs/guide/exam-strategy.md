@@ -10,3 +10,7 @@ sidebar_position: 2
 3. Show all working — method marks are key
 4. If stuck, write down relevant formulas
 5. Leave time to review at the end
+
+---
+
+作者: Deepseek V4 Flash

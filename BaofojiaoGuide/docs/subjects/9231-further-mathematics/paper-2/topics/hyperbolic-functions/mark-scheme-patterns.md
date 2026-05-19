@@ -1,28 +1,125 @@
 ---
-title: MS 评分模式
+title: MS 模式分析
 sidebar_position: 5
 ---
 
-# Mark Scheme Patterns — Hyperbolic Functions
+# MS 模式分析（Mark Scheme Patterns）
 
-## Command words used
+---
 
-- **Show that** — full algebraic derivation required, not just stating the result
-- **Find** — obtain the answer with working
-- **Solve** — find all solutions (complex included)
-- **Sketch** — show key features (asymptotes, intercepts, turning points)
-- **Hence** — must use previous part's result
+## 一、关键词指令
 
-## Common mark allocation
+| 指令词 | 含义 | 通常分值 |
+|--------|------|----------|
+| **Prove / Show that** | 证明恒等式或推导结论 | 3 分 |
+| **Sketch** | 画函数图像，标注关键特征 | 2 分 |
+| **Find** | 求解具体值或表达式 | 2–5 分 |
+| **Differentiate** | 求导 | 3–5 分 |
+| **Evaluate** | 计算定积分或表达式 | 4–6 分 |
+| **Hence** | 利用前面结果继续推导 | 2–4 分 |
+| **State** | 直接写出答案（无需过程） | 1 分 |
+| **Give your answer in logarithmic form** | 答案需写成 $\ln$ 形式 | 隐含要求 |
 
-| Part | Marks | What's expected |
-|------|-------|-----------------|
-| (a) | 3-5 | Usually method (M1-2) + answer (A1) |
-| (b) | 4-7 | Builds on (a), more method marks |
-| (c) | 2-3 | Often answer only, using previous results |
+---
 
-## Efficiency tips
+## 二、可接受的答案形式
 
-- Show every algebraic step — MS awards method marks even with arithmetic errors
-- Write formulas before substituting numbers — this earns the M mark
-- For "show that" questions, work backwards from the given answer if stuck
+### 对数形式
+
+- $\ln\left(\frac{1 + \sqrt{5}}{2}\right)$（标准对数形式）
+- $\cosh^{-1} 2 = \ln(2 + \sqrt{3})$（反双曲函数与对数形式的互化）
+- $\sinh^{-1} 1 = \ln(1 + \sqrt{2})$
+
+### 精确值 vs 近似值
+
+除非题目明确要求（如"give your answer correct to 3 significant figures"），否则所有答案必须为精确形式（对数形式或根式形式）。
+
+### 简化要求
+
+- $\sinh(\ln 2) = \frac{3}{4}$ 需要化简
+- $\sinh(2\ln 3) = \frac{40}{9}$ 需要化简
+- 答案 $\pi\left(\frac{1}{2}\sinh 2a + a\right)$ 可以保留 $\sinh 2a$ 形式
+
+---
+
+## 三、典型分值分配
+
+### 类型 1：恒等式证明（3 分）
+
+| 步骤 | 分值 | 标记 |
+|------|------|------|
+| 写出指数形式 | 1 | **B1** |
+| 展开化简过程 | 1 | **M1** |
+| 得到正确结论 | 1 | **A1** |
+
+### 类型 2：求交点 + 画图（4 + 2 = 6 分）
+
+| 步骤 | 分值 | 标记 |
+|------|------|------|
+| 设等式并转换 | 1–2 | **M1** |
+| 解出 $e^x$ | 1 | **M1** |
+| 取对数得最终 $x$ | 1 | **A1** |
+| 正确画图形态 | 1 | **B1** |
+| 标注交点和渐近线 | 1 | **B1** |
+
+### 类型 3：求导（3–5 分）
+
+| 步骤 | 分值 | 标记 |
+|------|------|------|
+| 正确使用求导公式 | 1 | **B1** |
+| 链式法则或隐函数求导 | 1–2 | **M1** |
+| 化简到指定形式 | 1 | **A1** |
+
+### 类型 4：弧长（5–7 分）
+
+| 步骤 | 分值 | 标记 |
+|------|------|------|
+| 写出弧长公式 | 1 | **B1** |
+| 正确求 $\frac{dy}{dx}$ | 1 | **B1** |
+| 化简 $\sqrt{1 + (\frac{dy}{dx})^2}$ | 1 | **M1** |
+| 积分 | 1 | **M1 / A1** |
+| 代入上下限 | 1 | **A1** |
+
+### 类型 5：旋转曲面面积（6 分）
+
+| 步骤 | 分值 | 标记 |
+|------|------|------|
+| 写出面积公式 | 1 | **B1** |
+| 代入 $y$ 和 $\frac{dy}{dx}$ | 1 | **B1** |
+| 化简被积表达式 | 1 | **M1** |
+| 积分（含降幂） | 1 | **M1** |
+| 代入上下限 | 1 | **A1** |
+| 最终答案 | 1 | **A1** |
+
+### 类型 6：双曲代换积分（4–9 分）
+
+| 步骤 | 分值 | 标记 |
+|------|------|------|
+| 选择正确代换 | 1 | **B1** |
+| 正确代换 $dx$ | 1 | **M1** |
+| 化简被积函数 | 1 | **M1** |
+| 积分 | 1 | **A1** |
+| 代回原变量 | 1 | **A1** |
+
+---
+
+## 四、常见扣分点
+
+1. **答案形式不符**：需要写 $\ln$ 形式却写成了 $\cosh^{-1}$；需要精确值却写了小数
+2. **缺少过程**：部分分（method marks）只有在展示正确步骤时才给
+3. **符号错误**：$\sinh$ 和 $\cosh$ 的导数容易弄混正负号
+4. **定义域忽略**：$\cosh^{-1} x$ 要求 $x \ge 1$，$\tanh^{-1} x$ 要求 $|x| &lt; 1$
+5. **画图不完整**：缺少渐近线方程、未标注交点、图像形状明显错误
+
+---
+
+## 五、MS 中常用的恒等式引用
+
+MS 中经常直接引用以下恒等式而不需证明（除非题目要求证明）：
+
+- $\cosh^2 x - \sinh^2 x = 1$
+- $1 + \sinh^2 x = \cosh^2 x$
+- $1 - \tanh^2 x = \operatorname{sech}^2 x$
+- $1 + \operatorname{cosech}^2 x = \coth^2 x$
+- $\sinh 2x = 2\sinh x \cosh x$
+- $\cosh 2x = \cosh^2 x + \sinh^2 x = 2\cosh^2 x - 1 = 1 + 2\sinh^2 x$

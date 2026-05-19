@@ -1,31 +1,54 @@
 ---
-title: Paper 2 策略指南
+title: 9231 Further Mathematics Paper 2
 sidebar_position: 1
 ---
 
-# Paper 2 Further Pure Mathematics 2 — 策略指南
+# 9231 Further Mathematics Paper 2 — Further Pure Mathematics 2
 
 ## 试卷概况
 
-| 项目 | 详情 |
+| 项目 | 内容 |
 |------|------|
-| 时长 | 2 小时 |
-| 满分 | 75 |
-| 题量 | 9–11 题，全部必答 |
-| 知识点 | Hyperbolic Functions, Matrices, Differentiation, Integration, Complex Numbers, Differential Equations |
+| **科目代码** | 9231 |
+| **科目名称** | Further Mathematics |
+| **试卷编号** | Paper 2 |
+| **试卷名称** | Further Pure Mathematics 2 |
+| **考试时长** | 2 小时 |
+| **总分** | 75 分 |
+| **题量** | 8 道必答题 |
+| **计算器** | 允许使用 |
+| **公式表** | MF19（单独提供） |
+| **答题方式** | 试卷上直接作答 |
+| **答案精度** | 数值答案保留 3 位有效数字，角度保留 1 位小数 |
+
+## 知识点一览
+
+| # | Topic | 典型题型 |
+|---|-------|---------|
+| 1 | Hyperbolic Functions | 恒等式证明、图像、微分、弧长、旋转体表面积 |
+| 2 | Complex Numbers | 复根、De Moivre 定理、三角恒等式、级数求和 |
+| 3 | Maclaurin Series | 从定义展开、复合函数展开、积分近似 |
+| 4 | Matrices | 特征值/特征向量、Cayley-Hamilton 定理、对角化 |
+| 5 | Systems of Linear Equations | 一致性判断、参数取值、几何解释 |
+| 6 | First Order Differential Equations | 积分因子法、初值条件 |
+| 7 | Second Order Differential Equations | 常系数齐次/非齐次、Euler-Cauchy 方程 |
+| 8 | Implicit Differentiation | 一阶/二阶隐式求导 |
+| 9 | Parametric Equations | 参数微分、弧长 |
+| 10 | Integration Techniques | 递推公式、分部积分 |
+| 11 | Riemann Sums | 矩形法上下界、Stirling 近似 |
 
 ## 整体策略
 
-1. **先快速浏览全部题目**（2 分钟）——找出你最擅长的知识点
-2. **从最擅长的题型开始**——建立信心，稳拿分数
-3. **(a) 小题通常是 (b) 小题的基础**——(b) 卡住时，看看 (a) 的结论能否直接用
-4. **"Show that" 题**——答案和题目给的不一致时，检查代数而不是直接放弃
-5. **留最后 10 分钟**检查符号、有效数字、代数错误
+1. **前 5 分钟**：快速浏览所有 8 题，标记各题的 topic 和分值
+2. **第一轮**：先做自己有把握的题目（通常 Q1-Q3 较简单）
+3. **第二轮**：处理中等难度的题目（Q4-Q6）
+4. **第三轮**：攻克难题（Q7-Q8，通常涉及矩阵对角化或复杂 ODE）
+5. **检查**：核对计算过程、符号、初始条件
 
-## 各题型策略
+## 复习检查清单
 
-- **Hyperbolic Functions：** (a) 考定义/恒等式 (b) 考解方程→用指数形式
-- **Matrices：** $3\times3$ 系统先算行列式；特征值题一定要写 $\det(A-\lambda I)=0$
-- **Integration：** 递推公式用分部积分；弧长 $s=\int\sqrt{1+(dy/dx)^2}\,dx$；表面积 $S=2\pi\int y\sqrt{1+(dy/dx)^2}\,dx$
-- **Complex Numbers：** 倍角用二项式展开；降幂用 $(z\pm z^{-1})$；$C+iS$ 先求等比数列和
-- **Differential Equations：** 一阶的积分因子注意 $P$ 符号；二阶先写辅助方程；CF/PI 重叠时特解乘 $x$
+- [ ] 熟练掌握所有公式（积分因子、辅助方程、恒等式）
+- [ ] 练习所有 8 种主要题型
+- [ ] 熟悉 MS 评分标准（M1/A1/B1 的分配逻辑）
+- [ ] 掌握时间管理（每分约 1.6 分钟）
+- [ ] 考前速通：核心公式卡

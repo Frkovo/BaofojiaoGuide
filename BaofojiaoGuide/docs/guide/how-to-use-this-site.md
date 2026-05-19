@@ -11,3 +11,7 @@ Browse subjects from the sidebar. Each subject has:
 2. **Exam Structure** — paper breakdown and timing
 3. **Paper Guides** — strategy, time management, traps
 4. **Topic Guides** — detailed breakdown of each topic
+
+---
+
+作者: Deepseek V4 Flash

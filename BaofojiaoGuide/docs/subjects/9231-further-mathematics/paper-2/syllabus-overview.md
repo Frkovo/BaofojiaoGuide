@@ -1,36 +1,136 @@
 ---
-title: Paper 2 考纲总览
-sidebar_position: 2
+title: 考纲总览
+sidebar_position: 3
 ---
 
-# 考纲总览 — Further Pure Mathematics 2
+# 考纲总览
 
 ## 知识点列表
 
-| # | Topic | 核心内容 |
-|---|-------|---------|
-| 2.1 | Hyperbolic Functions | $\sinh x,\cosh x,\tanh x$ 定义（指数形式）、恒等式证明、图像、反函数对数形式 |
-| 2.2 | Matrices | $3\times3$ 线性方程组、行列式与一致性、特征值/向量 $\det(A-\lambda I)=0$、对角化 $A=PDP^{-1}$、Cayley–Hamilton 定理 |
-| 2.3 | Differentiation | $\frac{d}{dx}\sinh x$、$\frac{d}{dx}\sin^{-1}x$、$\frac{d}{dx}\sinh^{-1}x$、隐函数/参数方程二阶导、Maclaurin 级数 |
-| 2.4 | Integration | 四种标准反函数积分、配方法、递推公式、弧长、表面积、矩形估计不等式 |
-| 2.5 | Complex Numbers | de Moivre 定理（归纳法证明）、倍角公式、降幂、$C+iS$ 级数求和、$n$ 次单位根 |
-| 2.6 | Differential Equations | 积分因子 $\mu = e^{\int P\,dx}$、CF+PI、辅助方程 $am^2+bm+c=0$、代换法 |
+### 1. Hyperbolic Functions
+
+| 编号 | 核心内容 |
+|------|---------|
+| 1.1 | 双曲函数的定义（指数形式） |
+| 1.2 | 双曲恒等式：$\cosh^2 x - \sinh^2 x = 1$，$1 - \tanh^2 x = \operatorname{sech}^2 x$ |
+| 1.3 | 双曲函数的图像和渐近线 |
+| 1.4 | 反双曲函数：$\sinh^{-1} x$，$\cosh^{-1} x$，$\tanh^{-1} x$ |
+| 1.5 | 双曲函数的微分 |
+| 1.6 | 双曲函数的积分 |
+| 1.7 | 弧长和旋转体表面积 |
+
+### 2. Complex Numbers
+
+| 编号 | 核心内容 |
+|------|---------|
+| 2.1 | 复数的模-辐角形式 $z = re^{i\theta}$ |
+| 2.2 | De Moivre 定理：$(re^{i\theta})^n = r^n e^{in\theta}$ |
+| 2.3 | 复数的 $n$ 次根 |
+| 2.4 | 单位根及其性质 |
+| 2.5 | 用复数表达三角恒等式 |
+| 2.6 | 复数级数求和 |
+
+### 3. Maclaurin Series
+
+| 编号 | 核心内容 |
+|------|---------|
+| 3.1 | Maclaurin 级数的定义 $f(x) = f(0) + f'(0)x + \frac{f''(0)}{2!}x^2 + \cdots$ |
+| 3.2 | 从第一原理展开 |
+| 3.3 | 对数微分法求导 |
+| 3.4 | 复合函数的 Maclaurin 展开 |
+| 3.5 | 用级数近似积分 |
+
+### 4. Matrices
+
+| 编号 | 核心内容 |
+|------|---------|
+| 4.1 | 矩阵的代数运算 |
+| 4.2 | 行列式和逆矩阵 |
+| 4.3 | 特征方程和特征值 |
+| 4.4 | 特征向量 |
+| 4.5 | Cayley-Hamilton 定理 |
+| 4.6 | 对角化 $A = PDP^{-1}$ |
+
+### 5. Systems of Linear Equations
+
+| 编号 | 核心内容 |
+|------|---------|
+| 5.1 | 三元线性方程组的矩阵表示 |
+| 5.2 | 行列式判定唯一解/无解/无穷解 |
+| 5.3 | 一致性与非一致性 |
+| 5.4 | 几何解释（平面交线、三棱柱等） |
+
+### 6. First Order Differential Equations
+
+| 编号 | 核心内容 |
+|------|---------|
+| 6.1 | 积分因子法：$dy/dx + P(x)y = Q(x)$ |
+| 6.2 | 积分因子的求解：$I = e^{\int P dx}$ |
+| 6.3 | 初值条件的应用 |
+
+### 7. Second Order Differential Equations
+
+| 编号 | 核心内容 |
+|------|---------|
+| 7.1 | 常系数齐次方程：辅助方程 |
+| 7.2 | 通解形式（实根、复根、重根） |
+| 7.3 | 特解（待定系数法） |
+| 7.4 | 初值条件确定常数 |
+| 7.5 | Euler-Cauchy 型方程（变量替换） |
+
+### 8. Implicit Differentiation
+
+| 编号 | 核心内容 |
+|------|---------|
+| 8.1 | 隐式函数的一阶导数 |
+| 8.2 | 隐式函数的二阶导数 |
+| 8.3 | 特定点处的导数值 |
+
+### 9. Parametric Equations
+
+| 编号 | 核心内容 |
+|------|---------|
+| 9.1 | 参数方程的一阶导数 $\frac{dy}{dx} = \frac{dy/dt}{dx/dt}$ |
+| 9.2 | 参数方程的二阶导数 |
+| 9.3 | 参数曲线的弧长 |
+
+### 10. Integration Techniques
+
+| 编号 | 核心内容 |
+|------|---------|
+| 10.1 | 递推公式 / Reduction formula |
+| 10.2 | 分部积分 |
+| 10.3 | 变量替换 |
+
+### 11. Riemann Sums
+
+| 编号 | 核心内容 |
+|------|---------|
+| 11.1 | 矩形法求积分上界 |
+| 11.2 | 矩形法求积分下界 |
+| 11.3 | 求和公式：$\sum r$，$\sum r^2$，$\sum r^3$ |
+| 11.4 | $n \to \infty$ 取极限 |
+| 11.5 | Stirling 型近似 |
 
 ## 考试形式
 
-- **Paper 2**：2 小时，75 分，9–11 题必答
-- 可用科学计算器（**不**允许 CAS/图形计算器）
-- 公式表 MF19 考场提供
-- **必须展示完整过程**——仅凭计算器答案不得分
+| 项目 | 内容 |
+|------|------|
+| **答题时间** | 2 小时 |
+| **总分** | 75 分 |
+| **题量** | 8 道必答题 |
+| **计算器** | 允许使用（科学计算器） |
+| **公式表** | MF19 List of Formulae |
 
 ## 前置知识要求
 
-- Cambridge International A Level Mathematics (9709) Papers 1 & 3
-- 9231 Paper 1: Further Pure Mathematics 1
+- A Level Mathematics (P1-P3) 全部内容
+- Paper 1 (Further Pure Mathematics 1) 内容：多项式、有理函数、级数、数学归纳法、矩阵基础、向量基础
 
 ## Assessment Objectives
 
-| AO | 描述 | 占比 |
-|----|------|------|
-| AO1 | Knowledge and understanding of mathematical techniques | ~50% |
-| AO2 | Application of techniques to solve problems | ~50% |
+| AO | 内容 | 大致占比 |
+|----|------|---------|
+| AO1 | 数学知识和程序性技巧 | 40-50% |
+| AO2 | 数学推理、证明和沟通 | 25-30% |
+| AO3 | 问题解决和建模 | 20-25% |

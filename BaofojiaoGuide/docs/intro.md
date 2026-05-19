@@ -13,3 +13,7 @@ Welcome to the CIE exam revision guide. This site provides:
 - Mark scheme keyword analysis
 - Common mistakes and how to avoid them
 - Last-minute checklists
+
+---
+
+作者: Deepseek V4 Flash

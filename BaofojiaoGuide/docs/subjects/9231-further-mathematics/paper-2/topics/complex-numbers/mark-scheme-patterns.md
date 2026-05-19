@@ -1,28 +1,78 @@
 ---
-title: MS 评分模式
+title: 评分模式
 sidebar_position: 5
 ---
 
 # Mark Scheme Patterns — Complex Numbers
 
-## Command words used
+## 典型给分点分布
 
-- **Show that** — full algebraic derivation required, not just stating the result
-- **Find** — obtain the answer with working
-- **Solve** — find all solutions (complex included)
-- **Sketch** — show key features (asymptotes, intercepts, turning points)
-- **Hence** — must use previous part's result
+### Type 1：复数方程求根（4–6 分）
 
-## Common mark allocation
+| 步骤 | 标记 | 说明 |
+|------|------|------|
+| 计算模 $r = \sqrt{a^2+b^2}$ | **B1** | 正确计算模 |
+| 计算辐角 $\theta = \arg(a+bi)$ | **B1** | 注意象限，弧度制 |
+| 写出 $n$ 次根公式 | **M1** | $(re^{i\theta})^{1/n}$ 形式，含 $2k\pi$ |
+| 第一个根 $k=0$ | **A1** | 化简到 $re^{i\theta}$ |
+| 其余根 $k=1,\dots,n-1$ | **A1** | 全部正确 |
 
-| Part | Marks | What's expected |
-|------|-------|-----------------|
-| (a) | 3-5 | Usually method (M1-2) + answer (A1) |
-| (b) | 4-7 | Builds on (a), more method marks |
-| (c) | 2-3 | Often answer only, using previous results |
+### Type 2：根的和与幂的和（3–4 分）
 
-## Efficiency tips
+| 步骤 | 标记 | 说明 |
+|------|------|------|
+| 验证 $z_j^n$ 与 $j$ 无关 | **M1** | 利用 $z_j^n = a+bi$ |
+| 计算 $z_j^{mk}$ 的值 | **A1** | 正确化简 |
+| 求和 | **A1** | 乘以 $n$ |
 
-- Show every algebraic step — MS awards method marks even with arithmetic errors
-- Write formulas before substituting numbers — this earns the M mark
-- For "show that" questions, work backwards from the given answer if stuck
+### Type 3：三角恒等式 / De Moivre（5–6 分）
+
+| 步骤 | 标记 | 说明 |
+|------|------|------|
+| 设 $z = \cos\theta + i\sin\theta$ | **B1** | 或 $z = e^{i\theta}$ |
+| 写出 $z + z^{-1} = 2\cos\theta$ 等 | **B1** | 识别 |
+| 构造 $(2\cos\theta)^n$ 或 $(2i\sin\theta)^n$ | **M1** | 正确形式 |
+| 二项式展开 | **M1** | 正确展开全部项 |
+| 合并 $z^k + z^{-k} = 2\cos k\theta$ | **A1** | 实部合并 |
+| 最终化简 | **A1** | 得到目标表达式 |
+
+### Type 4：复数级数求和（5–7 分）
+
+| 步骤 | 标记 | 说明 |
+|------|------|------|
+| 构造 $C + iS = \sum e^{ir\theta}$ | **M1** | 识别方法 |
+| 等比数列求和公式 | **M1** | $(1 - r^n)/(1 - r)$ |
+| 化简为 $\sin$ 形式 | **M1** | 乘以共轭复数 |
+| 表达式正确 | **A1** | 化简中间步骤 |
+| 实部/虚部分离 | **A1** | 最终 $C$ 和 $S$ |
+
+### Type 5：$n$ 次单位根（1–4 分）
+
+| 步骤 | 标记 | 说明 |
+|------|------|------|
+| 写出根的形式 $\omega = e^{2\pi i k/n}$ | **B1** | 正确形式 |
+| 和为零性质 | **B1** | $\sum \omega^k = 0$ |
+| 其他性质应用 | **M1** | 因式分解或代入 |
+| 最终结果 | **A1** | 正确答案 |
+
+## 常见给分模式
+
+### 模式 A：标准求根题（5 分）
+
+模 **B1** → 辐角 **B1** → 公式 **M1** → $k=0$ 根 **A1** → 其余根 **A1**
+
+### 模式 B：三角恒等式证明（6 分）
+
+设 $z = e^{i\theta}$ **B1** → 写 $(2\cos\theta)^n$ **M1** → 展开 **M1** → 合并 **A1** → 整理 **A1** → 结论 **A1**
+
+### 模式 C：级数求和（7 分）
+
+$C + iS = \sum$ **M1** → 等比 **M1** → 化简 **M1** → 中间 **A1** → 实/虚部 **A1** → 特殊情形 $\theta = 2m\pi$ **B1**
+
+## 给分特点
+
+- **Show that 题**：通常 5–6 分，每一步给 **M1**/**A1**，最后结论给独立 **A1**
+- **求根题**：公式步骤给 **M1**，代入计算给 **A1**
+- **单位根性质题**：直接引用性质给 **B1**，推理过程给 **M1**，最终答案给 **A1**
+- **"Hence" 题**：前一问的结果可直接使用，无需重复推导
+- **Follow-through（FT）标记**：如果前一步错误但后续推理正确，给予 **A1 FT**

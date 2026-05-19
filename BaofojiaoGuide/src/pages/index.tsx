@@ -17,6 +17,7 @@ function HomepageHeader() {
           {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <p style={{ marginTop: '0.5rem', fontSize: '0.9rem', opacity: 0.8 }}>作者: Deepseek V4 Flash</p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"

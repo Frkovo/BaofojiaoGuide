@@ -3,16 +3,99 @@ title: 常见错误
 sidebar_position: 6
 ---
 
-# Common Mistakes — Complex Numbers
+# 常见错误 — Complex Numbers
 
-1. **Conjugate root theorem.** Non-real roots of real polynomials come in conjugate pairs. If $a+bi$ is a root, so is $a-bi$.
+## 错误 1：求根时忘记加 $2k\pi$
 
-2. **Sign errors in binomial expansion of $(\cos\theta + i\sin\theta)^n$.** Remember $i^2 = -1$, $i^3 = -i$, $i^4 = 1$. Check the sign of every term.
+**错误**：解 $z^n = a + bi$ 时直接写 $z = (a+bi)^{1/n}$，只得到一个根。
 
-3. **$z^n + z^{-n}$ vs $z^n - z^{-n}$.** $z^n + z^{-n} = 2\cos n\theta$ (real). $z^n - z^{-n} = 2i\sin n\theta$ (imaginary). Don't swap them.
+**正解**：先化为模-辐角形式 $a+bi = re^{i\theta}$，再套公式 $z_k = r^{1/n} e^{i(\theta + 2k\pi)/n}$，$k = 0, 1, \dots, n-1$。
 
-4. **Roots of unity: wrong range.** $z^n = 1$ gives roots for $k = 0,1,\ldots,n-1$. Using $k = 1,\ldots,n$ is also fine, but $k=0$ is included.
+:::danger[致命错误]
 
-5. **$C + iS$: forgetting to sum the GP.** The whole method depends on recognising $C+iS = \sum e^{i(\ldots)}$ as a geometric series. Don't try to sum cos and sin individually.
+$z^n = re^{i\theta}$ 的根必须有 $2k\pi$，否则漏根，最多得 **M0**。
 
-6. **Missing the "hence" connection.** If part (c) says "hence", you MUST use the result from part (b). Solving from scratch gets 0 marks.
+:::
+
+## 错误 2：辐角象限判断错误
+
+**错误**：计算 $\arg(-1-i)$ 时直接写 $\theta = \tan^{-1}(1) = \pi/4$，未考虑在第三象限。
+
+**正解**：$\arg(-1-i) = -\frac{3\pi}{4}$（或 $\frac{5\pi}{4}$）。用 $\tan^{-1}(y/x)$ 后需根据 $x, y$ 的符号调整象限。
+
+| 象限 | $x$ | $y$ | $\arg(z)$ |
+|------|-----|-----|-----------|
+| I | &gt; 0 | &gt; 0 | $\theta$ |
+| II | &lt; 0 | &gt; 0 | $\pi - \theta$ |
+| III | &lt; 0 | &lt; 0 | $-\pi + \theta$（或 $\pi + \theta$） |
+| IV | &gt; 0 | &lt; 0 | $-\theta$（或 $2\pi - \theta$） |
+
+其中 $\theta = \tan^{-1}|y/x|$
+
+## 错误 3：De Moivre 定理用错指数
+
+**错误 1**：$(\cos\theta + i\sin\theta)^n \neq \cos(n\theta) + i\sin(n\theta)$ 的逆用混淆。
+
+**错误 2**：$(re^{i\theta})^n \neq r^n e^{i\theta n}$ 中指数位置写错为 $r^n e^{i(\theta)^n}$。
+
+**正解**：$(re^{i\theta})^n = r^n e^{in\theta} = r^n(\cos n\theta + i\sin n\theta)$。
+
+## 错误 4：三角恒等式展开的符号错误
+
+**错误**：$(z - z^{-1})^4$ 展开时项的顺序或系数的符号混淆。
+
+**正解**：$(z - z^{-1})^n = \sum_{k=0}^n \binom{n}{k} z^{n-k}(-z^{-1})^k = \sum_{k=0}^n \binom{n}{k}(-1)^k z^{n-2k}$
+
+特别注意 $(-1)^k$ 的符号变化。
+
+## 错误 5：$(2i)^n$ 的计算错误
+
+**错误**：$(2i)^4 = 16$（忘记 $i$ 的幂次）。
+
+**正解**：$(2i)^4 = 2^4 \times i^4 = 16 \times 1 = 16$
+$(2i)^6 = 2^6 \times i^6 = 64 \times (-1) = -64$
+
+:::note[i 的幂次循环]
+
+$i^2 = -1$, $i^3 = -i$, $i^4 = 1$, $i^5 = i$, 周期为 4。
+
+:::
+
+## 错误 6：单位根的和与积混淆
+
+**错误**：认为 $n$ 次单位根的积也是 $0$。
+
+**正解**：
+- 和 $\sum_{k=0}^{n-1} \omega_k = 0$
+- 积 $\prod_{k=0}^{n-1} \omega_k = (-1)^{n-1}$
+
+例如 $n=3$：积 $= 1 \times e^{2\pi i/3} \times e^{4\pi i/3} = e^{2\pi i} = 1 = (-1)^2$ ✓
+
+## 错误 7：级数求和特殊情形未处理
+
+**错误**：对 $\sum_{r=0}^{n-1} e^{ir\theta}$ 直接用等比数列求和公式，未考虑 $e^{i\theta} = 1$ 的情况。
+
+**正解**：
+- 当 $\theta \neq 2m\pi$ 时：$\sum_{r=0}^{n-1} e^{ir\theta} = \frac{1 - e^{in\theta}}{1 - e^{i\theta}}$
+- 当 $\theta = 2m\pi$ 时：$\sum_{r=0}^{n-1} e^{ir\theta} = n$（每一项均为 $1$），此时 $\sin(\theta/2) = 0$ 导致分母为 $0$
+
+## 错误 8：$z^n + z^{-n}$ 的系数混淆
+
+**错误**：在合并 $(z + z^{-1})^n$ 展开结果时，直接将 $z^k$ 的系数作为 $\cos k\theta$ 的系数。
+
+**正解**：$z^k + z^{-k} = 2\cos k\theta$，所以 $z^k$ 的系数需要除以 $2$ 才是 $\cos k\theta$ 的系数。
+
+例如 $(z + z^{-1})^4 = z^4 + 4z^2 + 6 + 4z^{-2} + z^{-4}$，
+合并后 $= (z^4 + z^{-4}) + 4(z^2 + z^{-2}) + 6 = 2\cos4\theta + 8\cos2\theta + 6$
+
+## 错误 9：用计算器时弧度/角度混淆
+
+**错误**：在计算 $\arg(a+bi)$ 时将计算器设为角度模式。
+
+**正解**：9231 Further Mathematics 中所有角度运算必须使用**弧度制**。计算器需设置为弧度（RAD）模式。
+
+## 错误 10：$n$ 次根形式未化简
+
+**错误**：求出 $z_k = 8^{1/6} e^{i\theta}$ 后未化简为 $2^{1/2} e^{i\theta}$。
+
+**正解**：尽可能地化简，如 $8^{1/6} = (2^3)^{1/6} = 2^{1/2}$，并注意根式与指数的统一形式。

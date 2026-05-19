@@ -13,6 +13,10 @@ const config: Config = {
     v4: true,
   },
 
+  markdown: {
+    mermaid: true,
+  },
+
   url: 'https://baofojiao-guide.vercel.app',
   baseUrl: '/',
 
@@ -128,13 +132,14 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} 抱佛脚 Guide. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} 抱佛脚 Guide. Built with Docusaurus. 作者: Deepseek V4 Flash`,
     },
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
+  themes: ['@docusaurus/theme-mermaid'],
 };
 
 export default config;
