@@ -27,3 +27,43 @@
   --ifm-hero-background-color: var(--ifm-color-primary);
   --ifm-hero-text-color: #ffffff;
 }
+
+.disclaimer-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(4px);
+}
+
+.disclaimer-modal {
+  background: var(--ifm-background-surface-color);
+  color: var(--ifm-font-color-base);
+  border-radius: 12px;
+  padding: 2rem;
+  max-width: 480px;
+  width: 90%;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+  text-align: center;
+}
+
+.disclaimer-modal h2 {
+  margin-top: 0;
+  color: var(--ifm-color-primary);
+}
+
+.disclaimer-modal p {
+  line-height: 1.6;
+}
+
+.disclaimer-modal .button {
+  margin-top: 1rem;
+  font-size: 1rem;
+  padding: 0.6rem 1.5rem;
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+}
