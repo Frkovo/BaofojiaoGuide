@@ -827,3 +827,149 @@ $$\Delta m = \frac{|m_1 - m_2|}{2}$$
 | 频率 $f$ | Hz |
 | 磁场强度 $B$ | T |
 | 比热容 $c$ | $\text{J kg}^{-1}\text{K}^{-1}$ |
+
+---
+
+## 十九、POT 焚诀 — 10 的几次方终结篇
+
+这是 Paper 5 Q2 **最容易丢分** 的地方，也是 MS 专门标注 **"POT"（Power of Ten）** 扣分项的地方。
+
+### 场景一：lg 截距 → 反解常数
+
+**公式：** $y = ax^n \Longrightarrow \lg y = \lg a + n \lg x$
+
+你从图上读到的 y-intercept $= \lg a$，**要算 $a$ 必须取指数**：
+
+$$a = 10^{\text{intercept}}$$
+
+:::warning[死记住]
+**$\lg$ → $10^{\text{( )}}$**
+**$\ln$ → $e^{\text{( )}}$**
+
+考场上写错的人 > 30%。如果你取了对数，取回来的时候必须用指数。
+:::
+
+**完整例子：**
+- 画 $\lg L$ vs $\lg M$，y-intercept $= 1.50$
+- $\lg a = 1.50$，所以 $a = 10^{1.50} = 31.6$
+- **常见的死法**：直接写 $a = 1.50$
+
+---
+
+### 场景二：ln 截距 → 反解常数
+
+**公式：** $y = ae^{kx} \Longrightarrow \ln y = \ln a + kx$
+
+y-intercept $= \ln a$，所以：
+
+$$a = e^{\text{intercept}}$$
+
+**完整例子：**
+- 画 $\ln V$ vs $t$，y-intercept $= 2.30$
+- $\ln V_0 = 2.30$，所以 $V_0 = e^{2.30} = 9.97$ V（约 10 V）
+- **常见的死法**：直接写 $V_0 = 2.30$ V
+
+---
+
+### 场景三：数据自带 $10^{30}$ 这种系数 ★★★★★
+
+这是 POT **最隐蔽的陷阱**。看这个表格：
+
+| $M / 10^{30}\ \text{kg}$ | $\lg(M / 10^{30})$ |
+|:---:|:---:|
+| 2.0 | 0.30 |
+| 4.0 | 0.60 |
+| 8.0 | 0.90 |
+
+注意表格里的 $M$ **已经被除了 $10^{30}$**。所以：
+
+- 你算 y-intercept 时得到的是 $\lg a$ （假设公式是 $L = aM^n$）
+- 但是因为数据已经除了 $10^{30}$，**你在算实际常数时要补偿回来**
+
+**具体怎么补偿？**
+
+假设最后算出 $a = 2.5 \times 10^{26}$，写成 $a = 2.5 \times 10^{26}\ \text{W}$（标准形式）。
+
+**MS 怎么说：**
+- "Do not accept incorrect POT for $n$ or $k$"
+- POT 错误一旦出现，即使计算过程其他部分正确，这 1 分也扣掉
+
+**实战口诀：**
+
+:::tip[POT 处理三步走]
+1. 正常从 graph 读 gradient 和 intercept
+2. 从 gradient/intercept 反解常数时，**看原始数据有没有 $10^{n}$ 系数**
+3. 如果有，最终答案要乘以这个系数：$a_{\text{final}} = a_{\text{from graph}} \times (10^{n})^{\text{（次数）}}$
+:::
+
+---
+
+### 场景四：$k = 1.38 \times 10^{-23}$ 等已知常数
+
+给定常数里的 $10^{\text{次方}}$ 经常被漏掉：
+
+**例子：** $\eta = He^{E/kT}$，gradient $= E/k$，$k = 1.38 \times 10^{-23}\ \text{J K}^{-1}$
+
+$$E = k \times \text{gradient} = 1.38 \times 10^{-23} \times \text{gradient}$$
+
+**最常见的死法：** 直接 $E = 1.38 \times \text{gradient}$，忘了 $\times 10^{-23}$。
+
+**考场核对方法：**
+- 如果 $E$ 应该是 J（焦耳），数量级应该是 $10^{-19}$ 左右
+- 如果你算出来 $E = 0.05$，大概率忘乘 $10^{-23}$ 了
+- 检查最终答案的 **数量级是否合理**
+
+---
+
+### 场景五：从 $\ln$ 或 $\lg$ 回推后的 uncertainty
+
+**规则：** $\Delta(\lg x) = 0.434 \times \Delta x / x$
+
+**反查时的 uncertainty 不是直接取指数：**
+- 如果 $a = 10^{\text{intercept}}$，$\Delta a \neq 10^{\Delta(\text{intercept})}$
+- 正确做法：先用 **best 和 worst line 的 intercept** 分别算出 $a_{\text{best}}$ 和 $a_{\text{worst}}$
+- 然后 $\Delta a = |a_{\text{best}} - a_{\text{worst}}|$
+
+---
+
+### 全部情况对比表
+
+| 情况 | y-axis | x-axis | y-intercept 物理含义 | 怎么求常数 | POT 陷阱 |
+|------|--------|--------|--------------------|-----------|---------|
+| 标准线性 | $y$ | $x$ | $c$ | 直接读 $c$ | 少 |
+| $\ln$ 线性 | $\ln y$ | $x$ | $\ln a$ | $a = e^{\text{int}}$ | 忘记取指数 |
+| $\lg$ 线性 | $\lg y$ | $\lg x$ | $\lg a$ | $a = 10^{\text{int}}$ | 忘记取指数 |
+| 数据自带 $10^{30}$ | $\lg(y/10^{30})$ | $\lg x$ | $\lg a$ | $a = 10^{\text{int}} \times 10^{30}$ | 忘了乘 $10^{30}$ |
+| 已知常数 $k = 1.38 \times 10^{-23}$ | — | — | — | 代入时别忘了 $\times 10^{-23}$ | 漏掉 $10^{-23}$ |
+| gradient 直接等于常数 | $y$ | $x$ | — | 直接读 gradient | 单位换算出错 |
+| gradient $= -1/RC$ | $\ln V$ | $t$ | — | $C = -1/(R \times m)$ | 负号漏掉或 $k\Omega$ 忘记 $\times 10^3$ |
+
+---
+
+### 历年 POT 扣分真题
+
+| 试卷 | 陷阱 | MS 原文 |
+|------|------|--------|
+| w21_51 | 忘了取 ln 的指数 | "Do not accept incorrect POT" |
+| w21_52 | 幂次计算错 | "POT error — do not credit" |
+| s22_51 | $\lg$ 截距忘取 $10^{\text{int}}$ | "POT" annotation |
+| s22_52 | 常数 $10^{30}$ 没乘回去 | "POT" annotation |
+| w22_51 | 单位换算忘 $\times 10^3$ | "POT" annotation |
+| w23_51 | $10^{-23}$ 漏掉 | "POT — no ECF" |
+| s23_52 | 幂次符号搞反 | "POT" annotation |
+| s24_51 | $R = 39\ \text{k}\Omega$ 当 $39\ \Omega$ 用 | "POT — $39 \times 10^3$" |
+
+---
+
+### POT 焚诀终极口诀
+
+:::tip[POT 考场自检清单]
+
+□ **log 截距**：取了 $\lg$ → 回来时 $10^{\text{int}}$（不是直接读！）
+□ **ln 截距**：取了 $\ln$ → 回来时 $e^{\text{int}}$（不是直接读！）
+□ **数据有 $10^{30}$ 等系数**：最终答案一定要乘回去
+□ **已知常数**：$k = 1.38 \times 10^{-23}$，$R = 39\ \text{k}\Omega$ — 检查 $10^{\text{次方}}$
+□ **负号**：gradient $= -1/RC$ → $C$ 是正的，用负 gradient 算
+□ **数量级 sanity check**：答案是否合理？（焦耳应该是 $10^{-19}$ 量级，电容是 $10^{-6}$ 量级）
+
+:::
