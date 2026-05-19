@@ -606,3 +606,224 @@ $$d \sin \theta = n\lambda$$
 | "use a data logger to reduce random error" | **D1** |
 
 这些附加细节是 Q1 最后 5 分 **Additional Detail** 的主要来源。
+
+---
+
+## 十二、补充器材库（参考资料新增）
+
+以下器材在原表基础上补充：
+
+### 力学补充
+
+| 器材 | 用途 | MS 关键词 |
+|------|------|----------|
+| 电磁铁 (electromagnet) | 固定后释放物体（如落体实验） | "use electromagnet to release object" |
+| 斜面 (inclined plane) | 动力学实验、加速度研究 | "use inclined plane at measured angle" |
+| 沙盘 / 沙箱 (sand tray) | 接住坠落重物，安全用 | "place sand tray to catch falling masses" |
+| 滑车 / 小车 (trolley) | 轨道动力学实验 | "use trolley on runway" |
+
+### 电学补充
+
+| 器材 | 用途 | MS 关键词 |
+|------|------|----------|
+| 微安表 (microammeter) | 测微小电流（μA 级） | "use microammeter" |
+| 保护电阻 (protective resistor) | 防止电流过大烧毁电路 | "use a protective resistor in series" |
+| 开关 (switch) | 通断控制 | "open switch when not taking readings" |
+
+### 压强补充
+
+| 器材 | 用途 | MS 关键词 |
+|------|------|----------|
+| U 型管压力计 (U-tube manometer) | 测压强差 | "use U-tube manometer" |
+| Bourdon gauge | 测气体压强 | "use Bourdon gauge" |
+| 气泵 (pump) | 改变容器内气压 | "use pump to vary pressure" |
+
+### 热学补充
+
+| 器材 | 用途 | MS 关键词 |
+|------|------|----------|
+| 本生灯 (Bunsen burner) | 加热 | "use Bunsen burner" |
+| 热板 (hot plate) | 稳定加热 | "use hot plate" |
+| 浸入式加热器 (immersion heater) | 加热液体 | "use immersion heater" |
+| 温度传感器 (temperature sensor) | 连续记录温度 | "use temperature sensor connected to data logger" |
+
+### 光学补充
+
+| 器材 | 用途 | MS 关键词 |
+|------|------|----------|
+| 双缝 (double slit) | 干涉实验测波长 | "use double slit, measure fringe spacing with ruler" |
+| 光具座 (optical bench) | 透镜实验 | "use optical bench with ruler" |
+
+---
+
+## 十三、实验环境要求
+
+某些实验需要特定的环境条件，说一句就能多得 1 分 **Additional Detail**：
+
+| 实验类型 | 环境要求 | MS 句式 |
+|---------|---------|--------|
+| 声音实验（驻波/共鸣管） | 安静环境，减少背景噪音干扰 | "carry out experiment in a quiet room" |
+| 光学实验（干涉/衍射） | 暗室，减少杂散光 | "carry out experiment in a dark room" |
+| 轻物体/精密力学 | 关门窗、关空调，减少气流干扰 | "close windows and switch off air conditioning to reduce air currents" |
+| 热学实验（冷却/加热） | 恒温环境，远离热源/通风口 | "ensure room temperature is constant" |
+| 磁学实验 | 远离金属物体和电磁干扰源 | "keep away from metal objects and external magnetic fields" |
+
+---
+
+## 十四、安全措施分类大全
+
+Q1 的 safety precaution 只有 1-2 分，**不要笼统说 "be safe"**，要针对具体风险：
+
+| 风险类别 | MS 给分表述 | 适用场景 |
+|---------|------------|---------|
+| 重物坠落 | "place sand tray / cushion to catch falling masses / weights" | 挂砝码、弹簧、摆锤 |
+| 弹簧弹伤 | "wear safety goggles to protect eyes from snapping spring" | 弹簧拉伸实验 |
+| 触电 | "switch off power supply / open switch before changing circuit connections" | 任何电路改接 |
+| 裸露导线 | "use insulated / shrouded connectors, avoid bare wires" | 高电压电路 |
+| 高温烫伤 | "wear heat-proof gloves / use tongs to handle hot objects" | 加热实验、冷却实验 |
+| 易燃物 | "keep flammable materials away from Bunsen burner / heat source" | 有明火的实验 |
+| 尖锐边缘 | "wear gloves to protect hands from sharp edges / cuts" | 金属片、切割材料 |
+| 噪音损伤 | "wear ear defenders / use low volume setting" | 大音量扬声器/声源 |
+| 重物砸脚 | "secure apparatus with G-clamp / place weights on base of stand" | 竖立支架、重物悬挂 |
+| 眼睛防护 | "wear safety goggles" | 通用（有风险时用） |
+
+---
+
+## 十五、有效数字与对数精度规则（Q2 专用）
+
+### 常规数据有效数字
+
+原始数据的有效数字位数确定计算结果的位数：
+
+| 原始数据 s.f. | 计算结果应保留 |
+|-------------|--------------|
+| 2 s.f. | 2 s.f. 或 3 s.f. |
+| 3 s.f. | 3 s.f. 或 4 s.f. |
+
+**MS 规则：** 计算结果通常与原始数据中 **最少有效数字位数** 相同，或 **多一位**。
+
+### 对数的 decimal places
+
+$$3\ \text{s.f.} \rightarrow 3\ \text{d.p.}$$
+
+| 原始 $x$ 的有效数字 | $\lg x$ 的小数位数 | $\ln x$ 的小数位数 |
+|------------------|------------------|------------------|
+| 2 s.f. | 2 d.p. | 2 d.p. |
+| 3 s.f. | 3 d.p. | 3 d.p. |
+| 4 s.f. | 4 d.p. | 4 d.p. |
+
+### Absolute Uncertainty 的表示
+
+:::note[规则]
+- absolute uncertainty **小数点位数** 与对应值的位数一致
+- 或保留 **1 位有效数字**
+:::
+
+**例：** $V = 6.2 \pm 0.2$ V（一致）
+
+### $\ln$ 和 $\lg$ 的 Absolute Uncertainty
+
+$$\Delta(\ln x) = \left|\ln x - \ln(x - \Delta x)\right|$$
+
+**注意：** 这个公式和 $\Delta(\ln x) = \Delta x / x$ 是等价的（一阶近似），但 MS 都接受。
+
+### 重复测量的不确定度
+
+当一组数据有两次测量值 $m_1$ 和 $m_2$：
+$$\Delta m = \frac{|m_1 - m_2|}{2}$$
+
+### 周期数据的处理
+
+如果题目给的时间 $t$ 是 **10 个周期** 的总时间：
+- 周期 $T = t / 10$
+- 不确定度 $\Delta T = \Delta t / 10$
+
+**不要** 直接把 $t$ 当作周期！
+
+---
+
+## 十六、Hall Probe 进阶用法
+
+:::note[标准操作]
+1. 将 Hall probe 与磁场垂直放置
+2. 连接至 voltmeter，读取 Hall 电压 $V_H$
+3. **反转 probe 180° 再测一次，取平均**（消除零误差和环境磁场影响）
+4. 使用前校准 probe（已知磁场中校准）
+5. 远离外部交变磁场
+:::
+
+**MS 评分标准：**
+- **M1**: "use Hall probe connected to voltmeter"
+- **M1**: "ensure probe is perpendicular to magnetic field direction"
+- **A1**: "reverse probe and average readings to eliminate background field"
+- **不接受**: probe 平行于磁场
+
+---
+
+## 十七、万能改进方法（全套话）
+
+无论什么实验，以下套话总能拿分：
+
+### 减少随机误差
+| 套话 | 适用 |
+|------|------|
+| "repeat measurements and calculate mean" | 任何物理量测量 |
+| "measure over a larger range to reduce percentage uncertainty" | 需要算梯度时 |
+| "use a larger sample / longer length for better precision" | 测微小量时（如直径、厚度） |
+| "use light gates / data logger to reduce reaction-time error" | 时间测量 |
+
+### 减少系统误差
+| 套话 | 适用 |
+|------|------|
+| "check / correct for zero error before measurement" | micrometer, newton meter, balance |
+| "read scale at eye level to avoid parallax error" | ruler, thermometer, 任何刻度 |
+| "use a set square to ensure ruler is vertical" | 任何竖立测量 |
+| "stir liquid before reading temperature" | 热学实验 |
+
+### Q1 的五个必写部分（万能模板）
+
+```
+1. Purpose: to verify the relationship between X and Y, AND to determine [constant].
+2. IV = ..., DV = ..., control = ...
+3. Diagram + Method:
+   - Measure all control variables first
+   - Set up apparatus as shown
+   - Vary IV, measure DV
+   - Repeat for same IV and average
+   - Repeat whole procedure for various IV
+4. Analysis:
+   - Plot graph of Y against X
+   - Straight line → relationship valid
+   - Constant = (formula using gradient / intercept)
+5. Safety: [specific to risk]
+```
+
+---
+
+## 十八、单位的确定方法
+
+在 Q2(d) 中写单位时：
+
+:::tip[单位的确定]
+1. **如果这个物理量有明确的物理意义**（如 $C$ = capacitance），直接写其标准单位（F, $\Omega$, V, A, s 等）
+2. **如果是推导出的常数**（如 $k$, $n$, $E$），从公式中反推单位
+3. **注意组合单位**：如 $\text{J K}^{-1}$、$\text{Pa s}$、$\text{N m}^{-1}$ 等
+:::
+
+**常见物理量的标准单位速查：**
+
+| 量 | 单位 |
+|---|------|
+| 电容 $C$ | F |
+| 电阻 $R$ | $\Omega$ |
+| 电动势 $\mathcal{E}$ | V |
+| 能量 $E$ | J |
+| 弹簧常数 $k$ | $\text{N m}^{-1}$ |
+| 速度 $v$ | $\text{m s}^{-1}$ |
+| 密度 $\rho$ | $\text{kg m}^{-3}$ |
+| 黏度 $\eta$ | $\text{Pa s}$ |
+| 线密度 $\mu$ | $\text{kg m}^{-1}$ |
+| 张力 $T$ | N |
+| 频率 $f$ | Hz |
+| 磁场强度 $B$ | T |
+| 比热容 $c$ | $\text{J kg}^{-1}\text{K}^{-1}$ |
