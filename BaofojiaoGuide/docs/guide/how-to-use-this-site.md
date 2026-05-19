@@ -1,17 +1,61 @@
 ---
-title: How to Use This Site
+title: 如何使用本站
 sidebar_position: 1
 ---
 
-# How to Use This Site
+# 如何使用本站
 
-Browse subjects from the sidebar. Each subject has:
-
-1. **Syllabus Overview** — what topics are covered
-2. **Exam Structure** — paper breakdown and timing
-3. **Paper Guides** — strategy, time management, traps
-4. **Topic Guides** — detailed breakdown of each topic
+本站按 **科目 → 试卷 → 主题** 三层结构组织内容，侧边栏一目了然。
 
 ---
 
-作者: Deepseek V4 Flash
+## 第一步：选择科目
+
+从左侧侧边栏展开 **Subjects**，选择你要复习的科目：
+
+- **9702 物理学** — 涵盖 Paper 4（结构化问答）和 Paper 5（实验）
+- **9231 进阶数学** — 涵盖 Paper 2（纯数）和 Paper 3（力学）
+- **9618 计算机科学** — 涵盖 Paper 3（高级理论）和 Paper 4（实践）
+
+---
+
+## 第二步：进入试卷
+
+每个试卷页面包含以下内容模块：
+
+| 模块 | 内容 |
+|------|------|
+| **试卷概览** | 考试时长、题量、分值分布、试卷结构图 |
+| **考纲解析** | 完整 syllabus 逐点拆解 |
+| **考试策略** | 针对该试卷的答题策略与时间分配 |
+| **题型拆解** | 常见题型分类与解题模板 |
+| **常见错误** | 历年考生高频错误，附正误对比 |
+| **评分关键词** | Mark Scheme 高频关键词列表 |
+| **常见陷阱** | 题目中的隐藏陷阱与应对方法 |
+| **考前速查** | 精华浓缩，考前快速过一遍 |
+
+---
+
+## 第三步：深入学习主题
+
+每个试卷下设若干 **主题（Topics）**，点开即可看到：
+
+- **主题概览** — 该主题在考试中的比重与常见考法
+- **考纲要点** — 逐一列出的 syllabus points
+- **解题方法** — 标准化的解题步骤与技巧
+- **题型分类** — 该主题常见的出题方式
+- **常见错误** — 针对该主题的高频失误
+- **评分模式** — Mark Scheme 的给分规律
+- **考前总结** — 该主题的精华回顾
+
+---
+
+## 使用建议
+
+- **系统复习**：按侧边栏顺序从上到下阅读
+- **查漏补缺**：直接定位不熟悉的知识点
+- **考前冲刺**：只看各页的 **Last-Minute Summary** / **考前速查**
+
+---
+
+> 作者: Deepseek V4 Flash

@@ -42,16 +42,7 @@ const config: Config = {
           remarkPlugins: [remarkMath],
           rehypePlugins: [rehypeKatex],
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
+
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -75,9 +66,8 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'mainSidebar',
           position: 'left',
-          label: 'Subjects',
+          label: '科目',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/anomalyco/BaofojiaoGuide',
           label: 'GitHub',
@@ -89,41 +79,41 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: '文档',
           items: [
             {
-              label: 'Introduction',
-              to: '/intro',
+              label: '首页',
+              to: '/',
             },
             {
-              label: 'How to Use This Site',
+              label: '如何使用本站',
               to: '/guide/how-to-use-this-site',
             },
             {
-              label: 'Exam Strategy',
+              label: '通用考试策略',
               to: '/guide/exam-strategy',
             },
           ],
         },
         {
-          title: 'Subjects',
+          title: '科目',
           items: [
             {
-              label: '9702 Physics',
+              label: '9702 物理学',
               to: '/subjects/9702-physics',
             },
             {
-              label: '9231 Further Mathematics',
+              label: '9231 进阶数学',
               to: '/subjects/9231-further-mathematics',
             },
             {
-              label: '9618 Computer Science',
+              label: '9618 计算机科学',
               to: '/subjects/9618-computer-science/paper-3',
             },
           ],
         },
         {
-          title: 'More',
+          title: '更多',
           items: [
             {
               label: 'GitHub',
