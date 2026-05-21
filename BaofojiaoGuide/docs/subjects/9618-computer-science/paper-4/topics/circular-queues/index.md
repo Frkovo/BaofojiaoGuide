@@ -7,9 +7,11 @@ sidebar_position: 1
 
 ## 考纲要求
 
-- 19.1.6 Queue ADT 扩展：用 MOD 实现循环回绕
+- 19.1.6 Queue ADT 扩展：循环队列实现
 
 ## 核心代码模板
+
+### 方式一：用 NumberItems 计数
 
 ```python
 Queue = [-1] * 20
@@ -38,7 +40,39 @@ def Dequeue():
     return item
 ```
 
-### 循环队列 + 记录类型版本
+### 方式二：牺牲一个槽位检测满
+
+```python
+class MyQueue:
+    def __init__(self, capacity):
+        self.list = [None] * capacity
+        self.front = 0
+        self.rear = 0
+
+    def Enqueue(self, element):
+        if (self.rear + 1) % len(self.list) == self.front:
+            print("Queue is full")
+            return False
+        self.list[self.rear] = element
+        self.rear = (self.rear + 1) % len(self.list)
+        return True
+
+    def Dequeue(self):
+        if self.rear == self.front:
+            print("Queue is empty")
+            return None
+        element = self.list[self.front]
+        self.front = (self.front + 1) % len(self.list)
+        return element
+
+    def Output(self):
+        i = self.front
+        while i != self.rear:
+            print(self.list[i])
+            i = (i + 1) % len(self.list)
+```
+
+### 循环队列 + 记录类型
 ```python
 class SaleRecord:
     def __init__(self):
@@ -76,10 +110,9 @@ def DequeueRecord():
 | Tail 变化 | Tail = Tail + 1 | Tail = (Tail + 1) % size |
 | 满判断 | Tail >= size | NumberItems == size |
 | 空判断 | Head == -1 or Head >= Tail | NumberItems == 0 |
-| Head 变化 | Head = Head + 1 | Head = (Head + 1) % size |
 
 ## 常见错误
 
-- 用 Head == Tail 判断空/满（不可靠，只能用 NumberItems）
-- 忘记更新 NumberItems
-- MOD 运算错误
+- 忘记 MOD 运算实现回绕
+- 未更新 NumberItems
+- 出队/入队顺序搞错

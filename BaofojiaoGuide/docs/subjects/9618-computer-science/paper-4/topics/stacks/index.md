@@ -8,8 +8,11 @@ sidebar_position: 1
 ## 考纲要求
 
 - 19.1.5 Stack ADT：push（压栈）、pop（出栈）
+- 用数组实现，支持 insert 和 delete
 
 ## 核心代码模板
+
+### 方式一：TopOfStack 指向栈顶（-1 表示空）
 
 ```python
 Stack = [""] * 20
@@ -32,7 +35,31 @@ def Pop():
     return item
 ```
 
-### 两个栈版本
+### 方式二：top 指向下一个空位（0 表示空）
+
+```python
+class Stack:
+    def __init__(self, capacity):
+        self.list = [None] * capacity
+        self.top = 0
+        self.capacity = capacity
+
+    def Push(self, element):
+        if self.top == self.capacity:
+            print("Stack full")
+            return
+        self.list[self.top] = element
+        self.top = self.top + 1
+
+    def Pop(self):
+        if self.top == 0:
+            print("Stack empty")
+            return None
+        self.top = self.top - 1
+        return self.list[self.top]
+```
+
+### 两个栈（元音/辅音）
 ```python
 StackVowel = [""] * 100
 StackConsonant = [""] * 100
@@ -51,9 +78,19 @@ def PushData(letter):
             ConsonantTop = ConsonantTop + 1
 ```
 
+### 用栈反转数组
+```python
+def ReverseWithStack(arr):
+    s = Stack(len(arr))
+    for i in range(len(arr)):
+        s.Push(arr[i])
+    for i in range(len(arr)):
+        arr[i] = s.Pop()
+```
+
 ## 常见错误
 
-- 栈空时 Pop 没有返回空值
-- 栈满时 Push 没有返回错误码
-- TopOfStack 初始化和更新逻辑错误
-- 忘记 global 声明
+- Push 时忘记检查栈满
+- Pop 时忘记检查栈空
+- TopOfStack 初始值（-1 vs 0）决定指针操作方式
+- 两个栈时搞混指针变量
