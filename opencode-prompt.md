@@ -373,3 +373,418 @@ $$formula$$
 2. 所有 PDF 已提取到 `data/extracted/`
 3. 构建成功（`npx docusaurus build` 无错误）
 4. 最终的质量检查报告
+
+---
+
+# 标题命名规范（Heading Specification）
+
+## 总原则
+
+整个 Docusaurus 项目中的标题必须：
+
+* 层级固定
+* 命名统一
+* 不允许自由发挥
+* 不允许同义词替换
+* 不允许中英文混乱
+* 不允许缩写
+* 不允许出现 emoji
+* 不允许出现重复 title
+* 每个 Markdown 文件必须：
+
+  * frontmatter `title`
+  * 一个且仅一个 H1 (`#`)
+  * H1 必须与 frontmatter title 完全一致
+
+---
+
+# 一、Frontmatter 规范（强制）
+
+每个 Markdown 文件顶部必须：
+
+```md
+---
+title: 标题
+sidebar_position: 数字
+---
+```
+
+禁止：
+
+* 缺少 frontmatter
+* title 重复
+* sidebar_position 缺失
+* 使用单双引号包裹 title
+* 使用 emoji
+* 使用冒号
+
+---
+
+# 二、H1 规范（强制）
+
+每个文件：
+
+```md
+# 与 frontmatter title 完全一致
+```
+
+例如：
+
+```md
+---
+title: 题型分析
+sidebar_position: 2
+---
+
+# 题型分析
+```
+
+禁止：
+
+```md
+# Question Types
+```
+
+如果 frontmatter 是：
+
+```md
+title: 题型分析
+```
+
+---
+
+# 三、Subject-Level 页面标题规范
+
+以下文件名与 title 固定：
+
+| 文件                    | title                  |
+| --------------------- | ---------------------- |
+| index.md              | Paper N Revision Guide |
+| exam-structure.md     | 考试结构                   |
+| syllabus-overview.md  | 考纲总览                   |
+| last-minute-guide.md  | 考前速通                   |
+| common-mistakes.md    | 常见错误                   |
+| common-ms-keywords.md | MS关键词速查                |
+| common-traps.md       | 常见陷阱                   |
+| question-types.md     | 题型总览                   |
+| strategy.md           | 答题策略                   |
+| time-management.md    | 时间管理                   |
+
+禁止：
+
+* 改写标题
+* 添加 emoji
+* 使用别名
+
+例如：
+
+❌：
+
+* Final Tips
+* Revision Cheatsheet
+* How To Solve Questions
+
+✅：
+
+* 考前速通
+* 时间管理
+* 答题策略
+
+---
+
+# 四、Topic 页面标题规范
+
+## topics/{topic}/index.md
+
+frontmatter：
+
+```md
+---
+title: Topic Name
+sidebar_position: N
+---
+```
+
+H1：
+
+```md
+# Topic Name
+```
+
+Topic 名必须：
+
+* 英文
+* Title Case
+* 与 syllabus 官方名称一致
+
+例如：
+
+```md
+title: Hyperbolic Functions
+```
+
+禁止：
+
+❌：
+
+* hyperbolic functions
+* Hyperbolic functions
+* 双曲函数
+* Hyperbolic Funcs
+
+---
+
+# 五、Topic 子页面标题规范
+
+固定如下：
+
+| 文件                      | title |
+| ----------------------- | ----- |
+| question-types.md       | 题型分析  |
+| syllabus-points.md      | 考纲要求  |
+| methods.md              | 解题方法  |
+| mark-scheme-patterns.md | MS模式  |
+| common-mistakes.md      | 常见错误  |
+| last-minute-summary.md  | 考前总结  |
+
+禁止自由修改。
+
+---
+
+# 六、Question Type 标题规范（极重要）
+
+每个 question type 必须：
+
+```md
+## Question Type N: English Name
+```
+
+例如：
+
+```md
+## Question Type 1: Solving Hyperbolic Equations
+```
+
+必须满足：
+
+* `Question Type`
+  首字母大写
+* N 必须连续编号
+* English Name 必须：
+
+  * 英文
+  * Title Case
+  * 不使用缩写
+  * 不带括号
+  * 不带 emoji
+
+禁止：
+
+❌：
+
+* Type 1
+* Q Type 1
+* Question type 1
+* Hyperbolic Equation Questions
+* Solving hyperbolic equations
+
+✅：
+
+* Question Type 1: Solving Hyperbolic Equations
+
+---
+
+# 七、Question Type 子标题规范
+
+每个 Question Type 内部标题必须严格固定：
+
+```md
+### 如何识别
+```
+
+```md
+### 标准方法
+```
+
+```md
+### 完整原题
+```
+
+```md
+### 常见错误
+```
+
+禁止：
+
+❌：
+
+* Recognition
+* How to identify
+* Method
+* Typical mistakes
+
+---
+
+# 八、Method 页面标题规范
+
+methods.md 内：
+
+```md
+## Method N: English Name
+```
+
+例如：
+
+```md
+## Method 1: Substitution Method
+```
+
+内部固定：
+
+```md
+### When to use it
+```
+
+```md
+### Steps
+```
+
+```md
+### Formula
+```
+
+```md
+### Mistakes to avoid
+```
+
+不得翻译。
+
+---
+
+# 九、Example 标题规范
+
+每个例题：
+
+```md
+**Example N — source (X marks):**
+```
+
+例如：
+
+```md
+**Example 2 — 9231/s20/qp/22 Q5(c) (5 marks):**
+```
+
+禁止：
+
+❌：
+
+* Example:
+* Ex 1
+* Q5 Example
+* 示例1
+
+---
+
+# 十、Admonition 标题规范
+
+固定如下：
+
+| 类型      | 标题          |
+| ------- | ----------- |
+| note    | 标准解题方法      |
+| info    | 评分标准（MS 模式） |
+| warning | 常见陷阱        |
+| tip     | 必背公式        |
+| danger  | 致命错误        |
+
+例如：
+
+```md
+:::warning[常见陷阱]
+```
+
+禁止：
+
+* 自定义标题
+* emoji
+* 英文标题
+
+---
+
+# 十一、Checklist 标题规范
+
+所有 checklist：
+
+```md
+## Checklist
+```
+
+列表：
+
+```md
+- [ ] item
+```
+
+禁止：
+
+* emoji
+* “Final Checklist”
+* “Before Exam”
+
+---
+
+# 十二、Table 标题规范
+
+所有表格 section：
+
+```md
+## Topic Distribution
+```
+
+```md
+## Formula Summary
+```
+
+```md
+## Command Words
+```
+
+禁止：
+
+* “Quick Table”
+* “Useful Info”
+* “Important Things”
+
+---
+
+# 十三、禁止事项（非常重要）
+
+禁止：
+
+* emoji 标题
+* 全大写标题
+* 标题结尾句号
+* 标题使用 `:` 以外符号
+* 标题中使用 LaTeX
+* 标题中使用 markdown formatting
+* 标题使用 HTML
+* 标题超过 80 字符
+* 连续两个相同标题
+
+---
+
+# 十四、最终标题验证（生成后必须检查）
+
+生成后必须验证：
+
+* [ ] 所有文件有 frontmatter
+* [ ] frontmatter title 唯一
+* [ ] H1 与 frontmatter 完全一致
+* [ ] Question Type 编号连续
+* [ ] 所有标题层级正确
+* [ ] 没有跳级（H2 → H4）
+* [ ] 没有重复 section title
+* [ ] Topic 名称与 syllabus 一致
+* [ ] 所有固定标题未被改写
+* [ ] 所有 Example 标题格式一致

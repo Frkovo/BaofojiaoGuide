@@ -330,7 +330,177 @@ Simplify by multiplying numerator and denominator by $\cos^n\theta$... **A1**
 
 ---
 
-## Type 5：$n$ 次单位根
+## Type 5：De Moivre 展开与多项式方程求解
+
+### 如何识别
+给出 $\cos n\theta$ 或 $\frac{\sin n\theta}{\sin\theta}$ 的展开式（作为 $\cos\theta$ 或 $\sin\theta$ 的多项式），要求利用该结果求解一个高次多项式方程，根通常用 $\cos(k\pi/n)$ 形式表达。
+
+:::note[标准解题方法]
+1. 用 De Moivre 定理展开 $(\cos\theta + i\sin\theta)^n$
+2. 取实部得 $\cos n\theta$，虚部得 $\sin n\theta$
+3. $\cos n\theta$ 可写成 $\cos\theta$ 的 $n$ 次多项式；$\frac{\sin n\theta}{\sin\theta}$ 可写成 $\sin\theta$ 的 $n-1$ 次多项式
+4. 令 $x = \cos\theta$（或 $x = \sin\theta$）代入原多项式方程
+5. 化简得到 $\cos n\theta = k$ 或 $\frac{\sin n\theta}{\sin\theta} = k$
+6. 解出 $\theta = \frac{1}{n}(\pm\cos^{-1}k + 2m\pi)$
+7. 代回 $x = \cos\theta$ 得到多项式的根
+:::
+
+:::info[常用展开]
+$$
+\cos 3\theta = 4\cos^3\theta - 3\cos\theta
+$$
+$$
+\cos 4\theta = 8\cos^4\theta - 8\cos^2\theta + 1
+$$
+$$
+\cos 5\theta = 16\cos^5\theta - 20\cos^3\theta + 5\cos\theta
+$$
+$$
+\cos 6\theta = 32\cos^6\theta - 48\cos^4\theta + 18\cos^2\theta - 1
+$$
+$$
+\cos 7\theta = 64\cos^7\theta - 112\cos^5\theta + 56\cos^3\theta - 7\cos\theta
+$$
+$$
+\cos 8\theta = 128\cos^8\theta - 256\cos^6\theta + 160\cos^4\theta - 32\cos^2\theta + 1
+$$
+
+$$
+\frac{\sin 3\theta}{\sin\theta} = 3 - 4\sin^2\theta
+$$
+$$
+\frac{\sin 5\theta}{\sin\theta} = 5 - 20\sin^2\theta + 16\sin^4\theta
+$$
+$$
+\frac{\sin 7\theta}{\sin\theta} = 7 - 56\sin^2\theta + 112\sin^4\theta - 64\sin^6\theta
+$$
+:::
+
+> **Example 1 — 典型题：** 已知 $\cos 7\theta = 64\cos^7\theta - 112\cos^5\theta + 56\cos^3\theta - 7\cos\theta$。  
+> (a) 由此证明方程 $64x^7 - 112x^5 + 56x^3 - 7x + 1 = 0$ 可化为 $\cos 7\theta = -1$，其中 $x = \cos\theta$。  
+> (b) 求解该 $7$ 次方程，将根表示为 $\cos(k\pi/7)$ 的形式。
+
+<details>
+<summary>📝 MS 展开查看</summary>
+
+**(a)** 令 $x = \cos\theta$，代入已知的 $\cos 7\theta$ 展开式：
+
+$$
+\cos 7\theta = 64x^7 - 112x^5 + 56x^3 - 7x
+$$
+
+**M1**: 代入 $x = \cos\theta$
+
+原方程为 $64x^7 - 112x^5 + 56x^3 - 7x + 1 = 0$，即
+
+$$
+64x^7 - 112x^5 + 56x^3 - 7x = -1
+$$
+
+所以 $\cos 7\theta = -1$ **A1**
+
+**(b)** 解 $\cos 7\theta = -1$：
+
+$$
+7\theta = \pi + 2m\pi \Rightarrow \theta = \frac{\pi + 2m\pi}{7},\ m = 0, 1, \dots, 6
+$$
+
+**M1**: 写出通解
+
+$$
+x = \cos\theta = \cos\left(\frac{(2m+1)\pi}{7}\right),\ m = 0, 1, \dots, 6
+$$
+
+**A1**: 正确写出根的表达式
+
+注意 $m = 3$ 时 $\cos\pi = -1$，$m = 0$ 和 $m = 6$ 等给出相同的 $\cos$ 值（因为 $\cos$ 为偶函数）。实际上不同的根为：
+$$
+x = \cos\frac{\pi}{7},\ \cos\frac{3\pi}{7},\ \cos\frac{5\pi}{7},\ \cos\pi = -1
+$$
+
+**A1**: 列出不同的根（共 4 个不同的实根）
+
+[总分: 6]
+</details>
+
+---
+
+> **Example 2 — 典型题：** 已知 $\sin 5\theta = 16\sin^5\theta - 20\sin^3\theta + 5\sin\theta$。  
+> (a) 令 $x = \sin\theta$，将方程 $16x^5 - 20x^3 + 5x - 1 = 0$ 化为 $\sin 5\theta = 1$ 的形式。  
+> (b) 求解该方程，将根表示为 $\sin\left(\frac{(4k+1)\pi}{10}\right)$ 的形式。
+
+<details>
+<summary>📝 MS 展开查看</summary>
+
+**(a)** 代入 $x = \sin\theta$：
+
+**B1**: 已知 $\sin 5\theta = 16\sin^5\theta - 20\sin^3\theta + 5\sin\theta$
+
+所以 $16x^5 - 20x^3 + 5x = \sin 5\theta$ **M1**
+
+方程 $16x^5 - 20x^3 + 5x - 1 = 0 \Rightarrow \sin 5\theta = 1$ **A1**
+
+**(b)** 解 $\sin 5\theta = 1$：
+
+**M1**: $5\theta = \frac{\pi}{2} + 2k\pi \Rightarrow \theta = \frac{\pi}{10} + \frac{2k\pi}{5},\ k = 0, 1, 2, 3, 4$
+
+**A1**: $x = \sin\left(\frac{\pi}{10} + \frac{2k\pi}{5}\right),\ k = 0, 1, 2, 3, 4$
+
+即 $x = \sin\frac{\pi}{10},\ \sin\frac{\pi}{2}=1,\ \sin\frac{9\pi}{10},\ \sin\frac{13\pi}{10},\ \sin\frac{17\pi}{10}$
+
+**A1 FT**: 正确化简
+
+[总分: 6]
+</details>
+
+---
+
+> **Example 3 — 典型题：** 已知 $\frac{\sin 7\theta}{\sin\theta} = 7 - 56\sin^2\theta + 112\sin^4\theta - 64\sin^6\theta$。  
+> 令 $x = \sin^2\theta$，证明方程 $64x^3 - 112x^2 + 56x - 7 = 0$ 有一根 $x = \sin^2\frac{\pi}{7}$。  
+> 由此求出其他两根。
+
+<details>
+<summary>📝 MS 展开查看</summary>
+
+**B1**: $\frac{\sin 7\theta}{\sin\theta} = 7 - 56\sin^2\theta + 112\sin^4\theta - 64\sin^6\theta$
+
+令 $x = \sin^2\theta$，则 $\sin^2\theta = x$，$\sin^4\theta = x^2$，$\sin^6\theta = x^3$ **M1**
+
+$$
+\frac{\sin 7\theta}{\sin\theta} = 7 - 56x + 112x^2 - 64x^3
+$$
+
+**A1**: 正确代入
+
+当 $\theta = \frac{\pi}{7}$ 时，$\sin 7\theta = \sin\pi = 0$，$\sin\theta \neq 0$，所以 $\frac{\sin 7\theta}{\sin\theta} = 0$ **M1**
+
+$$
+7 - 56x + 112x^2 - 64x^3 = 0 \text{ 即 } 64x^3 - 112x^2 + 56x - 7 = 0
+$$
+
+所以 $x = \sin^2\frac{\pi}{7}$ 是方程的一根 **A1**
+
+因式分解：$64x^3 - 112x^2 + 56x - 7 = (4x - 1)^2(4x - 7)$ **M1 A1**
+
+另两根为 $x = \frac{1}{4}$ 和 $x = \frac{7}{4}$（但 $\sin^2\theta \leq 1$，所以只取 $x = \frac{1}{4}$）
+
+**A1**: $\sin^2\frac{\pi}{7},\ \frac{1}{4}$ 为两根
+
+[总分: 8]
+</details>
+
+:::warning[常见陷阱]
+- $\cos n\theta$ 展开成 $\cos\theta$ 的多项式时，注意次数和符号
+- 代入后注意 $\cos\theta$ 的取值范围 $[-1, 1]$，超出范围的根需舍去
+- $\cos$ 为偶函数，$\cos(k\pi/7)$ 中 $k$ 和 $7-k$ 给出相同值
+- $\sin$ 为奇函数，注意正负号
+- 注意方程的次数：若原方程是 $n$ 次，应有 $n$ 个根（含重根和复数根）
+- $\theta$ 的通解要写完整：$\theta = \frac{1}{n}(\pm\cos^{-1}k + 2m\pi)$
+:::
+
+---
+
+## Type 6：$n$ 次单位根
 
 > **Example 1 (s21/21 Q5):** The complex numbers $z_1, z_2, \dots, z_n$ are the $n$th roots of unity. State the value of $z_1 + z_2 + \cdots + z_n$. Hence show that $1 + z + z^2 + \cdots + z^{n-1} = 0$ where $z$ is any $n$th root of unity other than $1$. [1] + [2]
 
